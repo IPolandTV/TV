@@ -1,6 +1,6 @@
 ﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< OGÓLNE >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< OGÓLNE >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< OGÓLNE >>>>>>>>>>>>
-https://raw.githubusercontent.com/geglus9/TV-PL/PL/index.png
+https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="TVP 1"tvg-id="TVP 1"tvg-logo="http://logo.plusx.tv/logo/TVP%201%20HD.png"group-title="Popularny",TVP 1
 http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/117556
 #EXTINF:-1 tvg-name="TVP 1"tvg-id="TVP 1"tvg-logo="http://logo.plusx.tv/logo/TVP%201%20HD.png"group-title="Popularny",TVP 1
@@ -358,7 +358,7 @@ http://clientsportals.com:2095/play/live.php?mac=00:1a:79:B8:83:B4&stream=35647&
 #EXTINF:-1 tvg-name="Antena"tvg-id="Antena"tvg-logo="https://epg.ovh/logo/Antena.png"group-title="Popularny",Antena
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=129219&extension=ts&play_token=EUi5BR6QrA
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< INFO >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< INFO >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< INFO >>>>>>>>>>>>
-https://raw.githubusercontent.com/geglus9/TV-PL/PL/index.png
+https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="TVN Meteo"tvg-id="TVN Meteo"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/TVN_Meteo_logo.png"group-title="Informacje",TVN Meteo
 http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/33610
 #EXTINF:-1 tvg-name="TVP Info"tvg-id="TVP Info"tvg-logo="http://logo.plusx.tv/logo/TVP%20Info.png"group-title="Informacje",TVP Info
@@ -480,7 +480,7 @@ http://194.145.202.71:8087/udp/239.254.4.212:6060
 #EXTINF:-1 tvg-name="TV Republika"tvg-id="TV Republika"tvg-logo="http://logo.plusx.tv/logo/TV%20Republika.png"group-title="Informacje",TV Republika
 http://gtvstreams.me:80/aamir/aamir/222491
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< FILMOWE >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< FILMOWE >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< FILMOWE >>>>>>>>>>>>
-https://raw.githubusercontent.com/geglus9/TV-PL/PL/index.png
+https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
 http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/117320
 #EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
@@ -876,7 +876,7 @@ http://gtvstreams.me:80/aamir/aamir/222443
 #EXTINF:-1 tvg-name="VOD 208"tvg-id="VOD 208"tvg-logo="http://logo.plusx.tv/logo/VOD+208.png"group-title="Film",VOD 208
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:B8:83:B4&stream=20604&extension=ts&play_token=bz9QWwAFse
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< DOKUMENTALNE >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< DOKUMENTALNE >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< DOKUMENTALNE >>>>>>>>>>>>
-https://raw.githubusercontent.com/geglus9/TV-PL/PL/index.png
+https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="Discovery Channel"tvg-id="Discovery Channel"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png"group-title="Dokumentalne",Discovery Channel
 http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/35737
 #EXTINF:-1 tvg-name="Discovery Channel"tvg-id="Discovery Channel"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png"group-title="Dokumentalne",Discovery Channel
@@ -1120,7 +1120,7 @@ http://gtvstreams.me:80/aamir/aamir/222476
 #EXTINF:-1 tvg-name="Fokus TV"tvg-id="Fokus TV"tvg-logo="https://epg.ovh/logo/Focus.png"group-title="Dokumentalne",Fokus TV
 http://gtvstreams.me:80/aamir/aamir/222476
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< MUZYCZNE >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< MUZYCZNE >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< MUZYCZNE >>>>>>>>>>>>
-https://raw.githubusercontent.com/geglus9/TV-PL/PL/index.png
+https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="PoloTV"tvg-id="PoloTV"tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png"group-title="Muzyka",PoloTV
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:B8:83:B4&stream=35379&extension=ts&play_token=hDPjHz0N7a
 #EXTINF:-1 tvg-name="PoloTV"tvg-id="PoloTV"tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png"group-title="Muzyka",PoloTV
@@ -1320,7 +1320,7 @@ http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/117588
 #EXTINF:-1 tvg-name="VH1"tvg-id="VH1"tvg-logo="https://epg.ovh/logo/VH1a.png"group-title="Muzyka",VH1
 http://gtvstreams.me:80/aamir/aamir/222580
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< DLA DZIECI >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< DLA DZIECI >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< DLA DZIECI >>>>>>>>>>>>
-https://raw.githubusercontent.com/geglus9/TV-PL/PL/index.png
+https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="Teletoon+"tvg-id="Teletoon+"tvg-logo="http://logo.plusx.tv/logo/Teletoon+%20HD.png"group-title="Dla Dzieci",Teletoon+
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:B8:83:B4&stream=35641&extension=ts&play_token=U1y6LYS5co
 #EXTINF:-1 tvg-name="Teletoon+"tvg-id="Teletoon+"tvg-logo="http://logo.plusx.tv/logo/Teletoon+%20HD.png"group-title="Dla Dzieci",Teletoon+
@@ -1446,7 +1446,7 @@ http://194.145.202.71:8087/udp/239.254.4.231:6060
 #EXTINF:-1 tvg-name="BBC CBeebies"tvg-id="BBC CBeebies"tvg-logo="https://epg.ovh/logo/BBC+CBeebies+PL.png"group-title="Dla Dzieci",BBC CBeebies
 http://gtvstreams.me:80/aamir/aamir/222507
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< INNE >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< INNE >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< INNE >>>>>>>>>>>>
-https://raw.githubusercontent.com/geglus9/TV-PL/PL/index.png
+https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="Travel Channel"tvg-id="Travel Channel"tvg-logo="http://logo.plusx.tv/logo/Travel%20Channel%20HD.png"group-title="INNE",Travel Channel
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51402&extension=ts&play_token=W1XFxxGluL
 #EXTINF:-1 tvg-name="Travel Channel"tvg-id="Travel Channel"tvg-logo="http://logo.plusx.tv/logo/Travel%20Channel%20HD.png"group-title="INNE",Travel Channel
@@ -1530,7 +1530,7 @@ http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/157142
 #EXTINF:-1 tvg-name="StudioMed TV"tvg-id="StudioMed TV"tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_595231.png"group-title="INNE",StudioMed TV
 http://194.145.202.71:8087/udp/239.254.4.150:6060
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< SPORTOWE >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< SPORTOWE >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< SPORTOWE >>>>>>>>>>>>
-https://raw.githubusercontent.com/geglus9/TV-PL/PL/index.png
+https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="Eurosport"tvg-id="Eurosport"tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png"group-title="Sport",Eurosport
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/61422
 #EXTINF:-1 tvg-name="Eurosport"tvg-id="Eurosport"tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png"group-title="Sport",Eurosport
@@ -1828,7 +1828,7 @@ http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43001&extens
 #EXTINF:-1 tvg-name="Extreme Sports"tvg-id="Extreme Sports"tvg-logo="https://e7.pngegg.com/pngimages/691/770/png-clipart-extreme-sports-channel-television-channel-others-miscellaneous-television.png"group-title="Sport",Extreme Sports
 http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/117406
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< EXTRA >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< EXTRA >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< EXTRA >>>>>>>>>>>>
-https://raw.githubusercontent.com/geglus9/TV-PL/PL/index.png
+https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="POLSAT GAMES FHD"tvg-id="POLSAT GAMES FHD"tvg-logo=""group-title="EXTRA",POLSAT GAMES FHD
 http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/117482
 #EXTINF:-1 tvg-name="SUPERSTACJA FHD"tvg-id="SUPERSTACJA FHD"tvg-logo=""group-title="EXTRA",SUPERSTACJA FHD
@@ -2728,7 +2728,7 @@ http://justwi.top:8080/44169522493300/21695224933323/10204
 #EXTINF:-1 tvg-name="PL: TRACE URBAN"tvg-id="Trace Urban"tvg-logo="https://docdog.top/logo/countries/poland/traceurban.png"group-title="EXTRA",PL: TRACE URBAN
 http://justwi.top:8080/44169522493300/21695224933323/10229
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< Całe Filmy i Seriale >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< Całe Filmy i Seriale >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< Całe Filmy i Seriale >>>>>>>>>>>>
-https://raw.githubusercontent.com/geglus9/TV-PL/PL/index.png
+https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Całe Filmy i Seriale",(Nie)znajomi  (2019)
 https://lm3u.com/movie.php?e=geglus9@gmail.com&p=JanekMotyka!!90&id=51
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Całe Filmy i Seriale",007: Casino Royale (2006)
