@@ -382,8 +382,6 @@ http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42942&extens
 #EXTINF:-1 tvg-name="TVN 24"tvg-id="TVN 24"tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png"group-title="Informacje",TVN 24
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:A7:5F:A2&stream=46098&extension=ts&play_token=H7cAIBLBQZ
 #EXTINF:-1 tvg-name="TVN 24"tvg-id="TVN 24"tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png"group-title="Informacje",TVN 24
-http://gtvstreams.me:80/aamir/aamir/222486
-#EXTINF:-1 tvg-name="TVN 24"tvg-id="TVN 24"tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png"group-title="Informacje",TVN 24
 http://178.219.128.68:64888/TVN2HD
 #EXTINF:-1 tvg-name="TVN 24"tvg-id="TVN 24"tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png"group-title="Informacje",TVN 24
 http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/33607
@@ -562,8 +560,6 @@ http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42991&extens
 #EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:A7:5F:A2&stream=11497&extension=ts&play_token=jbH4H5BxlK
 #EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
-http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/117428
-#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
 http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/9614
 #EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
 http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/33637
@@ -709,10 +705,6 @@ http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/117481
 http://gtvstreams.me:80/aamir/aamir/222601
 #EXTINF:-1 tvg-name="Polsat Seriale"tvg-id="Polsat Seriale"tvg-logo="https://satkurier.pl/uploads/79469.jpg"group-title="Film",Polsat Seriale
 http://194.145.202.71:8087/udp/239.254.2.22:6060
-#EXTINF:-1 tvg-name="Polsat Seriale"tvg-id="Polsat Seriale"tvg-logo="https://satkurier.pl/uploads/79469.jpg"group-title="Film",Polsat Seriale
-http://clientsportals.com:2095/play/live.php?mac=00:1a:79:B8:83:B4&stream=85908&extension=ts&play_token=yYEXatqkJq
-#EXTINF:-1 tvg-name="Polsat Seriale"tvg-id="Polsat Seriale"tvg-logo="https://satkurier.pl/uploads/79469.jpg"group-title="Film",Polsat Seriale
-http://clientsportals.com:2095/play/live.php?mac=00:1a:79:A7:5F:A2&stream=85908&extension=ts&play_token=yYEXatqkJq
 #EXTINF:-1 tvg-name="Comedy Central"tvg-id="Comedy Central"tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png"group-title="Film",Comedy Central
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43020&extension=ts&play_token=Ujshg8nvyG
 #EXTINF:-1 tvg-name="Comedy Central"tvg-id="Comedy Central"tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png"group-title="Film",Comedy Central
@@ -978,8 +970,6 @@ http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51385&extens
 #EXTINF:-1 tvg-name="Planete+"tvg-id="Planete+"tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png"group-title="Dokumentalne",Planete+
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:A7:5F:A2&stream=46102&extension=ts&play_token=rIyQ3Gx4Bf
 #EXTINF:-1 tvg-name="Planete+"tvg-id="Planete+"tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png"group-title="Dokumentalne",Planete+
-http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/117474
-#EXTINF:-1 tvg-name="Planete+"tvg-id="Planete+"tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png"group-title="Dokumentalne",Planete+
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:A7:5F:A2&stream=11492&extension=ts&play_token=P3Wxob1Eil
 #EXTINF:-1 tvg-name="Investigation Discovery"tvg-id="Investigation Discovery"tvg-logo="http://logo.plusx.tv/logo/ID%20HD.png"group-title="Dokumentalne",Investigation Discovery
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51371&extension=ts&play_token=QtVIvrdqEZ
@@ -1197,8 +1187,6 @@ http://gtvstreams.me:80/aamir/aamir/222577
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51378&extension=ts&play_token=VSsFf3w43F
 #EXTINF:-1 tvg-name="MTV Polska"tvg-id="MTV Polska"tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png"group-title="Muzyka",MTV Polska
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42980&extension=ts&play_token=UuYyqC5dSb
-#EXTINF:-1 tvg-name="MTV Polska"tvg-id="MTV Polska"tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png"group-title="Muzyka",MTV Polska
-http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/117458
 #EXTINF:-1 tvg-name="MTV Polska"tvg-id="MTV Polska"tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png"group-title="Muzyka",MTV Polska
 http://178.219.128.68:64888/MTVHD
 #EXTINF:-1 tvg-name="MTV 00s"tvg-id="MTV 00s"tvg-logo="http://logo.plusx.tv/logo/MTV%20Music.png"group-title="Muzyka",MTV 00s
@@ -1534,11 +1522,7 @@ https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="Eurosport"tvg-id="Eurosport"tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png"group-title="Sport",Eurosport
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/61422
 #EXTINF:-1 tvg-name="Eurosport"tvg-id="Eurosport"tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png"group-title="Sport",Eurosport
-http://clientsportals.com:2095/play/live.php?mac=00:1a:79:B8:83:B4&stream=46077&extension=ts&play_token=m4To6EtAS9
-#EXTINF:-1 tvg-name="Eurosport"tvg-id="Eurosport"tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png"group-title="Sport",Eurosport
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43003&extension=ts&play_token=7zsFKLeful
-#EXTINF:-1 tvg-name="Eurosport"tvg-id="Eurosport"tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png"group-title="Sport",Eurosport
-http://clientsportals.com:2095/play/live.php?mac=00:1a:79:A7:5F:A2&stream=46077&extension=ts&play_token=m4To6EtAS9
 #EXTINF:-1 tvg-name="Eurosport"tvg-id="Eurosport"tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png"group-title="Sport",Eurosport
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=119657&extension=ts&play_token=evmPUxezm1
 #EXTINF:-1 tvg-name="Eurosport"tvg-id="Eurosport"tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png"group-title="Sport",Eurosport
@@ -1845,8 +1829,6 @@ http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/117447
 http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/9653
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL+ NOW FHD
 http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/9659
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL+ FAMILY FHD
-http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/9660
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",BIZNES24 FHD
 http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/9652
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FRANCE24 FR FHD
@@ -2727,6 +2709,142 @@ http://justwi.top:8080/44169522493300/21695224933323/10258
 http://justwi.top:8080/44169522493300/21695224933323/10204
 #EXTINF:-1 tvg-name="PL: TRACE URBAN"tvg-id="Trace Urban"tvg-logo="https://docdog.top/logo/countries/poland/traceurban.png"group-title="EXTRA",PL: TRACE URBAN
 http://justwi.top:8080/44169522493300/21695224933323/10229
+#EXTINF:-1 tvg-name=""tvg-id="13ulica.pl"tvg-logo=""group-title="EXTRA",13 Ulica HD
+http://37.48.101.149:7021/play/a005/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",DOMO+ HD
+http://37.48.101.149:7021/play/a00g/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="eentertaiment.pl"tvg-logo=""group-title="EXTRA",E! Entertainment
+http://37.48.101.149:7021/play/a00b/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="eleven1.pl"tvg-logo=""group-title="EXTRA",Eleven Sports 1 HD
+http://37.48.101.149:7021/play/a00f/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="eleven2.pl"tvg-logo=""group-title="EXTRA",Eleven Sports 2 HD
+http://37.48.101.149:7021/play/a00e/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="eleven3.pl"tvg-logo=""group-title="EXTRA",Eleven Sports 3 HD
+http://37.48.101.149:7021/play/a00j/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="fightbox.pl"tvg-logo=""group-title="EXTRA",Fightbox HD
+http://37.48.101.149:7021/play/a007/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="golfchannel.pl"tvg-logo=""group-title="EXTRA",Golf Channel
+http://37.48.101.149:7021/play/a015/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="history2.pl"tvg-logo=""group-title="EXTRA",H2 HD
+http://37.48.101.149:7021/play/a008/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",HBO2 HD
+http://37.48.101.149:7021/play/a01h/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",HBO3 HD
+http://37.48.101.149:7021/play/a01i/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="kinopolska.pl"tvg-logo=""group-title="EXTRA",KINO POLSKA HD
+http://37.48.101.149:7021/play/a016/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="mtvmusic.pl"tvg-logo=""group-title="EXTRA",MTV Music
+http://37.48.101.149:7021/play/a00m/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Polsat Comedy Central Extra
+http://37.48.101.149:7021/play/a01c/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="scifi.pl"tvg-logo=""group-title="EXTRA",SciFi HD
+http://37.48.101.149:7021/play/a003/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="sundance.pl"tvg-logo=""group-title="EXTRA",Sundance HD
+http://37.48.101.149:7021/play/a002/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="vh1.pl"tvg-logo=""group-title="EXTRA",VH1
+http://37.48.101.149:7021/play/a01b/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="4fundance.pl"tvg-logo=""group-title="EXTRA",4Fun Dance
+http://37.48.101.149:7018/play/a00d/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="4funkids.pl"tvg-logo=""group-title="EXTRA",4Fun Kids
+http://37.48.101.149:7018/play/a01w/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="4fun.pl"tvg-logo=""group-title="EXTRA",4Fun.TV
+http://37.48.101.149:7018/play/a00b/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="boomerang.pl"tvg-logo=""group-title="EXTRA",Boomerang HD
+http://37.48.101.149:7018/play/a00h/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="canalfilm.pl"tvg-logo=""group-title="EXTRA",CANAL+ FILM HD
+http://37.48.101.149:7018/play/a024/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="canalseriale.pl"tvg-logo=""group-title="EXTRA",CANAL+ SERIALE HD
+http://37.48.101.149:7018/play/a026/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="davinci.pl"tvg-logo=""group-title="EXTRA",Da Vinci
+http://37.48.101.149:7018/play/a01i/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="epicdrama.pl"tvg-logo=""group-title="EXTRA",Epic Drama HD
+http://37.48.101.149:7018/play/a00e/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="eskarock.pl"tvg-logo=""group-title="EXTRA",Eska Rock
+http://37.48.101.149:7018/play/a01n/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="eskatv.pl"tvg-logo=""group-title="EXTRA",Eska TV
+http://37.48.101.149:7018/play/a00k/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="eskatvextra.pl"tvg-logo=""group-title="EXTRA",Eska TV Extra
+http://37.48.101.149:7018/play/a00j/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="fokustv.pl"tvg-logo=""group-title="EXTRA",Fokus TV
+http://37.48.101.149:7018/play/a00l/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="kuchnia.pl"tvg-logo=""group-title="EXTRA",Kuchnia+ HD
+http://37.48.101.149:7018/play/a00s/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="mtvrocks.pl"tvg-logo=""group-title="EXTRA",MTV Rocks
+http://37.48.101.149:7018/play/a013/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="metro.pl"tvg-logo=""group-title="EXTRA",Metro
+http://37.48.101.149:7018/play/a01t/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="nowatv.pl"tvg-logo=""group-title="EXTRA",Nowa TV
+http://37.48.101.149:7018/play/a01v/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="planete.pl"tvg-logo=""group-title="EXTRA",Planete+ HD
+http://37.48.101.149:7018/play/a00t/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="polotv.pl"tvg-logo=""group-title="EXTRA",Polo TV
+http://37.48.101.149:7018/play/a00i/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="polsatmusic.pl"tvg-logo=""group-title="EXTRA",Polsat Music HD
+http://37.48.101.149:7018/play/a01j/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="viasatexplore.pl"tvg-logo=""group-title="EXTRA",Polsat Viasat Explore HD
+http://37.48.101.149:7018/play/a018/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="starstv.pl"tvg-logo=""group-title="EXTRA",STARS.TV
+http://37.48.101.149:7018/play/a004/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="stopklatka.pl"tvg-logo=""group-title="EXTRA",Stopklatka
+http://37.48.101.149:7018/play/a01r/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",StudioMed TV HD
+http://37.48.101.149:7018/play/a02a/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="superstacja.pl"tvg-logo=""group-title="EXTRA",Superstacja
+http://37.48.101.149:7018/play/a01q/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="republika.pl"tvg-logo=""group-title="EXTRA",TV Republika
+http://37.48.101.149:7018/play/a01k/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="tvppolonia.pl"tvg-logo=""group-title="EXTRA",TVP Polonia
+http://37.48.101.149:7018/play/a01p/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="tvprozrywka.pl"tvg-logo=""group-title="EXTRA",TVP Rozrywka
+http://37.48.101.149:7018/play/a008/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="voxmusic.pl"tvg-logo=""group-title="EXTRA",VOX Music TV
+http://37.48.101.149:7018/play/a01m/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="vividtouch.pl"tvg-logo=""group-title="EXTRA",Vivid Touch SD
+http://37.48.101.149:7018/play/a01y/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="zoomtv.pl"tvg-logo=""group-title="EXTRA",Zoom TV
+http://37.48.101.149:7018/play/a01u/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="wpolsce.pl"tvg-logo=""group-title="EXTRA",wPolsce.pl
+http://37.48.101.149:7018/play/a01s/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",AXN HD
+http://37.48.101.149:7017/play/a02l/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="babytv.pl"tvg-logo=""group-title="EXTRA",Baby TV
+http://37.48.101.149:7017/play/a01y/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="brazzers.pl"tvg-logo=""group-title="EXTRA",Brazzers HD
+http://37.48.101.149:7017/play/a02d/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="cipolsat.pl"tvg-logo=""group-title="EXTRA",CI Polsat HD
+http://37.48.101.149:7017/play/a00q/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="cinemax2.pl"tvg-logo=""group-title="EXTRA",Cinemax 2 HD
+http://37.48.101.149:7017/play/a00o/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="fox.pl"tvg-logo=""group-title="EXTRA",FOX HD
+http://37.48.101.149:7017/play/a017/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="foxcomedy.pl"tvg-logo=""group-title="EXTRA",Fox Comedy HD
+http://37.48.101.149:7017/play/a00j/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="history.pl"tvg-logo=""group-title="EXTRA",History HD
+http://37.48.101.149:7017/play/a01w/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="polsatcafe.pl"tvg-logo=""group-title="EXTRA",Polsat Cafe HD
+http://37.48.101.149:7017/play/a003/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="polsatdoku.pl"tvg-logo=""group-title="EXTRA",Polsat Doku HD
+http://37.48.101.149:7017/play/a00p/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="polsatfilm.pl"tvg-logo=""group-title="EXTRA",Polsat Film HD
+http://37.48.101.149:7017/play/a009/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="polsatnews2.pl"tvg-logo=""group-title="EXTRA",Polsat News 2
+http://37.48.101.149:7017/play/a004/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="polsatnews.pl"tvg-logo=""group-title="EXTRA",Polsat News HD
+http://37.48.101.149:7017/play/a007/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="polsatplay.pl"tvg-logo=""group-title="EXTRA",Polsat Play HD
+http://37.48.101.149:7017/play/a002/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="polsatsportextra.pl"tvg-logo=""group-title="EXTRA",Polsat Sport Extra HD
+http://37.48.101.149:7017/play/a00s/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="polsatsport.pl"tvg-logo=""group-title="EXTRA",Polsat Sport HD
+http://37.48.101.149:7017/play/a00n/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Polsat Sport Premium PPV5
+http://37.48.101.149:7017/play/a02j/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Polsat Sport Premium PPV6
+http://37.48.101.149:7017/play/a02k/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="viasathistory.pl"tvg-logo=""group-title="EXTRA",Polsat Viasat History HD
+http://37.48.101.149:7017/play/a00k/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="tv6.pl"tvg-logo=""group-title="EXTRA",TV6
+http://37.48.101.149:7017/play/a01h/index.m3u8
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< Całe Filmy i Seriale >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< Całe Filmy i Seriale >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< Całe Filmy i Seriale >>>>>>>>>>>>
 https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Całe Filmy i Seriale",(Nie)znajomi  (2019)
