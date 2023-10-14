@@ -8,6 +8,11 @@ XXX +18 !!! IPTV 2023
 https://bit.ly/XXX-PL
 ```
 
+Deutschland TV + Filme + Serie
+```
+https://bit.ly/IPTV-DEU
+```
+
 Aktualizuje przynajmniej raz w tygodniu.
 
 EPG 5 DNI
