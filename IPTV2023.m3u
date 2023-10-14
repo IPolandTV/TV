@@ -2845,7 +2845,345 @@ http://37.48.101.149:7017/play/a02k/index.m3u8
 http://37.48.101.149:7017/play/a00k/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="tv6.pl"tvg-logo=""group-title="EXTRA",TV6
 http://37.48.101.149:7017/play/a01h/index.m3u8
-#EXTINF:-1 tvg-name="<<<<<<<<<<<< Całe Filmy i Seriale >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< Całe Filmy i Seriale >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< Całe Filmy i Seriale >>>>>>>>>>>>
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVP HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94783
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVP 1 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94784
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVP 2 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94785
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVP 3
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94786
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TV4 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94787
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TELE 5
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94788
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TV6
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94789
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLONIA 1
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94790
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94791
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT 2 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94792
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",SUPER POLSAT
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94793
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVN HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94794
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVN 7 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94795
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVS
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94796
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TTV HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94797
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TV PULS HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94798
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT RODZINA
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94800
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL 1 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94803
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  FAMILY HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94804
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  FILM HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94805
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  SERIALE HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94806
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FILMBOX EXTRA
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94809
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FILMBOX PREMIUM HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94810
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FILMBOX ACTION
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94811
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FILMBOX FAMILY
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94812
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FILMBOX ARTHOUSE
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94813
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CINEMAX HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94814
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CINEMAX 2 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94815
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",HBO HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94816
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",HBO 2 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94817
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",HBO 3 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94818
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",VOD 205
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94819
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",VOD 207
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94821
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",VOD 208
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94822
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FOX HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94824
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FOX COMEDY HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94825
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",AXN HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94826
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",AXN WHITE
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94828
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",AXN BLACK
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94829
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",AXN SPIN HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94830
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",SCIFI HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94831
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",13 ULICA HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94832
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",E! ENTERTAINMENT
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94833
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",AMC
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94840
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVP KULTURA
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94841
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TRAVEL CHANNEL HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94842
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVN FABULA
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94843
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVN TURBO HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94844
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ADVENTURE HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94845
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",DA VINCI
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94846
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FOOD NETWORK HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94847
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",DOMO HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94848
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",DTX
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94849
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FOKUS TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94851
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",KUCHNIA HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94852
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",MOTOWIZJA TV HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94853
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",NUTA TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94854
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POWER TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94855
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PULS 2
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94856
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ROMANCE TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94858
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",WP
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94859
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ACTIVE FAMILY
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94860
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",BBC BRIT
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94861
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",BBC LIFESTYLE HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94862
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",BBC FIRST HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94863
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",BABY TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94866
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT JIM JAM
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94867
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",BOOMERANG HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94868
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CARTOON NETWORK HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94869
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",DISNEY XD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94870
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",DISNEY JUNIOR
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94871
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",DISNEY CHANNEL HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94872
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",NICK JR
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94873
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",NICKELODEON
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94874
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",NICKTOONS HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94875
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TELETOON HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94876
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",MINIMINI HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94877
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",BBC CBEEBIES
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94878
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT GAMES
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94879
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",MTV LIVE HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94881
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",VH1
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94882
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVP ROZRYWKA
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94883
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",MTV ROCKS
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94884
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",KINO POLSKA MUZYKA
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94885
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",MTV POLSKA HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94886
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",MTV MUSIC
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94887
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ALE KINO  HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94888
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVP ABC
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94890
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT CAFE HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94891
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT PLAY HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94892
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLO TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94893
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",METRO
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94894
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ZOOM TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94895
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",NOVELA TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94896
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",SUNDANCE HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94897
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVN STYLE HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94898
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",HGTV HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94900
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",NOWA TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94901
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CBS REALITY
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94903
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",EPIC DRAMA HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94904
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TNT HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94905
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT FILM HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94906
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",KINO TV HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94907
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",STOPKLATKA TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94908
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",STARS TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94909
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",4FUN TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94910
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT MUSIC HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94911
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",VOX MUSIC TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94912
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ESKA ROCK TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94913
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ESKA TV EXTRA
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94914
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",NAT GEO PEOPLE HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94916
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ANIMAL PLANET HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94917
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PLANETE HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94918
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CI POLSAT HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94919
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",HISTORY HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94920
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ID HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94921
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVP HISTORIA
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94922
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",BBC EARTH HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94923
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",H2 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94924
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT DOKU HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94925
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",DISCOVERY SCIENCE HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94926
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",DISCOVERY HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94927
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",DISCOVERY LIFE HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94928
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",DISCO POLO MUSIC
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94930
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",4FUN GOLD HITS
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94931
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",4FUN DANCE
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94932
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT VIASAT EXPLORE HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94933
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",NAT GEO WILD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94934
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",WATER PLANET
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94935
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT VIASAT HISTORY HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94936
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT VIASAT NATURE HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94937
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",NATIONAL GEO
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94938
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CRIME AND INVESTIGATION HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94939
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT SPORT EXTRA HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94941
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  SPORT HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94943
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  SPORT 2 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94944
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  SPORT 3 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94945
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL SPORT 4 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94946
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",NSPORT
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94947
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",SPORT KLUB HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94948
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",EUROSPORT 1 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94949
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",EUROSPORT 2 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94950
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT SPORT HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94951
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",EXTREME SPORTS HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94952
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT SPORT PREM. 1 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94953
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT SPORT PREM. 2 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94954
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT SPORT PREM. 3 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94955
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT SPORT PREM. 4 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94956
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT SPORT PREM. 5 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94957
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT SPORT PREM. 6 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94958
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ELEVENSPORT 1 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94959
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ELEVENSPORT 2 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94960
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ELEVENSPORT 3 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94961
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ELEVENSPORT 4 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94962
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",GOLF CHANNEL
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94963
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FIGHTBOX HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94964
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FIGHTKLUB HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94965
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVP SPORT HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94967
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT SPORT NEWS HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94968
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVN 24 HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94970
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVN24 BIS HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94971
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT NEWS HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94972
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT NEWS 2
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94973
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",SUPERSTACJA
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94974
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TV REPUBLIKA
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94975
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",WPOLSCE.PL
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94976
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ESKA TV
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94977
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVP INFO HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94978
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",STUDIOMED TV HD
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94979
+#EXTINF:-1 tvg-name="<<<<<<<<<<<< Całe Filmy i Seriale ,ważne do 2023-10-15 09:23:46 >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< Całe Filmy i Seriale ,ważne do 2023-10-15 09:23:46 >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",ważne do 2023-10-15 09:23:46 >>>>>>>>>>>>
 https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Całe Filmy i Seriale",(Nie)znajomi  (2019)
 https://lm3u.com/movie.php?e=geglus9@gmail.com&p=JanekMotyka!!90&id=51
