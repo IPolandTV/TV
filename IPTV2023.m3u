@@ -1811,6 +1811,18 @@ http://194.145.202.71:8087/udp/239.254.4.109:6060
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43001&extension=ts&play_token=zKZ4EMGfrB
 #EXTINF:-1 tvg-name="Extreme Sports"tvg-id="Extreme Sports"tvg-logo="https://e7.pngegg.com/pngimages/691/770/png-clipart-extreme-sports-channel-television-channel-others-miscellaneous-television.png"group-title="Sport",Extreme Sports
 http://pfqnhxv.mhubery.xyz:80/7351683875/2643801286/117406
+#EXTINF:-1 tvg-name="<<<<<<<<<<<< 4K >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< 4K >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< 4K >>>>>>>>>>>>
+https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
+#EXTINF:-1 tvg-name="|PL| Ultra TV 4K"tvg-id=""tvg-logo=""group-title="4K",|PL| Ultra TV 4K
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448933
+#EXTINF:-1 tvg-name="|PL| Canal+ 4K Ultra HD"tvg-id=""tvg-logo=""group-title="4K",|PL| Canal+ 4K Ultra HD
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448896
+#EXTINF:-1 tvg-name="PL | Canal+ 4Kⓧ FHD"tvg-id=""tvg-logo="http://xplatinmedia.com:8080/images/502f5a22404fd2ab16fd79fece2197cc.png"group-title="4K",PL | Canal+ 4Kⓧ FHD
+http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/133746
+#EXTINF:-1 tvg-name="Jazz 4K"tvg-id=""tvg-logo=""group-title="4K",Jazz 4K
+http://194.145.202.71:8087/udp/239.254.1.254:6060
+#EXTINF:-1 tvg-name="Fashion TV 4K"tvg-id=""tvg-logo=""group-title="4K",Fashion TV 4K
+http://194.145.202.71:8087/udp/239.254.1.151:6060
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< EXTRA >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< EXTRA >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< EXTRA >>>>>>>>>>>>
 https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="POLSAT GAMES FHD"tvg-id="POLSAT GAMES FHD"tvg-logo=""group-title="EXTRA",POLSAT GAMES FHD
@@ -1941,8 +1953,6 @@ http://194.145.202.71:8087/udp/239.254.1.128:6060
 http://194.145.202.71:8087/udp/239.254.1.152:6060
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Bartsat HD
 http://194.145.202.71:8087/udp/239.254.1.150:6060
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Fashion TV 4K
-http://194.145.202.71:8087/udp/239.254.1.151:6060
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Echo24 HD
 http://194.145.202.71:8087/udp/239.254.1.171:6060
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Novelas+ HD
@@ -1955,8 +1965,6 @@ http://194.145.202.71:8087/udp/239.254.1.208:6060
 http://194.145.202.71:8087/udp/239.254.1.241:6060
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Bollywood HD
 http://194.145.202.71:8087/udp/239.254.1.238:6060
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Jazz 4K
-http://194.145.202.71:8087/udp/239.254.1.254:6060
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Lubelska TV HD
 http://194.145.202.71:8087/udp/239.254.4.20:6060
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TV Okazje HD
@@ -2375,14 +2383,10 @@ http://justwi.top:8080/44169522493300/21695224933323/10106
 http://justwi.top:8080/44169522493300/21695224933323/10103
 #EXTINF:-1 tvg-name="PL: METRO"tvg-id="METRO"tvg-logo="https://docdog.top/logo/countries/poland/metro.png"group-title="EXTRA",PL: METRO
 http://justwi.top:8080/44169522493300/21695224933323/10186
-#EXTINF:-1 tvg-name="PL: NUTA"tvg-id="Nuta TV"tvg-logo="https://docdog.top/logo/countries/poland/nutatv.png"group-title="EXTRA",PL: NUTA
-http://justwi.top:8080/44169522493300/21695224933323/10200
 #EXTINF:-1 tvg-name="PL: BBC EARTH"tvg-id="BBC Earth"tvg-logo="https://docdog.top/logo/countries/poland/bbcearth.png"group-title="EXTRA",PL: BBC EARTH
 http://justwi.top:8080/44169522493300/21695224933323/10117
 #EXTINF:-1 tvg-name="PL: BBC FIRST"tvg-id="BBC First"tvg-logo="https://docdog.top/logo/countries/poland/bbcfirst.png"group-title="EXTRA",PL: BBC FIRST
 http://justwi.top:8080/44169522493300/21695224933323/10118
-#EXTINF:-1 tvg-name="PL: BBC LIFESTYLE"tvg-id="BBC Lifestyle"tvg-logo="https://docdog.top/logo/countries/poland/bbclifestyle.png"group-title="EXTRA",PL: BBC LIFESTYLE
-http://justwi.top:8080/44169522493300/21695224933323/10119
 #EXTINF:-1 tvg-name="PL: BBC BRIT"tvg-id="BBC Brit"tvg-logo="https://docdog.top/logo/countries/poland/bbcbrit.png"group-title="EXTRA",PL: BBC BRIT
 http://justwi.top:8080/44169522493300/21695224933323/10115
 #EXTINF:-1 tvg-name="PL: POLSAT RODZINA"tvg-id="Polsat Rodzina"tvg-logo="https://docdog.top/logo/countries/poland/polsatrodzina.png"group-title="EXTRA",PL: POLSAT RODZINA
@@ -2953,8 +2957,6 @@ http://p1.proiptv.co:25461/02029662891331/02029662891331/94848
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94849
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FOKUS TV
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94851
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",KUCHNIA HD
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94852
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",MOTOWIZJA TV HD
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94853
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",NUTA TV
@@ -3161,8 +3163,6 @@ http://p1.proiptv.co:25461/02029662891331/02029662891331/94964
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94965
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVP SPORT HD
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94967
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT SPORT NEWS HD
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94968
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVN 24 HD
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94970
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVN24 BIS HD
@@ -3175,8 +3175,6 @@ http://p1.proiptv.co:25461/02029662891331/02029662891331/94973
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94974
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TV REPUBLIKA
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94975
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",WPOLSCE.PL
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94976
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",ESKA TV
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94977
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVP INFO HD
@@ -3185,8 +3183,6 @@ http://p1.proiptv.co:25461/02029662891331/02029662891331/94978
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94979
 #EXTINF:-1 tvg-name="PL | 13 Ulicaⓧ FHD"tvg-id="13 Ulica"tvg-logo="http://xplatinmedia.com:8080/images/0cffd510e2db44510a9e4f85e0134be6.png"group-title="EXTRA",PL | 13 Ulicaⓧ FHD
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52534
-#EXTINF:-1 tvg-name="PL | 13 Ulicaⓧ HD"tvg-id="13 Ulica"tvg-logo="http://xplatinmedia.com:8080/images/0cffd510e2db44510a9e4f85e0134be6.png"group-title="EXTRA",PL | 13 Ulicaⓧ HD
-http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52535
 #EXTINF:-1 tvg-name="PL | 4Fun Kidsⓧ"tvg-id="4FUN KIDS"tvg-logo="http://xplatinmedia.com:8080/images/49a46337ab611142f9e0b1559de9bf0b.png"group-title="EXTRA",PL | 4Fun Kidsⓧ
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52632
 #EXTINF:-1 tvg-name="PL | 4Fun TVⓧ"tvg-id="4FUN TV"tvg-logo="http://xplatinmedia.com:8080/images/c5983e2e9b62a741dd192b1a48c0b036.png"group-title="EXTRA",PL | 4Fun TVⓧ
@@ -3309,8 +3305,6 @@ http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52559
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52560
 #EXTINF:-1 tvg-name="PL | Eleven Sports 3ⓧ FHD"tvg-id="Eleven Sports 3"tvg-logo="http://xplatinmedia.com:8080/images/f35b2f941d475574cbba0ed607cd8ecc.png"group-title="EXTRA",PL | Eleven Sports 3ⓧ FHD
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52561
-#EXTINF:-1 tvg-name="PL | Eleven Sports 4ⓧ FHD"tvg-id="Eleven Sports 4"tvg-logo="http://xplatinmedia.com:8080/images/d58f174013e0e35754ee99aff43560f2.png"group-title="EXTRA",PL | Eleven Sports 4ⓧ FHD
-http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52562
 #EXTINF:-1 tvg-name="PL | Epic Dramaⓧ FHD"tvg-id="Epic Drama"tvg-logo="http://xplatinmedia.com:8080/images/b818b960f3a29fbd8c315e0c2d58848d.png"group-title="EXTRA",PL | Epic Dramaⓧ FHD
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52689
 #EXTINF:-1 tvg-name="PL | Epic Dramaⓧ HD"tvg-id="Epic Drama"tvg-logo="http://xplatinmedia.com:8080/images/b818b960f3a29fbd8c315e0c2d58848d.png"group-title="EXTRA",PL | Epic Dramaⓧ HD
@@ -3319,8 +3313,6 @@ http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52755
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52757
 #EXTINF:-1 tvg-name="PL | Eska TVⓧ"tvg-id="Eska TV"tvg-logo="http://xplatinmedia.com:8080/images/c240f3972acc0c14890d2c23992d6b88.png"group-title="EXTRA",PL | Eska TVⓧ
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52638
-#EXTINF:-1 tvg-name="PL | EuroSport 1ⓧ FHD"tvg-id="Eurosport"tvg-logo="http://xplatinmedia.com:8080/images/b5214b9741f9233b6037c992fc494922.png"group-title="EXTRA",PL | EuroSport 1ⓧ FHD
-http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52555
 #EXTINF:-1 tvg-name="PL | EuroSport 1ⓧ HD"tvg-id="Eurosport"tvg-logo="http://xplatinmedia.com:8080/images/b5214b9741f9233b6037c992fc494922.png"group-title="EXTRA",PL | EuroSport 1ⓧ HD
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52556
 #EXTINF:-1 tvg-name="PL | EuroSport 2ⓧ FHD"tvg-id="Eurosport 2"tvg-logo="http://xplatinmedia.com:8080/images/589b0e65f4552faff219b48a074cb925.png"group-title="EXTRA",PL | EuroSport 2ⓧ FHD
@@ -3337,8 +3329,6 @@ http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52583
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52584
 #EXTINF:-1 tvg-name="PL | Fightboxⓧ HD"tvg-id="FightBox"tvg-logo="http://xplatinmedia.com:8080/images/e904fb751eadcc5dcdeba6856d353c1e.png"group-title="EXTRA",PL | Fightboxⓧ HD
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52585
-#EXTINF:-1 tvg-name="PL | Fightklubⓧ FHD"tvg-id="FIGHTKLUB"tvg-logo="http://xplatinmedia.com:8080/images/d1de92cadc67735c0306725fb6dbd4ca.png"group-title="EXTRA",PL | Fightklubⓧ FHD
-http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52761
 #EXTINF:-1 tvg-name="PL | Filmbox Actionⓧ HD"tvg-id="FilmBox Action"tvg-logo="http://xplatinmedia.com:8080/images/f09a954ca97defaa10bd051294176295.png"group-title="EXTRA",PL | Filmbox Actionⓧ HD
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52521
 #EXTINF:-1 tvg-name="PL | Filmbox Actionⓧ"tvg-id="FilmBox Action"tvg-logo="http://xplatinmedia.com:8080/images/f09a954ca97defaa10bd051294176295.png"group-title="EXTRA",PL | Filmbox Actionⓧ
@@ -3389,8 +3379,6 @@ http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52775
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52613
 #EXTINF:-1 tvg-name="PL | Investigation Discoveryⓧ FHD"tvg-id="ID"tvg-logo="http://xplatinmedia.com:8080/images/c252334e2e045ea52295de41cbefa2b7.png"group-title="EXTRA",PL | Investigation Discoveryⓧ FHD
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52612
-#EXTINF:-1 tvg-name="PL | Kino Polska Muzykaⓧ"tvg-id="Kino Polska Muzyka"tvg-logo="http://xplatinmedia.com:8080/images/927f44c1615a1c5bc3d2712c8d78f616.png"group-title="EXTRA",PL | Kino Polska Muzykaⓧ
-http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52640
 #EXTINF:-1 tvg-name="PL | Kino Polskaⓧ FHD"tvg-id="Kino Polska"tvg-logo="http://xplatinmedia.com:8080/images/34012bfa616965c1a4de7bab3faad7d9.png"group-title="EXTRA",PL | Kino Polskaⓧ FHD
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52772
 #EXTINF:-1 tvg-name="PL | Kino Polskaⓧ HD"tvg-id="Kino Polska"tvg-logo="http://xplatinmedia.com:8080/images/34012bfa616965c1a4de7bab3faad7d9.png"group-title="EXTRA",PL | Kino Polskaⓧ HD
@@ -3571,8 +3559,6 @@ http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52703
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52781
 #EXTINF:-1 tvg-name="PL | TV Toruńⓧ "tvg-id="TV TORUŃ"tvg-logo="http://xplatinmedia.com:8080/images/8ee4f568b9ee9d19c6b09acb68d352f2.png"group-title="EXTRA",PL | TV Toruńⓧ
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52738
-#EXTINF:-1 tvg-name="PL | TV Trwamⓧ"tvg-id="TV TRWAM"tvg-logo="http://xplatinmedia.com:8080/images/af2be3004db7976fb623aceef050095b.png"group-title="EXTRA",PL | TV Trwamⓧ
-http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52720
 #EXTINF:-1 tvg-name="PL | TVN 24 BiSⓧ FHD"tvg-id="TVN 24 BiS"tvg-logo="http://xplatinmedia.com:8080/images/d48b2d8826acc704594bddccc6efc83d.png"group-title="EXTRA",PL | TVN 24 BiSⓧ FHD
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52658
 #EXTINF:-1 tvg-name="PL | TVN 24ⓧ FHD"tvg-id="TVN 24"tvg-logo="http://xplatinmedia.com:8080/images/73f2b8fa90d584ea57a75596d4edf56f.png"group-title="EXTRA",PL | TVN 24ⓧ FHD
@@ -3631,8 +3617,6 @@ http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52735
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52736
 #EXTINF:-1 tvg-name="PL | TVP 3ⓧ"tvg-id="TVP 3"tvg-logo="http://xplatinmedia.com:8080/images/4610b849aa543f5b29f82269e3583637.png"group-title="EXTRA",PL | TVP 3ⓧ
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52730
-#EXTINF:-1 tvg-name="PL | TVP ABCⓧ"tvg-id="TVP ABC"tvg-logo="http://xplatinmedia.com:8080/images/987f1d638a28b8b0b8a1b6a0d4255473.png"group-title="EXTRA",PL | TVP ABCⓧ
-http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52676
 #EXTINF:-1 tvg-name="PL | TVP Historiaⓧ"tvg-id="TVP Historia"tvg-logo="http://xplatinmedia.com:8080/images/35de35848baf67f3c2ba7e6770133053.png"group-title="EXTRA",PL | TVP Historiaⓧ
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52628
 #EXTINF:-1 tvg-name="PL | TVP Infoⓧ FHD"tvg-id="TVP Info"tvg-logo="http://xplatinmedia.com:8080/images/f93b223902220b1a08eafca1102e1560.png"group-title="EXTRA",PL | TVP Infoⓧ FHD
@@ -3653,8 +3637,6 @@ http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52589
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52740
 #EXTINF:-1 tvg-name="PL | TVP VOD 204ⓧ"tvg-id="VOD 204"tvg-logo="http://xplatinmedia.com:8080/images/a9fba7ab37d2754270857e1b003dbae6.png"group-title="EXTRA",PL | TVP VOD 204ⓧ
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52741
-#EXTINF:-1 tvg-name="PL | TVP VOD 205ⓧ"tvg-id="VOD 205"tvg-logo="http://xplatinmedia.com:8080/images/a9fba7ab37d2754270857e1b003dbae6.png"group-title="EXTRA",PL | TVP VOD 205ⓧ
-http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52742
 #EXTINF:-1 tvg-name="PL | TVP VOD 206ⓧ"tvg-id="VOD 206"tvg-logo="http://xplatinmedia.com:8080/images/a9fba7ab37d2754270857e1b003dbae6.png"group-title="EXTRA",PL | TVP VOD 206ⓧ
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52743
 #EXTINF:-1 tvg-name="PL | TVP VOD 207ⓧ"tvg-id="VOD 207"tvg-logo="http://xplatinmedia.com:8080/images/a9fba7ab37d2754270857e1b003dbae6.png"group-title="EXTRA",PL | TVP VOD 207ⓧ
@@ -3683,8 +3665,6 @@ http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/52719
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/53573
 #EXTINF:-1 tvg-name="PL | MTV 80sⓧ SD"tvg-id="MTV 80S"tvg-logo="http://xplatinmedia.com:8080/images/3594834e17b53ffcde272ee038aaf670.png"group-title="EXTRA",PL | MTV 80sⓧ SD
 http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/104714
-#EXTINF:-1 tvg-name="PL | Canal+ 4Kⓧ FHD"tvg-id=""tvg-logo="http://xplatinmedia.com:8080/images/502f5a22404fd2ab16fd79fece2197cc.png"group-title="EXTRA",PL | Canal+ 4Kⓧ FHD
-http://xplatinmedia.com:8080/@medina0644/G3LDH66qBArb/133746
 #EXTINF:-1 tvg-name="PL: 13 Ulica FHD"tvg-id=""tvg-logo="http://snakestv.com:8080/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4opth443Gu8Tk-Q0p1reGfXiZkcjirjutmAxvbCvsHvx_C5v1MboclQkE_vN3wxyrSwOM.png"group-title="EXTRA",PL: 13 Ulica FHD
 http://snakestv.com:8080/Androidtv33/XM8nMHS538/68671.ts
 #EXTINF:-1 tvg-name="PL: 4Fun Dance HD"tvg-id=""tvg-logo="http://snakestv.com:8080/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4opti76rbpke1lE1MGtZAGrOXlqSdmyhyZh9iGbjthaUBLLTOy4irblWPiXw280sQDYrc.png"group-title="EXTRA",PL: 4Fun Dance HD
@@ -4569,8 +4549,6 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448891
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448892
 #EXTINF:-1 tvg-name="|PL| TVC SD"tvg-id=""tvg-logo=""group-title="EXTRA",|PL| TVC SD
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448893
-#EXTINF:-1 tvg-name="|PL| Canal+ 4K Ultra HD"tvg-id=""tvg-logo=""group-title="EXTRA",|PL| Canal+ 4K Ultra HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448896
 #EXTINF:-1 tvg-name="|PL| CANAL + PREMIUM HD"tvg-id=""tvg-logo=""group-title="EXTRA",|PL| CANAL + PREMIUM HD
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448897
 #EXTINF:-1 tvg-name="|PL| CANAL + NOW"tvg-id=""tvg-logo=""group-title="EXTRA",|PL| CANAL + NOW
@@ -4633,8 +4611,6 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448930
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448931
 #EXTINF:-1 tvg-name="|PL| InUltra UHD"tvg-id=""tvg-logo=""group-title="EXTRA",|PL| InUltra UHD
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448932
-#EXTINF:-1 tvg-name="|PL| Ultra TV 4K"tvg-id=""tvg-logo=""group-title="EXTRA",|PL| Ultra TV 4K
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448933
 #EXTINF:-1 tvg-name="|PL| 1 Liga KANAŁ 1"tvg-id=""tvg-logo=""group-title="EXTRA",|PL| 1 Liga KANAŁ 1
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448934
 #EXTINF:-1 tvg-name="|PL| 1 Liga KANAŁ 2"tvg-id=""tvg-logo=""group-title="EXTRA",|PL| 1 Liga KANAŁ 2
@@ -4677,8 +4653,6 @@ http://f1.millenium-ott.com:25443/live/V19BzdP1jQQFg/74HYrZz0yH/70316.ts
 http://f1.millenium-ott.com:25443/live/V19BzdP1jQQFg/74HYrZz0yH/70317.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Deutschland",|.DE.| PROSIEBEN MAXX FHD
 http://f1.millenium-ott.com:25443/live/V19BzdP1jQQFg/74HYrZz0yH/70318.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Deutschland",|.DE.| RTL FHD
-http://f1.millenium-ott.com:25443/live/V19BzdP1jQQFg/74HYrZz0yH/70319.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Deutschland",|.DE.| RTL 2 FHD
 http://f1.millenium-ott.com:25443/live/V19BzdP1jQQFg/74HYrZz0yH/70321.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Deutschland",|.DE.| NITRO FHD
