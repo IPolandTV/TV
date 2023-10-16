@@ -390,7 +390,11 @@ http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51393&extens
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< DOKUMENTALNE >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< DOKUMENTALNE >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< DOKUMENTALNE >>>>>>>>>>>>
 https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="Discovery Channel"tvg-id="Discovery Channel"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png"group-title="Dokumentalne",Discovery Channel
+http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43016&extension=ts&play_token=fPKCd2IytX
+#EXTINF:-1 tvg-name="Discovery Channel"tvg-id="Discovery Channel"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png"group-title="Dokumentalne",Discovery Channel
 https://cdn-global.lolokoko.tv/DiscoveryChannel.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel"tvg-id="Discovery Channel"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png"group-title="Dokumentalne",Discovery Channel
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72662
 #EXTINF:-1 tvg-name="Discovery Channel"tvg-id="Discovery Channel"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png"group-title="Dokumentalne",Discovery Channel
 http://justwi.top:8080/44169522493300/21695224933323/10140
 #EXTINF:-1 tvg-name="Discovery Channel"tvg-id="Discovery Channel"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png"group-title="Dokumentalne",Discovery Channel
