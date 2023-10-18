@@ -229,44 +229,262 @@ http://178.219.128.68:64888/AXN
 http://194.145.202.71:8087/udp/239.254.5.1:6060
 #EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
 http://194.145.202.71:8087/udp/239.254.5.5:6060
+#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
+http://justwi.top:8080/44169522493300/21695224933323/10110
+#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94826
+#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94826
+#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/3227
+#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24799
+#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24800
+#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/25065
+#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/11699
+#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/94826
+#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
+http://hostengine.live/live/Lewis83/Lewis83/266477.m3u
+#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
+http://37.48.101.149:7017/play/a02l/index.m3u8
 #EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43043&extension=ts&play_token=ECZMqhYGQV
 #EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
 http://194.145.202.71:8087/udp/239.254.5.3:6060
+#EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
+http://justwi.top:8080/44169522493300/21695224933323/10111
+#EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72637
+#EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94829
+#EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94829
+#EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/2715
+#EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/11512
+#EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
+http://gediz.online:8080/EYL7548/SER5286F/395202
+#EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/94829
+#EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
+http://hostengine.live/live/Lewis83/Lewis83/266516.m3u
 #EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43040&extension=ts&play_token=c5I31yUHAS
 #EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
 http://194.145.202.71:8087/udp/239.254.5.4:6060
+#EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72640
+#EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94828
+#EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94828
+#EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24802
+#EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/340
+#EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/11513
+#EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
+http://iptvch.com:2082/sorayachooban/so204717463x/250431
+#EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
+http://gediz.online:8080/EYL7548/SER5286F/395205
+#EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/94828
+#EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
+http://hostengine.live/live/Lewis83/Lewis83/266498.m3u
 #EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43041&extension=ts&play_token=G3tfz4084m
 #EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
 http://194.145.202.71:8087/udp/239.254.5.2:6060
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
+http://justwi.top:8080/44169522493300/21695224933323/10112
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72639
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94830
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94830
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/23186
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/11629
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
+http://gediz.online:8080/EYL7548/SER5286F/395204
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/94830
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
+http://hostengine.live/live/Lewis83/Lewis83/266558.m3u
 #EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42990&extension=ts&play_token=6IycJjilV2
 #EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
 http://178.219.128.68:64888/HBOHD
+#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72697
+#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
+http://justwi.top:8080/44169522493300/21695224933323/10176
+#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94816
+#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94816
+#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/10194
+#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24783
+#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24784
+#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/13526
+#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
+http://iptvch.com:2082/sorayachooban/so204717463x/250437
+#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
+http://gediz.online:8080/EYL7548/SER5286F/395262
+#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/94816
+#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
+http://one.alidesi.org:80/halim55/55halim/1252
+#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
+http://one.alidesi.org:80/halim55/55halim/1252
 #EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42992&extension=ts&play_token=HKg7BtTQF3
 #EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
 http://178.219.128.68:64888/HBO2HD
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72698
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://justwi.top:8080/44169522493300/21695224933323/10177
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://37.48.101.149:7021/play/a01h/index.m3u8
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94817
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94817
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/3217
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24785
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24786
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/13527
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://iptvch.com:2082/sorayachooban/so204717463x/250438
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://gediz.online:8080/EYL7548/SER5286F/395263
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/94817
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://one.alidesi.org:80/halim55/55halim/1253
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
+http://one.alidesi.org:80/halim55/55halim/1253
 #EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42991&extension=ts&play_token=s7ZGg21SX5
 #EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
 http://178.219.128.68:64888/HBO3HD
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72699
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
+http://justwi.top:8080/44169522493300/21695224933323/10178
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
+http://37.48.101.149:7021/play/a01i/index.m3u8
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94818
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94818
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/1704
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24787
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15092
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
+http://iptvch.com:2082/sorayachooban/so204717463x/250439
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
+http://gediz.online:8080/EYL7548/SER5286F/395264
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/94818
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
+http://one.alidesi.org:80/halim55/55halim/1240
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
+http://one.alidesi.org:80/halim55/55halim/1240
 #EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Film",Canal+ 1
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51353&extension=ts&play_token=M0KA6oFsLn
 #EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Film",Canal+ 1
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43035&extension=ts&play_token=bUAKZCzkUT
 #EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Film",Canal+ 1
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51350&extension=ts&play_token=ARuNhQqZO6
+#EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Film",Canal+ 1
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72653
+#EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Film",Canal+ 1
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94803
+#EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Film",Canal+ 1
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94803
+#EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Film",Canal+ 1
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/24247
+#EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Film",Canal+ 1
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15204
+#EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Film",Canal+ 1
+http://gediz.online:8080/EYL7548/SER5286F/395218
+#EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Film",Canal+ 1
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/94803
+#EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Film",Canal+ 1
+http://one.alidesi.org:80/halim55/55halim/1896
+#EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Film",Canal+ 1
+http://one.alidesi.org:80/halim55/55halim/1896
 #EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=56857&extension=ts&play_token=lNZ07hKILV
 #EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
 http://194.145.202.71:8087/udp/239.254.1.3:6060
 #EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
 http://178.219.128.68:64889/CANAFILMHD
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72646
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
+http://justwi.top:8080/44169522493300/21695224933323/10125
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
+http://37.48.101.149:7018/play/a024/index.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94805
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94805
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/1714
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24791
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15215
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
+http://iptvch.com:2082/sorayachooban/so204717463x/250476
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
+http://gediz.online:8080/EYL7548/SER5286F/395211
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/94805
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
+http://one.alidesi.org:80/halim55/55halim/1164
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
+http://one.alidesi.org:80/halim55/55halim/1164
 #EXTINF:-1 tvg-name="Canal+ Family"tvg-id="Canal+ Family"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png"group-title="Film",Canal+ Family
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43032&extension=ts&play_token=OL7ZYKnUtD
+#EXTINF:-1 tvg-name="Canal+ Family"tvg-id="Canal+ Family"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png"group-title="Film",Canal+ Family
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72645
+#EXTINF:-1 tvg-name="Canal+ Family"tvg-id="Canal+ Family"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png"group-title="Film",Canal+ Family
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94804
+#EXTINF:-1 tvg-name="Canal+ Family"tvg-id="Canal+ Family"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png"group-title="Film",Canal+ Family
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94804
+#EXTINF:-1 tvg-name="Canal+ Family"tvg-id="Canal+ Family"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png"group-title="Film",Canal+ Family
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/147180
+#EXTINF:-1 tvg-name="Canal+ Family"tvg-id="Canal+ Family"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png"group-title="Film",Canal+ Family
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15216
+#EXTINF:-1 tvg-name="Canal+ Family"tvg-id="Canal+ Family"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png"group-title="Film",Canal+ Family
+http://iptvch.com:2082/sorayachooban/so204717463x/250433
+#EXTINF:-1 tvg-name="Canal+ Family"tvg-id="Canal+ Family"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png"group-title="Film",Canal+ Family
+http://gediz.online:8080/EYL7548/SER5286F/395210
+#EXTINF:-1 tvg-name="Canal+ Family"tvg-id="Canal+ Family"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png"group-title="Film",Canal+ Family
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/94804
 #EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51354&extension=ts&play_token=8FLVaucclb
 #EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
@@ -275,10 +493,92 @@ http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43031&extens
 http://194.145.202.71:8087/udp/239.254.1.5:6060
 #EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
 http://178.219.128.68:64888/CANASERIHD
+#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72648
+#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
+http://37.48.101.149:7018/play/a026/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94806
+#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94806
+#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/342
+#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24795
+#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15214
+#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
+http://iptvch.com:2082/sorayachooban/so204717463x/250434
+#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
+http://gediz.online:8080/EYL7548/SER5286F/395213
+#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/94806
+#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
+http://one.alidesi.org:80/halim55/55halim/41431
+#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Film",Canal+ Seriale
+http://one.alidesi.org:80/halim55/55halim/41431
+#EXTINF:-1 tvg-name="Canal + Premium"tvg-id="Canal + Premium"tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg"group-title="Film",Canal + Premium
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448897
+#EXTINF:-1 tvg-name="Canal + Premium"tvg-id="Canal + Premium"tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg"group-title="Film",Canal + Premium
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/13530
+#EXTINF:-1 tvg-name="Canal + Premium"tvg-id="Canal + Premium"tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg"group-title="Film",Canal + Premium
+http://iptvch.com:2082/sorayachooban/so204717463x/250478
+#EXTINF:-1 tvg-name="Canal + Premium"tvg-id="Canal + Premium"tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg"group-title="Film",Canal + Premium
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/448897
+#EXTINF:-1 tvg-name="Canal + Premium"tvg-id="Canal + Premium"tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg"group-title="Film",Canal + Premium
+http://one.alidesi.org:80/halim55/55halim/1895
+#EXTINF:-1 tvg-name="Canal + Premium"tvg-id="Canal + Premium"tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg"group-title="Film",Canal + Premium
+http://one.alidesi.org:80/halim55/55halim/1895
 #EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43021&extension=ts&play_token=aZK5n7CK21
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72659
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
+http://justwi.top:8080/44169522493300/21695224933323/10134
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94814
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94814
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/345
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24816
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24817
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15710
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
+http://iptvch.com:2082/sorayachooban/so204717463x/250490
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
+http://gediz.online:8080/EYL7548/SER5286F/395224
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/94814
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
+http://hostengine.live/live/Lewis83/Lewis83/266508.m3u
 #EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43022&extension=ts&play_token=uzWQ8NzPcb
+#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72658
+#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
+http://justwi.top:8080/44169522493300/21695224933323/10135
+#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
+http://37.48.101.149:7017/play/a00o/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94815
+#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94815
+#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/1712
+#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24818
+#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15099
+#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
+http://gediz.online:8080/EYL7548/SER5286F/395223
+#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/94815
+#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
+http://hostengine.live/live/Lewis83/Lewis83/266540.m3u
 #EXTINF:-1 tvg-name="FilmBox Premium"tvg-id="FilmBox Premium"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Premium.png"group-title="Film",FilmBox Premium
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42995&extension=ts&play_token=zJLzsjKsbZ
 #EXTINF:-1 tvg-name="FilmBox Action"tvg-id="FilmBox Action"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Action.png"group-title="Film",Filmbox Action
@@ -367,6 +667,26 @@ http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42986&extens
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43047&extension=ts&play_token=Pv9FLxAx0r
 #EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
 http://178.219.128.68:64889/AMCHD
+#EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
+http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72633
+#EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
+http://justwi.top:8080/44169522493300/21695224933323/10107
+#EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
+http://p1.proiptv.co:25461/02029662891331/02029662891331/94840
+#EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94840
+#EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
+http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/26539
+#EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24837
+#EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
+http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24836
+#EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15218
+#EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
+http://gediz.online:8080/EYL7548/SER5286F/395198
+#EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
+http://hostengine.live/live/Lewis83/Lewis83/266530.m3u
 #EXTINF:-1 tvg-name="Epic Drama"tvg-id="Epic Drama"tvg-logo="http://logo.plusx.tv/logo/Epic%20Drama.png"group-title="Film",Epic Drama
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51359&extension=ts&play_token=z9M1QnLu83
 #EXTINF:-1 tvg-name="Paramount Channel"tvg-id="Paramount Channel"tvg-logo="http://logo.plusx.tv/logo/Paramount%20Channel%20HD.png"group-title="Film",Paramount Channel
@@ -835,6 +1155,24 @@ http://194.145.202.71:8087/udp/239.254.1.40:6060
 http://194.145.202.71:8087/udp/239.254.4.109:6060
 #EXTINF:-1 tvg-name="Extreme Sports"tvg-id="Extreme Sports"tvg-logo="https://e7.pngegg.com/pngimages/691/770/png-clipart-extreme-sports-channel-television-channel-others-miscellaneous-television.png"group-title="Sport",Extreme Sports
 http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43001&extension=ts&play_token=zKZ4EMGfrB
+#EXTINF:-1 tvg-name="<<<<<<<<<<<< 4K >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< 4K >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< 4K >>>>>>>>>>>>
+https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
+#EXTINF:-1 tvg-name="Fashion TV 4K"tvg-id="Fashion TV 4K"tvg-logo=""group-title="4K",Fashion TV 4K
+http://194.145.202.71:8087/udp/239.254.1.151:6060
+#EXTINF:-1 tvg-name="Jazz 4K"tvg-id="Jazz 4K"tvg-logo=""group-title="4K",Jazz 4K
+http://194.145.202.71:8087/udp/239.254.1.254:6060
+#EXTINF:-1 tvg-name="|PL| Canal+ 4K Ultra HD"tvg-id="|PL| Canal+ 4K Ultra HD"tvg-logo=""group-title="4K",|PL| Canal+ 4K Ultra HD
+http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448896
+#EXTINF:-1 tvg-name="|PL| Canal+ 4K Ultra HD"tvg-id="|PL| Canal+ 4K Ultra HD"tvg-logo=""group-title="4K",|PL| Canal+ 4K Ultra HD
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/448896
+#EXTINF:-1 tvg-name="|PL| Canal+ 4K Ultra HD"tvg-id="|PL| Canal+ 4K Ultra HD"tvg-logo=""group-title="4K",|PL| Canal+ 4K Ultra HD
+http://gediz.online:8080/EYL7548/SER5286F/395334
+#EXTINF:-1 tvg-name="Eleven Sports 1 4K PL"tvg-id="Eleven Sports 1 4K PL"tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg"group-title="4K",Eleven Sports 1 4K PL
+http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/118089
+#EXTINF:-1 tvg-name="PL: ELEVEN SPORTS 1 4K"tvg-id="PL: ELEVEN SPORTS 1 4K"tvg-logo="https://imagizer.imageshack.com/img924/1839/UCHOgS.png"group-title="4K",PL: ELEVEN SPORTS 1 4K
+http://gediz.online:8080/EYL7548/SER5286F/395333
+#EXTINF:-1 tvg-name="|PL| Ultra TV 4K"tvg-id="|PL| Ultra TV 4K"tvg-logo=""group-title="4K",|PL| Ultra TV 4K
+http://pandar.cc:25461/Franz0511/D5ES4YITZG/448933
 #EXTINF:-1 tvg-name="<<<<<<<<<<<< EXTRA >>>>>>>>>>>>"tvg-id="<<<<<<<<<<<< EXTRA >>>>>>>>>>>>"tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",<<<<<<<<<<<< EXTRA >>>>>>>>>>>>
 https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Barely Legal
@@ -889,8 +1227,6 @@ http://194.145.202.71:8087/udp/239.254.1.128:6060
 http://194.145.202.71:8087/udp/239.254.1.152:6060
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Bartsat HD
 http://194.145.202.71:8087/udp/239.254.1.150:6060
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Fashion TV 4K
-http://194.145.202.71:8087/udp/239.254.1.151:6060
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Echo24 HD
 http://194.145.202.71:8087/udp/239.254.1.171:6060
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Novelas+ HD
@@ -903,8 +1239,6 @@ http://194.145.202.71:8087/udp/239.254.1.208:6060
 http://194.145.202.71:8087/udp/239.254.1.241:6060
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Bollywood HD
 http://194.145.202.71:8087/udp/239.254.1.238:6060
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Jazz 4K
-http://194.145.202.71:8087/udp/239.254.1.254:6060
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",Lubelska TV HD
 http://194.145.202.71:8087/udp/239.254.4.20:6060
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TV Okazje HD
@@ -1025,32 +1359,18 @@ http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72630
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72631
 #EXTINF:-1 tvg-name=" Ale kino  HD"tvg-id=""tvg-logo=""group-title="EXTRA",Ale kino  HD
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72632
-#EXTINF:-1 tvg-name=" AMC"tvg-id=""tvg-logo=""group-title="EXTRA",AMC
-http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72633
 #EXTINF:-1 tvg-name=" Animal Planet HD"tvg-id=""tvg-logo=""group-title="EXTRA",Animal Planet HD
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72634
 #EXTINF:-1 tvg-name=" ATM Rozrywka TV"tvg-id=""tvg-logo=""group-title="EXTRA",ATM Rozrywka TV
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72635
-#EXTINF:-1 tvg-name=" AXN Black"tvg-id=""tvg-logo=""group-title="EXTRA",AXN Black
-http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72637
-#EXTINF:-1 tvg-name=" AXN SPIN HD"tvg-id=""tvg-logo=""group-title="EXTRA",AXN SPIN HD
-http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72639
-#EXTINF:-1 tvg-name=" AXN White"tvg-id=""tvg-logo=""group-title="EXTRA",AXN White
-http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72640
 #EXTINF:-1 tvg-name=" BBC Earth HD"tvg-id=""tvg-logo=""group-title="EXTRA",BBC Earth HD
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72641
 #EXTINF:-1 tvg-name=" BBC FIRST"tvg-id=""tvg-logo=""group-title="EXTRA",BBC FIRST
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72642
 #EXTINF:-1 tvg-name=" Boomerang HD"tvg-id=""tvg-logo=""group-title="EXTRA",Boomerang HD
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72643
-#EXTINF:-1 tvg-name=" CANAL  FAMILY HD"tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  FAMILY HD
-http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72645
-#EXTINF:-1 tvg-name=" CANAL  FILM HD"tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  FILM HD
-http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72646
 #EXTINF:-1 tvg-name=" CANAL  NOW"tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  NOW
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72647
-#EXTINF:-1 tvg-name=" CANAL  SERIALE HD"tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  SERIALE HD
-http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72648
 #EXTINF:-1 tvg-name=" CANAL  SPORT 2 HD"tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  SPORT 2 HD
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72649
 #EXTINF:-1 tvg-name=" CANAL  SPORT 3 HD"tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  SPORT 3 HD
@@ -1059,18 +1379,12 @@ http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72650
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72651
 #EXTINF:-1 tvg-name=" CANAL  SPORT HD"tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  SPORT HD
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72652
-#EXTINF:-1 tvg-name=" CANAL 1 HD"tvg-id=""tvg-logo=""group-title="EXTRA",CANAL 1 HD
-http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72653
 #EXTINF:-1 tvg-name=" Cartoon Network HD"tvg-id=""tvg-logo=""group-title="EXTRA",Cartoon Network HD
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72654
 #EXTINF:-1 tvg-name=" CBS Europa HD"tvg-id=""tvg-logo=""group-title="EXTRA",CBS Europa HD
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72655
 #EXTINF:-1 tvg-name=" CBS Reality HD"tvg-id=""tvg-logo=""group-title="EXTRA",CBS Reality HD
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72656
-#EXTINF:-1 tvg-name=" Cinemax 2 HD"tvg-id=""tvg-logo=""group-title="EXTRA",Cinemax 2 HD
-http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72658
-#EXTINF:-1 tvg-name=" Cinemax HD"tvg-id=""tvg-logo=""group-title="EXTRA",Cinemax HD
-http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72659
 #EXTINF:-1 tvg-name=" Da Vinci"tvg-id=""tvg-logo=""group-title="EXTRA",Da Vinci
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72660
 #EXTINF:-1 tvg-name=" Disco Polo Music"tvg-id=""tvg-logo=""group-title="EXTRA",Disco Polo Music
@@ -1135,12 +1449,6 @@ http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72693
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72695
 #EXTINF:-1 tvg-name=" Golf Channel"tvg-id=""tvg-logo=""group-title="EXTRA",Golf Channel
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72696
-#EXTINF:-1 tvg-name=" HBO HD"tvg-id=""tvg-logo=""group-title="EXTRA",HBO HD
-http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72697
-#EXTINF:-1 tvg-name=" HBO2 HD"tvg-id=""tvg-logo=""group-title="EXTRA",HBO2 HD
-http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72698
-#EXTINF:-1 tvg-name=" HBO3 HD"tvg-id=""tvg-logo=""group-title="EXTRA",HBO3 HD
-http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72699
 #EXTINF:-1 tvg-name=" ID HD"tvg-id=""tvg-logo=""group-title="EXTRA",ID HD
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72702
 #EXTINF:-1 tvg-name=" KINO POLSKA HD"tvg-id=""tvg-logo=""group-title="EXTRA",KINO POLSKA HD
@@ -1399,36 +1707,16 @@ http://justwi.top:8080/44169522493300/21695224933323/10228
 http://justwi.top:8080/44169522493300/21695224933323/10185
 #EXTINF:-1 tvg-name="PL: CANAL+ DISCOVERY"tvg-id=""tvg-logo="https://docdog.top/logo/countries/poland/discoverychannel.png"group-title="EXTRA",PL: CANAL+ DISCOVERY
 http://justwi.top:8080/44169522493300/21695224933323/10122
-#EXTINF:-1 tvg-name="PL: CANAL+ FILM"tvg-id="Canal+ Film"tvg-logo="https://docdog.top/logo/countries/poland/canalfilm.png"group-title="EXTRA",PL: CANAL+ FILM
-http://justwi.top:8080/44169522493300/21695224933323/10125
 #EXTINF:-1 tvg-name="PL: FILMBOX PREMIUM"tvg-id="Filmbox Premium HD"tvg-logo="https://docdog.top/logo/countries/poland/filmboxpremium.png"group-title="EXTRA",PL: FILMBOX PREMIUM
 http://justwi.top:8080/44169522493300/21695224933323/10169
-#EXTINF:-1 tvg-name="PL: HBO"tvg-id="HBO"tvg-logo="https://docdog.top/logo/countries/poland/hbo.png"group-title="EXTRA",PL: HBO
-http://justwi.top:8080/44169522493300/21695224933323/10176
-#EXTINF:-1 tvg-name="PL: HBO 2"tvg-id="HBO 2"tvg-logo="https://docdog.top/logo/countries/poland/hbo2.png"group-title="EXTRA",PL: HBO 2
-http://justwi.top:8080/44169522493300/21695224933323/10177
-#EXTINF:-1 tvg-name="PL: HBO 3"tvg-id="HBO 3"tvg-logo="https://docdog.top/logo/countries/poland/hbo3.png"group-title="EXTRA",PL: HBO 3
-http://justwi.top:8080/44169522493300/21695224933323/10178
 #EXTINF:-1 tvg-name="PL: FOKUS TV"tvg-id="Fokus TV"tvg-logo="https://docdog.top/logo/countries/poland/fokustv.png"group-title="EXTRA",PL: FOKUS TV
 http://justwi.top:8080/44169522493300/21695224933323/10170
 #EXTINF:-1 tvg-name="PL: KUCHINA"tvg-id="Canal+ Kuchnia"tvg-logo="https://docdog.top/logo/countries/poland/Poland.png"group-title="EXTRA",PL: KUCHINA
 http://justwi.top:8080/44169522493300/21695224933323/10184
 #EXTINF:-1 tvg-name="PL: FOX"tvg-id="FOX"tvg-logo="https://docdog.top/logo/countries/poland/fox.png"group-title="EXTRA",PL: FOX
 http://justwi.top:8080/44169522493300/21695224933323/10172
-#EXTINF:-1 tvg-name="PL: AXN"tvg-id="AXN"tvg-logo="https://docdog.top/logo/countries/poland/axn.png"group-title="EXTRA",PL: AXN
-http://justwi.top:8080/44169522493300/21695224933323/10110
-#EXTINF:-1 tvg-name="PL: AXN BLACK"tvg-id="AXN Black"tvg-logo="https://docdog.top/logo/countries/poland/axnblack.png"group-title="EXTRA",PL: AXN BLACK
-http://justwi.top:8080/44169522493300/21695224933323/10111
-#EXTINF:-1 tvg-name="PL: AXN SPIN"tvg-id="AXN Spin"tvg-logo="https://docdog.top/logo/countries/poland/axnspin.png"group-title="EXTRA",PL: AXN SPIN
-http://justwi.top:8080/44169522493300/21695224933323/10112
 #EXTINF:-1 tvg-name="PL: VIVA POLSKA"tvg-id="VIVA Polska"tvg-logo="https://docdog.top/logo/countries/poland/vivapolska.png"group-title="EXTRA",PL: VIVA POLSKA
 http://justwi.top:8080/44169522493300/21695224933323/10259
-#EXTINF:-1 tvg-name="PL: AMC"tvg-id="AMC"tvg-logo="https://docdog.top/logo/countries/poland/amc.png"group-title="EXTRA",PL: AMC
-http://justwi.top:8080/44169522493300/21695224933323/10107
-#EXTINF:-1 tvg-name="PL: CINEMAX"tvg-id="Cinemax"tvg-logo="https://docdog.top/logo/countries/poland/cinemax.png"group-title="EXTRA",PL: CINEMAX
-http://justwi.top:8080/44169522493300/21695224933323/10134
-#EXTINF:-1 tvg-name="PL: CINEMAX 2"tvg-id="Cinemax 2"tvg-logo="https://docdog.top/logo/countries/poland/cinemax2.png"group-title="EXTRA",PL: CINEMAX 2
-http://justwi.top:8080/44169522493300/21695224933323/10135
 #EXTINF:-1 tvg-name="PL: TVP SERIALE"tvg-id="TVP Seriale"tvg-logo="https://docdog.top/logo/countries/poland/tvpseriale.png"group-title="EXTRA",PL: TVP SERIALE
 http://justwi.top:8080/44169522493300/21695224933323/10256
 #EXTINF:-1 tvg-name="PL: PARAMOUNT CHANNEL"tvg-id="Paramount Channel"tvg-logo="https://docdog.top/logo/countries/poland/paramountchannel.png"group-title="EXTRA",PL: PARAMOUNT CHANNEL
@@ -1497,10 +1785,6 @@ http://37.48.101.149:7021/play/a007/index.m3u8
 http://37.48.101.149:7021/play/a015/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="history2.pl"tvg-logo=""group-title="EXTRA",H2 HD
 http://37.48.101.149:7021/play/a008/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",HBO2 HD
-http://37.48.101.149:7021/play/a01h/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",HBO3 HD
-http://37.48.101.149:7021/play/a01i/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="kinopolska.pl"tvg-logo=""group-title="EXTRA",KINO POLSKA HD
 http://37.48.101.149:7021/play/a016/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="mtvmusic.pl"tvg-logo=""group-title="EXTRA",MTV Music
@@ -1517,10 +1801,6 @@ http://37.48.101.149:7018/play/a01w/index.m3u8
 http://37.48.101.149:7018/play/a00b/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="boomerang.pl"tvg-logo=""group-title="EXTRA",Boomerang HD
 http://37.48.101.149:7018/play/a00h/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="canalfilm.pl"tvg-logo=""group-title="EXTRA",CANAL+ FILM HD
-http://37.48.101.149:7018/play/a024/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="canalseriale.pl"tvg-logo=""group-title="EXTRA",CANAL+ SERIALE HD
-http://37.48.101.149:7018/play/a026/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="davinci.pl"tvg-logo=""group-title="EXTRA",Da Vinci
 http://37.48.101.149:7018/play/a01i/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="epicdrama.pl"tvg-logo=""group-title="EXTRA",Epic Drama HD
@@ -1567,14 +1847,10 @@ http://37.48.101.149:7018/play/a01y/index.m3u8
 http://37.48.101.149:7018/play/a01u/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="wpolsce.pl"tvg-logo=""group-title="EXTRA",wPolsce.pl
 http://37.48.101.149:7018/play/a01s/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",AXN HD
-http://37.48.101.149:7017/play/a02l/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="babytv.pl"tvg-logo=""group-title="EXTRA",Baby TV
 http://37.48.101.149:7017/play/a01y/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="brazzers.pl"tvg-logo=""group-title="EXTRA",Brazzers HD
 http://37.48.101.149:7017/play/a02d/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="cinemax2.pl"tvg-logo=""group-title="EXTRA",Cinemax 2 HD
-http://37.48.101.149:7017/play/a00o/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="fox.pl"tvg-logo=""group-title="EXTRA",FOX HD
 http://37.48.101.149:7017/play/a017/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="foxcomedy.pl"tvg-logo=""group-title="EXTRA",Fox Comedy HD
@@ -1631,14 +1907,6 @@ http://p1.proiptv.co:25461/02029662891331/02029662891331/94797
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94798
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",POLSAT RODZINA
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94800
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL 1 HD
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94803
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  FAMILY HD
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94804
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  FILM HD
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94805
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CANAL  SERIALE HD
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94806
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FILMBOX PREMIUM HD
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94810
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FILMBOX ACTION
@@ -1647,16 +1915,6 @@ http://p1.proiptv.co:25461/02029662891331/02029662891331/94811
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94812
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FILMBOX ARTHOUSE
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94813
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CINEMAX HD
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94814
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",CINEMAX 2 HD
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94815
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",HBO HD
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94816
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",HBO 2 HD
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94817
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",HBO 3 HD
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94818
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",VOD 205
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94819
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",VOD 207
@@ -1667,20 +1925,10 @@ http://p1.proiptv.co:25461/02029662891331/02029662891331/94822
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94824
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",FOX COMEDY HD
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94825
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",AXN HD
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94826
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",AXN WHITE
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94828
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",AXN BLACK
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94829
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",AXN SPIN HD
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94830
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",13 ULICA HD
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94832
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",E! ENTERTAINMENT
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94833
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",AMC
-http://p1.proiptv.co:25461/02029662891331/02029662891331/94840
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TVP KULTURA
 http://p1.proiptv.co:25461/02029662891331/02029662891331/94841
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",TRAVEL CHANNEL HD
@@ -1927,14 +2175,6 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94797
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94798
 #EXTINF:-1 tvg-name="|PL| POLSAT RODZINA"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Rodzina.png"group-title="EXTRA",|PL| POLSAT RODZINA
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94800
-#EXTINF:-1 tvg-name="|PL| CANAL 1 HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+1_HD.png"group-title="EXTRA",|PL| CANAL 1 HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94803
-#EXTINF:-1 tvg-name="|PL| CANAL  FAMILY HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+FAMILY_HD.png"group-title="EXTRA",|PL| CANAL  FAMILY HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94804
-#EXTINF:-1 tvg-name="|PL| CANAL  FILM HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+FILM_HD.png"group-title="EXTRA",|PL| CANAL  FILM HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94805
-#EXTINF:-1 tvg-name="|PL| CANAL  SERIALE HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+SERIALE_HD.png"group-title="EXTRA",|PL| CANAL  SERIALE HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94806
 #EXTINF:-1 tvg-name="|PL| FILMBOX PREMIUM HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Filmbox_Premium_HD.png"group-title="EXTRA",|PL| FILMBOX PREMIUM HD
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94810
 #EXTINF:-1 tvg-name="|PL| FILMBOX ACTION"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/FilmBox_Action.png"group-title="EXTRA",|PL| FILMBOX ACTION
@@ -1943,16 +2183,6 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94811
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94812
 #EXTINF:-1 tvg-name="|PL| FILMBOX ARTHOUSE"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Filmbox_Arthouse.png"group-title="EXTRA",|PL| FILMBOX ARTHOUSE
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94813
-#EXTINF:-1 tvg-name="|PL| CINEMAX HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Cinemax HD.png"group-title="EXTRA",|PL| CINEMAX HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94814
-#EXTINF:-1 tvg-name="|PL| CINEMAX 2 HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Cinemax_2_HD.png"group-title="EXTRA",|PL| CINEMAX 2 HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94815
-#EXTINF:-1 tvg-name="|PL| HBO HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/HBO_HD.png"group-title="EXTRA",|PL| HBO HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94816
-#EXTINF:-1 tvg-name="|PL| HBO 2 HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/HBO2_HD.png"group-title="EXTRA",|PL| HBO 2 HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94817
-#EXTINF:-1 tvg-name="|PL| HBO 3 HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/HBO3_HD.png"group-title="EXTRA",|PL| HBO 3 HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94818
 #EXTINF:-1 tvg-name="|PL| VOD 205"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/VOD_205.png"group-title="EXTRA",|PL| VOD 205
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94819
 #EXTINF:-1 tvg-name="|PL| VOD 207"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/VOD_207.png"group-title="EXTRA",|PL| VOD 207
@@ -1963,20 +2193,10 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94822
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94824
 #EXTINF:-1 tvg-name="|PL| FOX COMEDY HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Fox_Comedy_HD.png"group-title="EXTRA",|PL| FOX COMEDY HD
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94825
-#EXTINF:-1 tvg-name="|PL| AXN HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AXN_HD.png"group-title="EXTRA",|PL| AXN HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94826
-#EXTINF:-1 tvg-name="|PL| AXN WHITE"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AXN_White.png"group-title="EXTRA",|PL| AXN WHITE
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94828
-#EXTINF:-1 tvg-name="|PL| AXN BLACK"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AXN_Black.png"group-title="EXTRA",|PL| AXN BLACK
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94829
-#EXTINF:-1 tvg-name="|PL| AXN SPIN HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AXN_SPIN_HD.png"group-title="EXTRA",|PL| AXN SPIN HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94830
 #EXTINF:-1 tvg-name="|PL| 13 ULICA HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/13_Ulica_HD.png"group-title="EXTRA",|PL| 13 ULICA HD
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94832
 #EXTINF:-1 tvg-name="|PL| E! ENTERTAINMENT"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/E!_Entertainment.png"group-title="EXTRA",|PL| E! ENTERTAINMENT
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94833
-#EXTINF:-1 tvg-name="|PL| AMC"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AMC.png"group-title="EXTRA",|PL| AMC
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94840
 #EXTINF:-1 tvg-name="|PL| TVP KULTURA"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/TVP_Kultura_HD.png"group-title="EXTRA",|PL| TVP KULTURA
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94841
 #EXTINF:-1 tvg-name="|PL| TRAVEL CHANNEL HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Travel_Channel HD.png"group-title="EXTRA",|PL| TRAVEL CHANNEL HD
@@ -2225,10 +2445,6 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448891
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448892
 #EXTINF:-1 tvg-name="|PL| TVC SD"tvg-id=""tvg-logo=""group-title="EXTRA",|PL| TVC SD
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448893
-#EXTINF:-1 tvg-name="|PL| Canal+ 4K Ultra HD"tvg-id=""tvg-logo=""group-title="EXTRA",|PL| Canal+ 4K Ultra HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448896
-#EXTINF:-1 tvg-name="|PL| CANAL + PREMIUM HD"tvg-id=""tvg-logo=""group-title="EXTRA",|PL| CANAL + PREMIUM HD
-http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448897
 #EXTINF:-1 tvg-name="|PL| CANAL + NOW"tvg-id=""tvg-logo=""group-title="EXTRA",|PL| CANAL + NOW
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448898
 #EXTINF:-1 tvg-name="|PL| HomeTV HD"tvg-id=""tvg-logo=""group-title="EXTRA",|PL| HomeTV HD
@@ -2309,18 +2525,8 @@ http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/67603
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/37054
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: Ale Kino+
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/339
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: AMC
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/26539
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: ANIMAL PLANET
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/1717
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: AXN
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/3227
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: AXN Black
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/2715
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: AXN Spin
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/23186
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: AXN White
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/340
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: Baby TV
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/37890
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: BBC Brit Polska
@@ -2333,24 +2539,16 @@ http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/26545
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/122184
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: Biznes 24
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/276488
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: CANAL+ 1
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/24247
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: CANAL+ Dokument
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/2720
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: CANAL+ Domo
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/2695
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: CANAL+ Family
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/147180
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: CANAL+ Film
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/1714
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: CANAL+ Kuchnia
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/1703
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: CANAL+ Now
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/122183
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: CANAL+ Premium
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/341
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: CANAL+ Seriale
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/342
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: CANAL+ Sport
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/69426
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: CANAL+ Sport 2
@@ -2369,10 +2567,6 @@ http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/41868
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/26210
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: CBS Reality
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/3224
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: Cinemax
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/345
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: Cinemax 2
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/1712
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: Comedy Central
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/16675
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: Comedy Central Extra
@@ -2445,12 +2639,6 @@ http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/16650
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/3235
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: Golf Channel
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/26575
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: HBO
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/10194
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: HBO 2
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/3217
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: HBO 3
-http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/1704
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: HGTV
 http://premiumiptvmk.com:8080/cipo/TAd9YX7VLaxhjxXt/23202
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA",PL: History
@@ -2697,32 +2885,12 @@ http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24779
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24780
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",TVP 2 PL
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24782
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",HBO 1 FHD PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24783
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",HBO 1 HD PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24784
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",HBO 2 FHD PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24785
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",HBO 2 HD PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24786
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",HBO 3 HD PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24787
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",Canal+ Film FHD PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24791
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",Canal+ Seriale HD PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24795
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",Polsat Film FHD PL
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24796
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",Polsat Film HD PL
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24797
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",Polsat Film PL
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24798
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",AXN FHD PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24799
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",AXN HD PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24800
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",AXN White PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24802
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",FOX FHD PL
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24805
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",FOX PL
@@ -2739,12 +2907,6 @@ http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24812
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24813
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",Filmbox Family PL
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24814
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",CineMax 1 FHD PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24816
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",CineMax 1 HD PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24817
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",Cinemax 2 FHD PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24818
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",CBS Europe HD PL
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24819
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",CBS Reality PL
@@ -2775,10 +2937,6 @@ http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24833
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24834
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",TNT PL
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24835
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",AMC FHD PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24836
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",AMC PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24837
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",Active Family PL
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/24838
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",TVN Fabula FHD PL
@@ -3033,8 +3191,6 @@ http://1903.full57.us:8000/fidan/Ud8bQBtWdA/25059
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/25061
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",TVR PL
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/25063
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",AXN PL
-http://1903.full57.us:8000/fidan/Ud8bQBtWdA/25065
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",Polsat Comedy Central FHD PL
 http://1903.full57.us:8000/fidan/Ud8bQBtWdA/25067
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="EXTRA 2",Motowizja FHD PL
@@ -3053,16 +3209,6 @@ http://1903.full57.us:8000/fidan/Ud8bQBtWdA/25087
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15100
 #EXTINF:-1 tvg-name="Adventure HD PL"tvg-id="Adventure.pl"tvg-logo="https://picon-13398.kxcdn.com/adventurehd.jpg"group-title="EXTRA 2",Adventure HD PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15205
-#EXTINF:-1 tvg-name="AMC Polska FHD PL"tvg-id="AMC.pl"tvg-logo="https://picon-13398.kxcdn.com/amc.jpg"group-title="EXTRA 2",AMC Polska FHD PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15218
-#EXTINF:-1 tvg-name="AXN Black PL"tvg-id="AXNBlack.pl"tvg-logo="https://picon-13398.kxcdn.com/axnblack.jpg"group-title="EXTRA 2",AXN Black PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/11512
-#EXTINF:-1 tvg-name="AXN Polska HD PL"tvg-id="AXN.pl"tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg"group-title="EXTRA 2",AXN Polska HD PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/11699
-#EXTINF:-1 tvg-name="AXN Spin HD PL"tvg-id="AXNSpin.pl"tvg-logo="https://picon-13398.kxcdn.com/axnspinhd.jpg"group-title="EXTRA 2",AXN Spin HD PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/11629
-#EXTINF:-1 tvg-name="AXN White PL"tvg-id="AXNWhite.pl"tvg-logo="https://picon-13398.kxcdn.com/axnwhite.jpg"group-title="EXTRA 2",AXN White PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/11513
 #EXTINF:-1 tvg-name="Ale kino+ FHD PL"tvg-id="AleKino.pl"tvg-logo="https://picon-13398.kxcdn.com/alekinoplushd.jpg"group-title="EXTRA 2",Ale kino+ FHD PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15219
 #EXTINF:-1 tvg-name="Animal Planet HD PL"tvg-id="AnimalPlanet.pl"tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg"group-title="EXTRA 2",Animal Planet HD PL
@@ -3071,34 +3217,20 @@ http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/13540
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/13537
 #EXTINF:-1 tvg-name="Boomerang HD PL"tvg-id="Boomerang.pl"tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg"group-title="EXTRA 2",Boomerang HD PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/11522
-#EXTINF:-1 tvg-name="Canal+ 1 FHD PL"tvg-id="CanalPlus1.pl"tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg"group-title="EXTRA 2",Canal+ 1 FHD PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15204
 #EXTINF:-1 tvg-name="Canal+ Dokument FHD PL"tvg-id="CanalPlusDokument.pl"tvg-logo="https://picon-13398.kxcdn.com/canalplusdocumentpl.jpg"group-title="EXTRA 2",Canal+ Dokument FHD PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15217
-#EXTINF:-1 tvg-name="Canal+ Family FHD PL"tvg-id="CanalPlusFamily.pl"tvg-logo="https://picon-13398.kxcdn.com/canalplusfamily.jpg"group-title="EXTRA 2",Canal+ Family FHD PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15216
-#EXTINF:-1 tvg-name="Canal+ Film FHD PL"tvg-id="CanalPlusFilm.pl"tvg-logo="https://picon-13398.kxcdn.com/canalplusfilmhd.jpg"group-title="EXTRA 2",Canal+ Film FHD PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15215
 #EXTINF:-1 tvg-name="Motowizja FHD PL"tvg-id="MotowizjaTV.pl"tvg-logo="https://picon-13398.kxcdn.com/motowizjatv.jpg"group-title="EXTRA 2",Motowizja FHD PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/19153
-#EXTINF:-1 tvg-name="Canal+ Seriale FHD PL"tvg-id="CanalPlusSeriale.pl"tvg-logo="https://picon-13398.kxcdn.com/canalplusserialehd.jpg"group-title="EXTRA 2",Canal+ Seriale FHD PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15214
 #EXTINF:-1 tvg-name="WP Telewizja PL"tvg-id="WPTelewizja.pl"tvg-logo="https://picon-13398.kxcdn.com/wptvpl.jpg"group-title="EXTRA 2",WP Telewizja PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/11517
 #EXTINF:-1 tvg-name="CBS Europa FHD PL"tvg-id="CBSEuropa.pl"tvg-logo="https://picon-13398.kxcdn.com/cbseuropa.jpg"group-title="EXTRA 2",CBS Europa FHD PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15202
 #EXTINF:-1 tvg-name="CBS Reality PL"tvg-id="CBSReality.pl"tvg-logo="https://picon-13398.kxcdn.com/cbsreality.jpg"group-title="EXTRA 2",CBS Reality PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/11518
-#EXTINF:-1 tvg-name="Canal + Premium FHD PL"tvg-id="CanalPlusPremium.pl"tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg"group-title="EXTRA 2",Canal + Premium FHD PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/13530
 #EXTINF:-1 tvg-name="Canal+ Sport FHD PL"tvg-id="CanalPlusSport.pl"tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg"group-title="EXTRA 2",Canal+ Sport FHD PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/13535
 #EXTINF:-1 tvg-name="Canal+ Sport 2 FHD PL"tvg-id="CanalPlusSport2.pl"tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg"group-title="EXTRA 2",Canal+ Sport 2 FHD PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15709
-#EXTINF:-1 tvg-name="Cinemax HD PL"tvg-id="Cinemax.pl"tvg-logo="https://picon-13398.kxcdn.com/cinemaxhd.jpg"group-title="EXTRA 2",Cinemax HD PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15710
-#EXTINF:-1 tvg-name="Cinemax 2 HD PL"tvg-id="Cinemax2.pl"tvg-logo="https://picon-13398.kxcdn.com/cinemax2hd.jpg"group-title="EXTRA 2",Cinemax 2 HD PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15099
 #EXTINF:-1 tvg-name="Crime & Investigation FHD PL"tvg-id="CIPolsat.pl"tvg-logo="https://picon-13398.kxcdn.com/crimeandinvest.jpg"group-title="EXTRA 2",Crime & Investigation FHD PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/24146
 #EXTINF:-1 tvg-name="Canal+ Domo FHD PL"tvg-id="Domo.pl"tvg-logo="https://picon-13398.kxcdn.com/canalplusdomoczsk.jpg"group-title="EXTRA 2",Canal+ Domo FHD PL
@@ -3149,12 +3281,6 @@ http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/11698
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/11697
 #EXTINF:-1 tvg-name="H2 Polska HD PL"tvg-id="History2.pl"tvg-logo="https://picon-13398.kxcdn.com/h2hd.jpg"group-title="EXTRA 2",H2 Polska HD PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15093
-#EXTINF:-1 tvg-name="HBO FHD PL"tvg-id="HBO.pl"tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg"group-title="EXTRA 2",HBO FHD PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/13526
-#EXTINF:-1 tvg-name="HBO 2 HD PL"tvg-id="HBO2.pl"tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg"group-title="EXTRA 2",HBO 2 HD PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/13527
-#EXTINF:-1 tvg-name="HBO 3 HD PL"tvg-id="HBO3.pl"tvg-logo="https://picon-13398.kxcdn.com/hbo3hd.jpg"group-title="EXTRA 2",HBO 3 HD PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15092
 #EXTINF:-1 tvg-name="History HD PL"tvg-id="History.pl"tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg"group-title="EXTRA 2",History HD PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/15091
 #EXTINF:-1 tvg-name="Kino Polska Muzyka PL"tvg-id="KinoPolskaMuzyka.pl"tvg-logo="https://picon-13398.kxcdn.com/kinopolskamuzyka.jpg"group-title="EXTRA 2",Kino Polska Muzyka PL
@@ -3389,8 +3515,6 @@ http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/88256
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/88257
 #EXTINF:-1 tvg-name="Canal+ Now FHD PL"tvg-id="ext"tvg-logo="https://picon-13398.kxcdn.com/canalplusnowpl.jpg"group-title="EXTRA 2",Canal+ Now FHD PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/29051
-#EXTINF:-1 tvg-name="Eleven Sports 1 4K PL"tvg-id="ElevenSport1.pl"tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg"group-title="EXTRA 2",Eleven Sports 1 4K PL
-http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/118089
 #EXTINF:-1 tvg-name="TVP Dokument FHD PL"tvg-id="TVPDokument.pl"tvg-logo=""group-title="EXTRA 2",TVP Dokument FHD PL
 http://clientportal.link:80/RqFqZvGfav634/i4ihGR814/119956
 #EXTINF:-1 tvg-name="PL: POLSAT CAFE FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: POLSAT CAFE FHD
@@ -3413,18 +3537,6 @@ http://iptvch.com:2082/sorayachooban/so204717463x/250428
 http://iptvch.com:2082/sorayachooban/so204717463x/250429
 #EXTINF:-1 tvg-name="PL: TVP INFO HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: TVP INFO HD
 http://iptvch.com:2082/sorayachooban/so204717463x/250430
-#EXTINF:-1 tvg-name="PL: AXN WHITE"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: AXN WHITE
-http://iptvch.com:2082/sorayachooban/so204717463x/250431
-#EXTINF:-1 tvg-name="PL: CANAL+ FAMILY FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL+ FAMILY FHD
-http://iptvch.com:2082/sorayachooban/so204717463x/250433
-#EXTINF:-1 tvg-name="PL: CANAL+ SERIALE FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL+ SERIALE FHD
-http://iptvch.com:2082/sorayachooban/so204717463x/250434
-#EXTINF:-1 tvg-name="PL: HBO FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: HBO FHD
-http://iptvch.com:2082/sorayachooban/so204717463x/250437
-#EXTINF:-1 tvg-name="PL: HBO 2 FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: HBO 2 FHD
-http://iptvch.com:2082/sorayachooban/so204717463x/250438
-#EXTINF:-1 tvg-name="PL: HBO 3 HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: HBO 3 HD
-http://iptvch.com:2082/sorayachooban/so204717463x/250439
 #EXTINF:-1 tvg-name="PL: KINO POLSKA FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: KINO POLSKA FHD
 http://iptvch.com:2082/sorayachooban/so204717463x/250440
 #EXTINF:-1 tvg-name="PL: TV 4 FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: TV 4 FHD
@@ -3447,18 +3559,12 @@ http://iptvch.com:2082/sorayachooban/so204717463x/250465
 http://iptvch.com:2082/sorayachooban/so204717463x/250466
 #EXTINF:-1 tvg-name="PL: TVP SERIALE FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: TVP SERIALE FHD
 http://iptvch.com:2082/sorayachooban/so204717463x/250473
-#EXTINF:-1 tvg-name="PL: CANAL+ FILM HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL+ FILM HD
-http://iptvch.com:2082/sorayachooban/so204717463x/250476
 #EXTINF:-1 tvg-name="PL: CANAL+ NOW FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL+ NOW FHD
 http://iptvch.com:2082/sorayachooban/so204717463x/250477
-#EXTINF:-1 tvg-name="PL: CANAL+ PREMIUM FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL+ PREMIUM FHD
-http://iptvch.com:2082/sorayachooban/so204717463x/250478
 #EXTINF:-1 tvg-name="PL: ALE KINO+ FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: ALE KINO+ FHD
 http://iptvch.com:2082/sorayachooban/so204717463x/250481
 #EXTINF:-1 tvg-name="PL: 13 ULICA FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: 13 ULICA FHD
 http://iptvch.com:2082/sorayachooban/so204717463x/250482
-#EXTINF:-1 tvg-name="PL: CINEMAX FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CINEMAX FHD
-http://iptvch.com:2082/sorayachooban/so204717463x/250490
 #EXTINF:-1 tvg-name="PL: FILMBOX ARTHOUSE"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: FILMBOX ARTHOUSE
 http://iptvch.com:2082/sorayachooban/so204717463x/250492
 #EXTINF:-1 tvg-name="PL: FILMBOX FAMILY"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: FILMBOX FAMILY
@@ -3553,18 +3659,10 @@ http://gediz.online:8080/EYL7548/SER5286F/395195
 http://gediz.online:8080/EYL7548/SER5286F/395196
 #EXTINF:-1 tvg-name="PL: Ale kino  HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img923/6751/EGM9S4.png"group-title="EXTRA 2",PL: Ale kino  HD
 http://gediz.online:8080/EYL7548/SER5286F/395197
-#EXTINF:-1 tvg-name="PL: AMC"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img924/9489/Zr7sFm.png"group-title="EXTRA 2",PL: AMC
-http://gediz.online:8080/EYL7548/SER5286F/395198
 #EXTINF:-1 tvg-name="PL: Animal Planet HD"tvg-id=""tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png"group-title="EXTRA 2",PL: Animal Planet HD
 http://gediz.online:8080/EYL7548/SER5286F/395199
 #EXTINF:-1 tvg-name="PL: ATM Rozrywka TV"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: ATM Rozrywka TV
 http://gediz.online:8080/EYL7548/SER5286F/395200
-#EXTINF:-1 tvg-name="PL: AXN Black"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img924/2351/UIGviS.png"group-title="EXTRA 2",PL: AXN Black
-http://gediz.online:8080/EYL7548/SER5286F/395202
-#EXTINF:-1 tvg-name="PL: AXN SPIN HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img923/1746/LbtYf3.png"group-title="EXTRA 2",PL: AXN SPIN HD
-http://gediz.online:8080/EYL7548/SER5286F/395204
-#EXTINF:-1 tvg-name="PL: AXN White"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img923/2160/6CDR7Z.png"group-title="EXTRA 2",PL: AXN White
-http://gediz.online:8080/EYL7548/SER5286F/395205
 #EXTINF:-1 tvg-name="PL: BBC Earth HD"tvg-id=""tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png"group-title="EXTRA 2",PL: BBC Earth HD
 http://gediz.online:8080/EYL7548/SER5286F/395206
 #EXTINF:-1 tvg-name="PL: BBC FIRST"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img923/865/BPL8Rc.png"group-title="EXTRA 2",PL: BBC FIRST
@@ -3573,14 +3671,8 @@ http://gediz.online:8080/EYL7548/SER5286F/395207
 http://gediz.online:8080/EYL7548/SER5286F/395208
 #EXTINF:-1 tvg-name="PL: CANAL  DOKUMENT HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL  DOKUMENT HD
 http://gediz.online:8080/EYL7548/SER5286F/395209
-#EXTINF:-1 tvg-name="PL: CANAL  FAMILY HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img923/4577/qmSykW.png"group-title="EXTRA 2",PL: CANAL  FAMILY HD
-http://gediz.online:8080/EYL7548/SER5286F/395210
-#EXTINF:-1 tvg-name="PL: CANAL  FILM HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img924/9466/KysJtf.png"group-title="EXTRA 2",PL: CANAL  FILM HD
-http://gediz.online:8080/EYL7548/SER5286F/395211
 #EXTINF:-1 tvg-name="PL: CANAL  NOW"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL  NOW
 http://gediz.online:8080/EYL7548/SER5286F/395212
-#EXTINF:-1 tvg-name="PL: CANAL  SERIALE HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img923/1535/j9dCQq.png"group-title="EXTRA 2",PL: CANAL  SERIALE HD
-http://gediz.online:8080/EYL7548/SER5286F/395213
 #EXTINF:-1 tvg-name="PL: CANAL  SPORT 2 HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img922/3451/ezLeNx.png"group-title="EXTRA 2",PL: CANAL  SPORT 2 HD
 http://gediz.online:8080/EYL7548/SER5286F/395214
 #EXTINF:-1 tvg-name="PL: CANAL  SPORT 3 HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL  SPORT 3 HD
@@ -3589,8 +3681,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395215
 http://gediz.online:8080/EYL7548/SER5286F/395216
 #EXTINF:-1 tvg-name="PL: CANAL  SPORT HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img924/7894/H9zjhk.png"group-title="EXTRA 2",PL: CANAL  SPORT HD
 http://gediz.online:8080/EYL7548/SER5286F/395217
-#EXTINF:-1 tvg-name="PL: CANAL 1 HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img923/2710/9N05JA.png"group-title="EXTRA 2",PL: CANAL 1 HD
-http://gediz.online:8080/EYL7548/SER5286F/395218
 #EXTINF:-1 tvg-name="PL: Cartoon Network HD"tvg-id=""tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png"group-title="EXTRA 2",PL: Cartoon Network HD
 http://gediz.online:8080/EYL7548/SER5286F/395219
 #EXTINF:-1 tvg-name="PL: CBS Europa HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img923/2631/qF9Nxx.png"group-title="EXTRA 2",PL: CBS Europa HD
@@ -3599,10 +3689,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395220
 http://gediz.online:8080/EYL7548/SER5286F/395221
 #EXTINF:-1 tvg-name="PL: CI Polsat HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CI Polsat HD
 http://gediz.online:8080/EYL7548/SER5286F/395222
-#EXTINF:-1 tvg-name="PL: Cinemax 2 HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img924/3591/UQJRuu.png"group-title="EXTRA 2",PL: Cinemax 2 HD
-http://gediz.online:8080/EYL7548/SER5286F/395223
-#EXTINF:-1 tvg-name="PL: Cinemax HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img924/8761/Xwhz17.png"group-title="EXTRA 2",PL: Cinemax HD
-http://gediz.online:8080/EYL7548/SER5286F/395224
 #EXTINF:-1 tvg-name="PL: Da Vinci"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img923/1291/QpNNp0.png"group-title="EXTRA 2",PL: Da Vinci
 http://gediz.online:8080/EYL7548/SER5286F/395225
 #EXTINF:-1 tvg-name="PL: Disco Polo Music"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img922/7946/JFa34h.png"group-title="EXTRA 2",PL: Disco Polo Music
@@ -3677,12 +3763,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395259
 http://gediz.online:8080/EYL7548/SER5286F/395260
 #EXTINF:-1 tvg-name="PL: Golf Channel"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img924/4199/q2PT2U.png"group-title="EXTRA 2",PL: Golf Channel
 http://gediz.online:8080/EYL7548/SER5286F/395261
-#EXTINF:-1 tvg-name="PL: HBO HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img922/3554/GJSQnI.png"group-title="EXTRA 2",PL: HBO HD
-http://gediz.online:8080/EYL7548/SER5286F/395262
-#EXTINF:-1 tvg-name="PL: HBO2 HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img924/9321/wmny0E.png"group-title="EXTRA 2",PL: HBO2 HD
-http://gediz.online:8080/EYL7548/SER5286F/395263
-#EXTINF:-1 tvg-name="PL: HBO3 HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img922/7718/HC3XIC.png"group-title="EXTRA 2",PL: HBO3 HD
-http://gediz.online:8080/EYL7548/SER5286F/395264
 #EXTINF:-1 tvg-name="PL: History 2 HD"tvg-id=""tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/h2-latinoamerica-us.png"group-title="EXTRA 2",PL: History 2 HD
 http://gediz.online:8080/EYL7548/SER5286F/395265
 #EXTINF:-1 tvg-name="PL: History HD"tvg-id=""tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png"group-title="EXTRA 2",PL: History HD
@@ -3817,10 +3897,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395329
 http://gediz.online:8080/EYL7548/SER5286F/395331
 #EXTINF:-1 tvg-name="PL: Polsat Comedy Central Extra HD"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img923/2277/IdPXFO.png"group-title="EXTRA 2",PL: Polsat Comedy Central Extra HD
 http://gediz.online:8080/EYL7548/SER5286F/395332
-#EXTINF:-1 tvg-name="PL: ELEVEN SPORTS 1 4K"tvg-id=""tvg-logo="https://imagizer.imageshack.com/img924/1839/UCHOgS.png"group-title="EXTRA 2",PL: ELEVEN SPORTS 1 4K
-http://gediz.online:8080/EYL7548/SER5286F/395333
-#EXTINF:-1 tvg-name="PL: CANAL+ 4K"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL+ 4K
-http://gediz.online:8080/EYL7548/SER5286F/395334
 #EXTINF:-1 tvg-name="|| Live Event PL || Viaplay Xtra 3"tvg-id=""tvg-logo=""group-title="EXTRA 2",|| Live Event PL || Viaplay Xtra 3
 http://gediz.online:8080/EYL7548/SER5286F/353408
 #EXTINF:-1 tvg-name="|| Live Event PL || Viaplay Xtra 4"tvg-id=""tvg-logo=""group-title="EXTRA 2",|| Live Event PL || Viaplay Xtra 4
@@ -3889,14 +3965,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94798
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94800
 #EXTINF:-1 tvg-name="===== PL KINO ====="tvg-id=""tvg-logo="http://vodkom.com:25461/Logo/FLAGS/POLONIA.png"group-title="EXTRA 2",===== PL KINO =====
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94801
-#EXTINF:-1 tvg-name="|PL| CANAL 1 HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+1_HD.png"group-title="EXTRA 2",|PL| CANAL 1 HD
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/94803
-#EXTINF:-1 tvg-name="|PL| CANAL  FAMILY HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+FAMILY_HD.png"group-title="EXTRA 2",|PL| CANAL  FAMILY HD
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/94804
-#EXTINF:-1 tvg-name="|PL| CANAL  FILM HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+FILM_HD.png"group-title="EXTRA 2",|PL| CANAL  FILM HD
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/94805
-#EXTINF:-1 tvg-name="|PL| CANAL  SERIALE HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+SERIALE_HD.png"group-title="EXTRA 2",|PL| CANAL  SERIALE HD
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/94806
 #EXTINF:-1 tvg-name="|PL| FILMBOX EXTRA"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/FilmBox_Extra_HD.png"group-title="EXTRA 2",|PL| FILMBOX EXTRA
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94809
 #EXTINF:-1 tvg-name="|PL| FILMBOX PREMIUM HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Filmbox_Premium_HD.png"group-title="EXTRA 2",|PL| FILMBOX PREMIUM HD
@@ -3907,16 +3975,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94811
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94812
 #EXTINF:-1 tvg-name="|PL| FILMBOX ARTHOUSE"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Filmbox_Arthouse.png"group-title="EXTRA 2",|PL| FILMBOX ARTHOUSE
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94813
-#EXTINF:-1 tvg-name="|PL| CINEMAX HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Cinemax HD.png"group-title="EXTRA 2",|PL| CINEMAX HD
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/94814
-#EXTINF:-1 tvg-name="|PL| CINEMAX 2 HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Cinemax_2_HD.png"group-title="EXTRA 2",|PL| CINEMAX 2 HD
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/94815
-#EXTINF:-1 tvg-name="|PL| HBO HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/HBO_HD.png"group-title="EXTRA 2",|PL| HBO HD
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/94816
-#EXTINF:-1 tvg-name="|PL| HBO 2 HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/HBO2_HD.png"group-title="EXTRA 2",|PL| HBO 2 HD
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/94817
-#EXTINF:-1 tvg-name="|PL| HBO 3 HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/HBO3_HD.png"group-title="EXTRA 2",|PL| HBO 3 HD
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/94818
 #EXTINF:-1 tvg-name="|PL| VOD 205"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/VOD_205.png"group-title="EXTRA 2",|PL| VOD 205
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94819
 #EXTINF:-1 tvg-name="|PL| VOD 206"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/VOD_206.png"group-title="EXTRA 2",|PL| VOD 206
@@ -3931,14 +3989,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94823
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94824
 #EXTINF:-1 tvg-name="|PL| FOX COMEDY HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Fox_Comedy_HD.png"group-title="EXTRA 2",|PL| FOX COMEDY HD
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94825
-#EXTINF:-1 tvg-name="|PL| AXN HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AXN_HD.png"group-title="EXTRA 2",|PL| AXN HD
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/94826
-#EXTINF:-1 tvg-name="|PL| AXN WHITE"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AXN_White.png"group-title="EXTRA 2",|PL| AXN WHITE
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/94828
-#EXTINF:-1 tvg-name="|PL| AXN BLACK"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AXN_Black.png"group-title="EXTRA 2",|PL| AXN BLACK
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/94829
-#EXTINF:-1 tvg-name="|PL| AXN SPIN HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/AXN_SPIN_HD.png"group-title="EXTRA 2",|PL| AXN SPIN HD
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/94830
 #EXTINF:-1 tvg-name="|PL| SCIFI HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/SciFi_HD.png"group-title="EXTRA 2",|PL| SCIFI HD
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94831
 #EXTINF:-1 tvg-name="|PL| 13 ULICA HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/13_Ulica_HD.png"group-title="EXTRA 2",|PL| 13 ULICA HD
@@ -4313,10 +4363,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/448892
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/448893
 #EXTINF:-1 tvg-name="|PL| BIZNES24 HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",|PL| BIZNES24 HD
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/448894
-#EXTINF:-1 tvg-name="|PL| Canal+ 4K Ultra HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",|PL| Canal+ 4K Ultra HD
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/448896
-#EXTINF:-1 tvg-name="|PL| CANAL + PREMIUM HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",|PL| CANAL + PREMIUM HD
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/448897
 #EXTINF:-1 tvg-name="|PL| CANAL + NOW"tvg-id=""tvg-logo=""group-title="EXTRA 2",|PL| CANAL + NOW
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/448898
 #EXTINF:-1 tvg-name="|PL| HomeTV HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",|PL| HomeTV HD
@@ -4381,8 +4427,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/448930
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/448931
 #EXTINF:-1 tvg-name="|PL| InUltra UHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",|PL| InUltra UHD
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/448932
-#EXTINF:-1 tvg-name="|PL| Ultra TV 4K"tvg-id=""tvg-logo=""group-title="EXTRA 2",|PL| Ultra TV 4K
-http://pandar.cc:25461/Franz0511/D5ES4YITZG/448933
 #EXTINF:-1 tvg-name="|PL| 1 Liga KANAŁ 1"tvg-id=""tvg-logo=""group-title="EXTRA 2",|PL| 1 Liga KANAŁ 1
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/448934
 #EXTINF:-1 tvg-name="|PL| 1 Liga KANAŁ 2"tvg-id=""tvg-logo=""group-title="EXTRA 2",|PL| 1 Liga KANAŁ 2
@@ -4423,18 +4467,8 @@ http://hostengine.live/live/Lewis83/Lewis83/266474.m3u
 http://hostengine.live/live/Lewis83/Lewis83/266518.m3u
 #EXTINF:-1 tvg-name="PL : 4FUN TV"tvg-id="4FUNtv.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : 4FUN TV
 http://hostengine.live/live/Lewis83/Lewis83/266517.m3u
-#EXTINF:-1 tvg-name="PL : AMC HD"tvg-id="AMC.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : AMC HD
-http://hostengine.live/live/Lewis83/Lewis83/266530.m3u
 #EXTINF:-1 tvg-name="PL : ANIMAL PLANET HD"tvg-id="AnimalPlanet.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : ANIMAL PLANET HD
 http://hostengine.live/live/Lewis83/Lewis83/266464.m3u
-#EXTINF:-1 tvg-name="PL : AXN BLACK SD"tvg-id="AXNBlack.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : AXN BLACK SD
-http://hostengine.live/live/Lewis83/Lewis83/266516.m3u
-#EXTINF:-1 tvg-name="PL : AXN HD"tvg-id="AXN.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : AXN HD
-http://hostengine.live/live/Lewis83/Lewis83/266477.m3u
-#EXTINF:-1 tvg-name="PL : AXN SPIN HD"tvg-id="AXNSpin.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : AXN SPIN HD
-http://hostengine.live/live/Lewis83/Lewis83/266558.m3u
-#EXTINF:-1 tvg-name="PL : AXN WHITE SD"tvg-id="AXNWhite.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : AXN WHITE SD
-http://hostengine.live/live/Lewis83/Lewis83/266498.m3u
 #EXTINF:-1 tvg-name="PL : BBC BRIT HD"tvg-id="BBCBrit.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : BBC BRIT HD
 http://hostengine.live/live/Lewis83/Lewis83/266465.m3u
 #EXTINF:-1 tvg-name="PL : BBC CBEEBIES"tvg-id="BBCCBeebies.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : BBC CBEEBIES
@@ -4455,10 +4489,6 @@ http://hostengine.live/live/Lewis83/Lewis83/266509.m3u
 http://hostengine.live/live/Lewis83/Lewis83/266527.m3u
 #EXTINF:-1 tvg-name="PL : CI POLSAT HD"tvg-id="CIPolsat.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : CI POLSAT HD
 http://hostengine.live/live/Lewis83/Lewis83/266525.m3u
-#EXTINF:-1 tvg-name="PL : CINEMAX 2 HD"tvg-id="Cinemax2.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : CINEMAX 2 HD
-http://hostengine.live/live/Lewis83/Lewis83/266540.m3u
-#EXTINF:-1 tvg-name="PL : CINEMAX HD"tvg-id="Cinemax.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : CINEMAX HD
-http://hostengine.live/live/Lewis83/Lewis83/266508.m3u
 #EXTINF:-1 tvg-name="PL : CNN INTERNATIONAL HD"tvg-id="CNN.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : CNN INTERNATIONAL HD
 http://hostengine.live/live/Lewis83/Lewis83/266434.m3u
 #EXTINF:-1 tvg-name="PL : COMEDY CENTRAL POLSKA HD"tvg-id="ComedyCentral.pl"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="EXTRA 2",PL : COMEDY CENTRAL POLSKA HD
@@ -4663,12 +4693,6 @@ http://hostengine.live/live/Lewis83/Lewis83/266557.m3u
 http://one.alidesi.org:80/halim55/55halim/1898
 #EXTINF:-1 tvg-name="PL: ALE KINO+ FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: ALE KINO+ FHD
 http://one.alidesi.org:80/halim55/55halim/1260
-#EXTINF:-1 tvg-name="PL: CANAL+ 1 FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL+ 1 FHD
-http://one.alidesi.org:80/halim55/55halim/1896
-#EXTINF:-1 tvg-name="PL: CANAL FILM HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL FILM HD
-http://one.alidesi.org:80/halim55/55halim/1164
-#EXTINF:-1 tvg-name="PL: CANAL+ PREMIUM FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL+ PREMIUM FHD
-http://one.alidesi.org:80/halim55/55halim/1895
 #EXTINF:-1 tvg-name="PL: DISCOVERY LIFE FHD"tvg-id="Discovery Life PL"tvg-logo=""group-title="EXTRA 2",PL: DISCOVERY LIFE FHD
 http://one.alidesi.org:80/halim55/55halim/1893
 #EXTINF:-1 tvg-name="PL: DISNEY JR"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: DISNEY JR
@@ -4689,12 +4713,6 @@ http://one.alidesi.org:80/halim55/55halim/506
 http://one.alidesi.org:80/halim55/55halim/1262
 #EXTINF:-1 tvg-name="PL: FILMBOX PREMIUM FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: FILMBOX PREMIUM FHD
 http://one.alidesi.org:80/halim55/55halim/1263
-#EXTINF:-1 tvg-name="PL: HBO 2 HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: HBO 2 HD
-http://one.alidesi.org:80/halim55/55halim/1253
-#EXTINF:-1 tvg-name="PL: HBO 3 HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: HBO 3 HD
-http://one.alidesi.org:80/halim55/55halim/1240
-#EXTINF:-1 tvg-name="PL: HBO HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: HBO HD
-http://one.alidesi.org:80/halim55/55halim/1252
 #EXTINF:-1 tvg-name="PL: TVP HISTORIA"tvg-id="7057"tvg-logo=""group-title="EXTRA 2",PL: TVP HISTORIA
 http://one.alidesi.org:80/halim55/55halim/1163
 #EXTINF:-1 tvg-name="PL: Canal+ KUCHNIA"tvg-id="CanalPlusKuchnia.pl"tvg-logo="http://img.alidesi.org:8080/images/blank.png"group-title="EXTRA 2",PL: Canal+ KUCHNIA
@@ -4813,8 +4831,6 @@ http://one.alidesi.org:80/halim55/55halim/41429
 http://one.alidesi.org:80/halim55/55halim/60586
 #EXTINF:-1 tvg-name="PL: Superstacja FHD"tvg-id="Superstacja.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Superstacja_-_Logo.png"group-title="EXTRA 2",PL: Superstacja FHD
 http://one.alidesi.org:80/halim55/55halim/41430
-#EXTINF:-1 tvg-name="PL: CANAL+ Seriale FHD"tvg-id="CanalPlusSeriale.pl"tvg-logo="http://www.lyngsat.com/logo/tv/cc/canalplus_pl_seriale.png"group-title="EXTRA 2",PL: CANAL+ Seriale FHD
-http://one.alidesi.org:80/halim55/55halim/41431
 #EXTINF:-1 tvg-name="PL: Stopklatka TV"tvg-id="13Ulica.pl"tvg-logo="http://img.alidesi.org:8080/images/sportklubhd.png"group-title="EXTRA 2",PL: Stopklatka TV
 http://one.alidesi.org:80/halim55/55halim/41432
 #EXTINF:-1 tvg-name="PL: Romance FHD"tvg-id=""tvg-logo="http://img.alidesi.org:8080/images/romance.png"group-title="EXTRA 2",PL: Romance FHD
@@ -4867,12 +4883,6 @@ http://one.alidesi.org:80/halim55/55halim/16145
 http://one.alidesi.org:80/halim55/55halim/1898
 #EXTINF:-1 tvg-name="PL: ALE KINO+ FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: ALE KINO+ FHD
 http://one.alidesi.org:80/halim55/55halim/1260
-#EXTINF:-1 tvg-name="PL: CANAL+ 1 FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL+ 1 FHD
-http://one.alidesi.org:80/halim55/55halim/1896
-#EXTINF:-1 tvg-name="PL: CANAL FILM HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL FILM HD
-http://one.alidesi.org:80/halim55/55halim/1164
-#EXTINF:-1 tvg-name="PL: CANAL+ PREMIUM FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: CANAL+ PREMIUM FHD
-http://one.alidesi.org:80/halim55/55halim/1895
 #EXTINF:-1 tvg-name="PL: DISCOVERY LIFE FHD"tvg-id="Discovery Life PL"tvg-logo=""group-title="EXTRA 2",PL: DISCOVERY LIFE FHD
 http://one.alidesi.org:80/halim55/55halim/1893
 #EXTINF:-1 tvg-name="PL: DISNEY JR"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: DISNEY JR
@@ -4893,12 +4903,6 @@ http://one.alidesi.org:80/halim55/55halim/506
 http://one.alidesi.org:80/halim55/55halim/1262
 #EXTINF:-1 tvg-name="PL: FILMBOX PREMIUM FHD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: FILMBOX PREMIUM FHD
 http://one.alidesi.org:80/halim55/55halim/1263
-#EXTINF:-1 tvg-name="PL: HBO 2 HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: HBO 2 HD
-http://one.alidesi.org:80/halim55/55halim/1253
-#EXTINF:-1 tvg-name="PL: HBO 3 HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: HBO 3 HD
-http://one.alidesi.org:80/halim55/55halim/1240
-#EXTINF:-1 tvg-name="PL: HBO HD"tvg-id=""tvg-logo=""group-title="EXTRA 2",PL: HBO HD
-http://one.alidesi.org:80/halim55/55halim/1252
 #EXTINF:-1 tvg-name="PL: TVP HISTORIA"tvg-id="7057"tvg-logo=""group-title="EXTRA 2",PL: TVP HISTORIA
 http://one.alidesi.org:80/halim55/55halim/1163
 #EXTINF:-1 tvg-name="PL: Canal+ KUCHNIA"tvg-id="CanalPlusKuchnia.pl"tvg-logo="http://img.alidesi.org:8080/images/blank.png"group-title="EXTRA 2",PL: Canal+ KUCHNIA
@@ -5017,8 +5021,6 @@ http://one.alidesi.org:80/halim55/55halim/41429
 http://one.alidesi.org:80/halim55/55halim/60586
 #EXTINF:-1 tvg-name="PL: Superstacja FHD"tvg-id="Superstacja.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Superstacja_-_Logo.png"group-title="EXTRA 2",PL: Superstacja FHD
 http://one.alidesi.org:80/halim55/55halim/41430
-#EXTINF:-1 tvg-name="PL: CANAL+ Seriale FHD"tvg-id="CanalPlusSeriale.pl"tvg-logo="http://www.lyngsat.com/logo/tv/cc/canalplus_pl_seriale.png"group-title="EXTRA 2",PL: CANAL+ Seriale FHD
-http://one.alidesi.org:80/halim55/55halim/41431
 #EXTINF:-1 tvg-name="PL: Stopklatka TV"tvg-id="13Ulica.pl"tvg-logo="http://img.alidesi.org:8080/images/sportklubhd.png"group-title="EXTRA 2",PL: Stopklatka TV
 http://one.alidesi.org:80/halim55/55halim/41432
 #EXTINF:-1 tvg-name="PL: Romance FHD"tvg-id=""tvg-logo="http://img.alidesi.org:8080/images/romance.png"group-title="EXTRA 2",PL: Romance FHD
