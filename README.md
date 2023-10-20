@@ -3,10 +3,6 @@ POLSKA IPTV 2023
 https://bit.ly/IPTV-PL
 ```
 
-XXX +18 !!! IPTV 2023
-```
-https://bit.ly/XXX-PL
-```
 
 Deutschland TV + Filme + Serie
 ```
