@@ -24,8 +24,6 @@ http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/127644
 #EXTINF:-1 tvg-name="TVP 1"tvg-id="TVP 1"tvg-logo="http://logo.plusx.tv/logo/TVP%201%20HD.png"group-title="Popularny",TVP 1
 http://178.219.128.68:64889/TVP1HD
 #EXTINF:-1 tvg-name="TVP 1"tvg-id="TVP 1"tvg-logo="http://logo.plusx.tv/logo/TVP%201%20HD.png"group-title="Popularny",TVP 1
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42936&extension=ts&play_token=zaSINB19di
-#EXTINF:-1 tvg-name="TVP 1"tvg-id="TVP 1"tvg-logo="http://logo.plusx.tv/logo/TVP%201%20HD.png"group-title="Popularny",TVP 1
 http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/7292/index.m3u8
 #EXTINF:-1 tvg-name="TVP 1"tvg-id="TVP 1"tvg-logo="http://logo.plusx.tv/logo/TVP%201%20HD.png"group-title="Popularny",TVP 1
 http://one.alidesi.org:80/halim55/55halim/1890
@@ -72,8 +70,6 @@ http://one.alidesi.org:80/halim55/55halim/41415
 #EXTINF:-1 tvg-name="TVP World"tvg-id="TVP World"tvg-logo="https://epg.ovh/logo/TVP+World.png"group-title="Popularny",TVP World
 http://194.145.202.71:8087/udp/239.254.1.130:6060
 #EXTINF:-1 tvg-name="TVP 3"tvg-id="TVP 3"tvg-logo="https://seeklogo.com/images/T/TVP_3-logo-5FCE7DB763-seeklogo.com.png"group-title="Popularny",TVP 3
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42934&extension=ts&play_token=R5DtfCRDHv
-#EXTINF:-1 tvg-name="TVP 3"tvg-id="TVP 3"tvg-logo="https://seeklogo.com/images/T/TVP_3-logo-5FCE7DB763-seeklogo.com.png"group-title="Popularny",TVP 3
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94786
 #EXTINF:-1 tvg-name="TVP 3"tvg-id="TVP 3"tvg-logo="https://seeklogo.com/images/T/TVP_3-logo-5FCE7DB763-seeklogo.com.png"group-title="Popularny",TVP 3
 http://gediz.online:8080/EYL7548/SER5286F/395169
@@ -100,11 +96,7 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94883
 #EXTINF:-1 tvg-name="TVP Rozrywka"tvg-id="TVP Rozrywka"tvg-logo="http://logo.plusx.tv/logo/TVP%20Rozrywka.png"group-title="Popularny",TVP Rozrywka
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72624
 #EXTINF:-1 tvg-name="TVP Polonia"tvg-id="TVP Polonia"tvg-logo="https://epg.ovh/logo/TVP+Polonia.png"group-title="Popularny",TVP Polonia
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42929&extension=ts&play_token=St06G1HpMN
-#EXTINF:-1 tvg-name="TVP Polonia"tvg-id="TVP Polonia"tvg-logo="https://epg.ovh/logo/TVP+Polonia.png"group-title="Popularny",TVP Polonia
 http://gediz.online:8080/EYL7548/SER5286F/395170
-#EXTINF:-1 tvg-name="TVP Polonia"tvg-id="TVP Polonia"tvg-logo="https://epg.ovh/logo/TVP+Polonia.png"group-title="Popularny",TVP Polonia
-http://37.48.101.149:7018/play/a01p/index.m3u8
 #EXTINF:-1 tvg-name="TVP Polonia"tvg-id="TVP Polonia"tvg-logo="https://epg.ovh/logo/TVP+Polonia.png"group-title="Popularny",TVP Polonia
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72605
 #EXTINF:-1 tvg-name="TVP Polonia"tvg-id="TVP Polonia"tvg-logo="https://epg.ovh/logo/TVP+Polonia.png"group-title="Popularny",TVP Polonia
@@ -196,8 +188,6 @@ http://one.alidesi.org:80/halim55/55halim/41409
 #EXTINF:-1 tvg-name="TVT Zgorzelec"tvg-id="TVT Zgorzelec"tvg-logo="http://img.alidesi.org:8080/images/blank.png"group-title="Popularny",TVT Zgorzelec
 http://one.alidesi.org:80/halim55/55halim/41409
 #EXTINF:-1 tvg-name="TV4"tvg-id="TV4"tvg-logo="http://logo.plusx.tv/logo/TV%204.png"group-title="Popularny",TV4
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42944&extension=ts&play_token=onidDcrwMg
-#EXTINF:-1 tvg-name="TV4"tvg-id="TV4"tvg-logo="http://logo.plusx.tv/logo/TV%204.png"group-title="Popularny",TV4
 http://194.145.202.71:8087/udp/239.254.2.21:6060
 #EXTINF:-1 tvg-name="TV4"tvg-id="TV4"tvg-logo="http://logo.plusx.tv/logo/TV%204.png"group-title="Popularny",TV4
 http://178.219.128.68:64889/TV4HD
@@ -224,8 +214,6 @@ http://154.61.57.12:33001/play/a05j/index.m3u8,kasia
 #EXTINF:-1 tvg-name="TV4"tvg-id="TV4"tvg-logo="http://logo.plusx.tv/logo/TV%204.png"group-title="Popularny",TV4
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/127637
 #EXTINF:-1 tvg-name="TV6"tvg-id="TV6"tvg-logo="http://logo.plusx.tv/logo/TV%206%20HD.png"group-title="Popularny",TV6
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42943&extension=ts&play_token=XN0YJFoe41
-#EXTINF:-1 tvg-name="TV6"tvg-id="TV6"tvg-logo="http://logo.plusx.tv/logo/TV%206%20HD.png"group-title="Popularny",TV6
 http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/7289/index.m3u8
 #EXTINF:-1 tvg-name="TV6"tvg-id="TV6"tvg-logo="http://logo.plusx.tv/logo/TV%206%20HD.png"group-title="Popularny",TV6
 http://178.219.128.68:64889/TV6HD
@@ -241,8 +229,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94789
 http://gediz.online:8080/EYL7548/SER5286F/395177
 #EXTINF:-1 tvg-name="TV6"tvg-id="TV6"tvg-logo="http://logo.plusx.tv/logo/TV%206%20HD.png"group-title="Popularny",TV6
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94789
-#EXTINF:-1 tvg-name="TV6"tvg-id="TV6"tvg-logo="http://logo.plusx.tv/logo/TV%206%20HD.png"group-title="Popularny",TV6
-http://37.48.101.149:7017/play/a01h/index.m3u8
 #EXTINF:-1 tvg-name="TV6"tvg-id="TV6"tvg-logo="http://logo.plusx.tv/logo/TV%206%20HD.png"group-title="Popularny",TV6
 http://justwi.top:8080/44169522493300/21695224933323/10233
 #EXTINF:-1 tvg-name="TV6"tvg-id="TV6"tvg-logo="http://logo.plusx.tv/logo/TV%206%20HD.png"group-title="Popularny",TV6
@@ -292,8 +278,6 @@ http://justwi.top:8080/44169522493300/21695224933323/10238
 #EXTINF:-1 tvg-name="TVN"tvg-id="TVN"tvg-logo="http://logo.plusx.tv/logo/TVN%20HD.png"group-title="Popularny",TVN
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72616
 #EXTINF:-1 tvg-name="TVN"tvg-id="TVN"tvg-logo="http://logo.plusx.tv/logo/TVN%20HD.png"group-title="Popularny",TVN
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=36162&extension=ts&play_token=Cp8mYgrUUy
-#EXTINF:-1 tvg-name="TVN"tvg-id="TVN"tvg-logo="http://logo.plusx.tv/logo/TVN%20HD.png"group-title="Popularny",TVN
 http://one.alidesi.org:80/halim55/55halim/1162
 #EXTINF:-1 tvg-name="TVN"tvg-id="TVN"tvg-logo="http://logo.plusx.tv/logo/TVN%20HD.png"group-title="Popularny",TVN
 http://justwi.top:8080/681693249146107/51693249146/10238
@@ -301,8 +285,6 @@ http://justwi.top:8080/681693249146107/51693249146/10238
 http://154.61.57.12:33001/play/a07e/index.m3u8,kasia
 #EXTINF:-1 tvg-name="TVN"tvg-id="TVN"tvg-logo="http://logo.plusx.tv/logo/TVN%20HD.png"group-title="Popularny",TVN
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/127638
-#EXTINF:-1 tvg-name="TVN 7"tvg-id="TVN 7"tvg-logo="http://logo.plusx.tv/logo/TVN%207%20HD.png"group-title="Popularny",TVN 7
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42941&extension=ts&play_token=7VNDlVLK9l
 #EXTINF:-1 tvg-name="TVN 7"tvg-id="TVN 7"tvg-logo="http://logo.plusx.tv/logo/TVN%207%20HD.png"group-title="Popularny",TVN 7
 http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/7279/index.m3u8
 #EXTINF:-1 tvg-name="TVN 7"tvg-id="TVN 7"tvg-logo="http://logo.plusx.tv/logo/TVN%207%20HD.png"group-title="Popularny",TVN 7
@@ -327,8 +309,6 @@ http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72614
 http://justwi.top:8080/681693249146107/51693249146/10239
 #EXTINF:-1 tvg-name="TVN 7"tvg-id="TVN 7"tvg-logo="http://logo.plusx.tv/logo/TVN%207%20HD.png"group-title="Popularny",TVN 7
 http://154.61.57.12:33001/play/a07k/index.m3u8,kasia
-#EXTINF:-1 tvg-name="TVN Style"tvg-id="TVN Style"tvg-logo="http://logo.plusx.tv/logo/TVN%20Style%20HD.png"group-title="Popularny",TVN Style
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42938&extension=ts&play_token=cmHEUQurGy
 #EXTINF:-1 tvg-name="TVN Style"tvg-id="TVN Style"tvg-logo="http://logo.plusx.tv/logo/TVN%20Style%20HD.png"group-title="Popularny",TVN Style
 http://one.alidesi.org:80/halim55/55halim/1250
 #EXTINF:-1 tvg-name="TVN Style"tvg-id="TVN Style"tvg-logo="http://logo.plusx.tv/logo/TVN%20Style%20HD.png"group-title="Popularny",TVN Style
@@ -370,8 +350,6 @@ http://one.alidesi.org:80/halim55/55halim/41425
 #EXTINF:-1 tvg-name="TV Puls"tvg-id="TV Puls"tvg-logo="http://logo.plusx.tv/logo/TV%20Puls%20HD.png"group-title="Popularny",TV Puls
 http://justwi.top:8080/44169522493300/21695224933323/10235
 #EXTINF:-1 tvg-name="TV Puls"tvg-id="TV Puls"tvg-logo="http://logo.plusx.tv/logo/TV%20Puls%20HD.png"group-title="Popularny",TV Puls
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42945&extension=ts&play_token=jgAbPYJTNA
-#EXTINF:-1 tvg-name="TV Puls"tvg-id="TV Puls"tvg-logo="http://logo.plusx.tv/logo/TV%20Puls%20HD.png"group-title="Popularny",TV Puls
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72609
 #EXTINF:-1 tvg-name="TV Puls"tvg-id="TV Puls"tvg-logo="http://logo.plusx.tv/logo/TV%20Puls%20HD.png"group-title="Popularny",TV Puls
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94798
@@ -386,8 +364,6 @@ http://194.145.202.71:8087/udp/239.254.4.122:6060
 #EXTINF:-1 tvg-name="TV Puls 2"tvg-id="TV Puls 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Puls_2_logo.png"group-title="Popularny",TV Puls 2
 http://178.219.128.68:64889/PULS2HD
 #EXTINF:-1 tvg-name="TV Puls 2"tvg-id="TV Puls 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Puls_2_logo.png"group-title="Popularny",TV Puls 2
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42946&extension=ts&play_token=Eil8gaX0WT
-#EXTINF:-1 tvg-name="TV Puls 2"tvg-id="TV Puls 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Puls_2_logo.png"group-title="Popularny",TV Puls 2
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72741
 #EXTINF:-1 tvg-name="TV Puls 2"tvg-id="TV Puls 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Puls_2_logo.png"group-title="Popularny",TV Puls 2
 http://justwi.top:8080/44169522493300/21695224933323/10203
@@ -398,8 +374,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395306
 #EXTINF:-1 tvg-name="TV Puls 2"tvg-id="TV Puls 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Puls_2_logo.png"group-title="Popularny",TV Puls 2
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94856
 #EXTINF:-1 tvg-name="TLC"tvg-id="TLC"tvg-logo="https://epg.ovh/logo/TLC.png"group-title="Popularny",TLC
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42948&extension=ts&play_token=OnQIi8hnuD
-#EXTINF:-1 tvg-name="TLC"tvg-id="TLC"tvg-logo="https://epg.ovh/logo/TLC.png"group-title="Popularny",TLC
 http://178.219.128.68:64888/TLCHD
 #EXTINF:-1 tvg-name="TLC"tvg-id="TLC"tvg-logo="https://epg.ovh/logo/TLC.png"group-title="Popularny",TLC
 http://one.alidesi.org:80/halim55/55halim/60586
@@ -409,8 +383,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395318
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72753
 #EXTINF:-1 tvg-name="TLC"tvg-id="TLC"tvg-logo="https://epg.ovh/logo/TLC.png"group-title="Popularny",TLC
 http://one.alidesi.org:80/halim55/55halim/60586
-#EXTINF:-1 tvg-name="TTV"tvg-id="TTV"tvg-logo="http://logo.plusx.tv/logo/TTV%20HD.png"group-title="Popularny",TTV
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42947&extension=ts&play_token=o5FWo2F6C6
 #EXTINF:-1 tvg-name="TTV"tvg-id="TTV"tvg-logo="http://logo.plusx.tv/logo/TTV%20HD.png"group-title="Popularny",TTV
 http://178.219.128.68:64889/TTVHD
 #EXTINF:-1 tvg-name="TTV"tvg-id="TTV"tvg-logo="http://logo.plusx.tv/logo/TTV%20HD.png"group-title="Popularny",TTV
@@ -431,8 +403,6 @@ http://one.alidesi.org:80/halim55/55halim/34903
 http://194.145.202.71:8087/udp/239.254.4.101:6060
 #EXTINF:-1 tvg-name="Tele 5"tvg-id="Tele 5"tvg-logo="https://i.imgur.com/36ZNsIL.png"group-title="Popularny",Tele 5
 http://178.219.128.68:64888/TELE5HD
-#EXTINF:-1 tvg-name="Tele 5"tvg-id="Tele 5"tvg-logo="https://i.imgur.com/36ZNsIL.png"group-title="Popularny",Tele 5
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=129227&extension=ts&play_token=qXBJ91LKSD
 #EXTINF:-1 tvg-name="Tele 5"tvg-id="Tele 5"tvg-logo="https://i.imgur.com/36ZNsIL.png"group-title="Popularny",Tele 5
 http://194.145.202.71:8087/udp/239.254.4.104:6060
 #EXTINF:-1 tvg-name="Tele 5"tvg-id="Tele 5"tvg-logo="https://i.imgur.com/36ZNsIL.png"group-title="Popularny",Tele 5
@@ -486,8 +456,6 @@ http://154.61.57.12:33001/play/a05w/index.m3u8,kasia
 #EXTINF:-1 tvg-name="Super Polsat"tvg-id="Super Polsat"tvg-logo="http://logo.plusx.tv/logo/Super%20Polsat%20HD.png"group-title="Popularny",Super Polsat
 http://194.145.202.71:8087/udp/239.254.2.26:6060
 #EXTINF:-1 tvg-name="Super Polsat"tvg-id="Super Polsat"tvg-logo="http://logo.plusx.tv/logo/Super%20Polsat%20HD.png"group-title="Popularny",Super Polsat
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51396&extension=ts&play_token=JNHuFEYxzG
-#EXTINF:-1 tvg-name="Super Polsat"tvg-id="Super Polsat"tvg-logo="http://logo.plusx.tv/logo/Super%20Polsat%20HD.png"group-title="Popularny",Super Polsat
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72750
 #EXTINF:-1 tvg-name="Super Polsat"tvg-id="Super Polsat"tvg-logo="http://logo.plusx.tv/logo/Super%20Polsat%20HD.png"group-title="Popularny",Super Polsat
 http://justwi.top:8080/44169522493300/21695224933323/10225
@@ -504,8 +472,6 @@ http://one.alidesi.org:80/halim55/55halim/41450
 #EXTINF:-1 tvg-name="Super Polsat"tvg-id="Super Polsat"tvg-logo="http://logo.plusx.tv/logo/Super%20Polsat%20HD.png"group-title="Popularny",Super Polsat
 http://154.61.57.12:33001/play/a05p/index.m3u8,kasia
 #EXTINF:-1 tvg-name="Polsat Rodzina"tvg-id="Polsat Rodzina"tvg-logo="http://logo.plusx.tv/logo/Polsat+Rodzina.png"group-title="Popularny",Polsat Rodzina
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42964&extension=ts&play_token=A9mGroRLob
-#EXTINF:-1 tvg-name="Polsat Rodzina"tvg-id="Polsat Rodzina"tvg-logo="http://logo.plusx.tv/logo/Polsat+Rodzina.png"group-title="Popularny",Polsat Rodzina
 http://194.145.202.71:8087/udp/239.254.2.42:6060
 #EXTINF:-1 tvg-name="Polsat Rodzina"tvg-id="Polsat Rodzina"tvg-logo="http://logo.plusx.tv/logo/Polsat+Rodzina.png"group-title="Popularny",Polsat Rodzina
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72730
@@ -520,11 +486,7 @@ http://justwi.top:8080/681693249146107/51693249146/10213
 #EXTINF:-1 tvg-name="Polsat Rodzina"tvg-id="Polsat Rodzina"tvg-logo="http://logo.plusx.tv/logo/Polsat+Rodzina.png"group-title="Popularny",Polsat Rodzina
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/127672
 #EXTINF:-1 tvg-name="Polsat Play"tvg-id="Polsat Play"tvg-logo="https://epg.ovh/logo/Polsat+Play.png"group-title="Popularny",Polsat Play
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51389&extension=ts&play_token=SlhJRnjPLy
-#EXTINF:-1 tvg-name="Polsat Play"tvg-id="Polsat Play"tvg-logo="https://epg.ovh/logo/Polsat+Play.png"group-title="Popularny",Polsat Play
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72729
-#EXTINF:-1 tvg-name="Polsat Play"tvg-id="Polsat Play"tvg-logo="https://epg.ovh/logo/Polsat+Play.png"group-title="Popularny",Polsat Play
-http://37.48.101.149:7017/play/a002/index.m3u8
 #EXTINF:-1 tvg-name="Polsat Play"tvg-id="Polsat Play"tvg-logo="https://epg.ovh/logo/Polsat+Play.png"group-title="Popularny",Polsat Play
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94892
 #EXTINF:-1 tvg-name="Polsat Play"tvg-id="Polsat Play"tvg-logo="https://epg.ovh/logo/Polsat+Play.png"group-title="Popularny",Polsat Play
@@ -538,11 +500,7 @@ http://one.alidesi.org:80/halim55/55halim/1904
 #EXTINF:-1 tvg-name="Polsat Play"tvg-id="Polsat Play"tvg-logo="https://epg.ovh/logo/Polsat+Play.png"group-title="Popularny",Polsat Play
 http://154.61.57.12:33001/play/a05y/index.m3u8,kasia
 #EXTINF:-1 tvg-name="Polsat Cafe"tvg-id="Polsat Cafe"tvg-logo="https://epg.ovh/logo/Polsat+Caf%c3%a9.png"group-title="Popularny",Polsat Cafe
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42971&extension=ts&play_token=6RBPhSun54
-#EXTINF:-1 tvg-name="Polsat Cafe"tvg-id="Polsat Cafe"tvg-logo="https://epg.ovh/logo/Polsat+Caf%c3%a9.png"group-title="Popularny",Polsat Cafe
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72720
-#EXTINF:-1 tvg-name="Polsat Cafe"tvg-id="Polsat Cafe"tvg-logo="https://epg.ovh/logo/Polsat+Caf%c3%a9.png"group-title="Popularny",Polsat Cafe
-http://37.48.101.149:7017/play/a003/index.m3u8
 #EXTINF:-1 tvg-name="Polsat Cafe"tvg-id="Polsat Cafe"tvg-logo="https://epg.ovh/logo/Polsat+Caf%c3%a9.png"group-title="Popularny",Polsat Cafe
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94891
 #EXTINF:-1 tvg-name="Polsat Cafe"tvg-id="Polsat Cafe"tvg-logo="https://epg.ovh/logo/Polsat+Caf%c3%a9.png"group-title="Popularny",Polsat Cafe
@@ -574,13 +532,9 @@ http://gediz.online:8080/EYL7548/SER5286F/395325
 #EXTINF:-1 tvg-name="Zoom TV"tvg-id="Zoom TV"tvg-logo="http://logo.plusx.tv/logo/Zoom%20TV.png"group-title="Popularny",Zoom TV
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94895
 #EXTINF:-1 tvg-name="Zoom TV"tvg-id="Zoom TV"tvg-logo="http://logo.plusx.tv/logo/Zoom%20TV.png"group-title="Popularny",Zoom TV
-http://37.48.101.149:7018/play/a01u/index.m3u8
-#EXTINF:-1 tvg-name="Zoom TV"tvg-id="Zoom TV"tvg-logo="http://logo.plusx.tv/logo/Zoom%20TV.png"group-title="Popularny",Zoom TV
 http://justwi.top:8080/44169522493300/21695224933323/10261
 #EXTINF:-1 tvg-name="Zoom TV"tvg-id="Zoom TV"tvg-logo="http://logo.plusx.tv/logo/Zoom%20TV.png"group-title="Popularny",Zoom TV
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72760
-#EXTINF:-1 tvg-name="Zoom TV"tvg-id="Zoom TV"tvg-logo="http://logo.plusx.tv/logo/Zoom%20TV.png"group-title="Popularny",Zoom TV
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51416&extension=ts&play_token=9OuqVCpUTl
 #EXTINF:-1 tvg-name="Zoom TV"tvg-id="Zoom TV"tvg-logo="http://logo.plusx.tv/logo/Zoom%20TV.png"group-title="Popularny",Zoom TV
 http://178.219.128.68:64889//ZOOMTVHD
 #EXTINF:-1 tvg-name="WP"tvg-id="WP"tvg-logo="http://logo.plusx.tv/logo/WP.png"group-title="Popularny",WP
@@ -610,11 +564,7 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94901
 #EXTINF:-1 tvg-name="Nowa TV"tvg-id="Nowa TV"tvg-logo="http://logo.plusx.tv/logo/NOWA%20TV.png"group-title="Popularny",Nowa TV
 http://gediz.online:8080/EYL7548/SER5286F/395280
 #EXTINF:-1 tvg-name="Nowa TV"tvg-id="Nowa TV"tvg-logo="http://logo.plusx.tv/logo/NOWA%20TV.png"group-title="Popularny",Nowa TV
-http://37.48.101.149:7018/play/a01v/index.m3u8
-#EXTINF:-1 tvg-name="Nowa TV"tvg-id="Nowa TV"tvg-logo="http://logo.plusx.tv/logo/NOWA%20TV.png"group-title="Popularny",Nowa TV
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72715
-#EXTINF:-1 tvg-name="Antena"tvg-id="Antena"tvg-logo="https://epg.ovh/logo/Antena.png"group-title="Popularny",Antena
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=129219&extension=ts&play_token=EUi5BR6QrA
 #EXTINF:-1 tvg-name="Antena"tvg-id="Antena"tvg-logo="https://epg.ovh/logo/Antena.png"group-title="Popularny",Antena
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/448892
 #EXTINF:-1 tvg-name="Antena"tvg-id="Antena"tvg-logo="https://epg.ovh/logo/Antena.png"group-title="Popularny",Antena
@@ -646,8 +596,6 @@ http://154.61.57.12:33001/play/a00e/index.m3u8,kasia
 #EXTINF:-1 tvg-name="TVP Info"tvg-id="TVP Info"tvg-logo="http://logo.plusx.tv/logo/TVP%20Info.png"group-title="Informacje",TVP Info
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/127633
 #EXTINF:-1 tvg-name="TVN 24"tvg-id="TVN 24"tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png"group-title="Informacje",TVN 24
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42942&extension=ts&play_token=jdcseKKfvG
-#EXTINF:-1 tvg-name="TVN 24"tvg-id="TVN 24"tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png"group-title="Informacje",TVN 24
 http://178.219.128.68:64888/TVN2HD
 #EXTINF:-1 tvg-name="TVN 24"tvg-id="TVN 24"tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png"group-title="Informacje",TVN 24
 http://one.alidesi.org:80/halim55/55halim/1166
@@ -670,8 +618,6 @@ http://154.61.57.12:33001/play/a07j/index.m3u8,kasia
 #EXTINF:-1 tvg-name="TVN 24"tvg-id="TVN 24"tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png"group-title="Informacje",TVN 24
 http://justwi.top:8080/681693249146107/51693249146/10241
 #EXTINF:-1 tvg-name="TVN 24 BiS"tvg-id="TVN 24 BiS"tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20BiS%20HD.png"group-title="Informacje",TVN 24 BiS
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51405&extension=ts&play_token=uYj73ceXtC
-#EXTINF:-1 tvg-name="TVN 24 BiS"tvg-id="TVN 24 BiS"tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20BiS%20HD.png"group-title="Informacje",TVN 24 BiS
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94971
 #EXTINF:-1 tvg-name="TVN 24 BiS"tvg-id="TVN 24 BiS"tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20BiS%20HD.png"group-title="Informacje",TVN 24 BiS
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94971
@@ -680,15 +626,11 @@ http://justwi.top:8080/44169522493300/21695224933323/10240
 #EXTINF:-1 tvg-name="TVN 24 BiS"tvg-id="TVN 24 BiS"tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20BiS%20HD.png"group-title="Informacje",TVN 24 BiS
 http://154.61.57.12:33001/play/a02q/index.m3u8,kasia
 #EXTINF:-1 tvg-name="Polsat News"tvg-id="Polsat News"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%20HD.png"group-title="Informacje",Polsat News
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42965&extension=ts&play_token=ctWVh4RuAV
-#EXTINF:-1 tvg-name="Polsat News"tvg-id="Polsat News"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%20HD.png"group-title="Informacje",Polsat News
 http://one.alidesi.org:80/halim55/55halim/1239
 #EXTINF:-1 tvg-name="Polsat News"tvg-id="Polsat News"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%20HD.png"group-title="Informacje",Polsat News
 http://one.alidesi.org:80/halim55/55halim/1239
 #EXTINF:-1 tvg-name="Polsat News"tvg-id="Polsat News"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%20HD.png"group-title="Informacje",Polsat News
 http://gediz.online:8080/EYL7548/SER5286F/395293
-#EXTINF:-1 tvg-name="Polsat News"tvg-id="Polsat News"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%20HD.png"group-title="Informacje",Polsat News
-http://37.48.101.149:7017/play/a007/index.m3u8
 #EXTINF:-1 tvg-name="Polsat News"tvg-id="Polsat News"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%20HD.png"group-title="Informacje",Polsat News
 http://justwi.top:8080/44169522493300/21695224933323/10211
 #EXTINF:-1 tvg-name="Polsat News"tvg-id="Polsat News"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%20HD.png"group-title="Informacje",Polsat News
@@ -700,8 +642,6 @@ http://154.61.57.12:33001/play/a066/index.m3u8,kasia
 #EXTINF:-1 tvg-name="Polsat News"tvg-id="Polsat News"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%20HD.png"group-title="Informacje",Polsat News
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/127715
 #EXTINF:-1 tvg-name="Polsat News 2"tvg-id="Polsat News 2"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%202.png"group-title="Informacje",Polsat News 2
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51388&extension=ts&play_token=f0WtiXPFpA
-#EXTINF:-1 tvg-name="Polsat News 2"tvg-id="Polsat News 2"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%202.png"group-title="Informacje",Polsat News 2
 http://194.145.202.71:8087/udp/239.254.2.16:6060
 #EXTINF:-1 tvg-name="Polsat News 2"tvg-id="Polsat News 2"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%202.png"group-title="Informacje",Polsat News 2
 http://one.alidesi.org:80/halim55/55halim/1907
@@ -709,8 +649,6 @@ http://one.alidesi.org:80/halim55/55halim/1907
 http://one.alidesi.org:80/halim55/55halim/1907
 #EXTINF:-1 tvg-name="Polsat News 2"tvg-id="Polsat News 2"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%202.png"group-title="Informacje",Polsat News 2
 http://gediz.online:8080/EYL7548/SER5286F/395292
-#EXTINF:-1 tvg-name="Polsat News 2"tvg-id="Polsat News 2"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%202.png"group-title="Informacje",Polsat News 2
-http://37.48.101.149:7017/play/a004/index.m3u8
 #EXTINF:-1 tvg-name="Polsat News 2"tvg-id="Polsat News 2"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%202.png"group-title="Informacje",Polsat News 2
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72727
 #EXTINF:-1 tvg-name="Polsat News 2"tvg-id="Polsat News 2"tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%202.png"group-title="Informacje",Polsat News 2
@@ -724,10 +662,6 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94861
 #EXTINF:-1 tvg-name="BBC Brit"tvg-id="BBC Brit"tvg-logo="http://logo.plusx.tv/logo/BBC%20Brit%20HD.png"group-title="Informacje",BBC Brit
 http://justwi.top:8080/44169522493300/21695224933323/10115
 #EXTINF:-1 tvg-name="BBC First"tvg-id="BBC First"tvg-logo="https://epg.ovh/logo/BBC+First.png"group-title="Informacje",BBC First
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51348&extension=ts&play_token=kJDvQNCS7D
-#EXTINF:-1 tvg-name="BBC First"tvg-id="BBC First"tvg-logo="https://epg.ovh/logo/BBC+First.png"group-title="Informacje",BBC First
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43037&extension=ts&play_token=mbv97xRoKe
-#EXTINF:-1 tvg-name="BBC First"tvg-id="BBC First"tvg-logo="https://epg.ovh/logo/BBC+First.png"group-title="Informacje",BBC First
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94863
 #EXTINF:-1 tvg-name="BBC First"tvg-id="BBC First"tvg-logo="https://epg.ovh/logo/BBC+First.png"group-title="Informacje",BBC First
 http://gediz.online:8080/EYL7548/SER5286F/395207
@@ -736,29 +670,21 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94863
 #EXTINF:-1 tvg-name="BBC FIRST"tvg-id="BBC First"tvg-logo="https://epg.ovh/logo/BBC+First.png"group-title="Informacje",BBC First
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72642
 #EXTINF:-1 tvg-name="BBC Earth"tvg-id="BBC Earth"tvg-logo="http://logo.plusx.tv/logo/BBC%20Earth%20HD.png"group-title="Informacje",BBC Earth
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43038&extension=ts&play_token=QFHYkxjcBY
-#EXTINF:-1 tvg-name="BBC Earth"tvg-id="BBC Earth"tvg-logo="http://logo.plusx.tv/logo/BBC%20Earth%20HD.png"group-title="Informacje",BBC Earth
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94923
 #EXTINF:-1 tvg-name="BBC Earth"tvg-id="BBC Earth"tvg-logo="http://logo.plusx.tv/logo/BBC%20Earth%20HD.png"group-title="Informacje",BBC Earth
 http://gediz.online:8080/EYL7548/SER5286F/395206
 #EXTINF:-1 tvg-name="BBC Earth"tvg-id="BBC Earth"tvg-logo="http://logo.plusx.tv/logo/BBC%20Earth%20HD.png"group-title="Informacje",BBC Earth
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72641
 #EXTINF:-1 tvg-name="Wydarzenia 24"tvg-id="Wydarzenia 24"tvg-logo="https://epg.ovh/logo/Wydarzenia+24.png"group-title="Informacje",Wydarzenia 24
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=129226&extension=ts&play_token=zBQMJFKWV4
-#EXTINF:-1 tvg-name="Wydarzenia 24"tvg-id="Wydarzenia 24"tvg-logo="https://epg.ovh/logo/Wydarzenia+24.png"group-title="Informacje",Wydarzenia 24
 http://194.145.202.71:8087/udp/239.254.2.61:6060
 #EXTINF:-1 tvg-name="Wydarzenia 24"tvg-id="Wydarzenia 24"tvg-logo="https://epg.ovh/logo/Wydarzenia+24.png"group-title="Informacje",Wydarzenia 24
 http://justwi.top:8080/44169522493300/21695224933323/49575
-#EXTINF:-1 tvg-name="wPolsce.pl"tvg-id="wPolsce.pl"tvg-logo="https://epg.ovh/logo/wPolsce.pl+HD.png"group-title="Informacje",wPolsce.pl
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51415&extension=ts&play_token=MpOtAQ37q3
 #EXTINF:-1 tvg-name="wPolsce.pl"tvg-id="wPolsce.pl"tvg-logo="https://epg.ovh/logo/wPolsce.pl+HD.png"group-title="Informacje",wPolsce.pl
 http://194.145.202.71:8087/udp/239.254.5.101:6060
 #EXTINF:-1 tvg-name="wPolsce.pl"tvg-id="wPolsce.pl"tvg-logo="https://epg.ovh/logo/wPolsce.pl+HD.png"group-title="Informacje",wPolsce.pl
 http://194.145.202.71:8087/udp/239.254.5.104:6060
 #EXTINF:-1 tvg-name="wPolsce.pl"tvg-id="wPolsce.pl"tvg-logo="https://epg.ovh/logo/wPolsce.pl+HD.png"group-title="Informacje",wPolsce.pl
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72759
-#EXTINF:-1 tvg-name="wPolsce.pl"tvg-id="wPolsce.pl"tvg-logo="https://epg.ovh/logo/wPolsce.pl+HD.png"group-title="Informacje",wPolsce.pl
-http://37.48.101.149:7018/play/a01s/index.m3u8
 #EXTINF:-1 tvg-name="wPolsce.pl"tvg-id="wPolsce.pl"tvg-logo="https://epg.ovh/logo/wPolsce.pl+HD.png"group-title="Informacje",wPolsce.pl
 http://gediz.online:8080/EYL7548/SER5286F/395324
 #EXTINF:-1 tvg-name="wPolsce.pl"tvg-id="wPolsce.pl"tvg-logo="https://epg.ovh/logo/wPolsce.pl+HD.png"group-title="Informacje",wPolsce.pl
@@ -767,8 +693,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94976
 http://one.alidesi.org:80/halim55/55halim/41406
 #EXTINF:-1 tvg-name="wPolsce.pl"tvg-id="wPolsce.pl"tvg-logo="https://epg.ovh/logo/wPolsce.pl+HD.png"group-title="Informacje",wPolsce.pl
 http://one.alidesi.org:80/halim55/55halim/41406
-#EXTINF:-1 tvg-name="TV Republika"tvg-id="TV Republika"tvg-logo="http://logo.plusx.tv/logo/TV%20Republika.png"group-title="Informacje",TV Republika
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51404&extension=ts&play_token=XjsT4f0yNZ
 #EXTINF:-1 tvg-name="TV Republika"tvg-id="TV Republika"tvg-logo="http://logo.plusx.tv/logo/TV%20Republika.png"group-title="Informacje",TV Republika
 http://194.145.202.71:8087/udp/239.254.4.212:6060
 #EXTINF:-1 tvg-name="TV Republika"tvg-id="TV Republika"tvg-logo="http://logo.plusx.tv/logo/TV%20Republika.png"group-title="Informacje",TV Republika
@@ -789,12 +713,8 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94975
 http://justwi.top:8080/44169522493300/21695224933323/10236
 #EXTINF:-1 tvg-name="TV Republika"tvg-id="TV Republika"tvg-logo="http://logo.plusx.tv/logo/TV%20Republika.png"group-title="Informacje",TV Republika
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72610
-#EXTINF:-1 tvg-name="TV Republika"tvg-id="TV Republika"tvg-logo="http://logo.plusx.tv/logo/TV%20Republika.png"group-title="Informacje",TV Republika
-http://37.48.101.149:7018/play/a01k/index.m3u8
 #EXTINF:-1 tvg-name="===== FILMOWE ====="tvg-id="===== FILMOWE ====="tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",===== FILMOWE =====
 https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
-#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43042&extension=ts&play_token=q2GZnGerif
 #EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
 http://178.219.128.68:64888/AXN
 #EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
@@ -805,8 +725,6 @@ http://194.145.202.71:8087/udp/239.254.5.5:6060
 http://justwi.top:8080/44169522493300/21695224933323/10110
 #EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94826
-#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
-http://37.48.101.149:7017/play/a02l/index.m3u8
 #EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
 http://25057941255298530.of23103.xyz:80/play/vi78530/GE7g6kdhb9k/298530.ts
 #EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
@@ -819,8 +737,6 @@ http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/54845
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/119473
 #EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png"group-title="Film",AXN
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/127708
-#EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43043&extension=ts&play_token=ECZMqhYGQV
 #EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
 http://194.145.202.71:8087/udp/239.254.5.3:6060
 #EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
@@ -836,8 +752,6 @@ http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/54844
 #EXTINF:-1 tvg-name="AXN Black"tvg-id="AXN Black"tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png"group-title="Film",AXN Black
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/10643
 #EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43040&extension=ts&play_token=c5I31yUHAS
-#EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
 http://194.145.202.71:8087/udp/239.254.5.4:6060
 #EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72640
@@ -852,8 +766,6 @@ http://25057941255298532.of23103.xyz:80/play/vi78530/GE7g6kdhb9k/298532.ts
 #EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png"group-title="Film",AXN White
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/127651
 #EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43041&extension=ts&play_token=G3tfz4084m
-#EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
 http://194.145.202.71:8087/udp/239.254.5.2:6060
 #EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72639
@@ -863,8 +775,6 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94830
 http://gediz.online:8080/EYL7548/SER5286F/395204
 #EXTINF:-1 tvg-name="AXN Spin"tvg-id="AXN Spin"tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png"group-title="Film",AXN Spin
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94830
-#EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42990&extension=ts&play_token=6IycJjilV2
 #EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
 http://178.219.128.68:64888/HBOHD
 #EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
@@ -884,15 +794,11 @@ http://one.alidesi.org:80/halim55/55halim/1252
 #EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png"group-title="Film",HBO
 http://154.61.57.12:33001/play/a089/index.m3u8,kasia
 #EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42992&extension=ts&play_token=HKg7BtTQF3
-#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
 http://178.219.128.68:64888/HBO2HD
 #EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72698
 #EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
 http://justwi.top:8080/44169522493300/21695224933323/10177
-#EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
-http://37.48.101.149:7021/play/a01h/index.m3u8
 #EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94817
 #EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
@@ -912,15 +818,11 @@ http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/10706
 #EXTINF:-1 tvg-name="HBO 2"tvg-id="HBO 2"tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png"group-title="Film",HBO 2
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/119467
 #EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42991&extension=ts&play_token=s7ZGg21SX5
-#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
 http://178.219.128.68:64888/HBO3HD
 #EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72699
 #EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
 http://justwi.top:8080/44169522493300/21695224933323/10178
-#EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
-http://37.48.101.149:7021/play/a01i/index.m3u8
 #EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94818
 #EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
@@ -934,15 +836,11 @@ http://154.61.57.12:33001/play/a03e/index.m3u8,kasia
 #EXTINF:-1 tvg-name="HBO 3"tvg-id="HBO 3"tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png"group-title="Film",HBO 3
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/127649
 #EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=56857&extension=ts&play_token=lNZ07hKILV
-#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
 http://194.145.202.71:8087/udp/239.254.1.3:6060
 #EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
 http://178.219.128.68:64889/CANAFILMHD
 #EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72646
-#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
-http://37.48.101.149:7018/play/a024/index.m3u8
 #EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94805
 #EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
@@ -955,8 +853,6 @@ http://one.alidesi.org:80/halim55/55halim/1164
 http://one.alidesi.org:80/halim55/55halim/1164
 #EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="CANAL+ Film"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png"group-title="Film",CANAL+ Film
 http://154.61.57.12:33001/play/a096/index.m3u8,kasia
-#EXTINF:-1 tvg-name="Canal+ Family"tvg-id="Canal+ Family"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png"group-title="Film",Canal+ Family
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43032&extension=ts&play_token=OL7ZYKnUtD
 #EXTINF:-1 tvg-name="Canal+ Family"tvg-id="Canal+ Family"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png"group-title="Film",Canal+ Family
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72645
 #EXTINF:-1 tvg-name="Canal+ Family"tvg-id="Canal+ Family"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png"group-title="Film",Canal+ Family
@@ -986,19 +882,13 @@ http://gediz.online:8080/EYL7548/SER5286F/395224
 #EXTINF:-1 tvg-name="Cinemax"tvg-id="Cinemax"tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png"group-title="Film",Cinemax
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94814
 #EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43022&extension=ts&play_token=uzWQ8NzPcb
-#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72658
-#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
-http://37.48.101.149:7017/play/a00o/index.m3u8
 #EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94815
 #EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
 http://gediz.online:8080/EYL7548/SER5286F/395223
 #EXTINF:-1 tvg-name="Cinemax 2"tvg-id="Cinemax 2"tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png"group-title="Film",Cinemax 2
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94815
-#EXTINF:-1 tvg-name="FilmBox Premium"tvg-id="FilmBox Premium"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Premium.png"group-title="Film",FilmBox Premium
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42995&extension=ts&play_token=zJLzsjKsbZ
 #EXTINF:-1 tvg-name="FilmBox Premium"tvg-id="FilmBox Premium"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Premium.png"group-title="Film",FilmBox Premium
 http://one.alidesi.org:80/halim55/55halim/1263
 #EXTINF:-1 tvg-name="FilmBox Premium"tvg-id="FilmBox Premium"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Premium.png"group-title="Film",FilmBox Premium
@@ -1011,10 +901,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395254
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94810
 #EXTINF:-1 tvg-name="FilmBox Premium"tvg-id="FilmBox Premium"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Premium.png"group-title="Film",FilmBox Premium
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72689
-#EXTINF:-1 tvg-name="FilmBox Action"tvg-id="FilmBox Action"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Action.png"group-title="Film",Filmbox Action
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42999&extension=ts&play_token=nyKLv7sSeU
-#EXTINF:-1 tvg-name="FilmBox Action"tvg-id="FilmBox Action"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Action.png"group-title="Film",FilmBox Action
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43024&extension=ts&play_token=J4yXyasE7N
 #EXTINF:-1 tvg-name="FilmBox Action"tvg-id="FilmBox Action"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Action.png"group-title="Film",FilmBox Action
 http://194.145.202.71:8087/udp/239.254.2.232:6060
 #EXTINF:-1 tvg-name="FilmBox Action"tvg-id="FilmBox Action"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Action.png"group-title="Film",FilmBox Action
@@ -1023,8 +909,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94811
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94811
 #EXTINF:-1 tvg-name="FilmBox Action"tvg-id="FilmBox Action"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Action.png"group-title="Film",FilmBox Action
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72685
-#EXTINF:-1 tvg-name="FilmBox Family"tvg-id="Filmbox Family"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Family.png"group-title="Film",FilmBox Family
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42996&extension=ts&play_token=VyvVskt6KH
 #EXTINF:-1 tvg-name="FilmBox Family"tvg-id="FilmBox Family"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Family.png"group-title="Film",FilmBox Family
 http://194.145.202.71:8087/udp/239.254.2.235:6060
 #EXTINF:-1 tvg-name="FilmBox Family"tvg-id="FilmBox Family"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Family.png"group-title="Film",FilmBox Family
@@ -1042,8 +926,6 @@ http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72688
 #EXTINF:-1 tvg-name="FilmBox Family"tvg-id="FilmBox Family"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Family.png"group-title="Film",FilmBox Family
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/54301
 #EXTINF:-1 tvg-name="FilmBox Extra"tvg-id="FilmBox Extra"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Extra.png"group-title="Film",FilmBox Extra
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42997&extension=ts&play_token=pATb5kN0ij
-#EXTINF:-1 tvg-name="FilmBox Extra"tvg-id="FilmBox Extra"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Extra.png"group-title="Film",FilmBox Extra
 http://one.alidesi.org:80/halim55/55halim/1261
 #EXTINF:-1 tvg-name="FilmBox Extra"tvg-id="FilmBox Extra"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Extra.png"group-title="Film",FilmBox Extra
 http://one.alidesi.org:80/halim55/55halim/1261
@@ -1056,8 +938,6 @@ http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72687
 #EXTINF:-1 tvg-name="FilmBox Extra"tvg-id="FilmBox Extra"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Extra.png"group-title="Film",FilmBox Extra
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/119483
 #EXTINF:-1 tvg-name="Filmbox Arthouse"tvg-id="Filmbox Arthouse"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Arthouse.png"group-title="Film",Filmbox Arthouse
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42998&extension=ts&play_token=Np9wonL8hL
-#EXTINF:-1 tvg-name="Filmbox Arthouse"tvg-id="Filmbox Arthouse"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Arthouse.png"group-title="Film",Filmbox Arthouse
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94813
 #EXTINF:-1 tvg-name="Filmbox Arthouse"tvg-id="Filmbox Arthouse"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Arthouse.png"group-title="Film",Filmbox Arthouse
 http://gediz.online:8080/EYL7548/SER5286F/395251
@@ -1065,8 +945,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395251
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94813
 #EXTINF:-1 tvg-name="Filmbox Arthouse"tvg-id="Filmbox Arthouse"tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Arthouse.png"group-title="Film",Filmbox Arthouse
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72686
-#EXTINF:-1 tvg-name="FOX"tvg-id="FOX"tvg-logo="http://logo.plusx.tv/logo/FOX%20HD.png"group-title="Film",FOX
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51367&extension=ts&play_token=ZGo039XYHq
 #EXTINF:-1 tvg-name="FOX"tvg-id="FOX"tvg-logo="http://logo.plusx.tv/logo/FOX%20HD.png"group-title="Film",FOX
 http://178.219.128.68:64889/FOXHD
 #EXTINF:-1 tvg-name="FOX"tvg-id="FOX"tvg-logo="http://logo.plusx.tv/logo/FOX%20HD.png"group-title="Film",FOX
@@ -1076,8 +954,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395257
 #EXTINF:-1 tvg-name="FOX"tvg-id="FOX"tvg-logo="http://logo.plusx.tv/logo/FOX%20HD.png"group-title="Film",FOX
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94824
 #EXTINF:-1 tvg-name="FOX"tvg-id="FOX"tvg-logo="http://logo.plusx.tv/logo/FOX%20HD.png"group-title="Film",FOX
-http://37.48.101.149:7017/play/a017/index.m3u8
-#EXTINF:-1 tvg-name="FOX"tvg-id="FOX"tvg-logo="http://logo.plusx.tv/logo/FOX%20HD.png"group-title="Film",FOX
 http://justwi.top:8080/44169522493300/21695224933323/10172
 #EXTINF:-1 tvg-name="FOX"tvg-id="FOX"tvg-logo="http://logo.plusx.tv/logo/FOX%20HD.png"group-title="Film",FOX
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72695
@@ -1085,8 +961,6 @@ http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72695
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72692
 #EXTINF:-1 tvg-name="FOX"tvg-id="FOX"tvg-logo="http://logo.plusx.tv/logo/FOX%20HD.png"group-title="Film",FOX
 http://154.61.57.12:33001/play/a049/index.m3u8,kasia
-#EXTINF:-1 tvg-name="Fox Comedy"tvg-id="FOX Comedy"tvg-logo="http://logo.plusx.tv/logo/FOX%20Comedy%20HD.png"group-title="Film",Fox Comedy
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42994&extension=ts&play_token=nlomO67kTv
 #EXTINF:-1 tvg-name="Fox Comedy"tvg-id="Fox Comedy"tvg-logo="http://logo.plusx.tv/logo/FOX%20Comedy%20HD.png"group-title="Film",Fox Comedy
 http://194.145.202.71:8087/udp/239.254.5.205:6060
 #EXTINF:-1 tvg-name="Fox Comedy"tvg-id="Fox Comedy"tvg-logo="http://logo.plusx.tv/logo/FOX%20Comedy%20HD.png"group-title="Film",Fox Comedy
@@ -1096,17 +970,11 @@ http://gediz.online:8080/EYL7548/SER5286F/395258
 #EXTINF:-1 tvg-name="Fox Comedy"tvg-id="Fox Comedy"tvg-logo="http://logo.plusx.tv/logo/FOX%20Comedy%20HD.png"group-title="Film",Fox Comedy
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72693
 #EXTINF:-1 tvg-name="Fox Comedy"tvg-id="Fox Comedy"tvg-logo="http://logo.plusx.tv/logo/FOX%20Comedy%20HD.png"group-title="Film",Fox Comedy
-http://37.48.101.149:7017/play/a00j/index.m3u8
-#EXTINF:-1 tvg-name="Fox Comedy"tvg-id="Fox Comedy"tvg-logo="http://logo.plusx.tv/logo/FOX%20Comedy%20HD.png"group-title="Film",Fox Comedy
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94825
-#EXTINF:-1 tvg-name="Polsat Film"tvg-id="Polsat Film"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Film%20HD.png"group-title="Film",Polsat Film
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42969&extension=ts&play_token=eK9AyTcOQY
 #EXTINF:-1 tvg-name="Polsat Film"tvg-id="Polsat Film"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Film%20HD.png"group-title="Film",Polsat Film
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72722
 #EXTINF:-1 tvg-name="Polsat Film"tvg-id="Polsat Film"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Film%20HD.png"group-title="Film",Polsat Film
 http://justwi.top:8080/44169522493300/21695224933323/10208
-#EXTINF:-1 tvg-name="Polsat Film"tvg-id="Polsat Film"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Film%20HD.png"group-title="Film",Polsat Film
-http://37.48.101.149:7017/play/a009/index.m3u8
 #EXTINF:-1 tvg-name="Polsat Film"tvg-id="Polsat Film"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Film%20HD.png"group-title="Film",Polsat Film
 http://gediz.online:8080/EYL7548/SER5286F/395287
 #EXTINF:-1 tvg-name="Polsat Film"tvg-id="Polsat Film"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Film%20HD.png"group-title="Film",Polsat Film
@@ -1116,11 +984,7 @@ http://154.61.57.12:33001/play/a065/index.m3u8,kasia
 #EXTINF:-1 tvg-name="Polsat Film"tvg-id="Polsat Film"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Film%20HD.png"group-title="Film",Polsat Film
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/80559
 #EXTINF:-1 tvg-name="SciFi"tvg-id="SciFi"tvg-logo="http://logo.plusx.tv/logo/Scifi%20Universal.png"group-title="Film",SciFi
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43028&extension=ts&play_token=WllBSqfBbJ
-#EXTINF:-1 tvg-name="SciFi"tvg-id="SciFi"tvg-logo="http://logo.plusx.tv/logo/Scifi%20Universal.png"group-title="Film",SciFi
 http://194.145.202.71:8087/udp/239.254.5.201:6060
-#EXTINF:-1 tvg-name="SciFi"tvg-id="SciFi"tvg-logo="http://logo.plusx.tv/logo/Scifi%20Universal.png"group-title="Film",SciFi
-http://37.48.101.149:7021/play/a003/index.m3u8
 #EXTINF:-1 tvg-name="SciFi"tvg-id="SciFi"tvg-logo="http://logo.plusx.tv/logo/Scifi%20Universal.png"group-title="Film",SciFi
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94831
 #EXTINF:-1 tvg-name="SciFi"tvg-id="SciFi"tvg-logo="http://logo.plusx.tv/logo/Scifi%20Universal.png"group-title="Film",SciFi
@@ -1132,13 +996,9 @@ http://gediz.online:8080/EYL7548/SER5286F/395309
 #EXTINF:-1 tvg-name="SciFi"tvg-id="SciFi"tvg-logo="http://logo.plusx.tv/logo/Scifi%20Universal.png"group-title="Film",SciFi
 http://one.alidesi.org:80/halim55/55halim/1900
 #EXTINF:-1 tvg-name="Kino Polska"tvg-id="Kino Polska"tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png"group-title="Film",Kino Polska
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51373&extension=ts&play_token=Lv0FPcvINs
-#EXTINF:-1 tvg-name="Kino Polska"tvg-id="Kino Polska"tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png"group-title="Film",Kino Polska
 http://194.145.202.71:8087/udp/239.254.2.217:6060
 #EXTINF:-1 tvg-name="Kino Polska"tvg-id="Kino Polska"tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png"group-title="Film",Kino Polska
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72703
-#EXTINF:-1 tvg-name="Kino Polska"tvg-id="Kino Polska"tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png"group-title="Film",Kino Polska
-http://37.48.101.149:7021/play/a016/index.m3u8
 #EXTINF:-1 tvg-name="Kino Polska"tvg-id="Kino Polska"tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png"group-title="Film",Kino Polska
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448900
 #EXTINF:-1 tvg-name="Kino Polska"tvg-id="Kino Polska"tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png"group-title="Film",Kino Polska
@@ -1149,8 +1009,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/448900
 http://154.61.57.12:33001/play/a03i/index.m3u8,kasia
 #EXTINF:-1 tvg-name="Kino Polska"tvg-id="Kino Polska"tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png"group-title="Film",Kino Polska
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/119476
-#EXTINF:-1 tvg-name="Ale Kino+"tvg-id="Ale Kino+"tvg-logo="http://logo.plusx.tv/logo/Ale%20Kino+%20HD.png"group-title="Film",Ale Kino+
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43048&extension=ts&play_token=I7y4ELV59N
 #EXTINF:-1 tvg-name="Ale Kino+"tvg-id="Ale Kino+"tvg-logo="http://logo.plusx.tv/logo/Ale%20Kino+%20HD.png"group-title="Film",Ale Kino+
 http://178.219.128.68:64889/ALEKINOHD
 #EXTINF:-1 tvg-name="Ale Kino+"tvg-id="Ale Kino+"tvg-logo="http://logo.plusx.tv/logo/Ale%20Kino+%20HD.png"group-title="Film",Ale Kino+
@@ -1170,8 +1028,6 @@ http://154.61.57.12:33001/play/a09c/index.m3u8,kasia
 #EXTINF:-1 tvg-name="Kino TV"tvg-id="Kino TV"tvg-logo="http://logo.plusx.tv/logo/Kino%20TV.png"group-title="Film",Kino TV
 http://178.219.128.68:64888/KINOTV
 #EXTINF:-1 tvg-name="Kino TV"tvg-id="Kino TV"tvg-logo="http://logo.plusx.tv/logo/Kino%20TV.png"group-title="Film",Kino TV
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42986&extension=ts&play_token=ACXpByL1vQ
-#EXTINF:-1 tvg-name="Kino TV"tvg-id="Kino TV"tvg-logo="http://logo.plusx.tv/logo/Kino%20TV.png"group-title="Film",Kino TV
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72705
 #EXTINF:-1 tvg-name="Kino TV"tvg-id="Kino TV"tvg-logo="http://logo.plusx.tv/logo/Kino%20TV.png"group-title="Film",Kino TV
 http://justwi.top:8080/44169522493300/21695224933323/10183
@@ -1182,8 +1038,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94907
 #EXTINF:-1 tvg-name="Kino TV"tvg-id="Kino TV"tvg-logo="http://logo.plusx.tv/logo/Kino%20TV.png"group-title="Film",Kino TV
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/127653
 #EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43047&extension=ts&play_token=Pv9FLxAx0r
-#EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
 http://178.219.128.68:64889/AMCHD
 #EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72633
@@ -1192,19 +1046,13 @@ http://gediz.online:8080/EYL7548/SER5286F/395198
 #EXTINF:-1 tvg-name="AMC"tvg-id="AMC"tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png"group-title="Film",AMC
 http://00322.xyz:8000/Alex24_Restream/88dhfGG3@35/127942
 #EXTINF:-1 tvg-name="Epic Drama"tvg-id="Epic Drama"tvg-logo="http://logo.plusx.tv/logo/Epic%20Drama.png"group-title="Film",Epic Drama
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51359&extension=ts&play_token=z9M1QnLu83
-#EXTINF:-1 tvg-name="Epic Drama"tvg-id="Epic Drama"tvg-logo="http://logo.plusx.tv/logo/Epic%20Drama.png"group-title="Film",Epic Drama
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94904
 #EXTINF:-1 tvg-name="Epic Drama"tvg-id="Epic Drama"tvg-logo="http://logo.plusx.tv/logo/Epic%20Drama.png"group-title="Film",Epic Drama
 http://gediz.online:8080/EYL7548/SER5286F/395241
 #EXTINF:-1 tvg-name="Epic Drama"tvg-id="Epic Drama"tvg-logo="http://logo.plusx.tv/logo/Epic%20Drama.png"group-title="Film",Epic Drama
-http://37.48.101.149:7018/play/a00e/index.m3u8
-#EXTINF:-1 tvg-name="Epic Drama"tvg-id="Epic Drama"tvg-logo="http://logo.plusx.tv/logo/Epic%20Drama.png"group-title="Film",Epic Drama
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72676
 #EXTINF:-1 tvg-name="Paramount Channel"tvg-id="Paramount Channel"tvg-logo="http://logo.plusx.tv/logo/Paramount%20Channel%20HD.png"group-title="Film",Paramount Channel
 http://194.145.202.71:8087/udp/239.254.5.226:6060
-#EXTINF:-1 tvg-name="Paramount Channel"tvg-id="Paramount Channel"tvg-logo="http://logo.plusx.tv/logo/Paramount%20Channel%20HD.png"group-title="Film",Paramount Channel
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42974&extension=ts&play_token=h3NPSrGg4Q
 #EXTINF:-1 tvg-name="Paramount Channel"tvg-id="Paramount Channel"tvg-logo="http://logo.plusx.tv/logo/Paramount%20Channel%20HD.png"group-title="Film",Paramount Channel
 http://justwi.top:8080/681693249146107/51693249146/10201
 #EXTINF:-1 tvg-name="Paramount Channel"tvg-id="Paramount Channel"tvg-logo="http://logo.plusx.tv/logo/Paramount%20Channel%20HD.png"group-title="Film",Paramount Channel
@@ -1218,11 +1066,7 @@ http://gediz.online:8080/EYL7548/SER5286F/395192
 #EXTINF:-1 tvg-name="13 Ulica"tvg-id="13 Ulica"tvg-logo="http://logo.plusx.tv/logo/13%20Ulica%20HD.png"group-title="Film",13 Ulica
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94832
 #EXTINF:-1 tvg-name="13 Ulica"tvg-id="13 Ulica"tvg-logo="http://logo.plusx.tv/logo/13%20Ulica%20HD.png"group-title="Film",13 Ulica
-http://37.48.101.149:7021/play/a005/index.m3u8
-#EXTINF:-1 tvg-name="13 Ulica"tvg-id="13 Ulica"tvg-logo="http://logo.plusx.tv/logo/13%20Ulica%20HD.png"group-title="Film",13 Ulica
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72627
-#EXTINF:-1 tvg-name="Active Family"tvg-id="Active Family"tvg-logo="http://epg.ovh/logo/Active+Family.png"group-title="Film",Active Family
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51345&extension=ts&play_token=Wd7tB5lWKC
 #EXTINF:-1 tvg-name="Active Family"tvg-id="Active Family"tvg-logo="http://epg.ovh/logo/Active+Family.png"group-title="Film",Active Family
 http://194.145.202.71:8087/udp/239.254.3.151:6060
 #EXTINF:-1 tvg-name="Active Family"tvg-id="Active Family"tvg-logo="http://epg.ovh/logo/Active+Family.png"group-title="Film",Active Family
@@ -1234,11 +1078,7 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94860
 #EXTINF:-1 tvg-name="Active Family"tvg-id="Active Family"tvg-logo="http://epg.ovh/logo/Active+Family.png"group-title="Film",Active Family
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72631
 #EXTINF:-1 tvg-name="Warner TV"tvg-id="Warner TV"tvg-logo="http://logo.plusx.tv/logo/TNT%20HD.png"group-title="Film",Warner TV
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51399&extension=ts&play_token=0IWbLudBnB
-#EXTINF:-1 tvg-name="Warner TV"tvg-id="Warner TV"tvg-logo="http://logo.plusx.tv/logo/TNT%20HD.png"group-title="Film",Warner TV
 http://justwi.top:8080/681693249146107/51693249146/10228
-#EXTINF:-1 tvg-name="Stopklatka TV"tvg-id="Stopklatka TV"tvg-logo="http://logo.plusx.tv/logo/Stopklatka%20TV.png"group-title="Film",Stopklatka TV
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42950&extension=ts&play_token=G8RRS3B1qh
 #EXTINF:-1 tvg-name="Stopklatka TV"tvg-id="Stopklatka TV"tvg-logo="http://logo.plusx.tv/logo/Stopklatka%20TV.png"group-title="Film",Stopklatka TV
 http://one.alidesi.org:80/halim55/55halim/41432
 #EXTINF:-1 tvg-name="Stopklatka TV"tvg-id="Stopklatka TV"tvg-logo="http://logo.plusx.tv/logo/Stopklatka%20TV.png"group-title="Film",Stopklatka TV
@@ -1247,16 +1087,12 @@ http://one.alidesi.org:80/halim55/55halim/41432
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94908
 #EXTINF:-1 tvg-name="Stopklatka TV"tvg-id="Stopklatka TV"tvg-logo="http://logo.plusx.tv/logo/Stopklatka%20TV.png"group-title="Film",Stopklatka TV
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72747
-#EXTINF:-1 tvg-name="Stopklatka TV"tvg-id="Stopklatka TV"tvg-logo="http://logo.plusx.tv/logo/Stopklatka%20TV.png"group-title="Film",Stopklatka TV
-http://37.48.101.149:7018/play/a01r/index.m3u8
 #EXTINF:-1 tvg-name="Sundance"tvg-id="Sundance"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="Film",Sundance
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94897
 #EXTINF:-1 tvg-name="Sundance"tvg-id="Sundance"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="Film",Sundance
 http://gediz.online:8080/EYL7548/SER5286F/395314
 #EXTINF:-1 tvg-name="Sundance"tvg-id="Sundance"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="Film",Sundance
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94897
-#EXTINF:-1 tvg-name="Sundance"tvg-id="Sundance"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="Film",Sundance
-http://37.48.101.149:7021/play/a002/index.m3u8
 #EXTINF:-1 tvg-name="Sundance"tvg-id="Sundance"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="Film",Sundance
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72749
 #EXTINF:-1 tvg-name="Red Carpet TV"tvg-id="Red Carpet TV"tvg-logo="https://picon-13398.kxcdn.com/recarpetpl.jpg"group-title="Film",Red Carpet TV
@@ -1267,8 +1103,6 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448910
 http://one.alidesi.org:80/halim55/55halim/41436
 #EXTINF:-1 tvg-name="Red Carpet TV"tvg-id="Red Carpet TV"tvg-logo="https://picon-13398.kxcdn.com/recarpetpl.jpg"group-title="Film",Red Carpet TV
 http://one.alidesi.org:80/halim55/55halim/41436
-#EXTINF:-1 tvg-name="TVN Fabuła"tvg-id="TVN Fabuła"tvg-logo="https://epg.ovh/logo/TVN+FABU%c5%81A.png"group-title="Film",TVN Fabuła
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42940&extension=ts&play_token=gyG0LahppK
 #EXTINF:-1 tvg-name="TVN Fabuła"tvg-id="TVN Fabuła"tvg-logo="https://epg.ovh/logo/TVN+FABU%c5%81A.png"group-title="Film",TVN Fabuła
 http://178.219.128.68:64889/TVNFABUHD
 #EXTINF:-1 tvg-name="TVN Fabuła"tvg-id="TVN Fabuła"tvg-logo="https://epg.ovh/logo/TVN+FABU%c5%81A.png"group-title="Film",TVN Fabuła
@@ -1296,8 +1130,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395296
 #EXTINF:-1 tvg-name="Polsat Romans"tvg-id="Polsat Romans"tvg-logo=""group-title="Serial",Polsat Romans
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72731
 #EXTINF:-1 tvg-name="TVP Seriale"tvg-id="TVP Seriale"tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png"group-title="Serial",TVP Seriale
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42927&extension=ts&play_token=Ibbd79qgFJ
-#EXTINF:-1 tvg-name="TVP Seriale"tvg-id="TVP Seriale"tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png"group-title="Serial",TVP Seriale
 http://one.alidesi.org:80/halim55/55halim/1912
 #EXTINF:-1 tvg-name="TVP Seriale"tvg-id="TVP Seriale"tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png"group-title="Serial",TVP Seriale
 http://one.alidesi.org:80/halim55/55halim/1912
@@ -1310,31 +1142,21 @@ http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/119478
 #EXTINF:-1 tvg-name="E! Entertainment"tvg-id="E! Entertainment"tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png"group-title="Serial",E! Entertainment
 http://194.145.202.71:8087/udp/239.254.2.216:6060
 #EXTINF:-1 tvg-name="E! Entertainment"tvg-id="E! Entertainment"tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png"group-title="Serial",E! Entertainment
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51358&extension=ts&play_token=S2BGtmX2Rs
-#EXTINF:-1 tvg-name="E! Entertainment"tvg-id="E! Entertainment"tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png"group-title="Serial",E! Entertainment
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94833
 #EXTINF:-1 tvg-name="E! Entertainment"tvg-id="E! Entertainment"tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png"group-title="Serial",E! Entertainment
 http://gediz.online:8080/EYL7548/SER5286F/395236
 #EXTINF:-1 tvg-name="E! Entertainment"tvg-id="E! Entertainment"tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png"group-title="Serial",E! Entertainment
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94833
 #EXTINF:-1 tvg-name="E! Entertainment"tvg-id="E! Entertainment"tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png"group-title="Serial",E! Entertainment
-http://37.48.101.149:7021/play/a00b/index.m3u8
-#EXTINF:-1 tvg-name="E! Entertainment"tvg-id="E! Entertainment"tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png"group-title="Serial",E! Entertainment
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72671
-#EXTINF:-1 tvg-name="Comedy Central"tvg-id="Comedy Central"tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png"group-title="Serial",Comedy Central
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43020&extension=ts&play_token=Ujshg8nvyG
 #EXTINF:-1 tvg-name="Polsat Comedy Central Extra"tvg-id="Polsat Comedy Central Extra"tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png"group-title="Serial",Polsat Comedy Central Extra
 http://194.145.202.71:8087/udp/239.254.5.231:6060
 #EXTINF:-1 tvg-name="Polsat Comedy Central Extra"tvg-id="Polsat Comedy Central Extra"tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png"group-title="Serial",Polsat Comedy Central Extra
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72767
 #EXTINF:-1 tvg-name="Polsat Comedy Central Extra"tvg-id="Polsat Comedy Central Extra"tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png"group-title="Serial",Polsat Comedy Central Extra
-http://37.48.101.149:7021/play/a01c/index.m3u8
-#EXTINF:-1 tvg-name="Polsat Comedy Central Extra"tvg-id="Polsat Comedy Central Extra"tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png"group-title="Serial",Polsat Comedy Central Extra
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448907
 #EXTINF:-1 tvg-name="Polsat Comedy Central Extra"tvg-id="Polsat Comedy Central Extra"tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png"group-title="Serial",Polsat Comedy Central Extra
 http://gediz.online:8080/EYL7548/SER5286F/395332
-#EXTINF:-1 tvg-name="Romance TV"tvg-id="Romance TV"tvg-logo="http://logo.plusx.tv/logo/Romance%20TV%20HD.png"group-title="Serial",Romance TV
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51393&extension=ts&play_token=f2TdRVX9B7
 #EXTINF:-1 tvg-name="Romance TV"tvg-id="Romance TV"tvg-logo="http://logo.plusx.tv/logo/Romance%20TV%20HD.png"group-title="Serial",Romance TV
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94858
 #EXTINF:-1 tvg-name="Romance TV"tvg-id="Romance TV"tvg-logo="http://logo.plusx.tv/logo/Romance%20TV%20HD.png"group-title="Serial",Romance TV
@@ -1356,17 +1178,11 @@ http://194.145.202.71:8087/udp/239.254.4.106:6060
 #EXTINF:-1 tvg-name="Novela"tvg-id="Novela"tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Novela_Tv.png"group-title="Serial",Novela
 http://194.145.202.71:8087/udp/239.254.1.177:6060
 #EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Serial",Canal+ Seriale
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51354&extension=ts&play_token=8FLVaucclb
-#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Serial",Canal+ Seriale
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43031&extension=ts&play_token=TPm27NG2yy
-#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Serial",Canal+ Seriale
 http://194.145.202.71:8087/udp/239.254.1.5:6060
 #EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Serial",Canal+ Seriale
 http://178.219.128.68:64888/CANASERIHD
 #EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Serial",Canal+ Seriale
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72648
-#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Serial",Canal+ Seriale
-http://37.48.101.149:7018/play/a026/index.m3u8
 #EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Serial",Canal+ Seriale
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94806
 #EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="Canal+ Seriale"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png"group-title="Serial",Canal+ Seriale
@@ -1386,8 +1202,6 @@ http://justwi.top:8080/681693249146107/51693249146/10128
 #EXTINF:-1 tvg-name="===== DOKUMENTALNE ====="tvg-id="===== DOKUMENTALNE ====="tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",===== DOKUMENTALNE =====
 https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="Discovery Channel"tvg-id="Discovery Channel"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png"group-title="Dokumentalne",Discovery Channel
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43016&extension=ts&play_token=fPKCd2IytX
-#EXTINF:-1 tvg-name="Discovery Channel"tvg-id="Discovery Channel"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png"group-title="Dokumentalne",Discovery Channel
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72662
 #EXTINF:-1 tvg-name="Discovery Channel"tvg-id="Discovery Channel"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png"group-title="Dokumentalne",Discovery Channel
 http://one.alidesi.org:80/halim55/55halim/1894
@@ -1404,8 +1218,6 @@ http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72665
 #EXTINF:-1 tvg-name="Discovery Science"tvg-id="Discovery Science"tvg-logo="https://epg.ovh/logo/Discovery+Science.png"group-title="Dokumentalne",Discovery Science
 http://snakestv.com:8080/Androidtv33/XM8nMHS538/68735.ts
 #EXTINF:-1 tvg-name="Discovery Science"tvg-id="Discovery Science"tvg-logo="https://epg.ovh/logo/Discovery+Science.png"group-title="Dokumentalne",Discovery Science
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43014&extension=ts&play_token=YeO5GoZDnI
-#EXTINF:-1 tvg-name="Discovery Science"tvg-id="Discovery Science"tvg-logo="https://epg.ovh/logo/Discovery+Science.png"group-title="Dokumentalne",Discovery Science
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94926
 #EXTINF:-1 tvg-name="Discovery Science"tvg-id="Discovery Science"tvg-logo="https://epg.ovh/logo/Discovery+Science.png"group-title="Dokumentalne",Discovery Science
 http://gediz.online:8080/EYL7548/SER5286F/395230
@@ -1413,8 +1225,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395230
 http://justwi.top:8080/681693249146107/51693249146/10144
 #EXTINF:-1 tvg-name="Discovery Science"tvg-id="Discovery Science"tvg-logo="https://epg.ovh/logo/Discovery+Science.png"group-title="Dokumentalne",Discovery Science
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/119430
-#EXTINF:-1 tvg-name="Discovery Life"tvg-id="Discovery Life"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Life.png"group-title="Dokumentalne",Discovery Life
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43015&extension=ts&play_token=HKuowYWD4p
 #EXTINF:-1 tvg-name="Discovery Life"tvg-id="Discovery Life"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Life.png"group-title="Dokumentalne",Discovery Life
 http://194.145.202.71:8087/udp/239.254.4.58:6060
 #EXTINF:-1 tvg-name="Discovery Life"tvg-id="Discovery Life"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Life.png"group-title="Dokumentalne",Discovery Life
@@ -1442,8 +1252,6 @@ http://justwi.top:8080/681693249146107/51693249146/10141
 #EXTINF:-1 tvg-name="Discovery Historia"tvg-id="Discovery Historia"tvg-logo="http://logo.plusx.tv/logo/Discovery%20Historia.png"group-title="Dokumentalne",Discovery Historia
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/54864
 #EXTINF:-1 tvg-name="National Geographic Channel"tvg-id="National Geographic Channel"tvg-logo="http://logo.plusx.tv/logo/National%20Geographic%20HD.png"group-title="Dokumentalne",National Geographic Channel
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42978&extension=ts&play_token=t3oz7Hps2E
-#EXTINF:-1 tvg-name="National Geographic Channel"tvg-id="National Geographic Channel"tvg-logo="http://logo.plusx.tv/logo/National%20Geographic%20HD.png"group-title="Dokumentalne",National Geographic Channel
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72713
 #EXTINF:-1 tvg-name="National Geographic Channel"tvg-id="National Geographic Channel"tvg-logo="http://logo.plusx.tv/logo/National%20Geographic%20HD.png"group-title="Dokumentalne",National Geographic Channel
 http://one.alidesi.org:80/halim55/55halim/1905
@@ -1453,8 +1261,6 @@ http://one.alidesi.org:80/halim55/55halim/1905
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94938
 #EXTINF:-1 tvg-name="National Geographic Channel"tvg-id="National Geographic Channel"tvg-logo="http://logo.plusx.tv/logo/National%20Geographic%20HD.png"group-title="Dokumentalne",National Geographic Channel
 http://gediz.online:8080/EYL7548/SER5286F/395278
-#EXTINF:-1 tvg-name="National Geographic People"tvg-id="National Geographic People"tvg-logo="https://epg.ovh/logo/Nat+Geo+People.png"group-title="Dokumentalne",National Geographic People
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=129225&extension=ts&play_token=Z2t5cBD189
 #EXTINF:-1 tvg-name="National Geographic People"tvg-id="National Geographic People"tvg-logo="https://epg.ovh/logo/Nat+Geo+People.png"group-title="Dokumentalne",National Geographic People
 http://194.145.202.71:8087/udp/239.254.5.252:6060
 #EXTINF:-1 tvg-name="National Geographic People"tvg-id="National Geographic People"tvg-logo="https://epg.ovh/logo/Nat+Geo+People.png"group-title="Dokumentalne",National Geographic People
@@ -1467,8 +1273,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395277
 http://justwi.top:8080/681693249146107/51693249146/10194
 #EXTINF:-1 tvg-name="National Geographic People"tvg-id="National Geographic People"tvg-logo="https://epg.ovh/logo/Nat+Geo+People.png"group-title="Dokumentalne",National Geographic People
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/119452
-#EXTINF:-1 tvg-name="National Geographic Wild"tvg-id="National Geographic Wild"tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20Wild%20HD.png"group-title="Dokumentalne",National Geographic Wild
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42976&extension=ts&play_token=XfXIsVHoNi
 #EXTINF:-1 tvg-name="National Geographic Wild"tvg-id="National Geographic Wild"tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20Wild%20HD.png"group-title="Dokumentalne",National Geographic Wild
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72714
 #EXTINF:-1 tvg-name="National Geographic Wild"tvg-id="National Geographic Wild"tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20Wild%20HD.png"group-title="Dokumentalne",National Geographic Wild
@@ -1488,8 +1292,6 @@ http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/10725
 #EXTINF:-1 tvg-name="National Geographic Wild"tvg-id="National Geographic Wild"tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20Wild%20HD.png"group-title="Dokumentalne",National Geographic Wild
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/127712
 #EXTINF:-1 tvg-name="History"tvg-id="History"tvg-logo="http://logo.plusx.tv/logo/History%20HD.png"group-title="Dokumentalne",History
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42988&extension=ts&play_token=u5wV4KFjxc
-#EXTINF:-1 tvg-name="History"tvg-id="History"tvg-logo="http://logo.plusx.tv/logo/History%20HD.png"group-title="Dokumentalne",History
 http://194.145.202.71:8087/udp/239.254.1.100:6060
 #EXTINF:-1 tvg-name="History"tvg-id="History"tvg-logo="http://logo.plusx.tv/logo/History%20HD.png"group-title="Dokumentalne",History
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72701
@@ -1498,27 +1300,17 @@ http://snakestv.com:8080/Androidtv33/XM8nMHS538/68784.ts
 #EXTINF:-1 tvg-name="History"tvg-id="History"tvg-logo="http://logo.plusx.tv/logo/History%20HD.png"group-title="Dokumentalne",History
 http://snakestv.com:8080/Androidtv33/XM8nMHS538/68784.ts
 #EXTINF:-1 tvg-name="History"tvg-id="History"tvg-logo="http://logo.plusx.tv/logo/History%20HD.png"group-title="Dokumentalne",History
-http://37.48.101.149:7017/play/a01w/index.m3u8
-#EXTINF:-1 tvg-name="History"tvg-id="History"tvg-logo="http://logo.plusx.tv/logo/History%20HD.png"group-title="Dokumentalne",History
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94920
 #EXTINF:-1 tvg-name="History"tvg-id="History"tvg-logo="http://logo.plusx.tv/logo/History%20HD.png"group-title="Dokumentalne",History
 http://justwi.top:8080/681693249146107/51693249146/10180
 #EXTINF:-1 tvg-name="History 2"tvg-id="History 2"tvg-logo="http://logo.plusx.tv/logo/H2%20HD.png"group-title="Dokumentalne",History 2
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72700
 #EXTINF:-1 tvg-name="History 2"tvg-id="History 2"tvg-logo="http://logo.plusx.tv/logo/H2%20HD.png"group-title="Dokumentalne",History 2
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=129218&extension=ts&play_token=xZqmEOjMmC
-#EXTINF:-1 tvg-name="History 2"tvg-id="History 2"tvg-logo="http://logo.plusx.tv/logo/H2%20HD.png"group-title="Dokumentalne",History 2
 http://194.145.202.71:8087/udp/239.254.1.131:6060
 #EXTINF:-1 tvg-name="History 2"tvg-id="History 2"tvg-logo="http://logo.plusx.tv/logo/H2%20HD.png"group-title="Dokumentalne",History 2
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94924
-#EXTINF:-1 tvg-name="History 2"tvg-id="History 2"tvg-logo="http://logo.plusx.tv/logo/H2%20HD.png"group-title="Dokumentalne",History 2
-http://37.48.101.149:7021/play/a008/index.m3u8
-#EXTINF:-1 tvg-name="Planete+"tvg-id="Planete+"tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png"group-title="Dokumentalne",Planete+
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51385&extension=ts&play_token=vWa9sguDpw
 #EXTINF:-1 tvg-name="Planete+"tvg-id="Planete+"tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png"group-title="Dokumentalne",Planete+
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72717
-#EXTINF:-1 tvg-name="Planete+"tvg-id="Planete+"tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png"group-title="Dokumentalne",Planete+
-http://37.48.101.149:7018/play/a00t/index.m3u8
 #EXTINF:-1 tvg-name="Planete+"tvg-id="Planete+"tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png"group-title="Dokumentalne",Planete+
 http://snakestv.com:8080/Androidtv33/XM8nMHS538/68820.ts
 #EXTINF:-1 tvg-name="Planete+"tvg-id="Planete+"tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png"group-title="Dokumentalne",Planete+
@@ -1527,10 +1319,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94918
 http://justwi.top:8080/681693249146107/51693249146/10202
 #EXTINF:-1 tvg-name="Planete+"tvg-id="Planete+"tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png"group-title="Dokumentalne",Planete+
 http://154.61.57.12:33001/play/a09a/index.m3u8,kasia
-#EXTINF:-1 tvg-name="Investigation Discovery"tvg-id="Investigation Discovery"tvg-logo="http://logo.plusx.tv/logo/ID%20HD.png"group-title="Dokumentalne",Investigation Discovery
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51371&extension=ts&play_token=QtVIvrdqEZ
-#EXTINF:-1 tvg-name="Investigation Discovery"tvg-id="Investigation Discovery"tvg-logo="http://logo.plusx.tv/logo/ID%20HD.png"group-title="Dokumentalne",Investigation Discovery
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42987&extension=ts&play_token=4yNlL89kXM
 #EXTINF:-1 tvg-name="Investigation Discovery"tvg-id="Investigation Discovery"tvg-logo="http://logo.plusx.tv/logo/ID%20HD.png"group-title="Dokumentalne",Investigation Discovery
 http://178.219.128.68:64888/IDHD
 #EXTINF:-1 tvg-name="Investigation Discovery"tvg-id="Investigation Discovery"tvg-logo="http://logo.plusx.tv/logo/ID%20HD.png"group-title="Dokumentalne",Investigation Discovery
@@ -1546,15 +1334,11 @@ http://194.145.202.71:8087/udp/239.254.1.132:6060
 #EXTINF:-1 tvg-name="CI Polsat"tvg-id="CI Polsat"tvg-logo="https://epg.ovh/logo/Polsat+Crime.png"group-title="Dokumentalne",CI Polsat
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72657
 #EXTINF:-1 tvg-name="CI Polsat"tvg-id="CI Polsat"tvg-logo="https://epg.ovh/logo/Polsat+Crime.png"group-title="Dokumentalne",CI Polsat
-http://37.48.101.149:7017/play/a00q/index.m3u8
-#EXTINF:-1 tvg-name="CI Polsat"tvg-id="CI Polsat"tvg-logo="https://epg.ovh/logo/Polsat+Crime.png"group-title="Dokumentalne",CI Polsat
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94919
 #EXTINF:-1 tvg-name="CI Polsat"tvg-id="CI Polsat"tvg-logo="https://epg.ovh/logo/Polsat+Crime.png"group-title="Dokumentalne",CI Polsat
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94939
 #EXTINF:-1 tvg-name="CI Polsat"tvg-id="CI Polsat"tvg-logo="https://epg.ovh/logo/Polsat+Crime.png"group-title="Dokumentalne",CI Polsat
 http://154.61.57.12:33001/play/a04a/index.m3u8,kasia
-#EXTINF:-1 tvg-name="TVN Turbo"tvg-id="TVN Turbo"tvg-logo="http://logo.plusx.tv/logo/TVN%20Turbo%20HD.png"group-title="Dokumentalne",TVN Turbo
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42937&extension=ts&play_token=QOrasZIWlS
 #EXTINF:-1 tvg-name="TVN Turbo"tvg-id="TVN Turbo"tvg-logo="http://logo.plusx.tv/logo/TVN%20Turbo%20HD.png"group-title="Dokumentalne",TVN Turbo
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72618
 #EXTINF:-1 tvg-name="TVN Turbo"tvg-id="TVN Turbo"tvg-logo="http://logo.plusx.tv/logo/TVN%20Turbo%20HD.png"group-title="Dokumentalne",TVN Turbo
@@ -1570,8 +1354,6 @@ http://justwi.top:8080/681693249146107/51693249146/10244
 #EXTINF:-1 tvg-name="TVN Turbo"tvg-id="TVN Turbo"tvg-logo="http://logo.plusx.tv/logo/TVN%20Turbo%20HD.png"group-title="Dokumentalne",TVN Turbo
 http://154.61.57.12:33001/play/a07h/index.m3u8,kasia
 #EXTINF:-1 tvg-name="CBS Reality"tvg-id="CBS Reality"tvg-logo="http://logo.plusx.tv/logo/CBS%20Reality.png"group-title="Dokumentalne",CBS Reality
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43023&extension=ts&play_token=L44DSnGLbS
-#EXTINF:-1 tvg-name="CBS Reality"tvg-id="CBS Reality"tvg-logo="http://logo.plusx.tv/logo/CBS%20Reality.png"group-title="Dokumentalne",CBS Reality
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94903
 #EXTINF:-1 tvg-name="CBS Reality"tvg-id="CBS Reality"tvg-logo="http://logo.plusx.tv/logo/CBS%20Reality.png"group-title="Dokumentalne",CBS Reality
 http://gediz.online:8080/EYL7548/SER5286F/395221
@@ -1584,11 +1366,7 @@ http://gediz.online:8080/EYL7548/SER5286F/395220
 #EXTINF:-1 tvg-name="CBS Europa"tvg-id="CBS Europa"tvg-logo="https://imagizer.imageshack.com/img923/2631/qF9Nxx.png"group-title="Dokumentalne",CBS Europa
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72655
 #EXTINF:-1 tvg-name="DTX"tvg-id="DTX"tvg-logo="http://logo.plusx.tv/logo/DTX%20HD.png"group-title="Dokumentalne",DTX
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51357&extension=ts&play_token=LKvOG6NNEO
-#EXTINF:-1 tvg-name="DTX"tvg-id="DTX"tvg-logo="http://logo.plusx.tv/logo/DTX%20HD.png"group-title="Dokumentalne",DTX
 http://178.219.128.68:64888/DTXHD
-#EXTINF:-1 tvg-name="DTX"tvg-id="DTX"tvg-logo="http://logo.plusx.tv/logo/DTX%20HD.png"group-title="Dokumentalne",DTX
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43013&extension=ts&play_token=2e9I6zZfqq
 #EXTINF:-1 tvg-name="DTX"tvg-id="DTX"tvg-logo="http://logo.plusx.tv/logo/DTX%20HD.png"group-title="Dokumentalne",DTX
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94849
 #EXTINF:-1 tvg-name="DTX"tvg-id="DTX"tvg-logo="http://logo.plusx.tv/logo/DTX%20HD.png"group-title="Dokumentalne",DTX
@@ -1598,23 +1376,15 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94849
 #EXTINF:-1 tvg-name="DTX"tvg-id="DTX"tvg-logo="http://logo.plusx.tv/logo/DTX%20HD.png"group-title="Dokumentalne",DTX
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72670
 #EXTINF:-1 tvg-name="Polsat Doku"tvg-id="Polsat Doku"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Doku%20HD.png"group-title="Dokumentalne",Polsat Doku
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51387&extension=ts&play_token=uLtmNPYzNg
-#EXTINF:-1 tvg-name="Polsat Doku"tvg-id="Polsat Doku"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Doku%20HD.png"group-title="Dokumentalne",Polsat Doku
 http://194.145.202.71:8087/udp/239.254.2.30:6060
 #EXTINF:-1 tvg-name="Polsat Doku"tvg-id="Polsat Doku"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Doku%20HD.png"group-title="Dokumentalne",Polsat Doku
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72721
-#EXTINF:-1 tvg-name="Polsat Doku"tvg-id="Polsat Doku"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Doku%20HD.png"group-title="Dokumentalne",Polsat Doku
-http://37.48.101.149:7017/play/a00p/index.m3u8
 #EXTINF:-1 tvg-name="Polsat Doku"tvg-id="Polsat Doku"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Doku%20HD.png"group-title="Dokumentalne",Polsat Doku
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94925
 #EXTINF:-1 tvg-name="Polsat Doku"tvg-id="Polsat Doku"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Doku%20HD.png"group-title="Dokumentalne",Polsat Doku
 http://gediz.online:8080/EYL7548/SER5286F/395286
 #EXTINF:-1 tvg-name="Polsat Viasat Explore"tvg-id="Polsat Viasat Explore"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Explore%20HD.png"group-title="Dokumentalne",Polsat Viasat Explore
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42953&extension=ts&play_token=INeYrWkh1h
-#EXTINF:-1 tvg-name="Polsat Viasat Explore"tvg-id="Polsat Viasat Explore"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Explore%20HD.png"group-title="Dokumentalne",Polsat Viasat Explore
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72738
-#EXTINF:-1 tvg-name="Polsat Viasat Explore"tvg-id="Polsat Viasat Explore"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Explore%20HD.png"group-title="Dokumentalne",Polsat Viasat Explore
-http://37.48.101.149:7018/play/a018/index.m3u8
 #EXTINF:-1 tvg-name="Polsat Viasat Explore"tvg-id="Polsat Viasat Explore"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Explore%20HD.png"group-title="Dokumentalne",Polsat Viasat Explore
 http://gediz.online:8080/EYL7548/SER5286F/395303
 #EXTINF:-1 tvg-name="Polsat Viasat Explore"tvg-id="Polsat Viasat Explore"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Explore%20HD.png"group-title="Dokumentalne",Polsat Viasat Explore
@@ -1623,8 +1393,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94933
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94937
 #EXTINF:-1 tvg-name="Polsat Viasat History"tvg-id="Polsat Viasat History"tvg-logo="https://epg.ovh/logo/Polsat+Viasat+History.png"group-title="Dokumentalne",Polsat Viasat History
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72739
-#EXTINF:-1 tvg-name="Polsat Viasat History"tvg-id="Polsat Viasat History"tvg-logo="https://epg.ovh/logo/Polsat+Viasat+History.png"group-title="Dokumentalne",Polsat Viasat History
-http://37.48.101.149:7017/play/a00k/index.m3u8
 #EXTINF:-1 tvg-name="Polsat Viasat History"tvg-id="Polsat Viasat History"tvg-logo="https://epg.ovh/logo/Polsat+Viasat+History.png"group-title="Dokumentalne",Polsat Viasat History
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94936
 #EXTINF:-1 tvg-name="Polsat Viasat History"tvg-id="Polsat Viasat History"tvg-logo="https://epg.ovh/logo/Polsat+Viasat+History.png"group-title="Dokumentalne",Polsat Viasat History
@@ -1640,8 +1408,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395209
 #EXTINF:-1 tvg-name="Canal+ Dokument"tvg-id="Canal+ Dokument"tvg-logo="https://epg.ovh/logo/Canal++Dokument.png"group-title="Dokumentalne",Canal+ Dokument
 http://154.61.57.12:33001/play/a03k/index.m3u8,kasia
 #EXTINF:-1 tvg-name="Adventure"tvg-id="Adventure"tvg-logo="http://logo.plusx.tv/logo/Adventure%20HD.png"group-title="Dokumentalne",Adventure
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43049&extension=ts&play_token=hr4pVOnwWz
-#EXTINF:-1 tvg-name="Adventure"tvg-id="Adventure"tvg-logo="http://logo.plusx.tv/logo/Adventure%20HD.png"group-title="Dokumentalne",Adventure
 http://194.145.202.71:8087/udp/239.254.3.103:6060
 #EXTINF:-1 tvg-name="Adventure"tvg-id="Adventure"tvg-logo="http://logo.plusx.tv/logo/Adventure%20HD.png"group-title="Dokumentalne",Adventure
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94845
@@ -1649,8 +1415,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94845
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94845
 #EXTINF:-1 tvg-name="Adventure"tvg-id="Adventure"tvg-logo="http://logo.plusx.tv/logo/Adventure%20HD.png"group-title="Dokumentalne",Adventure
 http://justwi.top:8080/681693249146107/51693249146/10105
-#EXTINF:-1 tvg-name="Animal Planet"tvg-id="Animal Planet"tvg-logo="http://logo.plusx.tv/logo/Animal%20Planet%20HD.png"group-title="Dokumentalne",Animal Planet
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43045&extension=ts&play_token=DoxjCGHK1L
 #EXTINF:-1 tvg-name="Animal Planet"tvg-id="Animal Planet"tvg-logo="http://logo.plusx.tv/logo/Animal%20Planet%20HD.png"group-title="Dokumentalne",Animal Planet
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94917
 #EXTINF:-1 tvg-name="Animal Planet"tvg-id="Animal Planet"tvg-logo="http://logo.plusx.tv/logo/Animal%20Planet%20HD.png"group-title="Dokumentalne",Animal Planet
@@ -1682,15 +1446,11 @@ http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72621
 #EXTINF:-1 tvg-name="TVP Historia"tvg-id="TVP Historia"tvg-logo="https://imagizer.imageshack.com/img922/1214/xPDLmC.png"group-title="Dokumentalne",TVP Historia
 http://justwi.top:8080/681693249146107/51693249146/10251
 #EXTINF:-1 tvg-name="Da Vinci Learning"tvg-id="Da Vinci Learning"tvg-logo="http://logo.plusx.tv/logo/Da%20Vinci%20Learning.png"group-title="Dokumentalne",Da Vinci Learning
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43018&extension=ts&play_token=3YftO9bquY
-#EXTINF:-1 tvg-name="Da Vinci Learning"tvg-id="Da Vinci Learning"tvg-logo="http://logo.plusx.tv/logo/Da%20Vinci%20Learning.png"group-title="Dokumentalne",Da Vinci Learning
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94846
 #EXTINF:-1 tvg-name="Da Vinci Learning"tvg-id="Da Vinci Learning"tvg-logo="http://logo.plusx.tv/logo/Da%20Vinci%20Learning.png"group-title="Dokumentalne",Da Vinci Learning
 http://gediz.online:8080/EYL7548/SER5286F/395225
 #EXTINF:-1 tvg-name="Da Vinci Learning"tvg-id="Da Vinci Learning"tvg-logo="http://logo.plusx.tv/logo/Da%20Vinci%20Learning.png"group-title="Dokumentalne",Da Vinci Learning
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94846
-#EXTINF:-1 tvg-name="Da Vinci Learning"tvg-id="Da Vinci Learning"tvg-logo="http://logo.plusx.tv/logo/Da%20Vinci%20Learning.png"group-title="Dokumentalne",Da Vinci Learning
-http://37.48.101.149:7018/play/a01i/index.m3u8
 #EXTINF:-1 tvg-name="Da Vinci Learning"tvg-id="Da Vinci Learning"tvg-logo="http://logo.plusx.tv/logo/Da%20Vinci%20Learning.png"group-title="Dokumentalne",Da Vinci Learning
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72660
 #EXTINF:-1 tvg-name="Fokus TV"tvg-id="Fokus TV"tvg-logo="https://epg.ovh/logo/Focus.png"group-title="Dokumentalne",Fokus TV
@@ -1705,8 +1465,6 @@ http://one.alidesi.org:80/halim55/55halim/13356
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94851
 #EXTINF:-1 tvg-name="Fokus TV"tvg-id="Fokus TV"tvg-logo="https://epg.ovh/logo/Focus.png"group-title="Dokumentalne",Fokus TV
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94851
-#EXTINF:-1 tvg-name="Fokus TV"tvg-id="Fokus TV"tvg-logo="https://epg.ovh/logo/Focus.png"group-title="Dokumentalne",Fokus TV
-http://37.48.101.149:7018/play/a00l/index.m3u8
 #EXTINF:-1 tvg-name="Fokus TV"tvg-id="Fokus TV"tvg-logo="https://epg.ovh/logo/Focus.png"group-title="Dokumentalne",Fokus TV
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72690
 #EXTINF:-1 tvg-name="Water Planet"tvg-id="Water Planet"tvg-logo="https://picon-13398.kxcdn.com/waterplanetpl.jpg"group-title="Dokumentalne",Water Planet
@@ -1724,13 +1482,9 @@ http://194.145.202.71:8087/udp/239.254.5.25:6060
 #EXTINF:-1 tvg-name="PoloTV"tvg-id="PoloTV"tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png"group-title="Muzyka",PoloTV
 http://178.219.128.68:64888/POLOTV
 #EXTINF:-1 tvg-name="PoloTV"tvg-id="PoloTV"tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png"group-title="Muzyka",PoloTV
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51386&extension=ts&play_token=Y433iBqdEd
-#EXTINF:-1 tvg-name="PoloTV"tvg-id="PoloTV"tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png"group-title="Muzyka",PoloTV
 http://one.alidesi.org:80/halim55/55halim/4999
 #EXTINF:-1 tvg-name="PoloTV"tvg-id="PoloTV"tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png"group-title="Muzyka",PoloTV
 http://one.alidesi.org:80/halim55/55halim/4999
-#EXTINF:-1 tvg-name="PoloTV"tvg-id="PoloTV"tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png"group-title="Muzyka",PoloTV
-http://37.48.101.149:7018/play/a00i/index.m3u8
 #EXTINF:-1 tvg-name="PoloTV"tvg-id="PoloTV"tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png"group-title="Muzyka",PoloTV
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72718
 #EXTINF:-1 tvg-name="PoloTV"tvg-id="PoloTV"tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png"group-title="Muzyka",PoloTV
@@ -1740,11 +1494,7 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94893
 #EXTINF:-1 tvg-name="Disco Polo Music"tvg-id="Disco Polo Music"tvg-logo="http://logo.plusx.tv/logo/Disco%20Polo%20Music.png"group-title="Muzyka",Disco Polo Music
 http://194.145.202.71:8087/udp/239.254.2.23:6060
 #EXTINF:-1 tvg-name="Disco Polo Music"tvg-id="Disco Polo Music"tvg-logo="http://logo.plusx.tv/logo/Disco%20Polo%20Music.png"group-title="Muzyka",Disco Polo Music
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43017&extension=ts&play_token=Ud3JrSYrqK
-#EXTINF:-1 tvg-name="Disco Polo Music"tvg-id="Disco Polo Music"tvg-logo="http://logo.plusx.tv/logo/Disco%20Polo%20Music.png"group-title="Muzyka",Disco Polo Music
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94930
-#EXTINF:-1 tvg-name="4Fun.TV"tvg-id="4Fun.TV"tvg-logo="http://logo.plusx.tv/logo/4Fun.png"group-title="Muzyka",4Fun.TV
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43051&extension=ts&play_token=VCqVnRKQK2
 #EXTINF:-1 tvg-name="4Fun.TV"tvg-id="4Fun.TV"tvg-logo="http://logo.plusx.tv/logo/4Fun.png"group-title="Muzyka",4Fun.TV
 http://194.145.202.71:8087/udp/239.254.2.100:6060
 #EXTINF:-1 tvg-name="4Fun.TV"tvg-id="4Fun.TV"tvg-logo="http://logo.plusx.tv/logo/4Fun.png"group-title="Muzyka",4Fun.TV
@@ -1756,37 +1506,23 @@ http://one.alidesi.org:80/halim55/55halim/1898
 #EXTINF:-1 tvg-name="4Fun.TV"tvg-id="4Fun.TV"tvg-logo="http://logo.plusx.tv/logo/4Fun.png"group-title="Muzyka",4Fun.TV
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94910
 #EXTINF:-1 tvg-name="4Fun.TV"tvg-id="4Fun.TV"tvg-logo="http://logo.plusx.tv/logo/4Fun.png"group-title="Muzyka",4Fun.TV
-http://37.48.101.149:7018/play/a00b/index.m3u8
-#EXTINF:-1 tvg-name="4Fun.TV"tvg-id="4Fun.TV"tvg-logo="http://logo.plusx.tv/logo/4Fun.png"group-title="Muzyka",4Fun.TV
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72630
-#EXTINF:-1 tvg-name="4fun Dance"tvg-id="4fun Dance"tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png"group-title="Muzyka",4fun Dance
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43053&extension=ts&play_token=73ZmX4nWFU
 #EXTINF:-1 tvg-name="4fun Dance"tvg-id="4fun Dance"tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png"group-title="Muzyka",4fun Dance
 http://194.145.202.71:8087/udp/239.254.2.102:6060
 #EXTINF:-1 tvg-name="4fun Dance"tvg-id="4fun Dance"tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png"group-title="Muzyka",4fun Dance
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94932
-#EXTINF:-1 tvg-name="4fun Dance"tvg-id="4fun Dance"tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png"group-title="Muzyka",4fun Dance
-http://37.48.101.149:7018/play/a00d/index.m3u8
 #EXTINF:-1 tvg-name="4fun Dance"tvg-id="4fun Dance"tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png"group-title="Muzyka",4fun Dance
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72628
 #EXTINF:-1 tvg-name="4Fun Gold Hits"tvg-id="4Fun Gold Hits"tvg-logo="https://imagizer.imageshack.com/img923/5128/4Qfbxe.png"group-title="Muzyka",4Fun Gold Hits
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94931
 #EXTINF:-1 tvg-name="4Fun Gold Hits"tvg-id="4Fun Gold Hits"tvg-logo="https://imagizer.imageshack.com/img923/5128/4Qfbxe.png"group-title="Muzyka",4Fun Gold Hits
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72629
-#EXTINF:-1 tvg-name="MTV Music"tvg-id="MTV Music"tvg-logo="http://logo.plusx.tv/logo/MTV%20Music.png"group-title="Muzyka",MTV Music
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42924&extension=ts&play_token=0WNRy6tmFz
-#EXTINF:-1 tvg-name="MTV Polska"tvg-id="MTV Polska"tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png"group-title="Muzyka",MTV Polska
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51378&extension=ts&play_token=VSsFf3w43F
-#EXTINF:-1 tvg-name="MTV Polska"tvg-id="MTV Polska"tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png"group-title="Muzyka",MTV Polska
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42980&extension=ts&play_token=UuYyqC5dSb
 #EXTINF:-1 tvg-name="MTV Polska"tvg-id="MTV Polska"tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png"group-title="Muzyka",MTV Polska
 http://178.219.128.68:64888/MTVHD
 #EXTINF:-1 tvg-name="MTV Polska"tvg-id="MTV Polska"tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png"group-title="Muzyka",MTV Polska
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94886
 #EXTINF:-1 tvg-name="MTV Polska"tvg-id="MTV Polska"tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png"group-title="Muzyka",MTV Polska
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94886
-#EXTINF:-1 tvg-name="MTV Polska"tvg-id="MTV Polska"tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png"group-title="Muzyka",MTV Polska
-http://37.48.101.149:7021/play/a00m/index.m3u8
 #EXTINF:-1 tvg-name="MTV 00s"tvg-id="MTV 00s"tvg-logo="http://logo.plusx.tv/logo/MTV%20Music.png"group-title="Muzyka",MTV 00s
 http://194.145.202.71:8087/udp/239.254.5.222:6060
 #EXTINF:-1 tvg-name="MTV 00s"tvg-id="MTV 00s"tvg-logo="http://logo.plusx.tv/logo/MTV%20Music.png"group-title="Muzyka",MTV 00s
@@ -1816,8 +1552,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94884
 #EXTINF:-1 tvg-name="MTV Rocks"tvg-id="MTV Rocks"tvg-logo="https://imagizer.imageshack.com/img923/3959/rjgE0W.png"group-title="Muzyka",MTV Rocks
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94884
 #EXTINF:-1 tvg-name="MTV Rocks"tvg-id="MTV Rocks"tvg-logo="https://imagizer.imageshack.com/img923/3959/rjgE0W.png"group-title="Muzyka",MTV Rocks
-http://37.48.101.149:7018/play/a013/index.m3u8
-#EXTINF:-1 tvg-name="MTV Rocks"tvg-id="MTV Rocks"tvg-logo="https://imagizer.imageshack.com/img923/3959/rjgE0W.png"group-title="Muzyka",MTV Rocks
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72711
 #EXTINF:-1 tvg-name="MTV Music 24"tvg-id="MTV Music 24"tvg-logo=""group-title="Muzyka",MTV Music 24
 http://one.alidesi.org:80/halim55/55halim/1899
@@ -1826,23 +1560,13 @@ http://one.alidesi.org:80/halim55/55halim/1899
 #EXTINF:-1 tvg-name="Kino Polska Muzyka"tvg-id="Kino Polska Muzyka"tvg-logo="https://picon-13398.kxcdn.com/kinopolskamuzyka.jpg"group-title="Muzyka",Kino Polska Muzyka
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72704
 #EXTINF:-1 tvg-name="Vox Music TV"tvg-id="Vox Music TV"tvg-logo="http://logo.plusx.tv/logo/VOX%20Music%20TV.png"group-title="Muzyka",Vox Music TV
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42979&extension=ts&play_token=QckiLzbr6A
-#EXTINF:-1 tvg-name="Vox Music TV"tvg-id="Vox Music TV"tvg-logo="http://logo.plusx.tv/logo/VOX%20Music%20TV.png"group-title="Muzyka",Vox Music TV
 http://194.145.202.71:8087/udp/239.254.5.26:6060
-#EXTINF:-1 tvg-name="Vox Music TV"tvg-id="Vox Music TV"tvg-logo="http://logo.plusx.tv/logo/VOX%20Music%20TV.png"group-title="Muzyka",Vox Music TV
-http://37.48.101.149:7018/play/a01m/index.m3u8
 #EXTINF:-1 tvg-name="Vox Music TV"tvg-id="Vox Music TV"tvg-logo="http://logo.plusx.tv/logo/VOX%20Music%20TV.png"group-title="Muzyka",Vox Music TV
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72757
 #EXTINF:-1 tvg-name="Polsat Music"tvg-id="Polsat Music"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Music%20HD.png"group-title="Muzyka",Polsat Music
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42966&extension=ts&play_token=qn0C5yG1cu
-#EXTINF:-1 tvg-name="Polsat Music"tvg-id="Polsat Music"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Music%20HD.png"group-title="Muzyka",Polsat Music
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72726
 #EXTINF:-1 tvg-name="Polsat Music"tvg-id="Polsat Music"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Music%20HD.png"group-title="Muzyka",Polsat Music
-http://37.48.101.149:7018/play/a01j/index.m3u8
-#EXTINF:-1 tvg-name="Polsat Music"tvg-id="Polsat Music"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Music%20HD.png"group-title="Muzyka",Polsat Music
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94911
-#EXTINF:-1 tvg-name="Nuta TV"tvg-id="Nuta TV"tvg-logo="http://logo.plusx.tv/logo/Nuta%20TV.png"group-title="Muzyka",Nuta TV
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43050&extension=ts&play_token=gVGfrhLfIt
 #EXTINF:-1 tvg-name="Nuta TV"tvg-id="Nuta TV"tvg-logo="http://logo.plusx.tv/logo/Nuta%20TV.png"group-title="Muzyka",Nuta TV
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94854
 #EXTINF:-1 tvg-name="Nuta TV"tvg-id="Nuta TV"tvg-logo="http://logo.plusx.tv/logo/Nuta%20TV.png"group-title="Muzyka",Nuta TV
@@ -1856,19 +1580,11 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94977
 #EXTINF:-1 tvg-name="Eska TV"tvg-id="Eska TV"tvg-logo="http://logo.plusx.tv/logo/Eska%20TV.png"group-title="Muzyka",Eska TV
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94977
 #EXTINF:-1 tvg-name="Eska TV"tvg-id="Eska TV"tvg-logo="http://logo.plusx.tv/logo/Eska%20TV.png"group-title="Muzyka",Eska TV
-http://37.48.101.149:7018/play/a00k/index.m3u8
-#EXTINF:-1 tvg-name="Eska TV"tvg-id="Eska TV"tvg-logo="http://logo.plusx.tv/logo/Eska%20TV.png"group-title="Muzyka",Eska TV
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72677
-#EXTINF:-1 tvg-name="Eska TV"tvg-id="Eska TV"tvg-logo="http://logo.plusx.tv/logo/Eska%20TV.png"group-title="Muzyka",Eska TV
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51360&extension=ts&play_token=6ztoTIuzio
-#EXTINF:-1 tvg-name="Eska TV Extra"tvg-id="Eska TV Extra"tvg-logo="https://epg.ovh/logo/ESKA1.png"group-title="Muzyka",Eska TV Extra
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51361&extension=ts&play_token=K7abKGgAh3
 #EXTINF:-1 tvg-name="Eska TV Extra"tvg-id="Eska TV Extra"tvg-logo="https://epg.ovh/logo/ESKA1.png"group-title="Muzyka",Eska TV Extra
 http://194.145.202.71:8087/udp/239.254.5.30:6060
 #EXTINF:-1 tvg-name="Eska TV Extra"tvg-id="Eska TV Extra"tvg-logo="https://epg.ovh/logo/ESKA1.png"group-title="Muzyka",Eska TV Extra
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94914
-#EXTINF:-1 tvg-name="Eska TV Extra"tvg-id="Eska TV Extra"tvg-logo="https://epg.ovh/logo/ESKA1.png"group-title="Muzyka",Eska TV Extra
-http://37.48.101.149:7018/play/a00j/index.m3u8
 #EXTINF:-1 tvg-name="Eska TV Extra"tvg-id="Eska TV Extra"tvg-logo="https://epg.ovh/logo/ESKA1.png"group-title="Muzyka",Eska TV Extra
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72678
 #EXTINF:-1 tvg-name="Eska Rock TV"tvg-id="Eska Rock TV"tvg-logo="https://epg.ovh/logo/ESKA+Rock.png"group-title="Muzyka",Eska Rock TV
@@ -1880,8 +1596,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94913
 #EXTINF:-1 tvg-name="Eska Rock TV"tvg-id="Eska Rock TV"tvg-logo="https://epg.ovh/logo/ESKA+Rock.png"group-title="Muzyka",Eska Rock TV
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72679
 #EXTINF:-1 tvg-name="Power TV"tvg-id="Power TV"tvg-logo="http://logo.plusx.tv/logo/Power%20TV.png"group-title="Muzyka",Power TV
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=122588&extension=ts&play_token=BOni9mz98s
-#EXTINF:-1 tvg-name="Power TV"tvg-id="Power TV"tvg-logo="http://logo.plusx.tv/logo/Power%20TV.png"group-title="Muzyka",Power TV
 http://one.alidesi.org:80/halim55/55halim/41437
 #EXTINF:-1 tvg-name="Power TV"tvg-id="Power TV"tvg-logo="http://logo.plusx.tv/logo/Power%20TV.png"group-title="Muzyka",Power TV
 http://one.alidesi.org:80/halim55/55halim/41437
@@ -1890,19 +1604,13 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94855
 #EXTINF:-1 tvg-name="Power TV"tvg-id="Power TV"tvg-logo="http://logo.plusx.tv/logo/Power%20TV.png"group-title="Muzyka",Power TV
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94855
 #EXTINF:-1 tvg-name="Stars TV"tvg-id="Stars TV"tvg-logo="http://logo.plusx.tv/logo/Stars%20TV.png"group-title="Muzyka",Stars TV
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51395&extension=ts&play_token=8iNtdgI8ki
-#EXTINF:-1 tvg-name="Stars TV"tvg-id="Stars TV"tvg-logo="http://logo.plusx.tv/logo/Stars%20TV.png"group-title="Muzyka",Stars TV
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94909
 #EXTINF:-1 tvg-name="Stars TV"tvg-id="Stars TV"tvg-logo="http://logo.plusx.tv/logo/Stars%20TV.png"group-title="Muzyka",Stars TV
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72746
-#EXTINF:-1 tvg-name="Stars TV"tvg-id="Stars TV"tvg-logo="http://logo.plusx.tv/logo/Stars%20TV.png"group-title="Muzyka",Stars TV
-http://37.48.101.149:7018/play/a004/index.m3u8
 #EXTINF:-1 tvg-name="VH1"tvg-id="VH1"tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/VH1_HD.png"group-title="Muzyka",VH1
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94882
 #EXTINF:-1 tvg-name="VH1"tvg-id="VH1"tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/VH1_HD.png"group-title="Muzyka",VH1
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94882
-#EXTINF:-1 tvg-name="VH1"tvg-id="VH1"tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/VH1_HD.png"group-title="Muzyka",VH1
-http://37.48.101.149:7021/play/a01b/index.m3u8
 #EXTINF:-1 tvg-name="Folx"tvg-id="Folx"tvg-logo=""group-title="Muzyka",Folx
 http://194.145.202.71:8087/udp/239.254.4.112:6060
 #EXTINF:-1 tvg-name="MixTape"tvg-id="MixTape"tvg-logo=""group-title="Muzyka",MixTape
@@ -1911,10 +1619,6 @@ http://194.145.202.71:8087/udp/239.254.4.100:6060
 https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
 #EXTINF:-1 tvg-name="Junior Music"tvg-id="Junior Music"tvg-logo=""group-title="Dla Dzieci",Junior Music
 http://194.145.202.71:8087/udp/239.254.1.129:6060
-#EXTINF:-1 tvg-name="4Fun Kids"tvg-id="4Fun Kids"tvg-logo="http://logo.plusx.tv/logo/4Fun%20Hits.png"group-title="Dla Dzieci",4Fun Kids
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43052&extension=ts&play_token=BcFdaLrCaD
-#EXTINF:-1 tvg-name="4Fun Kids"tvg-id="4Fun Kids"tvg-logo="http://logo.plusx.tv/logo/4Fun%20Hits.png"group-title="Dla Dzieci",4Fun Kids
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=129215&extension=ts&play_token=P0XDkePwV4
 #EXTINF:-1 tvg-name="4Fun Kids"tvg-id="4Fun Kids"tvg-logo="http://logo.plusx.tv/logo/4Fun%20Hits.png"group-title="Dla Dzieci",4Fun Kids
 http://194.145.202.71:8087/udp/239.254.2.101:6060
 #EXTINF:-1 tvg-name="4Fun Kids"tvg-id="4Fun Kids"tvg-logo="http://logo.plusx.tv/logo/4Fun%20Hits.png"group-title="Dla Dzieci",4Fun Kids
@@ -1927,8 +1631,6 @@ http://one.alidesi.org:80/halim55/55halim/1897
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/448913
 #EXTINF:-1 tvg-name="4Fun Kids"tvg-id="4Fun Kids"tvg-logo="http://logo.plusx.tv/logo/4Fun%20Hits.png"group-title="Dla Dzieci",4Fun Kids
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448913
-#EXTINF:-1 tvg-name="4Fun Kids"tvg-id="4Fun Kids"tvg-logo="http://logo.plusx.tv/logo/4Fun%20Hits.png"group-title="Dla Dzieci",4Fun Kids
-http://37.48.101.149:7018/play/a01w/index.m3u8
 #EXTINF:-1 tvg-name="Duck TV"tvg-id="Duck TV"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="Dla Dzieci",Duck TV
 http://178.219.128.68:64888/DUCKTV
 #EXTINF:-1 tvg-name="Duck TV"tvg-id="Duck TV"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="Dla Dzieci",Duck TV
@@ -1946,8 +1648,6 @@ http://one.alidesi.org:80/halim55/55halim/41428
 #EXTINF:-1 tvg-name="Teletoon+"tvg-id="Teletoon+"tvg-logo="http://logo.plusx.tv/logo/Teletoon+%20HD.png"group-title="Dla Dzieci",Teletoon+
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72752
 #EXTINF:-1 tvg-name="Minimini+"tvg-id="Minimini+"tvg-logo="http://logo.plusx.tv/logo/MiniMini+%20HD.png"group-title="Dla Dzieci",Minimini+
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42981&extension=ts&play_token=nwaiv9yaff
-#EXTINF:-1 tvg-name="Minimini+"tvg-id="Minimini+"tvg-logo="http://logo.plusx.tv/logo/MiniMini+%20HD.png"group-title="Dla Dzieci",Minimini+
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94877
 #EXTINF:-1 tvg-name="Minimini+"tvg-id="Minimini+"tvg-logo="http://logo.plusx.tv/logo/MiniMini+%20HD.png"group-title="Dla Dzieci",Minimini+
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72709
@@ -1958,13 +1658,9 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94868
 #EXTINF:-1 tvg-name="Boomerang"tvg-id="Boomerang"tvg-logo="http://vodkom.com:25461/Logo/PICONS/BOOMERANG_TV_HD.png"group-title="Dla Dzieci",Boomerang
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94868
 #EXTINF:-1 tvg-name="Boomerang"tvg-id="Boomerang"tvg-logo="http://vodkom.com:25461/Logo/PICONS/BOOMERANG_TV_HD.png"group-title="Dla Dzieci",Boomerang
-http://37.48.101.149:7018/play/a00h/index.m3u8
-#EXTINF:-1 tvg-name="Boomerang"tvg-id="Boomerang"tvg-logo="http://vodkom.com:25461/Logo/PICONS/BOOMERANG_TV_HD.png"group-title="Dla Dzieci",Boomerang
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72643
 #EXTINF:-1 tvg-name="Boomerang"tvg-id="Boomerang"tvg-logo="http://vodkom.com:25461/Logo/PICONS/BOOMERANG_TV_HD.png"group-title="Dla Dzieci",Boomerang
 http://194.145.202.71:8087/udp/239.254.5.47:6060
-#EXTINF:-1 tvg-name="Cartoon Network"tvg-id="Cartoon Network"tvg-logo="http://logo.plusx.tv/logo/Cartoon%20Network%20HD.png"group-title="Dla Dzieci",Cartoon Network
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43026&extension=ts&play_token=0ecsKAwNPr
 #EXTINF:-1 tvg-name="Cartoon Network"tvg-id="Cartoon Network"tvg-logo="http://logo.plusx.tv/logo/Cartoon%20Network%20HD.png"group-title="Dla Dzieci",Cartoon Network
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94869
 #EXTINF:-1 tvg-name="Cartoon Network"tvg-id="Cartoon Network"tvg-logo="http://logo.plusx.tv/logo/Cartoon%20Network%20HD.png"group-title="Dla Dzieci",Cartoon Network
@@ -1980,8 +1676,6 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94872
 #EXTINF:-1 tvg-name="Disney Channel"tvg-id="Disney Channel"tvg-logo="https://epg.ovh/logo/Disney+Channel.png"group-title="Dla Dzieci",Disney Channel
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72666
 #EXTINF:-1 tvg-name="Disney Junior"tvg-id="Disney Junior"tvg-logo="https://epg.ovh/logo/Disney+Junior.png"group-title="Dla Dzieci",Disney Junior
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43011&extension=ts&play_token=Y1yC5eHLCg
-#EXTINF:-1 tvg-name="Disney Junior"tvg-id="Disney Junior"tvg-logo="https://epg.ovh/logo/Disney+Junior.png"group-title="Dla Dzieci",Disney Junior
 http://194.145.202.71:8087/udp/239.254.5.209:6060
 #EXTINF:-1 tvg-name="Disney Junior"tvg-id="Disney Junior"tvg-logo="https://epg.ovh/logo/Disney+Junior.png"group-title="Dla Dzieci",Disney Junior
 http://one.alidesi.org:80/halim55/55halim/1892
@@ -1994,15 +1688,11 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94871
 #EXTINF:-1 tvg-name="Disney Junior"tvg-id="Disney Junior"tvg-logo="https://epg.ovh/logo/Disney+Junior.png"group-title="Dla Dzieci",Disney Junior
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72667
 #EXTINF:-1 tvg-name="Disney XD"tvg-id="Disney XD"tvg-logo="http://logo.plusx.tv/logo/Disney+XD.png"group-title="Dla Dzieci",Disney XD
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43010&extension=ts&play_token=Cm6YfgkW9i
-#EXTINF:-1 tvg-name="Disney XD"tvg-id="Disney XD"tvg-logo="http://logo.plusx.tv/logo/Disney+XD.png"group-title="Dla Dzieci",Disney XD
 http://194.145.202.71:8087/udp/239.254.5.207:6060
 #EXTINF:-1 tvg-name="Disney XD"tvg-id="Disney XD"tvg-logo="http://logo.plusx.tv/logo/Disney+XD.png"group-title="Dla Dzieci",Disney XD
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94870
 #EXTINF:-1 tvg-name="Disney XD"tvg-id="Disney XD"tvg-logo="http://logo.plusx.tv/logo/Disney+XD.png"group-title="Dla Dzieci",Disney XD
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94870
-#EXTINF:-1 tvg-name="Nick Jr"tvg-id="Nick Jr"tvg-logo="http://logo.plusx.tv/logo/Nick%20Jr.png"group-title="Dla Dzieci",Nick Jr
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51380&extension=ts&play_token=BkT0HL0gmq
 #EXTINF:-1 tvg-name="Nick Jr"tvg-id="Nick Jr"tvg-logo="http://logo.plusx.tv/logo/Nick%20Jr.png"group-title="Dla Dzieci",Nick Jr
 http://194.145.202.71:8087/udp/239.254.5.225:6060
 #EXTINF:-1 tvg-name="Nick Jr"tvg-id="Nick Jr"tvg-logo="http://logo.plusx.tv/logo/Nick%20Jr.png"group-title="Dla Dzieci",Nick Jr
@@ -2018,8 +1708,6 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448912
 #EXTINF:-1 tvg-name="TeenNick"tvg-id="TeenNick"tvg-logo="http://icons.tw:8080/images/Poland.png"group-title="Dla Dzieci",TeenNick
 http://194.145.202.71:8087/udp/239.254.1.54:6060
 #EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon"tvg-logo="https://epg.ovh/logo/Nickelodeon+HD.png"group-title="Dla Dzieci",Nickelodeon
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51381&extension=ts&play_token=ljPXDPVokW
-#EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon"tvg-logo="https://epg.ovh/logo/Nickelodeon+HD.png"group-title="Dla Dzieci",Nickelodeon
 http://194.145.202.71:8087/udp/239.254.5.223:6060
 #EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon"tvg-logo="https://epg.ovh/logo/Nickelodeon+HD.png"group-title="Dla Dzieci",Nickelodeon
 http://178.219.128.68:64889/NICK
@@ -2027,8 +1715,6 @@ http://178.219.128.68:64889/NICK
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94874
 #EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon"tvg-logo="https://epg.ovh/logo/Nickelodeon+HD.png"group-title="Dla Dzieci",Nickelodeon
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94874
-#EXTINF:-1 tvg-name="Nicktoons"tvg-id="Nicktoons"tvg-logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png"group-title="Dla Dzieci",Nicktoons
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51382&extension=ts&play_token=OnAthscs3t
 #EXTINF:-1 tvg-name="Nicktoons"tvg-id="Nicktoons"tvg-logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png"group-title="Dla Dzieci",Nicktoons
 http://one.alidesi.org:80/halim55/55halim/15330
 #EXTINF:-1 tvg-name="Nicktoons"tvg-id="Nicktoons"tvg-logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png"group-title="Dla Dzieci",Nicktoons
@@ -2039,8 +1725,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94875
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94875
 #EXTINF:-1 tvg-name="Polsat JimJam"tvg-id="Polsat JimJam"tvg-logo="http://logo.plusx.tv/logo/JimJam%20Polsat.png"group-title="Dla Dzieci",Polsat JimJam
 http://194.145.202.71:8087/udp/239.254.2.24:6060
-#EXTINF:-1 tvg-name="Polsat JimJam"tvg-id="Polsat JimJam"tvg-logo="http://logo.plusx.tv/logo/JimJam%20Polsat.png"group-title="Dla Dzieci",Polsat JimJam
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42967&extension=ts&play_token=4Np4qCIec7
 #EXTINF:-1 tvg-name="Polsat JimJam"tvg-id="Polsat JimJam"tvg-logo="http://logo.plusx.tv/logo/JimJam%20Polsat.png"group-title="Dla Dzieci",Polsat JimJam
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72725
 #EXTINF:-1 tvg-name="Polsat JimJam"tvg-id="Polsat JimJam"tvg-logo="http://logo.plusx.tv/logo/JimJam%20Polsat.png"group-title="Dla Dzieci",Polsat JimJam
@@ -2054,13 +1738,7 @@ http://178.219.128.68:64889/BABYTV
 #EXTINF:-1 tvg-name="BabyTV"tvg-id="BabyTV"tvg-logo="http://logo.plusx.tv/logo/Baby%20TV.png"group-title="Dla Dzieci",BabyTV
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94866
 #EXTINF:-1 tvg-name="BabyTV"tvg-id="BabyTV"tvg-logo="http://logo.plusx.tv/logo/Baby%20TV.png"group-title="Dla Dzieci",BabyTV
-http://37.48.101.149:7017/play/a01y/index.m3u8
-#EXTINF:-1 tvg-name="BabyTV"tvg-id="BabyTV"tvg-logo="http://logo.plusx.tv/logo/Baby%20TV.png"group-title="Dla Dzieci",BabyTV
 http://194.145.202.71:8087/udp/239.254.4.228:6060
-#EXTINF:-1 tvg-name="Cartoonito"tvg-id="Cartoonito"tvg-logo="https://epg.ovh/logo/CARTOONITO.png"group-title="Dla Dzieci",Cartoonito
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43036&extension=ts&play_token=1AZZXjeeso
-#EXTINF:-1 tvg-name="BBC CBeebies"tvg-id="BBC CBeebies"tvg-logo="https://epg.ovh/logo/BBC+CBeebies+PL.png"group-title="Dla Dzieci",BBC CBeebies
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51347&extension=ts&play_token=5gPsuzXMGr
 #EXTINF:-1 tvg-name="BBC CBeebies"tvg-id="BBC CBeebies"tvg-logo="https://epg.ovh/logo/BBC+CBeebies+PL.png"group-title="Dla Dzieci",BBC CBeebies
 http://194.145.202.71:8087/udp/239.254.4.231:6060
 #EXTINF:-1 tvg-name="BBC CBeebies"tvg-id="BBC CBeebies"tvg-logo="https://epg.ovh/logo/BBC+CBeebies+PL.png"group-title="Dla Dzieci",BBC CBeebies
@@ -2080,8 +1758,6 @@ http://194.145.202.71:8087/udp/239.254.1.106:6060
 #EXTINF:-1 tvg-name="XTREME TV"tvg-id="XTREME TV"tvg-logo=""group-title="INNE",XTREME TV
 http://194.145.202.71:8087/udp/239.254.1.50:6060
 #EXTINF:-1 tvg-name="Travel Channel"tvg-id="Travel Channel"tvg-logo="http://logo.plusx.tv/logo/Travel%20Channel%20HD.png"group-title="INNE",Travel Channel
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51402&extension=ts&play_token=W1XFxxGluL
-#EXTINF:-1 tvg-name="Travel Channel"tvg-id="Travel Channel"tvg-logo="http://logo.plusx.tv/logo/Travel%20Channel%20HD.png"group-title="INNE",Travel Channel
 http://194.145.202.71:8087/udp/239.254.3.72:6060
 #EXTINF:-1 tvg-name="Travel Channel"tvg-id="Travel Channel"tvg-logo="http://logo.plusx.tv/logo/Travel%20Channel%20HD.png"group-title="INNE",Travel Channel
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94842
@@ -2094,10 +1770,6 @@ http://194.145.202.71:8087/udp/239.254.3.54:6060
 #EXTINF:-1 tvg-name="HGTV"tvg-id="HGTV"tvg-logo="https://epg.ovh/logo/Home+TV.png"group-title="INNE",HGTV
 http://178.219.128.68:64889/HGTVHD
 #EXTINF:-1 tvg-name="Canal+ Domo"tvg-id="Canal+ Domo"tvg-logo="http://logo.plusx.tv/logo/Domo+.png"group-title="INNE",Canal+ Domo
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=129223&extension=ts&play_token=jIkt6qRXRO
-#EXTINF:-1 tvg-name="Canal+ Domo"tvg-id="Canal+ Domo"tvg-logo="http://logo.plusx.tv/logo/Domo+.png"group-title="INNE",Canal+ Domo
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43009&extension=ts&play_token=ax8cBYrHPw
-#EXTINF:-1 tvg-name="Canal+ Domo"tvg-id="Canal+ Domo"tvg-logo="http://logo.plusx.tv/logo/Domo+.png"group-title="INNE",Canal+ Domo
 http://178.219.128.68:64889/DOMOHD
 #EXTINF:-1 tvg-name="Canal+ Domo"tvg-id="Canal+ Domo"tvg-logo="http://logo.plusx.tv/logo/Domo+.png"group-title="INNE",Canal+ Domo
 http://one.alidesi.org:80/halim55/55halim/610
@@ -2106,15 +1778,11 @@ http://one.alidesi.org:80/halim55/55halim/610
 #EXTINF:-1 tvg-name="Canal+ Domo"tvg-id="Canal+ Domo"tvg-logo="http://logo.plusx.tv/logo/Domo+.png"group-title="INNE",Canal+ Domo
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72669
 #EXTINF:-1 tvg-name="Canal+ Kuchnia"tvg-id="Canal+ Kuchnia"tvg-logo="http://logo.plusx.tv/logo/Kuchnia+%20HD.png"group-title="INNE",Canal+ Kuchnia
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42983&extension=ts&play_token=LZqOXns0Si
-#EXTINF:-1 tvg-name="Canal+ Kuchnia"tvg-id="Canal+ Kuchnia"tvg-logo="http://logo.plusx.tv/logo/Kuchnia+%20HD.png"group-title="INNE",Canal+ Kuchnia
 http://one.alidesi.org:80/halim55/55halim/1906
 #EXTINF:-1 tvg-name="Canal+ Kuchnia"tvg-id="Canal+ Kuchnia"tvg-logo="http://logo.plusx.tv/logo/Kuchnia+%20HD.png"group-title="INNE",Canal+ Kuchnia
 http://one.alidesi.org:80/halim55/55halim/1906
 #EXTINF:-1 tvg-name="Canal+ Kuchnia"tvg-id="Canal+ Kuchnia"tvg-logo="http://logo.plusx.tv/logo/Kuchnia+%20HD.png"group-title="INNE",Canal+ Kuchnia
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72706
-#EXTINF:-1 tvg-name="Food Network"tvg-id="Food Network"tvg-logo="http://logo.plusx.tv/logo/Food%20Network%20HD.png"group-title="INNE",Food Network
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51365&extension=ts&play_token=7EdILBKUjc
 #EXTINF:-1 tvg-name="Food Network"tvg-id="Food Network"tvg-logo="http://logo.plusx.tv/logo/Food%20Network%20HD.png"group-title="INNE",Food Network
 http://194.145.202.71:8087/udp/239.254.3.73:6060
 #EXTINF:-1 tvg-name="Food Network"tvg-id="Food Network"tvg-logo="http://logo.plusx.tv/logo/Food%20Network%20HD.png"group-title="INNE",Food Network
@@ -2130,8 +1798,6 @@ http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94879
 #EXTINF:-1 tvg-name="Polsat Games"tvg-id="Polsat Games"tvg-logo="https://docdog.top/logo/countries/poland/polsatmusic.png"group-title="INNE",Polsat Games
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94879
 #EXTINF:-1 tvg-name="Metro"tvg-id="Metro"tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png"group-title="INNE",Metro
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51376&extension=ts&play_token=1VafKtBnYm
-#EXTINF:-1 tvg-name="Metro"tvg-id="Metro"tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png"group-title="INNE",Metro
 http://194.145.202.71:8087/udp/239.254.2.199:6060
 #EXTINF:-1 tvg-name="Metro"tvg-id="Metro"tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png"group-title="INNE",Metro
 http://194.145.202.71:8087/udp/239.254.2.198:6060
@@ -2141,8 +1807,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/448909
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94894
 #EXTINF:-1 tvg-name="Metro"tvg-id="Metro"tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png"group-title="INNE",Metro
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/448909
-#EXTINF:-1 tvg-name="Metro"tvg-id="Metro"tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png"group-title="INNE",Metro
-http://37.48.101.149:7018/play/a01t/index.m3u8
 #EXTINF:-1 tvg-name="Metro"tvg-id="Metro"tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png"group-title="INNE",Metro
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72708
 #EXTINF:-1 tvg-name="Metro"tvg-id="Metro"tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png"group-title="INNE",Metro
@@ -2154,15 +1818,9 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94979
 #EXTINF:-1 tvg-name="StudioMed TV"tvg-id="StudioMed TV"tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_595231.png"group-title="INNE",StudioMed TV
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94979
 #EXTINF:-1 tvg-name="StudioMed TV"tvg-id="StudioMed TV"tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_595231.png"group-title="INNE",StudioMed TV
-http://37.48.101.149:7018/play/a02a/index.m3u8
-#EXTINF:-1 tvg-name="StudioMed TV"tvg-id="StudioMed TV"tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_595231.png"group-title="INNE",StudioMed TV
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72748
 #EXTINF:-1 tvg-name="===== SPORT ====="tvg-id="===== SPORT ====="tvg-logo="https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png"group-title="",===== SPORT =====
 https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Image.png
-#EXTINF:-1 tvg-name="Eurosport"tvg-id="Eurosport"tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png"group-title="Sport",Eurosport
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43003&extension=ts&play_token=7zsFKLeful
-#EXTINF:-1 tvg-name="Eurosport"tvg-id="Eurosport"tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png"group-title="Sport",Eurosport
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=119657&extension=ts&play_token=evmPUxezm1
 #EXTINF:-1 tvg-name="Eurosport"tvg-id="Eurosport"tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png"group-title="Sport",Eurosport
 http://one.alidesi.org:80/halim55/55halim/14250
 #EXTINF:-1 tvg-name="Eurosport"tvg-id="Eurosport"tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png"group-title="Sport",Eurosport
@@ -2171,8 +1829,6 @@ http://one.alidesi.org:80/halim55/55halim/14250
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94949
 #EXTINF:-1 tvg-name="Eurosport"tvg-id="Eurosport"tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png"group-title="Sport",Eurosport
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72680
-#EXTINF:-1 tvg-name="Eurosport 2"tvg-id="Eurosport 2"tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png"group-title="Sport",Eurosport 2
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43002&extension=ts&play_token=KWOq1X7YGh
 #EXTINF:-1 tvg-name="Eurosport 2"tvg-id="Eurosport 2"tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png"group-title="Sport",Eurosport 2
 http://194.145.202.71:8087/udp/239.254.4.60:6060
 #EXTINF:-1 tvg-name="Eurosport 2"tvg-id="Eurosport 2"tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png"group-title="Sport",Eurosport 2
@@ -2184,8 +1840,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94950
 #EXTINF:-1 tvg-name="Eurosport 2"tvg-id="Eurosport 2"tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png"group-title="Sport",Eurosport 2
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72681
 #EXTINF:-1 tvg-name="Polsat Sport"tvg-id="Polsat Sport"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20HD.png"group-title="Sport",Polsat Sport
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42961&extension=ts&play_token=HPKcmY4Lmq
-#EXTINF:-1 tvg-name="Polsat Sport"tvg-id="Polsat Sport"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20HD.png"group-title="Sport",Polsat Sport
 http://178.219.128.68:64889/POLSSPORHD
 #EXTINF:-1 tvg-name="Polsat Sport"tvg-id="Polsat Sport"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20HD.png"group-title="Sport",Polsat Sport
 http://one.alidesi.org:80/halim55/55halim/2735
@@ -2193,8 +1847,6 @@ http://one.alidesi.org:80/halim55/55halim/2735
 http://one.alidesi.org:80/halim55/55halim/2735
 #EXTINF:-1 tvg-name="Polsat Sport"tvg-id="Polsat Sport"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20HD.png"group-title="Sport",Polsat Sport
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94951
-#EXTINF:-1 tvg-name="Polsat Sport"tvg-id="Polsat Sport"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20HD.png"group-title="Sport",Polsat Sport
-http://37.48.101.149:7017/play/a00n/index.m3u8
 #EXTINF:-1 tvg-name="Polsat Sport"tvg-id="Polsat Sport"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20HD.png"group-title="Sport",Polsat Sport
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72734
 #EXTINF:-1 tvg-name="Polsat Sport"tvg-id="Polsat Sport"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20HD.png"group-title="Sport",Polsat Sport
@@ -2212,15 +1864,9 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94941
 #EXTINF:-1 tvg-name="Polsat Sport Extra"tvg-id="Polsat Sport Extra"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Extra%20HD.png"group-title="Sport",Polsat Sport Extra
 http://gediz.online:8080/EYL7548/SER5286F/395297
 #EXTINF:-1 tvg-name="Polsat Sport Extra"tvg-id="Polsat Sport Extra"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Extra%20HD.png"group-title="Sport",Polsat Sport Extra
-http://37.48.101.149:7017/play/a00s/index.m3u8
-#EXTINF:-1 tvg-name="Polsat Sport Extra"tvg-id="Polsat Sport Extra"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Extra%20HD.png"group-title="Sport",Polsat Sport Extra
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72732
 #EXTINF:-1 tvg-name="Polsat Sport Extra"tvg-id="Polsat Sport Extra"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Extra%20HD.png"group-title="Sport",Polsat Sport Extra
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42962&extension=ts&play_token=5u3CutNwzk
-#EXTINF:-1 tvg-name="Polsat Sport Extra"tvg-id="Polsat Sport Extra"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Extra%20HD.png"group-title="Sport",Polsat Sport Extra
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/54891
-#EXTINF:-1 tvg-name="Polsat Sport Premium 1"tvg-id="Polsat Sport Premium 1"tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+1a.png"group-title="Sport",Polsat Sport Premium 1
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42959&extension=ts&play_token=bVodOd629P
 #EXTINF:-1 tvg-name="Polsat Sport Premium 1"tvg-id="Polsat Sport Premium 1"tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+1a.png"group-title="Sport",Polsat Sport Premium 1
 http://one.alidesi.org:80/halim55/55halim/41440
 #EXTINF:-1 tvg-name="Polsat Sport Premium 1"tvg-id="Polsat Sport Premium 1"tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+1a.png"group-title="Sport",Polsat Sport Premium 1
@@ -2235,8 +1881,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94953
 http://gediz.online:8080/EYL7548/SER5286F/395301
 #EXTINF:-1 tvg-name="Polsat Sport Premium 1"tvg-id="Polsat Sport Premium 1"tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+1a.png"group-title="Sport",Polsat Sport Premium 1
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72736
-#EXTINF:-1 tvg-name="Polsat Sport Premium 2"tvg-id="Polsat Sport Premium 2"tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+2a.png"group-title="Sport",Polsat Sport Premium 2
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42958&extension=ts&play_token=iVU0ZVnKEj
 #EXTINF:-1 tvg-name="Polsat Sport Premium 2"tvg-id="Polsat Sport Premium 2"tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+2a.png"group-title="Sport",Polsat Sport Premium 2
 http://one.alidesi.org:80/halim55/55halim/41441
 #EXTINF:-1 tvg-name="Polsat Sport Premium 2"tvg-id="Polsat Sport Premium 2"tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+2a.png"group-title="Sport",Polsat Sport Premium 2
@@ -2272,8 +1916,6 @@ http://one.alidesi.org:80/halim55/55halim/41447
 #EXTINF:-1 tvg-name="Polsat Sport Premium 3"tvg-id="Polsat Sport Premium 3"tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+3.png"group-title="Sport",Polsat Sport Premium 3
 http://154.61.57.12:33001/play/a01k/index.m3u8,kasia
 #EXTINF:-1 tvg-name="Polsat Sport Premium 4"tvg-id="Polsat Sport Premium 4"tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+4.png"group-title="Sport",Polsat Sport Premium 4
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42956&extension=ts&play_token=jdz5rz651Z
-#EXTINF:-1 tvg-name="Polsat Sport Premium 4"tvg-id="Polsat Sport Premium 4"tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+4.png"group-title="Sport",Polsat Sport Premium 4
 http://194.145.202.71:8087/udp/239.254.2.39:6060
 #EXTINF:-1 tvg-name="Polsat Sport Premium 4"tvg-id="Polsat Sport Premium 4"tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+4.png"group-title="Sport",Polsat Sport Premium 4
 http://one.alidesi.org:80/halim55/55halim/41446
@@ -2306,8 +1948,6 @@ http://one.alidesi.org:80/halim55/55halim/41444
 #EXTINF:-1 tvg-name="Polsat Sport Premium 5"tvg-id="Polsat Sport Premium 5"tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+5.png"group-title="Sport",Polsat Sport Premium 5
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94957
 #EXTINF:-1 tvg-name="Polsat Sport Premium 5"tvg-id="Polsat Sport Premium 5"tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+5.png"group-title="Sport",Polsat Sport Premium 5
-http://37.48.101.149:7017/play/a02j/index.m3u8
-#EXTINF:-1 tvg-name="Polsat Sport Premium 5"tvg-id="Polsat Sport Premium 5"tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+5.png"group-title="Sport",Polsat Sport Premium 5
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72763
 #EXTINF:-1 tvg-name="Polsat Sport Premium 5"tvg-id="Polsat Sport Premium 5"tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+5.png"group-title="Sport",Polsat Sport Premium 5
 http://one.alidesi.org:80/halim55/55halim/41448
@@ -2332,13 +1972,7 @@ http://gediz.online:8080/EYL7548/SER5286F/395329
 #EXTINF:-1 tvg-name="Polsat Sport Premium 6"tvg-id="Polsat Sport Premium 6"tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+6.png"group-title="Sport",Polsat Sport Premium 6
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94958
 #EXTINF:-1 tvg-name="Polsat Sport Premium 6"tvg-id="Polsat Sport Premium 6"tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+6.png"group-title="Sport",Polsat Sport Premium 6
-http://37.48.101.149:7017/play/a02k/index.m3u8
-#EXTINF:-1 tvg-name="Polsat Sport Premium 6"tvg-id="Polsat Sport Premium 6"tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+6.png"group-title="Sport",Polsat Sport Premium 6
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72764
-#EXTINF:-1 tvg-name="Polsat Sport Fight"tvg-id="Polsat Sport Fight"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Fight%20HD.png"group-title="Sport",Polsat Sport Fight
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43000&extension=ts&play_token=aT4K4QnxHG
-#EXTINF:-1 tvg-name="Polsat Sport Fight"tvg-id="Polsat Sport Fight"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Fight%20HD.png"group-title="Sport",Polsat Sport Fight
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42960&extension=ts&play_token=qyyrpzeR4A
 #EXTINF:-1 tvg-name="Polsat Sport Fight"tvg-id="Polsat Sport Fight"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Fight%20HD.png"group-title="Sport",Polsat Sport Fight
 http://194.145.202.71:8087/udp/239.254.2.29:6060
 #EXTINF:-1 tvg-name="Polsat Sport Fight"tvg-id="Polsat Sport Fight"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Fight%20HD.png"group-title="Sport",Polsat Sport Fight
@@ -2353,8 +1987,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395298
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72733
 #EXTINF:-1 tvg-name="Polsat Sport Fight"tvg-id="Polsat Sport Fight"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Fight%20HD.png"group-title="Sport",Polsat Sport Fight
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/127673
-#EXTINF:-1 tvg-name="Polsat Sport News"tvg-id="Polsat Sport News"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20News%20HD.png"group-title="Sport",Polsat Sport News
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51390&extension=ts&play_token=R7pfkoYtnm
 #EXTINF:-1 tvg-name="Polsat Sport News"tvg-id="Polsat Sport News"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20News%20HD.png"group-title="Sport",Polsat Sport News
 http://178.219.128.68:64889/POLSSPORNEWSHD
 #EXTINF:-1 tvg-name="Polsat Sport News"tvg-id="Polsat Sport News"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20News%20HD.png"group-title="Sport",Polsat Sport News
@@ -2372,12 +2004,6 @@ http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72735
 #EXTINF:-1 tvg-name="Polsat Sport News"tvg-id="Polsat Sport News"tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20News%20HD.png"group-title="Sport",Polsat Sport News
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/10752
 #EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Sport",Canal+ 1
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51353&extension=ts&play_token=M0KA6oFsLn
-#EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Sport",Canal+ 1
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43035&extension=ts&play_token=bUAKZCzkUT
-#EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Sport",Canal+ 1
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51350&extension=ts&play_token=ARuNhQqZO6
-#EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Sport",Canal+ 1
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72653
 #EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Sport",Canal+ 1
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94803
@@ -2390,8 +2016,6 @@ http://one.alidesi.org:80/halim55/55halim/1896
 #EXTINF:-1 tvg-name="Canal+ 1"tvg-id="Canal+ 1"tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png"group-title="Sport",Canal+ 1
 http://one.alidesi.org:80/halim55/55halim/1896
 #EXTINF:-1 tvg-name="Canal+ Sport"tvg-id="Canal+ Sport"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png"group-title="Sport",Canal+ Sport
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43029&extension=ts&play_token=QkvpV9XoFh
-#EXTINF:-1 tvg-name="Canal+ Sport"tvg-id="Canal+ Sport"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png"group-title="Sport",Canal+ Sport
 http://one.alidesi.org:80/halim55/55halim/2736
 #EXTINF:-1 tvg-name="Canal+ Sport"tvg-id="Canal+ Sport"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png"group-title="Sport",Canal+ Sport
 http://one.alidesi.org:80/halim55/55halim/2736
@@ -2401,8 +2025,6 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94943
 http://gediz.online:8080/EYL7548/SER5286F/395217
 #EXTINF:-1 tvg-name="Canal+ Sport"tvg-id="Canal+ Sport"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png"group-title="Sport",Canal+ Sport
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72652
-#EXTINF:-1 tvg-name="Canal+ Sport 2"tvg-id="Canal+ Sport 2"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png"group-title="Sport",Canal+ Sport 2
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43030&extension=ts&play_token=kfgqLSo2aq
 #EXTINF:-1 tvg-name="Canal+ Sport 2"tvg-id="Canal+ Sport 2"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png"group-title="Sport",Canal+ Sport 2
 http://one.alidesi.org:80/halim55/55halim/2737
 #EXTINF:-1 tvg-name="Canal+ Sport 2"tvg-id="Canal+ Sport 2"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png"group-title="Sport",Canal+ Sport 2
@@ -2414,8 +2036,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395214
 #EXTINF:-1 tvg-name="Canal+ Sport 2"tvg-id="Canal+ Sport 2"tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png"group-title="Sport",Canal+ Sport 2
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72649
 #EXTINF:-1 tvg-name="Canal+ Sport 3"tvg-id="Canal+ Sport 3"tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png"group-title="Sport",Canal+ Sport 3
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=56855&extension=ts&play_token=EoZaoPpZZm
-#EXTINF:-1 tvg-name="Canal+ Sport 3"tvg-id="Canal+ Sport 3"tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png"group-title="Sport",Canal+ Sport 3
 http://194.145.202.71:8087/udp/239.254.1.163:6060
 #EXTINF:-1 tvg-name="Canal+ Sport 3"tvg-id="Canal+ Sport 3"tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png"group-title="Sport",Canal+ Sport 3
 http://one.alidesi.org:80/halim55/55halim/57951
@@ -2425,8 +2045,6 @@ http://one.alidesi.org:80/halim55/55halim/57951
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94945
 #EXTINF:-1 tvg-name="Canal+ Sport 3"tvg-id="Canal+ Sport 3"tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png"group-title="Sport",Canal+ Sport 3
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72650
-#EXTINF:-1 tvg-name="Canal+ Sport 4"tvg-id="Canal+ Sport 4"tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png"group-title="Sport",Canal+ Sport 4
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=56854&extension=ts&play_token=pE0CkL3AVx
 #EXTINF:-1 tvg-name="Canal+ Sport 4"tvg-id="Canal+ Sport 4"tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png"group-title="Sport",Canal+ Sport 4
 http://194.145.202.71:8087/udp/239.254.1.242:6060
 #EXTINF:-1 tvg-name="Canal+ Sport 4"tvg-id="Canal+ Sport 4"tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png"group-title="Sport",Canal+ Sport 4
@@ -2440,11 +2058,7 @@ http://gediz.online:8080/EYL7548/SER5286F/395216
 #EXTINF:-1 tvg-name="Canal+ Sport 4"tvg-id="Canal+ Sport 4"tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png"group-title="Sport",Canal+ Sport 4
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72651
 #EXTINF:-1 tvg-name="Canal+ Sport 5"tvg-id="Canal+ Sport 5"tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png"group-title="Sport",Canal+ Sport 5
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42975&extension=ts&play_token=IxDIVmBQfX
-#EXTINF:-1 tvg-name="Canal+ Sport 5"tvg-id="Canal+ Sport 5"tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png"group-title="Sport",Canal+ Sport 5
 http://194.145.202.71:8087/udp/239.254.1.15:6060
-#EXTINF:-1 tvg-name="Eleven Sports 1"tvg-id="Eleven Sports 1"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png"group-title="Sport",Eleven Sports 1
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43007&extension=ts&play_token=LqnW3WOUaU
 #EXTINF:-1 tvg-name="Eleven Sports 1"tvg-id="Eleven Sports 1"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png"group-title="Sport",Eleven Sports 1
 http://one.alidesi.org:80/halim55/55halim/66033
 #EXTINF:-1 tvg-name="Eleven Sports 1"tvg-id="Eleven Sports 1"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png"group-title="Sport",Eleven Sports 1
@@ -2456,11 +2070,7 @@ http://gediz.online:8080/EYL7548/SER5286F/395237
 #EXTINF:-1 tvg-name="Eleven Sports 1"tvg-id="Eleven Sports 1"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png"group-title="Sport",Eleven Sports 1
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94959
 #EXTINF:-1 tvg-name="Eleven Sports 1"tvg-id="Eleven Sports 1"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png"group-title="Sport",Eleven Sports 1
-http://37.48.101.149:7021/play/a00f/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 1"tvg-id="Eleven Sports 1"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png"group-title="Sport",Eleven Sports 1
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72672
-#EXTINF:-1 tvg-name="Eleven Sports 2"tvg-id="Eleven Sports 2"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png"group-title="Sport",Eleven Sports 2
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43006&extension=ts&play_token=uki0jp2Phg
 #EXTINF:-1 tvg-name="Eleven Sports 2"tvg-id="Eleven Sports 2"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png"group-title="Sport",Eleven Sports 2
 http://one.alidesi.org:80/halim55/55halim/66034
 #EXTINF:-1 tvg-name="Eleven Sports 2"tvg-id="Eleven Sports 2"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png"group-title="Sport",Eleven Sports 2
@@ -2472,11 +2082,7 @@ http://gediz.online:8080/EYL7548/SER5286F/395238
 #EXTINF:-1 tvg-name="Eleven Sports 2"tvg-id="Eleven Sports 2"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png"group-title="Sport",Eleven Sports 2
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94960
 #EXTINF:-1 tvg-name="Eleven Sports 2"tvg-id="Eleven Sports 2"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png"group-title="Sport",Eleven Sports 2
-http://37.48.101.149:7021/play/a00e/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 2"tvg-id="Eleven Sports 2"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png"group-title="Sport",Eleven Sports 2
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72673
-#EXTINF:-1 tvg-name="Eleven Sports 3"tvg-id="Eleven Sports 3"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png"group-title="Sport",Eleven Sports 3
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43005&extension=ts&play_token=2LkJUjF0Z7
 #EXTINF:-1 tvg-name="Eleven Sports 3"tvg-id="Eleven Sports 3"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png"group-title="Sport",Eleven Sports 3
 http://one.alidesi.org:80/halim55/55halim/66035
 #EXTINF:-1 tvg-name="Eleven Sports 3"tvg-id="Eleven Sports 3"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png"group-title="Sport",Eleven Sports 3
@@ -2488,11 +2094,7 @@ http://gediz.online:8080/EYL7548/SER5286F/395239
 #EXTINF:-1 tvg-name="Eleven Sports 3"tvg-id="Eleven Sports 3"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png"group-title="Sport",Eleven Sports 3
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94961
 #EXTINF:-1 tvg-name="Eleven Sports 3"tvg-id="Eleven Sports 3"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png"group-title="Sport",Eleven Sports 3
-http://37.48.101.149:7021/play/a00j/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 3"tvg-id="Eleven Sports 3"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png"group-title="Sport",Eleven Sports 3
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72674
-#EXTINF:-1 tvg-name="Eleven Sports 4"tvg-id="Eleven Sports 4"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png"group-title="Sport",Eleven Sports 4
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43004&extension=ts&play_token=95ge7PMhuu
 #EXTINF:-1 tvg-name="Eleven Sports 4"tvg-id="Eleven Sports 4"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png"group-title="Sport",Eleven Sports 4
 http://one.alidesi.org:80/halim55/55halim/66036
 #EXTINF:-1 tvg-name="Eleven Sports 4"tvg-id="Eleven Sports 4"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png"group-title="Sport",Eleven Sports 4
@@ -2505,8 +2107,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395240
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94962
 #EXTINF:-1 tvg-name="Eleven Sports 4"tvg-id="Eleven Sports 4"tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png"group-title="Sport",Eleven Sports 4
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72675
-#EXTINF:-1 tvg-name="TVP Sport"tvg-id="TVP Sport"tvg-logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png"group-title="Sport",TVP Sport
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=42926&extension=ts&play_token=v4IUOrQo1R
 #EXTINF:-1 tvg-name="TVP Sport"tvg-id="TVP Sport"tvg-logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png"group-title="Sport",TVP Sport
 http://one.alidesi.org:80/halim55/55halim/36375
 #EXTINF:-1 tvg-name="TVP Sport"tvg-id="TVP Sport"tvg-logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png"group-title="Sport",TVP Sport
@@ -2523,8 +2123,6 @@ http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72626
 http://justwi.top:8080/681693249146107/51693249146/23827
 #EXTINF:-1 tvg-name="TVP Sport"tvg-id="TVP Sport"tvg-logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png"group-title="Sport",TVP Sport
 http://154.61.57.12:33001/play/a03n/index.m3u8,kasia
-#EXTINF:-1 tvg-name="Sport Klub"tvg-id="Sport Klub"tvg-logo="https://epg.ovh/logo/Sportklub.png"group-title="Sport",Sport Klub
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51394&extension=ts&play_token=wdtTQoa3OR
 #EXTINF:-1 tvg-name="Sport Klub"tvg-id="Sport Klub"tvg-logo="https://epg.ovh/logo/Sportklub.png"group-title="Sport",Sport Klub
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94948
 #EXTINF:-1 tvg-name="Sport Klub"tvg-id="Sport Klub"tvg-logo="https://epg.ovh/logo/Sportklub.png"group-title="Sport",Sport Klub
@@ -2549,12 +2147,8 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/94964
 http://gediz.online:8080/EYL7548/SER5286F/395248
 #EXTINF:-1 tvg-name="Fightbox"tvg-id="Fightbox"tvg-logo="https://imagizer.imageshack.com/img922/7426/ux1o9S.png"group-title="Sport",Fightbox
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94964
-#EXTINF:-1 tvg-name="Fightbox"tvg-id="Fightbox"tvg-logo="https://imagizer.imageshack.com/img922/7426/ux1o9S.png"group-title="Sport",Fightbox
-http://37.48.101.149:7021/play/a007/index.m3u8
 #EXTINF:-1 tvg-name=" Fightbox"tvg-id=" Fightbox"tvg-logo="https://imagizer.imageshack.com/img922/7426/ux1o9S.png"group-title="Sport",Fightbox
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72683
-#EXTINF:-1 tvg-name="Golf Channel"tvg-id="Golf Channel"tvg-logo="http://logo.plusx.tv/logo/Golf%20Channel.png"group-title="Sport",Golf Channel
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=51368&extension=ts&play_token=WKudzZoOYd
 #EXTINF:-1 tvg-name="Golf Channel"tvg-id="Golf Channel"tvg-logo="http://logo.plusx.tv/logo/Golf%20Channel.png"group-title="Sport",Golf Channel
 http://194.145.202.71:8087/udp/239.254.1.40:6060
 #EXTINF:-1 tvg-name="Golf Channel"tvg-id="Golf Channel"tvg-logo="http://logo.plusx.tv/logo/Golf%20Channel.png"group-title="Sport",Golf Channel
@@ -2565,8 +2159,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395261
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94963
 #EXTINF:-1 tvg-name="Golf Channel"tvg-id="Golf Channel"tvg-logo="http://logo.plusx.tv/logo/Golf%20Channel.png"group-title="Sport",Golf Channel
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72696
-#EXTINF:-1 tvg-name="Golf Channel"tvg-id="Golf Channel"tvg-logo="http://logo.plusx.tv/logo/Golf%20Channel.png"group-title="Sport",Golf Channel
-http://37.48.101.149:7021/play/a015/index.m3u8
 #EXTINF:-1 tvg-name="Motowizja"tvg-id="Motowizja"tvg-logo="http://logo.plusx.tv/logo/Motowizja%20HD.png"group-title="Sport",Motowizja
 http://194.145.202.71:8087/udp/239.254.4.109:6060
 #EXTINF:-1 tvg-name="Motowizja"tvg-id="Motowizja"tvg-logo="http://logo.plusx.tv/logo/Motowizja%20HD.png"group-title="Sport",Motowizja
@@ -2577,8 +2169,6 @@ http://gediz.online:8080/EYL7548/SER5286F/395275
 http://xtream.pandar.tv:25461/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/94853
 #EXTINF:-1 tvg-name="Motowizja"tvg-id="Motowizja"tvg-logo="http://logo.plusx.tv/logo/Motowizja%20HD.png"group-title="Sport",Motowizja
 http://escapadestudio.com:8080/alpaydogan/6774sf5S9/72710
-#EXTINF:-1 tvg-name="Extreme Sports"tvg-id="Extreme Sports"tvg-logo="https://e7.pngegg.com/pngimages/691/770/png-clipart-extreme-sports-channel-television-channel-others-miscellaneous-television.png"group-title="Sport",Extreme Sports
-http://iotv.darktv.nl:80/play/live.php?mac=00:1A:79:B0:D1:09&stream=43001&extension=ts&play_token=zKZ4EMGfrB
 #EXTINF:-1 tvg-name="Extreme Sports"tvg-id="Extreme Sports"tvg-logo="https://e7.pngegg.com/pngimages/691/770/png-clipart-extreme-sports-channel-television-channel-others-miscellaneous-television.png"group-title="Sport",Extreme Sports
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/94952
 #EXTINF:-1 tvg-name="Extreme Sports"tvg-id="Extreme Sports"tvg-logo="https://e7.pngegg.com/pngimages/691/770/png-clipart-extreme-sports-channel-television-channel-others-miscellaneous-television.png"group-title="Sport",Extreme Sports
