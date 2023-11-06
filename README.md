@@ -4,11 +4,6 @@ https://bit.ly/IPTV-PL
 ```
 
 
-Deutschland TV + Filme + Serie
-```
-https://bit.ly/IPTV-DEU
-```
-
 Aktualizuje przynajmniej raz w tygodniu.
 
 EPG 5 DNI
