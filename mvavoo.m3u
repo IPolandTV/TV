@@ -29,10 +29,10 @@ http://192.168.1.63:8080/playlist2.php?id=3541
 #EXTINF:-1 tvg-name="ADVENTURE (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/adventurehd.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ADVENTURE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.1.63:8080/playlist2.php?id=3542
-#EXTINF:-1 tvg-name="ALE KINO HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/alekinoplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ALE KINO
+#EXTINF:-1 tvg-name="Ale Kino+"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/alekinoplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",Ale Kino+
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.1.63:8080/playlist2.php?id=10710
-#EXTINF:-1 tvg-name="ALE KINO+ (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/alekinoplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ALE KINO
+#EXTINF:-1 tvg-name="Ale Kino+"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/alekinoplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",Ale Kino+
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.1.63:8080/playlist2.php?id=10468
 #EXTINF:-1 tvg-name="AMC (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/amc.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",AMC
@@ -44,7 +44,7 @@ http://192.168.1.63:8080/playlist2.php?id=3544
 #EXTINF:-1 tvg-name="ANIMAL PLANET (6)"tvg-id="Animal Planet"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/animalplanet-clivebesle.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.1.63:8080/playlist2.php?id=3545
-#EXTINF:-1 tvg-name="ANIMAL PLANET HD (1)"tvg-id="Animal Planet"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/animalplanet-clivebesle.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ANIMAL PLANET
+#EXTINF:-1 tvg-name="BBC Brit"tvg-id="Animal Planet"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/animalplanet-clivebesle.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.1.63:8080/playlist2.php?id=6144
 #EXTINF:-1 tvg-name="ATM ROZRYWKA TV (1)"tvg-id=""tvg-logo="https://epg.ovh/logo/ATM+Rozrywka.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ATM ROZRYWKA
@@ -80,7 +80,7 @@ http://192.168.1.63:8080/playlist2.php?id=3549
 #EXTINF:-1 tvg-name="BABY TV (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/babytv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",BABY TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.1.63:8080/playlist2.php?id=3550
-#EXTINF:-1 tvg-name="BBC BRIT POLSKA (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/bbcbrit.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",BBC BRIT POLSKA
+#EXTINF:-1 tvg-name="BBC Brit"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/bbcbrit.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",BBC Brit
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.1.63:8080/playlist2.php?id=3551
 #EXTINF:-1 tvg-name="BBC EARTH (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/bbcearth.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",BBC EARTH
@@ -227,10 +227,10 @@ http://192.168.1.63:8080/playlist2.php?id=3572
 #EXTINF:-1 tvg-name="CBS REALITY HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/cbsreality.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CBS REALITY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.1.63:8080/playlist2.php?id=6172
-#EXTINF:-1 tvg-name="CI POLSAT HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatcrimeandinvestigation.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CI POLSAT
+#EXTINF:-1 tvg-name="CI POLSAT"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatcrimeandinvestigation.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CI POLSAT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.1.63:8080/playlist2.php?id=10712
-#EXTINF:-1 tvg-name="CRIME+ INVESTIGATION (6)"tvg-id="CRIME + INVESTIGATION"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatcrimeandinvestigation.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CRIME INVESTIGATION
+#EXTINF:-1 tvg-name="CI POLSAT"tvg-id="CI POLSAT"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatcrimeandinvestigation.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CI POLSAT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.1.63:8080/playlist2.php?id=3577
 #EXTINF:-1 tvg-name="CINEMAX (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/cinemax.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CINEMAX
@@ -533,10 +533,10 @@ http://192.168.1.63:8080/playlist2.php?id=6252
 #EXTINF:-1 tvg-name="METRO (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/metrotv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",METRO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.1.63:8080/playlist2.php?id=3616
-#EXTINF:-1 tvg-name="MINIMINI HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/miniminiplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",MINIMINI
+#EXTINF:-1 tvg-name="Minimini+"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/miniminiplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",Minimini+
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.1.63:8080/playlist2.php?id=6253
-#EXTINF:-1 tvg-name="MINIMINI+ (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/miniminiplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",MINIMINI
+#EXTINF:-1 tvg-name="Minimini+"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/miniminiplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",Minimini+
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.1.63:8080/playlist2.php?id=3617
 #EXTINF:-1 tvg-name="MOTOWIZJA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/motowizjatv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",MOTOWIZJA
