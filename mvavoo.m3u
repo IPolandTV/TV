@@ -1,0 +1,1129 @@
+﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-name="13 ULICA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/13ulica.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",13 ULICA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10467
+#EXTINF:-1 tvg-name="13 ULICA HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/13ulica.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",13 ULICA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10709
+#EXTINF:-1 tvg-name="4FUN DANCE (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/4fundance.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",4FUN DANCE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6138
+#EXTINF:-1 tvg-name="4FUN GOLD HITS (1)"tvg-id=""tvg-logo="https://epg.ovh/logo/4Fun+Gold1.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",4FUN GOLD HITS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6139
+#EXTINF:-1 tvg-name="4FUN KIDS (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/4fungoldhits.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",4FUN KIDS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3539
+#EXTINF:-1 tvg-name="4FUN TV (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/4funtv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",4FUN TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3540
+#EXTINF:-1 tvg-name="4FUN.TV (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/4funtv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",4FUN.TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6140
+#EXTINF:-1 tvg-name="ACTIVE FAMILY (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/activefamily.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ACTIVE FAMILY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6141
+#EXTINF:-1 tvg-name="ACTIVE FAMILY (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/activefamily.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ACTIVE FAMILY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3541
+#EXTINF:-1 tvg-name="ADVENTURE (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/adventurehd.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ADVENTURE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3542
+#EXTINF:-1 tvg-name="ALE KINO HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/alekinoplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ALE KINO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10710
+#EXTINF:-1 tvg-name="ALE KINO+ (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/alekinoplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ALE KINO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10468
+#EXTINF:-1 tvg-name="AMC (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/amc.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",AMC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6143
+#EXTINF:-1 tvg-name="AMC (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/amc.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",AMC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3544
+#EXTINF:-1 tvg-name="ANIMAL PLANET (6)"tvg-id="Animal Planet"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/animalplanet-clivebesle.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3545
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD (1)"tvg-id="Animal Planet"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/animalplanet-clivebesle.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6144
+#EXTINF:-1 tvg-name="ATM ROZRYWKA TV (1)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Atm-rozrywka.svg"group-title="VAVOO":http-user-agent="VAVOO/2.6",ATM ROZRYWKA TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6145
+#EXTINF:-1 tvg-name="AXN (1)"tvg-id="AXN"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/axn.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",AXN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=8223
+#EXTINF:-1 tvg-name="AXN (6)"tvg-id="AXN"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/axn.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",AXN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3546
+#EXTINF:-1 tvg-name="AXN HD (1)"tvg-id="AXN"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/axn.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",AXN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6147
+#EXTINF:-1 tvg-name="AXN BLACK (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/axnblack.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",AXN BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6146
+#EXTINF:-1 tvg-name="AXN BLACK (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/axnblack.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",AXN BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3547
+#EXTINF:-1 tvg-name="AXN SPIN (6)"tvg-id=""tvg-logo="http://tv.snowshare.cc:80/images/f7e623c7942d470f8c36049a955dbd9d.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",AXN SPIN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3548
+#EXTINF:-1 tvg-name="AXN SPIN HD (1)"tvg-id=""tvg-logo="http://tv.snowshare.cc:80/images/f7e623c7942d470f8c36049a955dbd9d.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",AXN SPIN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6148
+#EXTINF:-1 tvg-name="AXN WHITE (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/axnwhite.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",AXN WHITE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6149
+#EXTINF:-1 tvg-name="AXN WHITE (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/axnwhite.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",AXN WHITE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3549
+#EXTINF:-1 tvg-name="BABY TV (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/babytv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",BABY TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3550
+#EXTINF:-1 tvg-name="BBC BRIT POLSKA (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/bbcbrit.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",BBC BRIT POLSKA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3551
+#EXTINF:-1 tvg-name="BBC EARTH (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/bbcearth.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",BBC EARTH
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3552
+#EXTINF:-1 tvg-name="BBC EARTH HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/bbcearth.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",BBC EARTH
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6150
+#EXTINF:-1 tvg-name="BBC FIRST (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/bbcfirst.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",BBC FIRST
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6151
+#EXTINF:-1 tvg-name="BBC FIRST (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/bbcfirst.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",BBC FIRST
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3553
+#EXTINF:-1 tvg-name="BBC LIFESTYLE (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/bbclifestyle.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",BBC LIFESTYLE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=8074
+#EXTINF:-1 tvg-name="BIZNES 24 (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/Biznes24+HD.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",BIZNES 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3554
+#EXTINF:-1 tvg-name="BOOMERANG (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/boomerang.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",BOOMERANG
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=9700
+#EXTINF:-1 tvg-name="CANAL HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplus1-lichoridas.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6157
+#EXTINF:-1 tvg-name="CANAL+ 1 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplus1-lichoridas.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3555
+#EXTINF:-1 tvg-name="CANAL DOKUMENT HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplusdokumenthd.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL DOKUMENT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6154
+#EXTINF:-1 tvg-name="CANAL+ DOKUMENT (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplusdokumenthd.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL DOKUMENT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3556
+#EXTINF:-1 tvg-name="CANAL+ DOMO (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/Canal++Domo.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL DOMO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3557
+#EXTINF:-1 tvg-name="CANAL FAMILY HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplusfamily-lichoridas.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL FAMILY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=8819
+#EXTINF:-1 tvg-name="CANAL+ FAMILY (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplusfamily-lichoridas.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL FAMILY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3558
+#EXTINF:-1 tvg-name="CANAL FILM HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplusfilm-lichoridas.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL FILM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6156
+#EXTINF:-1 tvg-name="CANAL+ FILM (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplusfilm-lichoridas.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL FILM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3559
+#EXTINF:-1 tvg-name="CANAL+ KUCHNIA (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/Canal++Kuchnia.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL KUCHNIA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3560
+#EXTINF:-1 tvg-name="CANAL NOW (1)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/Canal+%20Now%20HD.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL NOW
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6158
+#EXTINF:-1 tvg-name="CANAL+ NOW (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/Canal+%20Now%20HD.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL NOW
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3561
+#EXTINF:-1 tvg-name="CANAL+ PREMIUM (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalpluspremiumhd.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL PREMIUM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3562
+#EXTINF:-1 tvg-name="CANAL+ PREMIUM"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalpluspremiumhd.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL PREMIUM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10711
+#EXTINF:-1 tvg-name="CANAL SERIALE HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplusseriale-lichoridas.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SERIALE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6159
+#EXTINF:-1 tvg-name="CANAL+ SERIALE (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplusseriale-lichoridas.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SERIALE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3563
+#EXTINF:-1 tvg-name="CANAL SPORT HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussporthd-lichoridas.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6165
+#EXTINF:-1 tvg-name="CANAL+ SPORT (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussporthd-lichoridas.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6166
+#EXTINF:-1 tvg-name="CANAL+ SPORT (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussporthd-lichoridas.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3564
+#EXTINF:-1 tvg-name="CANAL+ PLUS SPORT (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussporthd-lichoridas.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL PLUS SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10789
+#EXTINF:-1 tvg-name="CANAL SPORT 1 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussporthd-lichoridas.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6160
+#EXTINF:-1 tvg-name="CANAL SPORT 2 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussport2hd-lichoridas.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6161
+#EXTINF:-1 tvg-name="CANAL SPORT 2 HD (BACKUP) (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussport2hd-lichoridas.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6162
+#EXTINF:-1 tvg-name="CANAL+ SPORT 2 (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussport2hd-lichoridas.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6167
+#EXTINF:-1 tvg-name="CANAL+ SPORT 2 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussport2hd-lichoridas.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3565
+#EXTINF:-1 tvg-name="CANAL SPORT 3 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussport3hd.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6163
+#EXTINF:-1 tvg-name="CANAL+ SPORT 3 (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussport3hd.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6168
+#EXTINF:-1 tvg-name="CANAL+ SPORT 3 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussport3hd.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3566
+#EXTINF:-1 tvg-name="CANAL SPORT 4 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussport4hd.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6164
+#EXTINF:-1 tvg-name="CANAL+ SPORT 4 (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussport4hd.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6169
+#EXTINF:-1 tvg-name="CANAL+ SPORT 4 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/canalplussport4hd.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3567
+#EXTINF:-1 tvg-name="CANAL+ SPORT 5 (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/canalplussporthd.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CANAL SPORT 5
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3568
+#EXTINF:-1 tvg-name="CARTOON NETWORK (6)"tvg-id="Cartoon Network"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/cartoonnetwork.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3569
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD (1)"tvg-id="Cartoon Network"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/cartoonnetwork.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6170
+#EXTINF:-1 tvg-name="CBEEBIES (6)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/CBeebies.svg"group-title="VAVOO":http-user-agent="VAVOO/2.6",CBEEBIES
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3570
+#EXTINF:-1 tvg-name="CBS EUROPA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/cbseuropa.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CBS EUROPA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3571
+#EXTINF:-1 tvg-name="CBS EUROPA HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/cbseuropa.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CBS EUROPA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6171
+#EXTINF:-1 tvg-name="CBS REALITY (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/cbsreality.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CBS REALITY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3572
+#EXTINF:-1 tvg-name="CBS REALITY HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/cbsreality.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CBS REALITY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6172
+#EXTINF:-1 tvg-name="CI POLSAT HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatcrimeandinvestigation.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CI POLSAT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10712
+#EXTINF:-1 tvg-name="CRIME+ INVESTIGATION (6)"tvg-id="CRIME + INVESTIGATION"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatcrimeandinvestigation.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CRIME INVESTIGATION
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3577
+#EXTINF:-1 tvg-name="CINEMAX (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/cinemax.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CINEMAX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10469
+#EXTINF:-1 tvg-name="CINEMAX HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/cinemax.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CINEMAX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10714
+#EXTINF:-1 tvg-name="CINEMAX 2 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/cinemax2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CINEMAX 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10470
+#EXTINF:-1 tvg-name="CINEMAX 2 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/cinemax2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",CINEMAX 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10713
+#EXTINF:-1 tvg-name="COMEDY CENTRAL (6)"tvg-id="Comedy Central"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/comedycentral.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3575
+#EXTINF:-1 tvg-name="COMEDY CENTRAL EXTRA (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/Comedy+Central+Family.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",COMEDY CENTRAL EXTRA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3576
+#EXTINF:-1 tvg-name="DA VINCI (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/davinci.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DA VINCI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6196
+#EXTINF:-1 tvg-name="DA VINCI KIDS (6)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg"group-title="VAVOO":http-user-agent="VAVOO/2.6",DA VINCI KIDS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3578
+#EXTINF:-1 tvg-name="DISCO POLO MUSIC (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/discopolomusic.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISCO POLO MUSIC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6197
+#EXTINF:-1 tvg-name="DISCO POLO MUSIC (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/discopolomusic.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISCO POLO MUSIC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3579
+#EXTINF:-1 tvg-name="DISCOVERY HD (1)"tvg-id="Discovery HD"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/discovery.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISCOVERY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6198
+#EXTINF:-1 tvg-name="DISCOVERY WORLD (6)"tvg-id="Discovery HD"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/discovery.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISCOVERY WORLD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3584
+#EXTINF:-1 tvg-name="DISCOVERY HISTORIA (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/discoveryhistoria.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISCOVERY HISTORIA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6199
+#EXTINF:-1 tvg-name="DISCOVERY HISTORY (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/discoveryhistoria.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISCOVERY HISTORY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3580
+#EXTINF:-1 tvg-name="DISCOVERY LIFE HD (1)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/discoverylifepoland.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISCOVERY LIFE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6200
+#EXTINF:-1 tvg-name="DISCOVERY LIFE POLSKA (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/discoverylifepoland.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISCOVERY LIFE POLSKA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3581
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/discoveryscience.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6201
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE POLSKA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/discoveryscience.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISCOVERY SCIENCE POLSKA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3582
+#EXTINF:-1 tvg-name="DISCOVERY TURBO XTRA (DTX) (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/dtxhd.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISCOVERY TURBO XTRA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10471
+#EXTINF:-1 tvg-name="DISNEY CHANNEL HD (1)"tvg-id="Disney Channel"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/disneychannel.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISNEY CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6202
+#EXTINF:-1 tvg-name="DISNEY JUNIOR (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/disneyjunior.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6203
+#EXTINF:-1 tvg-name="DISNEY XD (1)"tvg-id="Disney Channel"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/disneyxd.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DISNEY XD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6204
+#EXTINF:-1 tvg-name="DLACIEBIE.TV (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/Dla+Ciebie+TV.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DLACIEBIE.TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3585
+#EXTINF:-1 tvg-name="DOMO HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/domoplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DOMO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6205
+#EXTINF:-1 tvg-name="DTX (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/dtx.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",DTX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6206
+#EXTINF:-1 tvg-name="E! (6)"tvg-id="E! Entertainment"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eentertainment.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",E!
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3586
+#EXTINF:-1 tvg-name="E! ENTERTAINMENT (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eentertainment.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",E! ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6207
+#EXTINF:-1 tvg-name="ELEVEN SPORT 1 (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports1.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORT 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6208
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports1.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORTS 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6211
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports1.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORTS 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3587
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports1.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORTS 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6212
+#EXTINF:-1 tvg-name="ELEVEN SPORT 2 (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6209
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORTS 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6213
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORTS 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3588
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORTS 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6214
+#EXTINF:-1 tvg-name="ELEVEN SPORT 3 (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports3.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORT 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6210
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports3.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORTS 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6215
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports3.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORTS 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3589
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports3.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORTS 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6216
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports4.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORTS 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6217
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports4.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORTS 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3590
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/elevensports4.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ELEVEN SPORTS 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6218
+#EXTINF:-1 tvg-name="EPIC DRAMA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/epicdrama.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",EPIC DRAMA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3591
+#EXTINF:-1 tvg-name="EPIC DRAMA HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/epicdrama.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",EPIC DRAMA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6219
+#EXTINF:-1 tvg-name="ESKA TV (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eskatv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ESKA TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6220
+#EXTINF:-1 tvg-name="ESKA TV (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eskatv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ESKA TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3593
+#EXTINF:-1 tvg-name="ESKA TV EXTRA (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eskatvextra.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ESKA TV EXTRA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6221
+#EXTINF:-1 tvg-name="ESKA TV EXTRA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eskatvextra.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ESKA TV EXTRA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3594
+#EXTINF:-1 tvg-name="ESKA ROCK TV (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eskarock.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ESKA ROCK TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3592
+#EXTINF:-1 tvg-name="ESKAROCK TV (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eskarock.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ESKAROCK TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6222
+#EXTINF:-1 tvg-name="EUROSPORT 1 (1)"tvg-id="Eurosport 1"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eurosport1.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6223
+#EXTINF:-1 tvg-name="EUROSPORT 1 (6)"tvg-id="Eurosport 1"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eurosport1.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3595
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD (1)"tvg-id="Eurosport 1"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eurosport1.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6224
+#EXTINF:-1 tvg-name="EUROSPORT 2 (1)"tvg-id="Eurosport 2"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eurosport2.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6225
+#EXTINF:-1 tvg-name="EUROSPORT 2 (6)"tvg-id="Eurosport 2"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eurosport2.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3596
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD (1)"tvg-id="Eurosport 2"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/eurosport2.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6226
+#EXTINF:-1 tvg-name="EXTREME SPORTS (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/extremesports.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",EXTREME SPORTS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6227
+#EXTINF:-1 tvg-name="EXTREME SPORTS HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/extremesports.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",EXTREME SPORTS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6228
+#EXTINF:-1 tvg-name="EXTREME SPORTS CHANNEL (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/extremesports.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",EXTREME SPORTS CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3597
+#EXTINF:-1 tvg-name="FIGHT BOX (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/fightbox.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FIGHT BOX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3598
+#EXTINF:-1 tvg-name="FIGHT BOX HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/fightbox.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FIGHT BOX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6229
+#EXTINF:-1 tvg-name="FIGHTBOX HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/fightbox.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FIGHTBOX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6231
+#EXTINF:-1 tvg-name="FIGHT KLUB (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/fightklub.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FIGHT KLUB
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3599
+#EXTINF:-1 tvg-name="FIGHT KLUB HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/fightklub.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FIGHT KLUB
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6230
+#EXTINF:-1 tvg-name="FIGHTKLUB HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/fightklub.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FIGHTKLUB
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6232
+#EXTINF:-1 tvg-name="FOKUS TV (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/fokustv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FOKUS TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6233
+#EXTINF:-1 tvg-name="FOKUS TV (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/fokustv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FOKUS TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3600
+#EXTINF:-1 tvg-name="FOOD NETWORK (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/foodnetworkhd.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FOOD NETWORK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3601
+#EXTINF:-1 tvg-name="FOOD NETWORK HD (1)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/foodnetworkhd.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FOOD NETWORK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6234
+#EXTINF:-1 tvg-name="FOX (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/fox.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FOX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6235
+#EXTINF:-1 tvg-name="FOX (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/fox.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FOX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3602
+#EXTINF:-1 tvg-name="FOX HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/fox.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FOX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6238
+#EXTINF:-1 tvg-name="FOX COMEDY (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/foxcomedy.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FOX COMEDY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6236
+#EXTINF:-1 tvg-name="FOX COMEDY (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/foxcomedy.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FOX COMEDY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3603
+#EXTINF:-1 tvg-name="FOX COMEDY HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/foxcomedy.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",FOX COMEDY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6237
+#EXTINF:-1 tvg-name="GOLF CHANNEL (1)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/golfchannel.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",GOLF CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6239
+#EXTINF:-1 tvg-name="GOLF CHANNEL (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/golfchannel.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",GOLF CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3604
+#EXTINF:-1 tvg-name="GOLF CHANNEL HD (1)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/golfchannel.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",GOLF CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6240
+#EXTINF:-1 tvg-name="HBO (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/hbo.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",HBO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10472
+#EXTINF:-1 tvg-name="HBO HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/hbo.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",HBO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10735
+#EXTINF:-1 tvg-name="HBO 2 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/hbo2.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",HBO 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10790
+#EXTINF:-1 tvg-name="HBO2 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/hbo2.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",HBO2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10736
+#EXTINF:-1 tvg-name="HBO 3 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/hbo3.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",HBO 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10473
+#EXTINF:-1 tvg-name="HBO3 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/hbo3.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",HBO3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10737
+#EXTINF:-1 tvg-name="HGTV (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/hgtv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",HGTV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3608
+#EXTINF:-1 tvg-name="HISTORY (6)"tvg-id="History HD"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/history.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",HISTORY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3609
+#EXTINF:-1 tvg-name="HISTORY HD (1)"tvg-id="History HD"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/history.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",HISTORY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6245
+#EXTINF:-1 tvg-name="HISTORY 2 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/history2.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",HISTORY 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=9702
+#EXTINF:-1 tvg-name="HISTORY 2 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/history2.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",HISTORY 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6244
+#EXTINF:-1 tvg-name="HOME TV (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVR.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",HOME TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3610
+#EXTINF:-1 tvg-name="ID HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/investigationdiscovery.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ID
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6246
+#EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/investigationdiscovery.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",INVESTIGATION DISCOVERY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3611
+#EXTINF:-1 tvg-name="KINO POLSKA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/kinopolska.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",KINO POLSKA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10475
+#EXTINF:-1 tvg-name="KINO POLSKA HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/kinopolska.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",KINO POLSKA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10738
+#EXTINF:-1 tvg-name="KINO POLSKA MUZYKA (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/kinopolskamuzyka.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",KINO POLSKA MUZYKA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10739
+#EXTINF:-1 tvg-name="KINO POLSKA MUZYKA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/kinopolskamuzyka.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",KINO POLSKA MUZYKA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10476
+#EXTINF:-1 tvg-name="KINO TV (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/kinotv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",KINO TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10477
+#EXTINF:-1 tvg-name="KINO TV HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/kinotv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",KINO TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10740
+#EXTINF:-1 tvg-name="KUCHNIA HD (1)"tvg-id=""tvg-logo="http://tv.snowshare.cc:80/images/f534a4d98828a7399991eebad9aceb14.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",KUCHNIA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6250
+#EXTINF:-1 tvg-name="LIFETIME HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/lifetime.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",LIFETIME
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6251
+#EXTINF:-1 tvg-name="METRO (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/metrotv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",METRO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6252
+#EXTINF:-1 tvg-name="METRO (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/metrotv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",METRO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3616
+#EXTINF:-1 tvg-name="MINIMINI HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/miniminiplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",MINIMINI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6253
+#EXTINF:-1 tvg-name="MINIMINI+ (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/miniminiplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",MINIMINI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3617
+#EXTINF:-1 tvg-name="MOTOWIZJA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/motowizjatv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",MOTOWIZJA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3618
+#EXTINF:-1 tvg-name="MOTOWIZJA HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/motowizjatv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",MOTOWIZJA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6254
+#EXTINF:-1 tvg-name="MOTOWIZJA HD (BACKUP) (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/motowizjatv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",MOTOWIZJA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6255
+#EXTINF:-1 tvg-name="MTV POLSKA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/mtv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",MTV POLSKA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3619
+#EXTINF:-1 tvg-name="MTV ROCKS (1)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/mtvrocks.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",MTV ROCKS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6256
+#EXTINF:-1 tvg-name="NAT GEO (6)"tvg-id="Nat Geo HD"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/nationalgeographic.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NAT GEO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3620
+#EXTINF:-1 tvg-name="NATIONAL GEO (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/nationalgeographic.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NATIONAL GEO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6258
+#EXTINF:-1 tvg-name="NAT GEO PEOPLE (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/natgeopeople.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NAT GEO PEOPLE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3621
+#EXTINF:-1 tvg-name="NAT GEO PEOPLE HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/natgeopeople.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NAT GEO PEOPLE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6257
+#EXTINF:-1 tvg-name="NAT GEO WILD (6)"tvg-id="NAT GEO WILD"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/natgeowild.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3622
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/natgeowild.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NATIONAL GEOGRAPHIC WILD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10741
+#EXTINF:-1 tvg-name="NICK JUNIOR (6)"tvg-id="Nick Jr."tvg-logo="http://cdn.snowshare.cc/images/logos/pl/nickjr.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NICK JUNIOR
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3623
+#EXTINF:-1 tvg-name="NICKELODEON (6)"tvg-id="nick"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/nickelodeon_comedycentral.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NICKELODEON
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3624
+#EXTINF:-1 tvg-name="NICKTOONS (6)"tvg-id="Nicktoons"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/nicktoons.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NICKTOONS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3625
+#EXTINF:-1 tvg-name="NOVELA TV (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/novelatv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NOVELA TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3626
+#EXTINF:-1 tvg-name="NOVELAS+ (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/Novelas+.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NOVELAS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=8582
+#EXTINF:-1 tvg-name="NOWA TV (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/nowatv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NOWA TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6260
+#EXTINF:-1 tvg-name="NOWA TV (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/nowatv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NOWA TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3627
+#EXTINF:-1 tvg-name="NSPORT (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/nsportplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NSPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6261
+#EXTINF:-1 tvg-name="NSPORT+ (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/nsportplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NSPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6262
+#EXTINF:-1 tvg-name="NUTA TV (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/Nuta%20TV.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",NUTA TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3628
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/paramountchannel.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",PARAMOUNT CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3629
+#EXTINF:-1 tvg-name="PLANETE HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/planeteplus-lichoridas.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",PLANETE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10742
+#EXTINF:-1 tvg-name="PLANETE+ (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/planeteplus-lichoridas.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",PLANETE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10478
+#EXTINF:-1 tvg-name="POLO TV (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polotv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLO TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6264
+#EXTINF:-1 tvg-name="POLO TV (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polotv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLO TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3631
+#EXTINF:-1 tvg-name="POLONIA 1 (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/polonia1.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLONIA 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=9703
+#EXTINF:-1 tvg-name="POLSAT (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsat.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10479
+#EXTINF:-1 tvg-name="POLSAT HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsat.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10747
+#EXTINF:-1 tvg-name="POLSAT 2 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsat2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10480
+#EXTINF:-1 tvg-name="POLSAT 2 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsat2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10743
+#EXTINF:-1 tvg-name="POLSAT CAFE (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatcafe.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT CAFE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10481
+#EXTINF:-1 tvg-name="POLSAT CAFE HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatcafe.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT CAFE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10744
+#EXTINF:-1 tvg-name="POLSAT DOKU (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatdoku.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT DOKU
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3634
+#EXTINF:-1 tvg-name="POLSAT DOKU HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatdoku.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT DOKU
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6267
+#EXTINF:-1 tvg-name="POLSAT FILM (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatfilm.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT FILM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10482
+#EXTINF:-1 tvg-name="POLSAT FILM HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatfilm.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT FILM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10745
+#EXTINF:-1 tvg-name="POLSAT GAMES (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatgames.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT GAMES
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10746
+#EXTINF:-1 tvg-name="POLSAT GAMES (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatgames.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT GAMES
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10483
+#EXTINF:-1 tvg-name="POLSAT JIM JAM (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/jimjam.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT JIM JAM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10748
+#EXTINF:-1 tvg-name="POLSAT JIM JAM"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/jimjam.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT JIM JAM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10474
+#EXTINF:-1 tvg-name="POLSAT MUSIC (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatmusichd.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT MUSIC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10484
+#EXTINF:-1 tvg-name="POLSAT MUSIC HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatmusichd.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT MUSIC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10749
+#EXTINF:-1 tvg-name="POLSAT NEWS (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatnews.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT NEWS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10485
+#EXTINF:-1 tvg-name="POLSAT NEWS HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatnews.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT NEWS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10751
+#EXTINF:-1 tvg-name="POLSAT NEWS 2 (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatnews2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT NEWS 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10750
+#EXTINF:-1 tvg-name="POLSAT NEWS 2 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatnews2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT NEWS 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10486
+#EXTINF:-1 tvg-name="POLSAT PLAY (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatplay.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT PLAY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10487
+#EXTINF:-1 tvg-name="POLSAT PLAY HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatplay.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT PLAY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10752
+#EXTINF:-1 tvg-name="POLSAT RODZINA (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatrodzina.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT RODZINA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10753
+#EXTINF:-1 tvg-name="POLSAT RODZINA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatrodzina.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT RODZINA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10488
+#EXTINF:-1 tvg-name="POLSAT ROMANS (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatromans.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT ROMANS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10754
+#EXTINF:-1 tvg-name="POLSAT SERIALE (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/polsat/polsatseriale.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SERIALE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10791
+#EXTINF:-1 tvg-name="POLSAT SPORT (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsport.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3643
+#EXTINF:-1 tvg-name="POLSAT SPORT HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsport.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6282
+#EXTINF:-1 tvg-name="POLSAT SPORT HD (BACKUP) (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsport.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6283
+#EXTINF:-1 tvg-name="POLSAT SPORT EXTRA (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportextra.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT EXTRA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6278
+#EXTINF:-1 tvg-name="POLSAT SPORT EXTRA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportextra.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT EXTRA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3644
+#EXTINF:-1 tvg-name="POLSAT SPORT EXTRA HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportextra.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT EXTRA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6279
+#EXTINF:-1 tvg-name="POLSAT SPORT FIGHT (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportfighthd.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT FIGHT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6280
+#EXTINF:-1 tvg-name="POLSAT SPORT FIGHT (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportfighthd.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT FIGHT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3645
+#EXTINF:-1 tvg-name="POLSAT SPORT FIGHT HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportfighthd.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT FIGHT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6281
+#EXTINF:-1 tvg-name="POLSAT SPORT NEWS (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportnews.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT NEWS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3646
+#EXTINF:-1 tvg-name="POLSAT SPORT NEWS HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportnews.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT NEWS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6284
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 1 (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportpremium1.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6285
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 1 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportpremium1.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3647
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 1 (BACKUP) (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportpremium1.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6286
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 2 (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportpremium2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6287
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 2 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportpremium2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3648
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 2 (BACKUP) (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatsportpremium2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6288
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 3 (6)"tvg-id=""tvg-logo="https://fabryka.stream/images/logo/polsat/polsatsportpremium3ppv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3649
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 3 PPV (1)"tvg-id=""tvg-logo="https://fabryka.stream/images/logo/polsat/polsatsportpremium3ppv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 3 PPV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6289
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 4 (6)"tvg-id=""tvg-logo="https://fabryka.stream/images/logo/polsat/polsatsportpremium4ppv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3650
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 4 PPV (1)"tvg-id=""tvg-logo="https://fabryka.stream/images/logo/polsat/polsatsportpremium4ppv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 4 PPV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6290
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 5 (6)"tvg-id=""tvg-logo="https://fabryka.stream/images/logo/polsat/polsatsportpremium5ppv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 5
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3651
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 5 PPV (1)"tvg-id=""tvg-logo="https://fabryka.stream/images/logo/polsat/polsatsportpremium5ppv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 5 PPV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6291
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 6 (6)"tvg-id=""tvg-logo="https://fabryka.stream/images/logo/polsat/polsatsportpremium6ppv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3652
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 6 PPV (1)"tvg-id=""tvg-logo="https://fabryka.stream/images/logo/polsat/polsatsportpremium6ppv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT SPORT PREMIUM 6 PPV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6292
+#EXTINF:-1 tvg-name="POLSAT VIASAT EXPLORE HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatviasatexplore.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT VIASAT EXPLORE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6293
+#EXTINF:-1 tvg-name="VIASAT EXPLORE (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatviasatexplore.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT VIASAT EXPLORE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3695
+#EXTINF:-1 tvg-name="POLSAT VIASAT HISTORY HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatviasathistory.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT VIASAT HISTORY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6294
+#EXTINF:-1 tvg-name="VIASAT HISTORY (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatviasathistory.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT VIASAT HISTORY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3696
+#EXTINF:-1 tvg-name="POLSAT VIASAT NATURE HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatviasatnature.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT VIASAT NATURE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6295
+#EXTINF:-1 tvg-name="VIASAT NATURE (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/polsatviasatnature.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POLSAT VIASAT NATURE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3697
+#EXTINF:-1 tvg-name="POWER TV (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/powertv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",POWER TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3653
+#EXTINF:-1 tvg-name="TV PULS (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/puls.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TV PULS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10491
+#EXTINF:-1 tvg-name="PULS 2 (1)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/puls2.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",PULS 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10755
+#EXTINF:-1 tvg-name="PULS 2 (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/puls2.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",PULS 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10489
+#EXTINF:-1 tvg-name="PVOD (1)"tvg-id=""tvg-logo="https://vavoo.to/live2/logo/1972348667.jpeg"group-title="VAVOO":http-user-agent="VAVOO/2.6",PVOD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6297
+#EXTINF:-1 tvg-name="RED CARPET (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/redcarpet.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",RED CARPET
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3655
+#EXTINF:-1 tvg-name="ROMANCE (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/romancetv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ROMANCE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3656
+#EXTINF:-1 tvg-name="ROMANCE TV (1)"tvg-id="Romance TV"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/romancetv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ROMANCE TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6298
+#EXTINF:-1 tvg-name="SCIFI HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/scifi.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",SCIFI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10756
+#EXTINF:-1 tvg-name="SCI-FI (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/scifi.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",SCIFI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10792
+#EXTINF:-1 tvg-name="SFERA TV (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/SFERA+TV.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",SFERA TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=9704
+#EXTINF:-1 tvg-name="SPORT KLUB (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/sportklub.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",SPORT KLUB
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6300
+#EXTINF:-1 tvg-name="SPORT KLUB (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/sportklub.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",SPORT KLUB
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3658
+#EXTINF:-1 tvg-name="SPORTKLUB HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/sportklub.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",SPORT KLUB
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6301
+#EXTINF:-1 tvg-name="STARS TV (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/starstv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",STARS TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3659
+#EXTINF:-1 tvg-name="STARS.TV (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/starstv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",STARS.TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6302
+#EXTINF:-1 tvg-name="STOPKLATKA TV (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/stopklatkatv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",STOPKLATKA TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6303
+#EXTINF:-1 tvg-name="STOPKLATKA TV (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/stopklatkatv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",STOPKLATKA TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3660
+#EXTINF:-1 tvg-name="STUDIOMED TV (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/studiomedtv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",STUDIOMED TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3661
+#EXTINF:-1 tvg-name="STUDIOMED TV HD (1)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/studiomedtv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",STUDIOMED TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6304
+#EXTINF:-1 tvg-name="SUNDANCE HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/sundancetv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",SUNDANCE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6305
+#EXTINF:-1 tvg-name="SUNDANCE TV (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/sundancetv.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",SUNDANCE TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3662
+#EXTINF:-1 tvg-name="SUPER POLSAT (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/superpolsat.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",SUPER POLSAT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10757
+#EXTINF:-1 tvg-name="SUPER POLSAT (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/superpolsat.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",SUPER POLSAT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10490
+#EXTINF:-1 tvg-name="SUPERSTACJA (1)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/Superstacja.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",SUPERSTACJA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6307
+#EXTINF:-1 tvg-name="SUPERSTACJA (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/Superstacja.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",SUPERSTACJA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3664
+#EXTINF:-1 tvg-name="TBN (6)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TBN-Logo.svg"group-title="VAVOO":http-user-agent="VAVOO/2.6",TBN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3665
+#EXTINF:-1 tvg-name="TELE 5 (6)"tvg-id="Tele 5"tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TELE5.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TELE 5
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3666
+#EXTINF:-1 tvg-name="TELETOON HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/teletoonplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TELETOON
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6308
+#EXTINF:-1 tvg-name="TELETOON+ (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/teletoonplus.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TELETOON
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3667
+#EXTINF:-1 tvg-name="TLC (6)"tvg-id="TLC"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tlc.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TLC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3668
+#EXTINF:-1 tvg-name="TLC HD (1)"tvg-id="TLC"tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tlc.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TLC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6309
+#EXTINF:-1 tvg-name="TRACE TV (1)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Trace_TV_Logo.svg"group-title="VAVOO":http-user-agent="VAVOO/2.6",TRACE TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6311
+#EXTINF:-1 tvg-name="TRAVEL CHANNEL (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/travelchannelhd.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TRAVEL CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3669
+#EXTINF:-1 tvg-name="TRAVEL CHANNEL HD (1)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/travelchannelhd.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TRAVEL CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6312
+#EXTINF:-1 tvg-name="TTV (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/ttv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TTV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3670
+#EXTINF:-1 tvg-name="TTV HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/ttv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TTV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6313
+#EXTINF:-1 tvg-name="TV 4 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tv4-lichoridas.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TV 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=8076
+#EXTINF:-1 tvg-name="TV4 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tv4-lichoridas.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TV4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6315
+#EXTINF:-1 tvg-name="TV 6 (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TV%206%20HD.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TV 6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3671
+#EXTINF:-1 tvg-name="TV6 (1)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TV%206%20HD.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TV6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6316
+#EXTINF:-1 tvg-name="TV KUJAWY (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/TV+KUJAWY.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TV KUJAWY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3672
+#EXTINF:-1 tvg-name="TV REGIONALNA (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/TV+Regionalna.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TV REGIONALNA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3673
+#EXTINF:-1 tvg-name="TV REPUBLIKA (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvrepublika.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TV REPUBLIKA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=8225
+#EXTINF:-1 tvg-name="TV REPUBLIKA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvrepublika.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TV REPUBLIKA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3674
+#EXTINF:-1 tvg-name="TV TORUN (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/TV+TORU%c5%83.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TV TORUN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3675
+#EXTINF:-1 tvg-name="TV TRWAM (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/tvtrwam.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TV TRWAM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3676
+#EXTINF:-1 tvg-name="TVC (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/TVC.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10173
+#EXTINF:-1 tvg-name="TVN (6)"tvg-id=""tvg-logo="http://tv.snowshare.cc:80/images/f3742426303cceb436d228edaff04dff.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10492
+#EXTINF:-1 tvg-name="TVN HD (1)"tvg-id=""tvg-logo="http://tv.snowshare.cc:80/images/f3742426303cceb436d228edaff04dff.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10761
+#EXTINF:-1 tvg-name="TVN 24 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvn24.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVN 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10493
+#EXTINF:-1 tvg-name="TVN 24 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvn24.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVN 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10758
+#EXTINF:-1 tvg-name="TVN 24 BIS (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/tvn24biznesiswiat.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVN 24 BIS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10494
+#EXTINF:-1 tvg-name="TVN 7 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvn7.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVN 7
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10495
+#EXTINF:-1 tvg-name="TVN 7 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvn7.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVN 7
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10759
+#EXTINF:-1 tvg-name="TVN FABULA (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvnfabula.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVN FABULA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10760
+#EXTINF:-1 tvg-name="TVN FABULA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvnfabula.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVN FABULA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10496
+#EXTINF:-1 tvg-name="TVN STYLE (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvnstyle.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVN STYLE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10497
+#EXTINF:-1 tvg-name="TVN STYLE HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvnstyle.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVN STYLE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10762
+#EXTINF:-1 tvg-name="TVN TURBO (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvnturbo.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVN TURBO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10498
+#EXTINF:-1 tvg-name="TVN TURBO HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvnturbo.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVN TURBO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10763
+#EXTINF:-1 tvg-name="TVP (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvphd.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10499
+#EXTINF:-1 tvg-name="TVP HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvphd.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10768
+#EXTINF:-1 tvg-name="TVP 1 (6)"tvg-id=""tvg-logo="http://tv.snowshare.cc:80/images/7b27f0ff9b23a6f81099905193dded91.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10500
+#EXTINF:-1 tvg-name="TVP 2 (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvp2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10501
+#EXTINF:-1 tvg-name="TVP 2 HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvp2.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10765
+#EXTINF:-1 tvg-name="TVP 3 BIALYSTOK (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVP%20Bialystok.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 3 BIALYSTOK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10502
+#EXTINF:-1 tvg-name="TVP 3 GORZOW (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVP%20Gorzow%20Wielkopolski.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 3 GORZOW
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10503
+#EXTINF:-1 tvg-name="TVP 3 KATOWICE (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVP%20Katowice.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 3 KATOWICE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10793
+#EXTINF:-1 tvg-name="TVP 3 KIELCE (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVP%20Kielce.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 3 KIELCE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10794
+#EXTINF:-1 tvg-name="TVP 3 LODZ (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVPLodz.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 3 LODZ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10504
+#EXTINF:-1 tvg-name="TVP 3 LUBLIN (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVP%203%20Lublin.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 3 LUBLIN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10825
+#EXTINF:-1 tvg-name="TVP 3 OLSZTYN (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVP%20Olsztyn.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 3 OLSZTYN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10505
+#EXTINF:-1 tvg-name="TVP 3 OPOLE (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVP%20Opole.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 3 OPOLE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10506
+#EXTINF:-1 tvg-name="TVP 3 POZNAN (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVP%20Poznan.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 3 POZNAN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10507
+#EXTINF:-1 tvg-name="TVP 3 SZCZECIN (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVP%20Szczecin.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 3 SZCZECIN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10508
+#EXTINF:-1 tvg-name="TVP 3 WARSZAWA (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVP%203%20Warszawa.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 3 WARSZAWA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10509
+#EXTINF:-1 tvg-name="TVP 3 WROCLAW (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVP%20Wroclaw.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP 3 WROCLAW
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10510
+#EXTINF:-1 tvg-name="TVP ABC (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvpabc.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP ABC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10767
+#EXTINF:-1 tvg-name="TVP ABC (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvpabc.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP ABC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10511
+#EXTINF:-1 tvg-name="TVP DOKUMENT (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/TVPdokument.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP DOKUMENT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3687
+#EXTINF:-1 tvg-name="TVP HISTORY (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvphistoria.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP HISTORY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10512
+#EXTINF:-1 tvg-name="TVP INFO (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvpinfo.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP INFO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10513
+#EXTINF:-1 tvg-name="TVP INFO HD (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvpinfo.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP INFO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10770
+#EXTINF:-1 tvg-name="TVP KULTURA (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvpkultura.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP KULTURA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10771
+#EXTINF:-1 tvg-name="TVP KULTURA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvpkultura.light.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP KULTURA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10514
+#EXTINF:-1 tvg-name="TVP POLONIA (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/tvppolonia.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP POLONIA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10515
+#EXTINF:-1 tvg-name="TVP ROZRYWKA (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvprozrywka.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP ROZRYWKA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10772
+#EXTINF:-1 tvg-name="TVP ROZRYWKA (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvprozrywka.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP ROZRYWKA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10516
+#EXTINF:-1 tvg-name="TVP SERIALE (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvpseriale.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP SERIALE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10814
+#EXTINF:-1 tvg-name="TVP SERIALE (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvpseriale.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP SERIALE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10517
+#EXTINF:-1 tvg-name="TVP SPORT (1)"tvg-id=""tvg-logo="http://tv.snowshare.cc:80/images/b8e1ecc3a9d8b46acb1728ef614648fe.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=9006
+#EXTINF:-1 tvg-name="TVP SPORT (6)"tvg-id=""tvg-logo="http://tv.snowshare.cc:80/images/b8e1ecc3a9d8b46acb1728ef614648fe.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=8082
+#EXTINF:-1 tvg-name="TVP SPORT HD (1)"tvg-id=""tvg-logo="http://tv.snowshare.cc:80/images/b8e1ecc3a9d8b46acb1728ef614648fe.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVP SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6331
+#EXTINF:-1 tvg-name="TVR (1)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/TVR_Logo.svg"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVR
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6332
+#EXTINF:-1 tvg-name="TVS (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/tvsilesia.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3693
+#EXTINF:-1 tvg-name="TVT ZGORZELEC (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/TVT+Zgorzelec.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",TVT ZGORZELEC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3694
+#EXTINF:-1 tvg-name="VOD 202 (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/VOD.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",VOD 202
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3698
+#EXTINF:-1 tvg-name="VOD 204 (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/VOD.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",VOD 204
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=9710
+#EXTINF:-1 tvg-name="VOD 205 (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/VOD.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",VOD 205
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3700
+#EXTINF:-1 tvg-name="VOD 206 (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/VOD.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",VOD 206
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3701
+#EXTINF:-1 tvg-name="VOD 208 (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/VOD.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",VOD 208
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3703
+#EXTINF:-1 tvg-name="VOX MUSIC TV (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/voxmusictv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",VOX MUSIC TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6333
+#EXTINF:-1 tvg-name="VOX MUSIC TV (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/voxmusictv.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",VOX MUSIC TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3704
+#EXTINF:-1 tvg-name="WARNER TV (6)"tvg-id=""tvg-logo="https://epg.ovh/logo/Warner+TV.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",WARNER TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3706
+#EXTINF:-1 tvg-name="WATER PLANET (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/waterplanet.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",WATER PLANET
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=10518
+#EXTINF:-1 tvg-name="WP (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/wp.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",WP
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6334
+#EXTINF:-1 tvg-name="WP TV (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/wp.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",WP TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3708
+#EXTINF:-1 tvg-name="W POLSCE (6)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/wpolscepl.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",W POLSCE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3705
+#EXTINF:-1 tvg-name="WPOLSCE.PL (1)"tvg-id=""tvg-logo="http://cdn.snowshare.cc/images/logos/pl/wpolscepl.default.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",WPOLSCE.PL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6335
+#EXTINF:-1 tvg-name="ZOOM TV (1)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/zoomtv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ZOOM TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=6337
+#EXTINF:-1 tvg-name="ZOOM TV (6)"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/zoomtv.png"group-title="VAVOO":http-user-agent="VAVOO/2.6",ZOOM TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.1.63:8080/playlist2.php?id=3709
