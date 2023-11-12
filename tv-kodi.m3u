@@ -707,1076 +707,6 @@ http://iptvaruba.com:8080/outputofflinechecker/pass/192815
 http://iptvaruba.com:8080/outputofflinechecker/pass/24244
 #EXTINF:-1 tvg-name="Zoom TV"tvg-id="zoomtv.pl"tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/515fbca039b0382bee7f002998ff7fa1.png"group-title="iptvaruba 2 SZYBKA",Zoom TV
 http://iptvaruba.com:8080/outputofflinechecker/pass/24246
-#EXTINF:-1 tvg-name="13 Ulica"tvg-id="13ulica.pl"tvg-logo="http://fabryka.stream:8080/images/93d80e80c04170a1981921a726539326.png"group-title="fabryka 2 SZYBKA",13 Ulica
-http://fabryka.stream:8080/elaikrzysiu/357252884/155220
-#EXTINF:-1 tvg-name="13 Ulica HD"tvg-id="13ulica.pl"tvg-logo="http://fabryka.stream/images/logo/13ulicahd.png"group-title="fabryka 2 SZYBKA",13 Ulica HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105380
-#EXTINF:-1 tvg-name="4Fun Dance"tvg-id="4FUN DANCE"tvg-logo="http://fabryka.stream/images/logo/4fundance.png"group-title="fabryka 2 SZYBKA",4Fun Dance
-http://fabryka.stream:8080/elaikrzysiu/357252884/105502
-#EXTINF:-1 tvg-name="4Fun Dance"tvg-id="4FUN DANCE"tvg-logo="http://fabryka.stream:8080/images/33fa9f0c658c7b2f1ef4d9d4105fd606.png"group-title="fabryka 2 SZYBKA",4Fun Dance
-http://fabryka.stream:8080/elaikrzysiu/357252884/155184
-#EXTINF:-1 tvg-name="4Fun Kids"tvg-id="4FUN KIDS"tvg-logo="https://epg.ovh/logo/4FUN+KIDS.png"group-title="fabryka 2 SZYBKA",4Fun Kids
-http://fabryka.stream:8080/elaikrzysiu/357252884/105501
-#EXTINF:-1 tvg-name="4Fun Kids"tvg-id="4FUN KIDS"tvg-logo="http://fabryka.stream:8080/images/946fbf8602bb61121af0d46ae730ae80.png"group-title="fabryka 2 SZYBKA",4Fun Kids
-http://fabryka.stream:8080/elaikrzysiu/357252884/155182
-#EXTINF:-1 tvg-name="4Fun.TV"tvg-id="4FUN TV"tvg-logo="http://fabryka.stream/images/logo/4funtv.png"group-title="fabryka 2 SZYBKA",4Fun.TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/105500
-#EXTINF:-1 tvg-name="4Fun.TV"tvg-id="4FUN TV"tvg-logo="http://fabryka.stream:8080/images/99987c7383509d6fbf017fb39248f1f2.png"group-title="fabryka 2 SZYBKA",4Fun.TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155183
-#EXTINF:-1 tvg-name="Active Family"tvg-id="activefamily.pl"tvg-logo="http://fabryka.stream:8080/images/7302859692925d4b45fb5b92ffa3dfd0.png"group-title="fabryka 2 SZYBKA",Active Family
-http://fabryka.stream:8080/elaikrzysiu/357252884/155226
-#EXTINF:-1 tvg-name="Active Family HD"tvg-id="activefamily.pl"tvg-logo="http://fabryka.stream/images/logo/Active%20Family.png"group-title="fabryka 2 SZYBKA",Active Family HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105388
-#EXTINF:-1 tvg-name="Adventure"tvg-id="adventure.pl"tvg-logo="http://fabryka.stream:8080/images/2c2f17d2095f35e1c25a8598492ea331.png"group-title="fabryka 2 SZYBKA",Adventure
-http://fabryka.stream:8080/elaikrzysiu/357252884/155077
-#EXTINF:-1 tvg-name="Adventure HD"tvg-id="adventure.pl"tvg-logo="http://fabryka.stream/images/logo/adventurehd.png"group-title="fabryka 2 SZYBKA",Adventure HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105400
-#EXTINF:-1 tvg-name="Ale Kino+"tvg-id="alekino.pl"tvg-logo="http://fabryka.stream:8080/images/ea7d513ddd09983081b4c4487622e8cb.png"group-title="fabryka 2 SZYBKA",Ale Kino+
-http://fabryka.stream:8080/elaikrzysiu/357252884/155202
-#EXTINF:-1 tvg-name="Ale Kino+ HD"tvg-id="alekino.pl"tvg-logo="http://fabryka.stream/images/logo/alekinoplushd.png"group-title="fabryka 2 SZYBKA",Ale Kino+ HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105361
-#EXTINF:-1 tvg-name="AMC"tvg-id="amc.pl"tvg-logo="http://fabryka.stream:8080/images/3654b34017508a963ccce2426e91e4cd.png"group-title="fabryka 2 SZYBKA",AMC
-http://fabryka.stream:8080/elaikrzysiu/357252884/155201
-#EXTINF:-1 tvg-name="AMC HD"tvg-id="amc.pl"tvg-logo="http://fabryka.stream/images/logo/amc.png"group-title="fabryka 2 SZYBKA",AMC HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105360
-#EXTINF:-1 tvg-name="Animal Planet"tvg-id="animalplanet.pl"tvg-logo="http://fabryka.stream:8080/images/928263e210a870938bb6d12903c568ef.png"group-title="fabryka 2 SZYBKA",Animal Planet
-http://fabryka.stream:8080/elaikrzysiu/357252884/155078
-#EXTINF:-1 tvg-name="Animal Planet HD"tvg-id="animalplanet.pl"tvg-logo="http://fabryka.stream/images/logo/animalplanethd.png"group-title="fabryka 2 SZYBKA",Animal Planet HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105401
-#EXTINF:-1 tvg-name="Antena"tvg-id="Antena"tvg-logo="http://fabryka.stream/images/logo/ANTENA.png"group-title="fabryka 2 SZYBKA",Antena
-http://fabryka.stream:8080/elaikrzysiu/357252884/151847
-#EXTINF:-1 tvg-name="Antena"tvg-id="Antena"tvg-logo="http://fabryka.stream:8080/images/872e5fb8651062c3a86cb667773dc62f.png"group-title="fabryka 2 SZYBKA",Antena
-http://fabryka.stream:8080/elaikrzysiu/357252884/155146
-#EXTINF:-1 tvg-name="AXN"tvg-id="axn.pl"tvg-logo="http://fabryka.stream:8080/images/2f1e4c2a90f7b62293b31a99dfb4cf52.png"group-title="fabryka 2 SZYBKA",AXN
-http://fabryka.stream:8080/elaikrzysiu/357252884/155221
-#EXTINF:-1 tvg-name="AXN Black"tvg-id="axnblack.pl"tvg-logo="http://fabryka.stream/images/logo/axnblack.png"group-title="fabryka 2 SZYBKA",AXN Black
-http://fabryka.stream:8080/elaikrzysiu/357252884/105382
-#EXTINF:-1 tvg-name="AXN Black"tvg-id="axnblack.pl"tvg-logo="http://fabryka.stream:8080/images/4258c8c8b14e57d8657a43e2358cc0d0.png"group-title="fabryka 2 SZYBKA",AXN Black
-http://fabryka.stream:8080/elaikrzysiu/357252884/155222
-#EXTINF:-1 tvg-name="AXN HD"tvg-id="axn.pl"tvg-logo="http://fabryka.stream/images/logo/axnhd.png"group-title="fabryka 2 SZYBKA",AXN HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105381
-#EXTINF:-1 tvg-name="AXN Spin"tvg-id="axnspin.pl"tvg-logo="http://fabryka.stream:8080/images/8d3a45db744642c838ec164e5c7b21dd.png"group-title="fabryka 2 SZYBKA",AXN Spin
-http://fabryka.stream:8080/elaikrzysiu/357252884/155223
-#EXTINF:-1 tvg-name="AXN Spin HD"tvg-id="axnspin.pl"tvg-logo="http://fabryka.stream/images/logo/AXNSpin.png"group-title="fabryka 2 SZYBKA",AXN Spin HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105383
-#EXTINF:-1 tvg-name="AXN White"tvg-id="axnwhite.pl"tvg-logo="http://fabryka.stream/images/logo/axnwhite.png"group-title="fabryka 2 SZYBKA",AXN White
-http://fabryka.stream:8080/elaikrzysiu/357252884/105384
-#EXTINF:-1 tvg-name="AXN White"tvg-id="axnwhite.pl"tvg-logo="http://fabryka.stream:8080/images/62f98086810ed0bf9e3004a9129a2828.png"group-title="fabryka 2 SZYBKA",AXN White
-http://fabryka.stream:8080/elaikrzysiu/357252884/155224
-#EXTINF:-1 tvg-name="Baby TV"tvg-id="Baby TV"tvg-logo="http://fabryka.stream/images/logo/babytv.png"group-title="fabryka 2 SZYBKA",Baby TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/105490
-#EXTINF:-1 tvg-name="Baby TV"tvg-id="Baby TV"tvg-logo="http://fabryka.stream:8080/images/45914664eafc286fb139a5036f142106.png"group-title="fabryka 2 SZYBKA",Baby TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155170
-#EXTINF:-1 tvg-name="BBC Brit"tvg-id="bbcbrit.pl"tvg-logo="http://fabryka.stream:8080/images/99cd7313853ffeb463b900ded9128eb4.png"group-title="fabryka 2 SZYBKA",BBC Brit
-http://fabryka.stream:8080/elaikrzysiu/357252884/155240
-#EXTINF:-1 tvg-name="BBC Brit HD"tvg-id="bbcbrit.pl"tvg-logo="http://fabryka.stream/images/logo/bbcbrit.png"group-title="fabryka 2 SZYBKA",BBC Brit HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105403
-#EXTINF:-1 tvg-name="BBC CBeebies"tvg-id="BBC CBeebies"tvg-logo="http://fabryka.stream:8080/images/6119bff469b7c92d439817d1e65f1d0d.png"group-title="fabryka 2 SZYBKA",BBC CBeebies
-http://fabryka.stream:8080/elaikrzysiu/357252884/155165
-#EXTINF:-1 tvg-name="BBC CBeebies HD"tvg-id="BBC CBeebies"tvg-logo="http://fabryka.stream/images/logo/bbccbeebies.png"group-title="fabryka 2 SZYBKA",BBC CBeebies HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105485
-#EXTINF:-1 tvg-name="BBC Earth"tvg-id="bbcearth.pl"tvg-logo="http://fabryka.stream:8080/images/77250cbd467758c8299b4b5840e9c044.png"group-title="fabryka 2 SZYBKA",BBC Earth
-http://fabryka.stream:8080/elaikrzysiu/357252884/155081
-#EXTINF:-1 tvg-name="BBC Earth HD"tvg-id="bbcearth.pl"tvg-logo="http://fabryka.stream/images/logo/bbcearthhd.png"group-title="fabryka 2 SZYBKA",BBC Earth HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105405
-#EXTINF:-1 tvg-name="BBC First"tvg-id="bbcfirst.pl"tvg-logo="http://fabryka.stream:8080/images/7b0c0f3a88cd6e0ba5b4c2469ec62d9e.png"group-title="fabryka 2 SZYBKA",BBC First
-http://fabryka.stream:8080/elaikrzysiu/357252884/155079
-#EXTINF:-1 tvg-name="BBC First HD"tvg-id="bbcfirst.pl"tvg-logo="http://fabryka.stream/images/logo/bbchd.png"group-title="fabryka 2 SZYBKA",BBC First HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105402
-#EXTINF:-1 tvg-name="BBC Lifestyle"tvg-id="bbclifestyle.pl"tvg-logo="http://fabryka.stream:8080/images/9203c5095e5e5b77d8aef92c48e0aa0e.png"group-title="fabryka 2 SZYBKA",BBC Lifestyle
-http://fabryka.stream:8080/elaikrzysiu/357252884/155080
-#EXTINF:-1 tvg-name="BBC Lifestyle HD"tvg-id="bbclifestyle.pl"tvg-logo="http://fabryka.stream/images/logo/bbclifestyle.png"group-title="fabryka 2 SZYBKA",BBC Lifestyle HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105404
-#EXTINF:-1 tvg-name="Biznes24"tvg-id="biznes24hd.pl"tvg-logo="http://fabryka.stream:8080/images/8e6bfb5bce865aee82d68a937a1d13e0.png"group-title="fabryka 2 SZYBKA",Biznes24
-http://fabryka.stream:8080/elaikrzysiu/357252884/155141
-#EXTINF:-1 tvg-name="Biznes24 HD"tvg-id="biznes24hd.pl"tvg-logo="http://fabryka.stream/images/logo/Biznes24+HD.png"group-title="fabryka 2 SZYBKA",Biznes24 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/119834
-#EXTINF:-1 tvg-name="BollywooD"tvg-id="Bollywood HD"tvg-logo=""group-title="fabryka 2 SZYBKA",BollywooD
-http://fabryka.stream:8080/elaikrzysiu/357252884/155280
-#EXTINF:-1 tvg-name="BollywooD HD"tvg-id="Bollywood HD"tvg-logo=""group-title="fabryka 2 SZYBKA",BollywooD HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/155041
-#EXTINF:-1 tvg-name="Canal+ 1"tvg-id="canalplus1.pl"tvg-logo="http://fabryka.stream:8080/images/b607a1dcc5649d8a5229e354083d39df.png"group-title="fabryka 2 SZYBKA",Canal+ 1
-http://fabryka.stream:8080/elaikrzysiu/357252884/155204
-#EXTINF:-1 tvg-name="Canal+ 1 HD"tvg-id="canalplus1.pl"tvg-logo="http://fabryka.stream/images/logo/canalplus1hd.png"group-title="fabryka 2 SZYBKA",Canal+ 1 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105363
-#EXTINF:-1 tvg-name="Canal+ Dokument"tvg-id="canalplusdokumenttv.pl"tvg-logo="http://fabryka.stream:8080/images/076b625152e9796f4712eb7e197fdc3d.png"group-title="fabryka 2 SZYBKA",Canal+ Dokument
-http://fabryka.stream:8080/elaikrzysiu/357252884/155084
-#EXTINF:-1 tvg-name="Canal+ Dokument HD"tvg-id="canalplusdokumenttv.pl"tvg-logo="http://fabryka.stream/images/logo/canalplusdiscoveryhd.png"group-title="fabryka 2 SZYBKA",Canal+ Dokument HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105409
-#EXTINF:-1 tvg-name="Canal+ Domo"tvg-id="domo.pl"tvg-logo="http://fabryka.stream:8080/images/962d9016ff85190f9e68a5b3933f7c99.png"group-title="fabryka 2 SZYBKA",Canal+ Domo
-http://fabryka.stream:8080/elaikrzysiu/357252884/155090
-#EXTINF:-1 tvg-name="Canal+ Domo HD"tvg-id="domo.pl"tvg-logo="http://fabryka.stream/images/logo/domoplushd.png"group-title="fabryka 2 SZYBKA",Canal+ Domo HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105416
-#EXTINF:-1 tvg-name="Canal+ Family"tvg-id="canalplusfamily.pl"tvg-logo="http://fabryka.stream:8080/images/e405664b2aeba493f05db093737b1853.png"group-title="fabryka 2 SZYBKA",Canal+ Family
-http://fabryka.stream:8080/elaikrzysiu/357252884/155206
-#EXTINF:-1 tvg-name="Canal+ Family HD"tvg-id="canalplusfamily.pl"tvg-logo="http://fabryka.stream/images/logo/canalplusfamilyhd.png"group-title="fabryka 2 SZYBKA",Canal+ Family HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105365
-#EXTINF:-1 tvg-name="Canal+ Film"tvg-id="canalplusfilm.pl"tvg-logo="http://fabryka.stream:8080/images/98cf6425061d6b8740dfc7ff7cff4c1f.png"group-title="fabryka 2 SZYBKA",Canal+ Film
-http://fabryka.stream:8080/elaikrzysiu/357252884/155205
-#EXTINF:-1 tvg-name="Canal+ Film HD"tvg-id="canalplusfilm.pl"tvg-logo="http://fabryka.stream/images/logo/canalplusfilmhd.png"group-title="fabryka 2 SZYBKA",Canal+ Film HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105364
-#EXTINF:-1 tvg-name="Canal+ Kuchnia"tvg-id="kuchniaplus.pl"tvg-logo="http://fabryka.stream:8080/images/aa80d210639c786bfe60199349830250.png"group-title="fabryka 2 SZYBKA",Canal+ Kuchnia
-http://fabryka.stream:8080/elaikrzysiu/357252884/155113
-#EXTINF:-1 tvg-name="Canal+ Kuchnia HD"tvg-id="kuchniaplus.pl"tvg-logo="http://fabryka.stream/images/logo/kuchniaplushd.png"group-title="fabryka 2 SZYBKA",Canal+ Kuchnia HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105438
-#EXTINF:-1 tvg-name="Canal+ NOW"tvg-id="Canal+ Now"tvg-logo="http://fabryka.stream:8080/images/66bc728f67439aa226b4f8b1faa9b491.png"group-title="fabryka 2 SZYBKA",Canal+ NOW
-http://fabryka.stream:8080/elaikrzysiu/357252884/155249
-#EXTINF:-1 tvg-name="Canal+ NOW HD"tvg-id="Canal+ Now"tvg-logo="http://fabryka.stream/images/logo/Canal+%20Now%20HD.png"group-title="fabryka 2 SZYBKA",Canal+ NOW HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105524
-#EXTINF:-1 tvg-name="Canal+ PREMIUM"tvg-id="canalpluspremium.pl"tvg-logo="http://fabryka.stream:8080/images/107a8f77605754cfd23608ae9d9fed78.png"group-title="fabryka 2 SZYBKA",Canal+ PREMIUM
-http://fabryka.stream:8080/elaikrzysiu/357252884/155203
-#EXTINF:-1 tvg-name="Canal+ PREMIUM HD"tvg-id="canalpluspremium.pl"tvg-logo="http://fabryka.stream/images/logo/canalplushd.png"group-title="fabryka 2 SZYBKA",Canal+ PREMIUM HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105362
-#EXTINF:-1 tvg-name="Canal+ Seriale"tvg-id="canalplusseriale.pl"tvg-logo="http://fabryka.stream:8080/images/0744c6d9a983f5225f66bb8b289ee35c.png"group-title="fabryka 2 SZYBKA",Canal+ Seriale
-http://fabryka.stream:8080/elaikrzysiu/357252884/155207
-#EXTINF:-1 tvg-name="Canal+ Seriale HD"tvg-id="canalplusseriale.pl"tvg-logo="http://fabryka.stream/images/logo/canalplusserialehd.png"group-title="fabryka 2 SZYBKA",Canal+ Seriale HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105366
-#EXTINF:-1 tvg-name="Canal+ Sport"tvg-id="Canal+ Sport"tvg-logo="http://fabryka.stream:8080/images/b7f3adca9ad46ea3909336fbb39bca4e.png"group-title="fabryka 2 SZYBKA",Canal+ Sport
-http://fabryka.stream:8080/elaikrzysiu/357252884/155244
-#EXTINF:-1 tvg-name="Canal+ Sport 2"tvg-id="Canal+ Sport 2"tvg-logo="http://fabryka.stream:8080/images/e3f46b60378e8f3057b59094ff3b81e7.png"group-title="fabryka 2 SZYBKA",Canal+ Sport 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155245
-#EXTINF:-1 tvg-name="Canal+ Sport 2 HD"tvg-id="Canal+ Sport 2"tvg-logo="http://fabryka.stream/images/logo/canalplussport2hd.png"group-title="fabryka 2 SZYBKA",Canal+ Sport 2 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105521
-#EXTINF:-1 tvg-name="Canal+ Sport 3"tvg-id="Canal+ Sport 3"tvg-logo="http://fabryka.stream:8080/images/84ad0bbc4ab9a3b00a5b403b403dc4dd.png"group-title="fabryka 2 SZYBKA",Canal+ Sport 3
-http://fabryka.stream:8080/elaikrzysiu/357252884/155246
-#EXTINF:-1 tvg-name="Canal+ Sport 3 HD"tvg-id="Canal+ Sport 3"tvg-logo="http://fabryka.stream/images/logo/canalplussport3hd.png"group-title="fabryka 2 SZYBKA",Canal+ Sport 3 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105522
-#EXTINF:-1 tvg-name="Canal+ Sport 4"tvg-id="Canal+ Sport 4"tvg-logo="http://fabryka.stream:8080/images/ac7ce164e24691290dc17fd5fb2e8634.png"group-title="fabryka 2 SZYBKA",Canal+ Sport 4
-http://fabryka.stream:8080/elaikrzysiu/357252884/155247
-#EXTINF:-1 tvg-name="Canal+ Sport 4 HD"tvg-id="Canal+ Sport 4"tvg-logo="http://fabryka.stream:8080/images/ac7ce164e24691290dc17fd5fb2e8634.png"group-title="fabryka 2 SZYBKA",Canal+ Sport 4 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105523
-#EXTINF:-1 tvg-name="Canal+ Sport 5"tvg-id="Canal+ Sport 5"tvg-logo="http://fabryka.stream:8080/images/b7f3adca9ad46ea3909336fbb39bca4e.png"group-title="fabryka 2 SZYBKA",Canal+ Sport 5
-http://fabryka.stream:8080/elaikrzysiu/357252884/155248
-#EXTINF:-1 tvg-name="Canal+ Sport 5 HD"tvg-id="Canal+ Sport 5"tvg-logo="http://fabryka.stream/images/logo/canalplussporthd.png"group-title="fabryka 2 SZYBKA",Canal+ Sport 5 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/153306
-#EXTINF:-1 tvg-name="Canal+ Sport HD"tvg-id="Canal+ Sport"tvg-logo="http://fabryka.stream/images/logo/canalplussporthd.png"group-title="fabryka 2 SZYBKA",Canal+ Sport HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105520
-#EXTINF:-1 tvg-name="Cartoon Network"tvg-id="Cartoon Network"tvg-logo="http://fabryka.stream:8080/images/0d67ca3317f89b2a67a1b05de8b88534.png"group-title="fabryka 2 SZYBKA",Cartoon Network
-http://fabryka.stream:8080/elaikrzysiu/357252884/155172
-#EXTINF:-1 tvg-name="Cartoon Network HD"tvg-id="Cartoon Network"tvg-logo="http://fabryka.stream/images/logo/cartoonnetworkhd.png"group-title="fabryka 2 SZYBKA",Cartoon Network HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105492
-#EXTINF:-1 tvg-name="Cartoonito"tvg-id="boomerang.pl"tvg-logo="http://fabryka.stream:8080/images/4c8d6a04a11ef11ca7bbb9c4aeb0f703.png"group-title="fabryka 2 SZYBKA",Cartoonito
-http://fabryka.stream:8080/elaikrzysiu/357252884/155171
-#EXTINF:-1 tvg-name="Cartoonito HD"tvg-id="boomerang.pl"tvg-logo="https://assets.www.warnerbros.com/drupal-root/public/cartoonito_-_logo_-_no_background.png"group-title="fabryka 2 SZYBKA",Cartoonito HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105491
-#EXTINF:-1 tvg-name="CBS Europa"tvg-id="cbseuropa.pl"tvg-logo="http://fabryka.stream:8080/images/1f70678a61fbf36e51dace6b44729a63.png"group-title="fabryka 2 SZYBKA",CBS Europa
-http://fabryka.stream:8080/elaikrzysiu/357252884/155235
-#EXTINF:-1 tvg-name="CBS Europa HD"tvg-id="cbseuropa.pl"tvg-logo="http://fabryka.stream/images/logo/cbseuropa.png"group-title="fabryka 2 SZYBKA",CBS Europa HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105406
-#EXTINF:-1 tvg-name="CBS Reality"tvg-id="cbsreality.pl"tvg-logo="http://fabryka.stream:8080/images/a663a79a5488f99aed3da06427d74be5.png"group-title="fabryka 2 SZYBKA",CBS Reality
-http://fabryka.stream:8080/elaikrzysiu/357252884/155082
-#EXTINF:-1 tvg-name="CBS Reality HD"tvg-id="cbsreality.pl"tvg-logo="http://fabryka.stream/images/logo/cbsreality.png"group-title="fabryka 2 SZYBKA",CBS Reality HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105407
-#EXTINF:-1 tvg-name="CI Polsat"tvg-id="cipolsat.pl"tvg-logo="http://fabryka.stream:8080/images/5fd28c2bda2e21a8b1c81550b1df21cf.png"group-title="fabryka 2 SZYBKA",CI Polsat
-http://fabryka.stream:8080/elaikrzysiu/357252884/155083
-#EXTINF:-1 tvg-name="CI Polsat HD"tvg-id="cipolsat.pl"tvg-logo="http://fabryka.stream/images/logo/CI%20Polsat.png"group-title="fabryka 2 SZYBKA",CI Polsat HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105408
-#EXTINF:-1 tvg-name="Cinemax"tvg-id="cinemax.pl"tvg-logo="http://fabryka.stream:8080/images/0874f230b6ba300544ba4f90689d9a72.png"group-title="fabryka 2 SZYBKA",Cinemax
-http://fabryka.stream:8080/elaikrzysiu/357252884/155211
-#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="cinemax2.pl"tvg-logo="http://fabryka.stream:8080/images/5b46c0dff321e592825956a2a1b8506a.png"group-title="fabryka 2 SZYBKA",Cinemax 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155212
-#EXTINF:-1 tvg-name="Cinemax 2 HD"tvg-id="cinemax2.pl"tvg-logo="http://fabryka.stream/images/logo/cinemax2hd.png"group-title="fabryka 2 SZYBKA",Cinemax 2 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105372
-#EXTINF:-1 tvg-name="Cinemax HD"tvg-id="cinemax.pl"tvg-logo="http://fabryka.stream/images/logo/cinemaxhd.png"group-title="fabryka 2 SZYBKA",Cinemax HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105371
-#EXTINF:-1 tvg-name="Comedy Central"tvg-id="comedycentral.pl"tvg-logo="http://fabryka.stream:8080/images/bca51a800ad52e4645fb5ef2a48f49ca.png"group-title="fabryka 2 SZYBKA",Comedy Central
-http://fabryka.stream:8080/elaikrzysiu/357252884/155072
-#EXTINF:-1 tvg-name="Comedy Central HD"tvg-id="comedycentral.pl"tvg-logo="http://fabryka.stream/images/logo/comedycentralhd.png"group-title="fabryka 2 SZYBKA",Comedy Central HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105385
-#EXTINF:-1 tvg-name="Da Vinci Learning"tvg-id="Da Vinci Learning"tvg-logo="http://fabryka.stream/images/logo/davincilearning.png"group-title="fabryka 2 SZYBKA",Da Vinci Learning
-http://fabryka.stream:8080/elaikrzysiu/357252884/105499
-#EXTINF:-1 tvg-name="Da Vinci Learning"tvg-id="Da Vinci Learning"tvg-logo="http://fabryka.stream:8080/images/793c142319f7e1f2d372ce8ab0f3ed82.png"group-title="fabryka 2 SZYBKA",Da Vinci Learning
-http://fabryka.stream:8080/elaikrzysiu/357252884/155179
-#EXTINF:-1 tvg-name="DAZN Event 1"tvg-id=""tvg-logo=""group-title="fabryka 2 SZYBKA",DAZN Event 1
-http://fabryka.stream:8080/elaikrzysiu/357252884/154936
-#EXTINF:-1 tvg-name="DAZN Event 2"tvg-id=""tvg-logo=""group-title="fabryka 2 SZYBKA",DAZN Event 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/154937
-#EXTINF:-1 tvg-name="DAZN Event 3"tvg-id=""tvg-logo=""group-title="fabryka 2 SZYBKA",DAZN Event 3
-http://fabryka.stream:8080/elaikrzysiu/357252884/154938
-#EXTINF:-1 tvg-name="DAZN Event 4"tvg-id=""tvg-logo=""group-title="fabryka 2 SZYBKA",DAZN Event 4
-http://fabryka.stream:8080/elaikrzysiu/357252884/154939
-#EXTINF:-1 tvg-name="DAZN Event 5"tvg-id=""tvg-logo=""group-title="fabryka 2 SZYBKA",DAZN Event 5
-http://fabryka.stream:8080/elaikrzysiu/357252884/154940
-#EXTINF:-1 tvg-name="Disco Polo Music"tvg-id="Disco Polo Music"tvg-logo="http://fabryka.stream/images/logo/discopolomusic.png"group-title="fabryka 2 SZYBKA",Disco Polo Music
-http://fabryka.stream:8080/elaikrzysiu/357252884/105503
-#EXTINF:-1 tvg-name="Disco Polo Music"tvg-id="Disco Polo Music"tvg-logo="http://fabryka.stream:8080/images/65e416b5fb781bd0dfc84335fe6fb0df.png"group-title="fabryka 2 SZYBKA",Disco Polo Music
-http://fabryka.stream:8080/elaikrzysiu/357252884/155185
-#EXTINF:-1 tvg-name="Discovery"tvg-id="discovery.pl"tvg-logo="http://fabryka.stream:8080/images/95ba0b8bff0356941e9e52c927d4278c.png"group-title="fabryka 2 SZYBKA",Discovery
-http://fabryka.stream:8080/elaikrzysiu/357252884/155085
-#EXTINF:-1 tvg-name="Discovery HD"tvg-id="discovery.pl"tvg-logo="http://fabryka.stream:8080/images/95ba0b8bff0356941e9e52c927d4278c.png"group-title="fabryka 2 SZYBKA",Discovery HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105410
-#EXTINF:-1 tvg-name="Discovery Historia"tvg-id="discoveryhistoria.pl"tvg-logo="http://fabryka.stream/images/logo/discoveryhistoria.png"group-title="fabryka 2 SZYBKA",Discovery Historia
-http://fabryka.stream:8080/elaikrzysiu/357252884/105411
-#EXTINF:-1 tvg-name="Discovery Historia"tvg-id="discoveryhistoria.pl"tvg-logo="http://fabryka.stream:8080/images/e31c8aa2c09b8f5531e813332cf1de4d.png"group-title="fabryka 2 SZYBKA",Discovery Historia
-http://fabryka.stream:8080/elaikrzysiu/357252884/155086
-#EXTINF:-1 tvg-name="Discovery Life"tvg-id="discoverylife.pl"tvg-logo="http://fabryka.stream:8080/images/527e3725474a6406f34ff1378f8f9e08.png"group-title="fabryka 2 SZYBKA",Discovery Life
-http://fabryka.stream:8080/elaikrzysiu/357252884/155087
-#EXTINF:-1 tvg-name="Discovery Life HD"tvg-id="discoverylife.pl"tvg-logo="http://fabryka.stream/images/logo/discoverylifepoland.png"group-title="fabryka 2 SZYBKA",Discovery Life HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105412
-#EXTINF:-1 tvg-name="Discovery Science"tvg-id="discoveryscience.pl"tvg-logo="http://fabryka.stream:8080/images/e8daf6aa92691fefc4aeca21614bf361.png"group-title="fabryka 2 SZYBKA",Discovery Science
-http://fabryka.stream:8080/elaikrzysiu/357252884/155088
-#EXTINF:-1 tvg-name="Discovery Science HD"tvg-id="discoveryscience.pl"tvg-logo="http://fabryka.stream/images/logo/discoverysciencehd.png"group-title="fabryka 2 SZYBKA",Discovery Science HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105413
-#EXTINF:-1 tvg-name="Disney Channel"tvg-id="Disney Channel"tvg-logo="http://fabryka.stream:8080/images/b2769b4fd46ca30e0df1b5f4f0243881.png"group-title="fabryka 2 SZYBKA",Disney Channel
-http://fabryka.stream:8080/elaikrzysiu/357252884/155169
-#EXTINF:-1 tvg-name="Disney Channel HD"tvg-id="Disney Channel"tvg-logo="http://fabryka.stream/images/logo/disneychannelhd.png"group-title="fabryka 2 SZYBKA",Disney Channel HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105489
-#EXTINF:-1 tvg-name="Disney Junior"tvg-id="Disney Junior"tvg-logo="http://fabryka.stream/images/logo/disneyjunior.png"group-title="fabryka 2 SZYBKA",Disney Junior
-http://fabryka.stream:8080/elaikrzysiu/357252884/105493
-#EXTINF:-1 tvg-name="Disney Junior"tvg-id="Disney Junior"tvg-logo="http://fabryka.stream:8080/images/a1bcfb810cee704aa1a79058b194303d.png"group-title="fabryka 2 SZYBKA",Disney Junior
-http://fabryka.stream:8080/elaikrzysiu/357252884/155173
-#EXTINF:-1 tvg-name="Disney XD"tvg-id="Disney XD"tvg-logo="http://fabryka.stream/images/logo/disneyxd.png"group-title="fabryka 2 SZYBKA",Disney XD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105494
-#EXTINF:-1 tvg-name="Disney XD"tvg-id="Disney XD"tvg-logo="http://fabryka.stream:8080/images/a83dec3009a0b0ba1e484864eddbd654.png"group-title="fabryka 2 SZYBKA",Disney XD
-http://fabryka.stream:8080/elaikrzysiu/357252884/155174
-#EXTINF:-1 tvg-name="Dizi"tvg-id="DIZI"tvg-logo=""group-title="fabryka 2 SZYBKA",Dizi
-http://fabryka.stream:8080/elaikrzysiu/357252884/155042
-#EXTINF:-1 tvg-name="Dizi"tvg-id="DIZI"tvg-logo=""group-title="fabryka 2 SZYBKA",Dizi
-http://fabryka.stream:8080/elaikrzysiu/357252884/155281
-#EXTINF:-1 tvg-name="DTX"tvg-id="DTX HD"tvg-logo="http://fabryka.stream:8080/images/c55e84c8862d8ca1b11160b4ea6c4db8.png"group-title="fabryka 2 SZYBKA",DTX
-http://fabryka.stream:8080/elaikrzysiu/357252884/155241
-#EXTINF:-1 tvg-name="DTX HD"tvg-id="Discovery Turbo Xtra"tvg-logo="http://fabryka.stream/images/logo/dtxhd.png"group-title="fabryka 2 SZYBKA",DTX HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105415
-#EXTINF:-1 tvg-name="E! Entertainment"tvg-id="eentertainment.pl"tvg-logo="http://fabryka.stream:8080/images/735d24dc3c200a2d4262c7382a35b2ff.png"group-title="fabryka 2 SZYBKA",E! Entertainment
-http://fabryka.stream:8080/elaikrzysiu/357252884/155092
-#EXTINF:-1 tvg-name="E! Entertainment HD"tvg-id="eentertainment.pl"tvg-logo="http://fabryka.stream/images/logo/eentertainment.png"group-title="fabryka 2 SZYBKA",E! Entertainment HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105418
-#EXTINF:-1 tvg-name="Eleven Sports 1"tvg-id="Eleven Sports 1"tvg-logo="http://fabryka.stream:8080/images/0205b33d00c33dfc5b63f217616d67be.png"group-title="fabryka 2 SZYBKA",Eleven Sports 1
-http://fabryka.stream:8080/elaikrzysiu/357252884/155250
-#EXTINF:-1 tvg-name="Eleven Sports 1 HD"tvg-id="Eleven Sports 1"tvg-logo="http://fabryka.stream:8080/images/0205b33d00c33dfc5b63f217616d67be.png"group-title="fabryka 2 SZYBKA",Eleven Sports 1 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105525
-#EXTINF:-1 tvg-name="Eleven Sports 2"tvg-id="Eleven Sports 2"tvg-logo="http://fabryka.stream:8080/images/39afd408825c655f76fac50ec04ba301.png"group-title="fabryka 2 SZYBKA",Eleven Sports 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155251
-#EXTINF:-1 tvg-name="Eleven Sports 2 HD"tvg-id="Eleven Sports 2"tvg-logo="http://fabryka.stream/images/logo/elevensports2hd.png"group-title="fabryka 2 SZYBKA",Eleven Sports 2 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105526
-#EXTINF:-1 tvg-name="Eleven Sports 3"tvg-id="elevensports3.pl"tvg-logo="http://fabryka.stream:8080/images/d91d9b739ddf1fd861ffdd1f9be8efc9.png"group-title="fabryka 2 SZYBKA",Eleven Sports 3
-http://fabryka.stream:8080/elaikrzysiu/357252884/155252
-#EXTINF:-1 tvg-name="Eleven Sports 3 HD"tvg-id="elevensports3.pl"tvg-logo="http://fabryka.stream/images/logo/elevensports3hd.png"group-title="fabryka 2 SZYBKA",Eleven Sports 3 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105527
-#EXTINF:-1 tvg-name="Eleven Sports 4"tvg-id="elevensportsports4.pl"tvg-logo="http://fabryka.stream:8080/images/7d35169bc5f63f033d3562c4fbcb367e.png"group-title="fabryka 2 SZYBKA",Eleven Sports 4
-http://fabryka.stream:8080/elaikrzysiu/357252884/155253
-#EXTINF:-1 tvg-name="Eleven Sports 4 HD"tvg-id="elevensportsports4.pl"tvg-logo="http://fabryka.stream:8080/images/7d35169bc5f63f033d3562c4fbcb367e.png"group-title="fabryka 2 SZYBKA",Eleven Sports 4 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105528
-#EXTINF:-1 tvg-name="Epic Drama"tvg-id="epicdramahd.pl"tvg-logo="http://fabryka.stream:8080/images/222e710ee692735dc0960c5be5977a4a.png"group-title="fabryka 2 SZYBKA",Epic Drama
-http://fabryka.stream:8080/elaikrzysiu/357252884/155091
-#EXTINF:-1 tvg-name="Epic Drama HD"tvg-id="epicdramahd.pl"tvg-logo="http://fabryka.stream/images/logo/epicdramahd.png"group-title="fabryka 2 SZYBKA",Epic Drama HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105417
-#EXTINF:-1 tvg-name="Eska Rock TV"tvg-id="Eska Rock TV"tvg-logo="http://fabryka.stream/images/logo/Eska%20Rock%20TV.png"group-title="fabryka 2 SZYBKA",Eska Rock TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/105506
-#EXTINF:-1 tvg-name="Eska Rock TV"tvg-id="Eska Rock TV"tvg-logo="http://fabryka.stream:8080/images/eb15b32b0b69258d92a88c02dcdfae62.png"group-title="fabryka 2 SZYBKA",Eska Rock TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155188
-#EXTINF:-1 tvg-name="Eska TV"tvg-id="Eska TV"tvg-logo="http://fabryka.stream:8080/images/9ed084533dfd5b524492ff5fd83a7bab.png"group-title="fabryka 2 SZYBKA",Eska TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155186
-#EXTINF:-1 tvg-name="Eska TV Extra"tvg-id="Eska TV Extra"tvg-logo="http://fabryka.stream/images/logo/eskatvextra.png"group-title="fabryka 2 SZYBKA",Eska TV Extra
-http://fabryka.stream:8080/elaikrzysiu/357252884/105505
-#EXTINF:-1 tvg-name="Eska TV Extra"tvg-id="Eska TV Extra"tvg-logo="http://fabryka.stream:8080/images/9408c3872fae66e11c1e0489c2aeeede.png"group-title="fabryka 2 SZYBKA",Eska TV Extra
-http://fabryka.stream:8080/elaikrzysiu/357252884/155187
-#EXTINF:-1 tvg-name="Eska TV HD"tvg-id="Eska TV"tvg-logo="http://fabryka.stream/images/logo/eskatv.png"group-title="fabryka 2 SZYBKA",Eska TV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105504
-#EXTINF:-1 tvg-name="Eurosport 1"tvg-id="Eurosport"tvg-logo="http://fabryka.stream:8080/images/8b09226975f258b7124e2ce9fed72537.png"group-title="fabryka 2 SZYBKA",Eurosport 1
-http://fabryka.stream:8080/elaikrzysiu/357252884/155269
-#EXTINF:-1 tvg-name="Eurosport 1 HD"tvg-id="Eurosport"tvg-logo="http://fabryka.stream/images/logo/eurosport1hd.png"group-title="fabryka 2 SZYBKA",Eurosport 1 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105544
-#EXTINF:-1 tvg-name="Eurosport 2"tvg-id="Eurosport 2"tvg-logo="http://fabryka.stream:8080/images/00295a368675482110dbe435465bba33.png"group-title="fabryka 2 SZYBKA",Eurosport 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155270
-#EXTINF:-1 tvg-name="Eurosport 2 HD"tvg-id="Eurosport 2"tvg-logo="http://fabryka.stream/images/logo/eurosport2hd.png"group-title="fabryka 2 SZYBKA",Eurosport 2 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105545
-#EXTINF:-1 tvg-name="Extreme Sports"tvg-id="Extreme Sports Channel"tvg-logo="http://fabryka.stream:8080/images/910a9621e28773db94c7959a7014f0fa.png"group-title="fabryka 2 SZYBKA",Extreme Sports
-http://fabryka.stream:8080/elaikrzysiu/357252884/155267
-#EXTINF:-1 tvg-name="Extreme Sports HD"tvg-id="Extreme Sports Channel"tvg-logo="http://fabryka.stream/images/logo/extremesportshd.png"group-title="fabryka 2 SZYBKA",Extreme Sports HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105542
-#EXTINF:-1 tvg-name="Fightbox"tvg-id="FightBox"tvg-logo="http://fabryka.stream:8080/images/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png"group-title="fabryka 2 SZYBKA",Fightbox
-http://fabryka.stream:8080/elaikrzysiu/357252884/155271
-#EXTINF:-1 tvg-name="Fightbox HD"tvg-id="FightBox"tvg-logo="http://fabryka.stream/images/logo/fightboxhd.png"group-title="fabryka 2 SZYBKA",Fightbox HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105546
-#EXTINF:-1 tvg-name="Fightklub"tvg-id="fightklub.pl"tvg-logo="http://fabryka.stream:8080/images/3f24f06a798c5b47aaaaf752b8a4ee9f.png"group-title="fabryka 2 SZYBKA",Fightklub
-http://fabryka.stream:8080/elaikrzysiu/357252884/155266
-#EXTINF:-1 tvg-name="Fightklub HD"tvg-id="fightklub.pl"tvg-logo="http://fabryka.stream/images/logo/FightKlub%20HD.png"group-title="fabryka 2 SZYBKA",Fightklub HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105541
-#EXTINF:-1 tvg-name="FilMax"tvg-id="FILMAX"tvg-logo=""group-title="fabryka 2 SZYBKA",FilMax
-http://fabryka.stream:8080/elaikrzysiu/357252884/155282
-#EXTINF:-1 tvg-name="FilMax HD"tvg-id="FILMAX"tvg-logo=""group-title="fabryka 2 SZYBKA",FilMax HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/155043
-#EXTINF:-1 tvg-name="Filmbox Action"tvg-id="filmboxaction.pl"tvg-logo="http://fabryka.stream/images/logo/filmboxaction.png"group-title="fabryka 2 SZYBKA",Filmbox Action
-http://fabryka.stream:8080/elaikrzysiu/357252884/105374
-#EXTINF:-1 tvg-name="Filmbox Action"tvg-id="filmboxaction.pl"tvg-logo="http://fabryka.stream:8080/images/cff179fcdb23d2951807bc3040cda9c3.png"group-title="fabryka 2 SZYBKA",Filmbox Action
-http://fabryka.stream:8080/elaikrzysiu/357252884/155214
-#EXTINF:-1 tvg-name="Filmbox Arthouse"tvg-id="filmboxarthouse.pl"tvg-logo="http://fabryka.stream/images/logo/filmboxarthouse.png"group-title="fabryka 2 SZYBKA",Filmbox Arthouse
-http://fabryka.stream:8080/elaikrzysiu/357252884/105375
-#EXTINF:-1 tvg-name="Filmbox Arthouse"tvg-id="filmboxarthouse.pl"tvg-logo="http://fabryka.stream:8080/images/5ac84adedb98322950d28414f2d7ef63.png"group-title="fabryka 2 SZYBKA",Filmbox Arthouse
-http://fabryka.stream:8080/elaikrzysiu/357252884/155215
-#EXTINF:-1 tvg-name="Filmbox Extra"tvg-id="filmboxextra.pl"tvg-logo="http://fabryka.stream:8080/images/bf1b9303db9bce9f7d547ad418353b2a.png"group-title="fabryka 2 SZYBKA",Filmbox Extra
-http://fabryka.stream:8080/elaikrzysiu/357252884/155213
-#EXTINF:-1 tvg-name="Filmbox Extra HD"tvg-id="filmboxextra.pl"tvg-logo="http://fabryka.stream/images/logo/filmboxextra.png"group-title="fabryka 2 SZYBKA",Filmbox Extra HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105373
-#EXTINF:-1 tvg-name="Filmbox Family"tvg-id="filmboxfamily.pl"tvg-logo="http://fabryka.stream/images/logo/filmboxfamily.png"group-title="fabryka 2 SZYBKA",Filmbox Family
-http://fabryka.stream:8080/elaikrzysiu/357252884/105377
-#EXTINF:-1 tvg-name="Filmbox Family"tvg-id="filmboxfamily.pl"tvg-logo="http://fabryka.stream:8080/images/aa1e8832a1b2c29d9950c4899033b08a.png"group-title="fabryka 2 SZYBKA",Filmbox Family
-http://fabryka.stream:8080/elaikrzysiu/357252884/155217
-#EXTINF:-1 tvg-name="Filmbox Premium"tvg-id="filmboxpremium.pl"tvg-logo="http://fabryka.stream:8080/images/b968071e468696313ea4dea83d62b77b.png"group-title="fabryka 2 SZYBKA",Filmbox Premium
-http://fabryka.stream:8080/elaikrzysiu/357252884/155216
-#EXTINF:-1 tvg-name="Filmbox Premium HD"tvg-id="filmboxpremium.pl"tvg-logo="http://fabryka.stream/images/logo/filmboxpremium.png"group-title="fabryka 2 SZYBKA",Filmbox Premium HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105376
-#EXTINF:-1 tvg-name="Fokus TV"tvg-id="fokustv.pl"tvg-logo="http://fabryka.stream:8080/images/f3e2783dfb3517fce5251e6ffce65c8c.png"group-title="fabryka 2 SZYBKA",Fokus TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155095
-#EXTINF:-1 tvg-name="Fokus TV HD"tvg-id="fokustv.pl"tvg-logo="http://fabryka.stream:8080/images/f3e2783dfb3517fce5251e6ffce65c8c.png"group-title="fabryka 2 SZYBKA",Fokus TV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105420
-#EXTINF:-1 tvg-name="Food Network"tvg-id="foodnetwork.pl"tvg-logo="http://fabryka.stream:8080/images/3e0f56568349f095c63e4484e9deacf0.png"group-title="fabryka 2 SZYBKA",Food Network
-http://fabryka.stream:8080/elaikrzysiu/357252884/155094
-#EXTINF:-1 tvg-name="Food Network HD"tvg-id="foodnetwork.pl"tvg-logo="http://fabryka.stream/images/logo/foodnetworkhd.png"group-title="fabryka 2 SZYBKA",Food Network HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105419
-#EXTINF:-1 tvg-name="FOX"tvg-id="fox.pl"tvg-logo="http://fabryka.stream:8080/images/13667c2478f5dad7cddb7fb42085c00a.png"group-title="fabryka 2 SZYBKA",FOX
-http://fabryka.stream:8080/elaikrzysiu/357252884/155218
-#EXTINF:-1 tvg-name="Fox Comedy"tvg-id="foxcomedy.pl"tvg-logo="http://fabryka.stream:8080/images/e1522fc80b12daad7fb34af014ff08e3.png"group-title="fabryka 2 SZYBKA",Fox Comedy
-http://fabryka.stream:8080/elaikrzysiu/357252884/155219
-#EXTINF:-1 tvg-name="Fox Comedy HD"tvg-id="foxcomedy.pl"tvg-logo="http://fabryka.stream/images/logo/foxcomedyhd.png"group-title="fabryka 2 SZYBKA",Fox Comedy HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105379
-#EXTINF:-1 tvg-name="FOX HD"tvg-id="fox.pl"tvg-logo="http://fabryka.stream/images/logo/foxhd.png"group-title="fabryka 2 SZYBKA",FOX HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105378
-#EXTINF:-1 tvg-name="Golf Channel"tvg-id="Golf Channel"tvg-logo="http://fabryka.stream:8080/images/21b6877fb1086190fbb91f999a5a8e18.png"group-title="fabryka 2 SZYBKA",Golf Channel
-http://fabryka.stream:8080/elaikrzysiu/357252884/155272
-#EXTINF:-1 tvg-name="Golf Channel HD"tvg-id="Golf Channel"tvg-logo="http://fabryka.stream/images/logo/golfchannel.png"group-title="fabryka 2 SZYBKA",Golf Channel HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105547
-#EXTINF:-1 tvg-name="HBO"tvg-id="hbo.pl"tvg-logo="http://fabryka.stream:8080/images/f9adcc04d047cc512ebe96f95745912f.png"group-title="fabryka 2 SZYBKA",HBO
-http://fabryka.stream:8080/elaikrzysiu/357252884/155208
-#EXTINF:-1 tvg-name="HBO 2 HD"tvg-id="hbo2.pl"tvg-logo="http://fabryka.stream/images/logo/hbo2hd.png"group-title="fabryka 2 SZYBKA",HBO 2 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105369
-#EXTINF:-1 tvg-name="HBO 2 HD"tvg-id="hbo2.pl"tvg-logo="http://fabryka.stream:8080/images/12713c6ff264a3ac58c707c7b2a4bbcf.png"group-title="fabryka 2 SZYBKA",HBO 2 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/155209
-#EXTINF:-1 tvg-name="HBO 3"tvg-id="hbo3.pl"tvg-logo="http://fabryka.stream:8080/images/cee71028915464dbf234547f65c22c0e.png"group-title="fabryka 2 SZYBKA",HBO 3
-http://fabryka.stream:8080/elaikrzysiu/357252884/155210
-#EXTINF:-1 tvg-name="HBO 3 HD"tvg-id="hbo3.pl"tvg-logo="http://fabryka.stream/images/logo/hbo3hd.png"group-title="fabryka 2 SZYBKA",HBO 3 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105370
-#EXTINF:-1 tvg-name="HBO HD"tvg-id="hbo.pl"tvg-logo="http://fabryka.stream/images/logo/hbo1hd.png"group-title="fabryka 2 SZYBKA",HBO HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105368
-#EXTINF:-1 tvg-name="HGTV"tvg-id="HGTV"tvg-logo="http://fabryka.stream:8080/images/26e104754d63adb5a0f6ce026be7182b.png"group-title="fabryka 2 SZYBKA",HGTV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155131
-#EXTINF:-1 tvg-name="HGTV HD"tvg-id="HGTV"tvg-logo="http://fabryka.stream/images/logo/hgtv.png"group-title="fabryka 2 SZYBKA",HGTV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105457
-#EXTINF:-1 tvg-name="History"tvg-id="history.pl"tvg-logo="http://fabryka.stream:8080/images/50d4859f871c253cdd38796675a47bb3.png"group-title="fabryka 2 SZYBKA",History
-http://fabryka.stream:8080/elaikrzysiu/357252884/155096
-#EXTINF:-1 tvg-name="History 2"tvg-id="history2.pl"tvg-logo="http://fabryka.stream:8080/images/57ba1b309c448eae56337ebb48f80e4f.png"group-title="fabryka 2 SZYBKA",History 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155097
-#EXTINF:-1 tvg-name="History 2 HD"tvg-id="history2.pl"tvg-logo="http://fabryka.stream/images/logo/h2hd.png"group-title="fabryka 2 SZYBKA",History 2 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105422
-#EXTINF:-1 tvg-name="History HD"tvg-id="history.pl"tvg-logo="http://fabryka.stream/images/logo/historyhd.png"group-title="fabryka 2 SZYBKA",History HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105421
-#EXTINF:-1 tvg-name="Home TV"tvg-id="HOME TV"tvg-logo="http://fabryka.stream/images/logo/TVR.png"group-title="fabryka 2 SZYBKA",Home TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/120417
-#EXTINF:-1 tvg-name="Home TV"tvg-id="HOME TV"tvg-logo="http://fabryka.stream:8080/images/25e20053ed7a0b71110207f5481bbe96.png"group-title="fabryka 2 SZYBKA",Home TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155132
-#EXTINF:-1 tvg-name="ID"tvg-id="investigationdiscovery.pl"tvg-logo="http://fabryka.stream:8080/images/5ba787863049093bd4a8f1c82c1b97a0.png"group-title="fabryka 2 SZYBKA",ID
-http://fabryka.stream:8080/elaikrzysiu/357252884/155089
-#EXTINF:-1 tvg-name="ID HD"tvg-id="investigationdiscovery.pl"tvg-logo="http://fabryka.stream/images/logo/idhd.png"group-title="fabryka 2 SZYBKA",ID HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105414
-#EXTINF:-1 tvg-name="Kino Polska"tvg-id="kinopolska.pl"tvg-logo="http://fabryka.stream:8080/images/bfeea42f9d27d8a5e4879b4e7a55cb21.png"group-title="fabryka 2 SZYBKA",Kino Polska
-http://fabryka.stream:8080/elaikrzysiu/357252884/155227
-#EXTINF:-1 tvg-name="Kino Polska HD"tvg-id="kinopolska.pl"tvg-logo="http://fabryka.stream/images/logo/kinopolska.png"group-title="fabryka 2 SZYBKA",Kino Polska HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105389
-#EXTINF:-1 tvg-name="Kino Polska Muzyka"tvg-id="Kino Polska Muzyka"tvg-logo="http://fabryka.stream/images/logo/kinopolskamuzyka.png"group-title="fabryka 2 SZYBKA",Kino Polska Muzyka
-http://fabryka.stream:8080/elaikrzysiu/357252884/105507
-#EXTINF:-1 tvg-name="Kino Polska Muzyka"tvg-id="Kino Polska Muzyka"tvg-logo="http://fabryka.stream:8080/images/73fcd61a69c248a8f1cd5160fe2576a0.png"group-title="fabryka 2 SZYBKA",Kino Polska Muzyka
-http://fabryka.stream:8080/elaikrzysiu/357252884/155189
-#EXTINF:-1 tvg-name="Kino TV"tvg-id="kinotv.pl"tvg-logo="http://fabryka.stream:8080/images/cd7646308acaf581332af5aa5c2b4c51.png"group-title="fabryka 2 SZYBKA",Kino TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155228
-#EXTINF:-1 tvg-name="Kino TV HD"tvg-id="kinotv.pl"tvg-logo="http://fabryka.stream/images/logo/KinoTV.png"group-title="fabryka 2 SZYBKA",Kino TV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105390
-#EXTINF:-1 tvg-name="KSW TV"tvg-id="TVP 1"tvg-logo="http://fabryka.stream:8080/images/8f0268b655a8d5d0a2062d4eb3c83b87.png"group-title="fabryka 2 SZYBKA",KSW TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/105553
-#EXTINF:-1 tvg-name="Metro"tvg-id="metrotv.pl"tvg-logo="http://fabryka.stream/images/logo/metro.png"group-title="fabryka 2 SZYBKA",Metro
-http://fabryka.stream:8080/elaikrzysiu/357252884/105399
-#EXTINF:-1 tvg-name="Metro"tvg-id="metrotv.pl"tvg-logo="http://fabryka.stream:8080/images/b79d2096c66248cad58c309283bcd8d4.png"group-title="fabryka 2 SZYBKA",Metro
-http://fabryka.stream:8080/elaikrzysiu/357252884/155076
-#EXTINF:-1 tvg-name="MiniMini+"tvg-id="Minimini+"tvg-logo="http://fabryka.stream:8080/images/b5d1cb6ea3b62e5dad35a30d8fafc39c.png"group-title="fabryka 2 SZYBKA",MiniMini+
-http://fabryka.stream:8080/elaikrzysiu/357252884/155175
-#EXTINF:-1 tvg-name="MiniMini+ HD"tvg-id="Minimini+"tvg-logo="http://fabryka.stream/images/logo/miniminiplushd.png"group-title="fabryka 2 SZYBKA",MiniMini+ HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105495
-#EXTINF:-1 tvg-name="Motowizja"tvg-id="motowizja.pl"tvg-logo="http://fabryka.stream:8080/images/b6cc47559e49f4d10d8e27b8cb14816e.png"group-title="fabryka 2 SZYBKA",Motowizja
-http://fabryka.stream:8080/elaikrzysiu/357252884/155243
-#EXTINF:-1 tvg-name="Motowizja HD"tvg-id="motowizja.pl"tvg-logo="http://fabryka.stream/images/logo/motowizja.png"group-title="fabryka 2 SZYBKA",Motowizja HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105443
-#EXTINF:-1 tvg-name="MTV 00s"tvg-id="vh1.pl"tvg-logo=""group-title="fabryka 2 SZYBKA",MTV 00s
-http://fabryka.stream:8080/elaikrzysiu/357252884/105517
-#EXTINF:-1 tvg-name="MTV 00s"tvg-id="vh1.pl"tvg-logo=""group-title="fabryka 2 SZYBKA",MTV 00s
-http://fabryka.stream:8080/elaikrzysiu/357252884/155199
-#EXTINF:-1 tvg-name="MTV 90s"tvg-id="mtv90s.pl"tvg-logo="http://fabryka.stream:8080/images/4687cfb021a02cebf31a249689ecc60e.png"group-title="fabryka 2 SZYBKA",MTV 90s
-http://fabryka.stream:8080/elaikrzysiu/357252884/105511
-#EXTINF:-1 tvg-name="MTV 90s"tvg-id="MTV 90S"tvg-logo="http://fabryka.stream:8080/images/4687cfb021a02cebf31a249689ecc60e.png"group-title="fabryka 2 SZYBKA",MTV 90s
-http://fabryka.stream:8080/elaikrzysiu/357252884/155193
-#EXTINF:-1 tvg-name="MTV Live"tvg-id="MTV Live HD"tvg-logo="http://fabryka.stream:8080/images/0c3b449361ed5fe382319aba9504c1ce.png"group-title="fabryka 2 SZYBKA",MTV Live
-http://fabryka.stream:8080/elaikrzysiu/357252884/155191
-#EXTINF:-1 tvg-name="MTV Live HD"tvg-id="MTV Live HD"tvg-logo="http://fabryka.stream:8080/images/0c3b449361ed5fe382319aba9504c1ce.png"group-title="fabryka 2 SZYBKA",MTV Live HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105509
-#EXTINF:-1 tvg-name="MTV Polska"tvg-id="MTV Polska"tvg-logo="http://fabryka.stream:8080/images/70c68c732af8a5707d3f4c32a18ee2ec.png"group-title="fabryka 2 SZYBKA",MTV Polska
-http://fabryka.stream:8080/elaikrzysiu/357252884/155192
-#EXTINF:-1 tvg-name="MTV Polska HD"tvg-id="MTV Polska"tvg-logo="http://fabryka.stream/images/logo/mtvpolska.png"group-title="fabryka 2 SZYBKA",MTV Polska HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105510
-#EXTINF:-1 tvg-name="Nat Geo People"tvg-id="natgeopeople.pl"tvg-logo="http://fabryka.stream:8080/images/a89adb91ad968d42fe0f1f01ccf3017d.png"group-title="fabryka 2 SZYBKA",Nat Geo People
-http://fabryka.stream:8080/elaikrzysiu/357252884/155100
-#EXTINF:-1 tvg-name="Nat Geo People HD"tvg-id="natgeopeople.pl"tvg-logo="http://fabryka.stream/images/logo/NatGeoPeople.png"group-title="fabryka 2 SZYBKA",Nat Geo People HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105425
-#EXTINF:-1 tvg-name="National Geographic"tvg-id="natgeo.pl"tvg-logo="http://fabryka.stream:8080/images/285e9c97bc00ccae8f552e9989f739e8.png"group-title="fabryka 2 SZYBKA",National Geographic
-http://fabryka.stream:8080/elaikrzysiu/357252884/155098
-#EXTINF:-1 tvg-name="National Geographic HD"tvg-id="natgeo.pl"tvg-logo="http://fabryka.stream/images/logo/natgeohd.png"group-title="fabryka 2 SZYBKA",National Geographic HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105423
-#EXTINF:-1 tvg-name="National Geographic Wild"tvg-id="natgeowild.pl"tvg-logo="http://fabryka.stream:8080/images/09f3e55d09d705c6b987fa46c2989d69.png"group-title="fabryka 2 SZYBKA",National Geographic Wild
-http://fabryka.stream:8080/elaikrzysiu/357252884/155099
-#EXTINF:-1 tvg-name="National Geographic Wild HD"tvg-id="natgeowild.pl"tvg-logo="http://fabryka.stream/images/logo/natgeowildhd.png"group-title="fabryka 2 SZYBKA",National Geographic Wild HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105424
-#EXTINF:-1 tvg-name="Nick Jr Polska"tvg-id="Nick Jr."tvg-logo="http://fabryka.stream/images/logo/nickjr.png"group-title="fabryka 2 SZYBKA",Nick Jr Polska
-http://fabryka.stream:8080/elaikrzysiu/357252884/105486
-#EXTINF:-1 tvg-name="Nick Jr Polska"tvg-id="Nick Jr."tvg-logo="http://fabryka.stream:8080/images/913c4858c66af34fc5575fcb46f3fecb.png"group-title="fabryka 2 SZYBKA",Nick Jr Polska
-http://fabryka.stream:8080/elaikrzysiu/357252884/155166
-#EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon"tvg-logo="http://fabryka.stream/images/logo/nickelodeon.png"group-title="fabryka 2 SZYBKA",Nickelodeon
-http://fabryka.stream:8080/elaikrzysiu/357252884/105487
-#EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon"tvg-logo="http://fabryka.stream:8080/images/f19b88e6cb8cb067565bb3880b2fb3e1.png"group-title="fabryka 2 SZYBKA",Nickelodeon
-http://fabryka.stream:8080/elaikrzysiu/357252884/155167
-#EXTINF:-1 tvg-name="NickMusic"tvg-id="13ulica.pl"tvg-logo="https://1.bp.blogspot.com/-7hVOYAQhdjw/X07zvW_CIOI/AAAAAAAA6TQ/2EW0Kh7AUZA4X3RoOjgUW9_tPaoDgBH0gCLcBGAsYHQ/w410-h71/nick-music-2020.png"group-title="fabryka 2 SZYBKA",NickMusic
-http://fabryka.stream:8080/elaikrzysiu/357252884/105508
-#EXTINF:-1 tvg-name="NickMusic"tvg-id="13ulica.pl"tvg-logo="http://fabryka.stream:8080/images/71dbe4062c8f6d24263a213ddb945569.png"group-title="fabryka 2 SZYBKA",NickMusic
-http://fabryka.stream:8080/elaikrzysiu/357252884/155190
-#EXTINF:-1 tvg-name="NickToons"tvg-id="Nicktoons"tvg-logo="http://fabryka.stream:8080/images/7c5a9a9b092e065b4df87d3943593685.png"group-title="fabryka 2 SZYBKA",NickToons
-http://fabryka.stream:8080/elaikrzysiu/357252884/155168
-#EXTINF:-1 tvg-name="NickToons HD"tvg-id="Nicktoons"tvg-logo="http://fabryka.stream/images/logo/nicktoons.png"group-title="fabryka 2 SZYBKA",NickToons HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105488
-#EXTINF:-1 tvg-name="Novela TV"tvg-id="novela.pl"tvg-logo="http://fabryka.stream/images/logo/novelatv.png"group-title="fabryka 2 SZYBKA",Novela TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/105448
-#EXTINF:-1 tvg-name="Novela TV"tvg-id="novela.pl"tvg-logo="http://fabryka.stream:8080/images/9f307ec416908b1a0c6c2693b67adb5e.png"group-title="fabryka 2 SZYBKA",Novela TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155122
-#EXTINF:-1 tvg-name="Novelas+"tvg-id="novelasplus.pl"tvg-logo=""group-title="fabryka 2 SZYBKA",Novelas+
-http://fabryka.stream:8080/elaikrzysiu/357252884/135978
-#EXTINF:-1 tvg-name="Novelas+"tvg-id="novelasplus.pl"tvg-logo=""group-title="fabryka 2 SZYBKA",Novelas+
-http://fabryka.stream:8080/elaikrzysiu/357252884/155121
-#EXTINF:-1 tvg-name="Nowa TV"tvg-id="NOWA TV"tvg-logo="http://fabryka.stream:8080/images/6a5af193ed5f5261a3fb37cdddf3d5cb.png"group-title="fabryka 2 SZYBKA",Nowa TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155129
-#EXTINF:-1 tvg-name="Nowa TV HD"tvg-id="NOWA TV"tvg-logo="http://fabryka.stream/images/logo/nowatv.png"group-title="fabryka 2 SZYBKA",Nowa TV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105455
-#EXTINF:-1 tvg-name="Nuta Gold"tvg-id="Nuta Gold"tvg-logo="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Nuta-Gold-Tv-New-900x0.png"group-title="fabryka 2 SZYBKA",Nuta Gold
-http://fabryka.stream:8080/elaikrzysiu/357252884/105437
-#EXTINF:-1 tvg-name="Nuta Gold"tvg-id="Nuta Gold"tvg-logo="http://fabryka.stream:8080/images/6e249520574a41bbba826c364d2cf320.png"group-title="fabryka 2 SZYBKA",Nuta Gold
-http://fabryka.stream:8080/elaikrzysiu/357252884/155112
-#EXTINF:-1 tvg-name="NUTA TV"tvg-id="Nuta TV"tvg-logo="http://fabryka.stream/images/logo/Nuta%20TV.png"group-title="fabryka 2 SZYBKA",NUTA TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/105512
-#EXTINF:-1 tvg-name="NUTA TV"tvg-id="Nuta TV"tvg-logo="http://fabryka.stream:8080/images/f6176ee7a58c88948ed09b50d628c047.png"group-title="fabryka 2 SZYBKA",NUTA TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155194
-#EXTINF:-1 tvg-name="Paramount Network"tvg-id="paramount.pl"tvg-logo="http://fabryka.stream:8080/images/e9828e94e6fa51ccf2f1b4d5bf23230c.png"group-title="fabryka 2 SZYBKA",Paramount Network
-http://fabryka.stream:8080/elaikrzysiu/357252884/155232
-#EXTINF:-1 tvg-name="Paramount Network HD"tvg-id="paramount.pl"tvg-logo="http://fabryka.stream/images/logo/paramountchannelhd.png"group-title="fabryka 2 SZYBKA",Paramount Network HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105395
-#EXTINF:-1 tvg-name="Planete+"tvg-id="planete.pl"tvg-logo="http://fabryka.stream:8080/images/6f52f4210069db1d831ec1364efb7c50.png"group-title="fabryka 2 SZYBKA",Planete+
-http://fabryka.stream:8080/elaikrzysiu/357252884/155101
-#EXTINF:-1 tvg-name="Planete+ HD"tvg-id="planete.pl"tvg-logo="http://fabryka.stream/images/logo/planeteplushd.png"group-title="fabryka 2 SZYBKA",Planete+ HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105426
-#EXTINF:-1 tvg-name="Polo TV"tvg-id="Polo TV"tvg-logo="http://fabryka.stream:8080/images/7f3740584086643b37db1a561559cc86.png"group-title="fabryka 2 SZYBKA",Polo TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155195
-#EXTINF:-1 tvg-name="Polo TV HD"tvg-id="Polo TV"tvg-logo="http://fabryka.stream/images/logo/polotv.png"group-title="fabryka 2 SZYBKA",Polo TV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105513
-#EXTINF:-1 tvg-name="Polonia 1"tvg-id="Polonia 1"tvg-logo="http://fabryka.stream/images/logo/polonia1.png"group-title="fabryka 2 SZYBKA",Polonia 1
-http://fabryka.stream:8080/elaikrzysiu/357252884/105449
-#EXTINF:-1 tvg-name="Polonia 1"tvg-id="Polonia 1"tvg-logo="http://fabryka.stream:8080/images/ec451dcdb0bd3c0c363c1211ee732057.png"group-title="fabryka 2 SZYBKA",Polonia 1
-http://fabryka.stream:8080/elaikrzysiu/357252884/155123
-#EXTINF:-1 tvg-name="Polsat"tvg-id="polsat.pl"tvg-logo="http://fabryka.stream:8080/images/c7079714540d46c9f5bb9f78f090ea39.png"group-title="fabryka 2 SZYBKA",Polsat
-http://fabryka.stream:8080/elaikrzysiu/357252884/155062
-#EXTINF:-1 tvg-name="Polsat 2"tvg-id="polsat2.pl"tvg-logo="http://fabryka.stream:8080/images/2ff9b139bd723859d0a79125cbd190e9.png"group-title="fabryka 2 SZYBKA",Polsat 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155063
-#EXTINF:-1 tvg-name="Polsat 2 HD"tvg-id="polsat2.pl"tvg-logo="http://fabryka.stream/images/logo/polsat/polsat2.png"group-title="fabryka 2 SZYBKA",Polsat 2 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105350
-#EXTINF:-1 tvg-name="Polsat Cafe"tvg-id="polsatcafe.pl"tvg-logo="http://fabryka.stream:8080/images/45b1dd2122280a903e1af2a4ae2a0889.png"group-title="fabryka 2 SZYBKA",Polsat Cafe
-http://fabryka.stream:8080/elaikrzysiu/357252884/155107
-#EXTINF:-1 tvg-name="Polsat Cafe HD"tvg-id="polsatcafe.pl"tvg-logo="http://fabryka.stream/images/logo/polsat/polsatcafe.png"group-title="fabryka 2 SZYBKA",Polsat Cafe HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105432
-#EXTINF:-1 tvg-name="Polsat Comedy Central Extra"tvg-id="comedycentral.pl"tvg-logo="http://fabryka.stream:8080/images/aff4676b89d4f41d548c39056da92c51.png"group-title="fabryka 2 SZYBKA",Polsat Comedy Central Extra
-http://fabryka.stream:8080/elaikrzysiu/357252884/155073
-#EXTINF:-1 tvg-name="Polsat Comedy Central Extra HD"tvg-id="comedycentral.pl"tvg-logo="http://fabryka.stream/images/logo/comedycentralfamily.png"group-title="fabryka 2 SZYBKA",Polsat Comedy Central Extra HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105386
-#EXTINF:-1 tvg-name="Polsat Doku"tvg-id="polsatdoku.pl"tvg-logo="http://fabryka.stream:8080/images/ae84435dddd01cd26a9826f0c76a6095.png"group-title="fabryka 2 SZYBKA",Polsat Doku
-http://fabryka.stream:8080/elaikrzysiu/357252884/155103
-#EXTINF:-1 tvg-name="Polsat Doku HD"tvg-id="polsatdoku.pl"tvg-logo="http://fabryka.stream/images/logo/polsat/polsatdoku.png"group-title="fabryka 2 SZYBKA",Polsat Doku HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105428
-#EXTINF:-1 tvg-name="Polsat Film"tvg-id="polsatfilm.pl"tvg-logo="http://fabryka.stream:8080/images/93f2dcbb84ff4ed796d31d15fbab1bd9.png"group-title="fabryka 2 SZYBKA",Polsat Film
-http://fabryka.stream:8080/elaikrzysiu/357252884/155230
-#EXTINF:-1 tvg-name="Polsat Film HD"tvg-id="polsatfilm.pl"tvg-logo="http://fabryka.stream/images/logo/polsat/polsatfilm.png"group-title="fabryka 2 SZYBKA",Polsat Film HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105392
-#EXTINF:-1 tvg-name="Polsat Games"tvg-id="Polsat Games"tvg-logo="http://fabryka.stream:8080/images/5067c24574174ae3321a744849d008d5.png"group-title="fabryka 2 SZYBKA",Polsat Games
-http://fabryka.stream:8080/elaikrzysiu/357252884/155259
-#EXTINF:-1 tvg-name="Polsat Games HD"tvg-id="Polsat Games"tvg-logo="http://fabryka.stream/images/logo/polsat/polsatgames.png"group-title="fabryka 2 SZYBKA",Polsat Games HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105534
-#EXTINF:-1 tvg-name="Polsat HD"tvg-id="polsat.pl"tvg-logo="http://fabryka.stream:8080/images/c7079714540d46c9f5bb9f78f090ea39.png"group-title="fabryka 2 SZYBKA",Polsat HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105349
-#EXTINF:-1 tvg-name="Polsat Jim Jam"tvg-id="Polsat JimJam"tvg-logo="http://fabryka.stream/images/logo/jimjam.png"group-title="fabryka 2 SZYBKA",Polsat Jim Jam
-http://fabryka.stream:8080/elaikrzysiu/357252884/105497
-#EXTINF:-1 tvg-name="Polsat Jim Jam"tvg-id="Polsat JimJam"tvg-logo="http://fabryka.stream:8080/images/31c01e25f4db50d00a47a379d3d64c98.png"group-title="fabryka 2 SZYBKA",Polsat Jim Jam
-http://fabryka.stream:8080/elaikrzysiu/357252884/155177
-#EXTINF:-1 tvg-name="Polsat Music"tvg-id="Polsat Music"tvg-logo="http://fabryka.stream:8080/images/df030f951e47661c71d91942dcdc7738.png"group-title="fabryka 2 SZYBKA",Polsat Music
-http://fabryka.stream:8080/elaikrzysiu/357252884/155196
-#EXTINF:-1 tvg-name="Polsat Music HD"tvg-id="Polsat Music"tvg-logo="http://fabryka.stream/images/logo/polsatmusichd.png"group-title="fabryka 2 SZYBKA",Polsat Music HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105514
-#EXTINF:-1 tvg-name="Polsat News"tvg-id="Polsat News"tvg-logo="http://fabryka.stream:8080/images/668171de6e44232b49e2473060900544.png"group-title="fabryka 2 SZYBKA",Polsat News
-http://fabryka.stream:8080/elaikrzysiu/357252884/155142
-#EXTINF:-1 tvg-name="Polsat News 2"tvg-id="POLSAT NEWS 2"tvg-logo="http://fabryka.stream/images/logo/polsat/polsatnews2.png"group-title="fabryka 2 SZYBKA",Polsat News 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/105466
-#EXTINF:-1 tvg-name="Polsat News 2"tvg-id="POLSAT NEWS 2"tvg-logo="http://fabryka.stream:8080/images/2423f2424bdcfa2e090f8dd2d866643f.png"group-title="fabryka 2 SZYBKA",Polsat News 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155143
-#EXTINF:-1 tvg-name="Polsat News HD"tvg-id="Polsat News"tvg-logo="http://fabryka.stream/images/logo/polsat/polsatnews.png"group-title="fabryka 2 SZYBKA",Polsat News HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105465
-#EXTINF:-1 tvg-name="Polsat Play"tvg-id="polsatplay.pl"tvg-logo="http://fabryka.stream:8080/images/261c13beec5656203e667bad4234a6df.png"group-title="fabryka 2 SZYBKA",Polsat Play
-http://fabryka.stream:8080/elaikrzysiu/357252884/155110
-#EXTINF:-1 tvg-name="Polsat Play HD"tvg-id="polsatplay.pl"tvg-logo="http://fabryka.stream/images/logo/polsat/polsatplay.png"group-title="fabryka 2 SZYBKA",Polsat Play HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105435
-#EXTINF:-1 tvg-name="Polsat Rodzina"tvg-id="polsatrodzina.pl"tvg-logo="http://fabryka.stream:8080/images/68319124b436c8601ffe9cfaf71ed88b.png"group-title="fabryka 2 SZYBKA",Polsat Rodzina
-http://fabryka.stream:8080/elaikrzysiu/357252884/155108
-#EXTINF:-1 tvg-name="Polsat Rodzina HD"tvg-id="polsatrodzina.pl"tvg-logo="http://fabryka.stream/images/logo/polsat/polsatrodzina.png"group-title="fabryka 2 SZYBKA",Polsat Rodzina HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105433
-#EXTINF:-1 tvg-name="Polsat Seriale"tvg-id="polsatseriale.pl"tvg-logo="http://fabryka.stream:8080/images/9eef0fc8228085e5e9b5780619f2870e.png"group-title="fabryka 2 SZYBKA",Polsat Seriale
-http://fabryka.stream:8080/elaikrzysiu/357252884/155109
-#EXTINF:-1 tvg-name="Polsat Seriale HD"tvg-id="polsatseriale.pl"tvg-logo="http://fabryka.stream/images/logo/polsat/polsatseriale.png"group-title="fabryka 2 SZYBKA",Polsat Seriale HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105434
-#EXTINF:-1 tvg-name="Polsat Sport"tvg-id="Polsat Sport"tvg-logo="http://fabryka.stream:8080/images/905d9e9cec50adf2156cec18f26857d4.png"group-title="fabryka 2 SZYBKA",Polsat Sport
-http://fabryka.stream:8080/elaikrzysiu/357252884/155255
-#EXTINF:-1 tvg-name="Polsat Sport Extra"tvg-id="Polsat Sport Extra"tvg-logo="http://fabryka.stream:8080/images/370bd71901a41daea1255dd6180171a7.png"group-title="fabryka 2 SZYBKA",Polsat Sport Extra
-http://fabryka.stream:8080/elaikrzysiu/357252884/155256
-#EXTINF:-1 tvg-name="Polsat Sport Extra HD"tvg-id="Polsat Sport Extra"tvg-logo="http://fabryka.stream/images/logo/polsat/polsatsportextra.png"group-title="fabryka 2 SZYBKA",Polsat Sport Extra HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105531
-#EXTINF:-1 tvg-name="Polsat Sport Fight"tvg-id="Polsat Sport Fight"tvg-logo="http://fabryka.stream:8080/images/eda03788ca98e7664af2fcff91a7b33d.png"group-title="fabryka 2 SZYBKA",Polsat Sport Fight
-http://fabryka.stream:8080/elaikrzysiu/357252884/155257
-#EXTINF:-1 tvg-name="Polsat Sport Fight HD"tvg-id="Polsat Sport Fight"tvg-logo="http://fabryka.stream/images/logo/polsat/polsatsportfight.png"group-title="fabryka 2 SZYBKA",Polsat Sport Fight HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105532
-#EXTINF:-1 tvg-name="Polsat Sport HD"tvg-id="Polsat Sport"tvg-logo="http://fabryka.stream:8080/images/905d9e9cec50adf2156cec18f26857d4.png"group-title="fabryka 2 SZYBKA",Polsat Sport HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105530
-#EXTINF:-1 tvg-name="Polsat Sport News"tvg-id="Polsat Sport News"tvg-logo="http://fabryka.stream:8080/images/08f5827dbfacb7fcc40a6c0f8765a41b.png"group-title="fabryka 2 SZYBKA",Polsat Sport News
-http://fabryka.stream:8080/elaikrzysiu/357252884/155258
-#EXTINF:-1 tvg-name="Polsat Sport News HD"tvg-id="Polsat Sport News"tvg-logo="http://fabryka.stream/images/logo/polsat/polsatsportnews.png"group-title="fabryka 2 SZYBKA",Polsat Sport News HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105533
-#EXTINF:-1 tvg-name="Polsat Sport Premium 1"tvg-id="Polsat Sport Premium 1"tvg-logo="http://fabryka.stream:8080/images/e221f30d81d809132fda8bfe5a1b884e.png"group-title="fabryka 2 SZYBKA",Polsat Sport Premium 1
-http://fabryka.stream:8080/elaikrzysiu/357252884/155260
-#EXTINF:-1 tvg-name="Polsat Sport Premium 1 HD"tvg-id="Polsat Sport Premium 1"tvg-logo="http://fabryka.stream:8080/images/e221f30d81d809132fda8bfe5a1b884e.png"group-title="fabryka 2 SZYBKA",Polsat Sport Premium 1 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105535
-#EXTINF:-1 tvg-name="Polsat Sport Premium 2"tvg-id="Polsat Sport Premium 2"tvg-logo="http://fabryka.stream:8080/images/5eaf859784921ee6f80956b9b66a3a36.png"group-title="fabryka 2 SZYBKA",Polsat Sport Premium 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155261
-#EXTINF:-1 tvg-name="Polsat Sport Premium 2 HD"tvg-id="Polsat Sport Premium 2"tvg-logo="http://fabryka.stream:8080/images/5eaf859784921ee6f80956b9b66a3a36.png"group-title="fabryka 2 SZYBKA",Polsat Sport Premium 2 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105536
-#EXTINF:-1 tvg-name="Polsat Sport Premium 3 PPV"tvg-id="Polsat Sport Premium 3"tvg-logo="http://fabryka.stream:8080/images/af502221e35e7b23823fa933b39d3791.png"group-title="fabryka 2 SZYBKA",Polsat Sport Premium 3 PPV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155262
-#EXTINF:-1 tvg-name="Polsat Sport Premium 3 PPV HD"tvg-id="Polsat Sport Premium 3"tvg-logo="http://fabryka.stream:8080/images/af502221e35e7b23823fa933b39d3791.png"group-title="fabryka 2 SZYBKA",Polsat Sport Premium 3 PPV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105537
-#EXTINF:-1 tvg-name="Polsat Sport Premium 4 PPV"tvg-id="Polsat Sport Premium 4"tvg-logo="http://fabryka.stream:8080/images/6cfef4132cd6259cdf6a37271a7afb4d.png"group-title="fabryka 2 SZYBKA",Polsat Sport Premium 4 PPV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155263
-#EXTINF:-1 tvg-name="Polsat Sport Premium 4 PPV HD"tvg-id="Polsat Sport Premium 4"tvg-logo="http://fabryka.stream:8080/images/6cfef4132cd6259cdf6a37271a7afb4d.png"group-title="fabryka 2 SZYBKA",Polsat Sport Premium 4 PPV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105538
-#EXTINF:-1 tvg-name="Polsat Sport Premium 5 PPV"tvg-id="Polsat Sport Premium 5"tvg-logo="http://fabryka.stream:8080/images/dd022b750eb9dd37aacfce394a27929f.png"group-title="fabryka 2 SZYBKA",Polsat Sport Premium 5 PPV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155264
-#EXTINF:-1 tvg-name="Polsat Sport Premium 5 PPV HD"tvg-id="Polsat Sport Premium 5"tvg-logo="http://fabryka.stream:8080/images/dd022b750eb9dd37aacfce394a27929f.png"group-title="fabryka 2 SZYBKA",Polsat Sport Premium 5 PPV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105539
-#EXTINF:-1 tvg-name="Polsat Sport Premium 6 PPV"tvg-id="Polsat Sport Premium 6"tvg-logo="http://fabryka.stream:8080/images/5e451965e5093807801a588b8f104f63.png"group-title="fabryka 2 SZYBKA",Polsat Sport Premium 6 PPV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155265
-#EXTINF:-1 tvg-name="Polsat Sport Premium 6 PPV HD"tvg-id="Polsat Sport Premium 6"tvg-logo="http://fabryka.stream:8080/images/5e451965e5093807801a588b8f104f63.png"group-title="fabryka 2 SZYBKA",Polsat Sport Premium 6 PPV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105540
-#EXTINF:-1 tvg-name="Polsat Viasat Explore"tvg-id="polsatviasatexpl.pl"tvg-logo="http://fabryka.stream:8080/images/128619136b16ade6483fed9c1254ffe4.png"group-title="fabryka 2 SZYBKA",Polsat Viasat Explore
-http://fabryka.stream:8080/elaikrzysiu/357252884/155105
-#EXTINF:-1 tvg-name="Polsat Viasat Explore HD"tvg-id="polsatviasatexpl.pl"tvg-logo="http://fabryka.stream/images/logo/polsatviasatexplorehd.png"group-title="fabryka 2 SZYBKA",Polsat Viasat Explore HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105430
-#EXTINF:-1 tvg-name="Polsat Viasat History"tvg-id="polsatviasathist.pl"tvg-logo="http://fabryka.stream:8080/images/9d123fd69b8da6ff39bd573bd18ab632.png"group-title="fabryka 2 SZYBKA",Polsat Viasat History
-http://fabryka.stream:8080/elaikrzysiu/357252884/155104
-#EXTINF:-1 tvg-name="Polsat Viasat History HD"tvg-id="polsatviasathist.pl"tvg-logo="http://fabryka.stream/images/logo/polsatviasathistoryhd.png"group-title="fabryka 2 SZYBKA",Polsat Viasat History HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105429
-#EXTINF:-1 tvg-name="Polsat Viasat Nature"tvg-id="polsatviasatnature.pl"tvg-logo="http://fabryka.stream:8080/images/5e4fc123d58966cd86660fbe60bb1259.png"group-title="fabryka 2 SZYBKA",Polsat Viasat Nature
-http://fabryka.stream:8080/elaikrzysiu/357252884/155106
-#EXTINF:-1 tvg-name="Polsat Viasat Nature HD"tvg-id="polsatviasatnature.pl"tvg-logo="http://fabryka.stream/images/logo/polsatviasatnature.png"group-title="fabryka 2 SZYBKA",Polsat Viasat Nature HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105431
-#EXTINF:-1 tvg-name="Power TV"tvg-id="POWER TV"tvg-logo="http://fabryka.stream/images/logo/powertv.png"group-title="fabryka 2 SZYBKA",Power TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/105515
-#EXTINF:-1 tvg-name="Power TV"tvg-id="POWER TV"tvg-logo="http://fabryka.stream:8080/images/c364d6ccebb7748183f33f819a1a9482.png"group-title="fabryka 2 SZYBKA",Power TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155197
-#EXTINF:-1 tvg-name="PPV - FAME/GROMDA/PRIME/CLOUT"tvg-id=""tvg-logo="http://fabryka.stream:8080/images/11a577f7dcbb60b053758ff859ee4828.png"group-title="fabryka 2 SZYBKA",PPV - FAME/GROMDA/PRIME/CLOUT
-http://fabryka.stream:8080/elaikrzysiu/357252884/152821
-#EXTINF:-1 tvg-name="Puls 2"tvg-id="tvpuls2.pl"tvg-logo="http://fabryka.stream:8080/images/526dedb5075de82a3a60fc48bdfb0e25.png"group-title="fabryka 2 SZYBKA",Puls 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155071
-#EXTINF:-1 tvg-name="Puls 2 HD"tvg-id="tvpuls2.pl"tvg-logo="http://fabryka.stream/images/logo/puls2.png"group-title="fabryka 2 SZYBKA",Puls 2 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105358
-#EXTINF:-1 tvg-name="Red Carpet TV"tvg-id="Red Carpet TV"tvg-logo="http://fabryka.stream:8080/images/6b7378044d05174e0c1dc78e7d545b8a.png"group-title="fabryka 2 SZYBKA",Red Carpet TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155093
-#EXTINF:-1 tvg-name="Red Carpet TV HD"tvg-id="Red Carpet TV"tvg-logo="http://fabryka.stream/images/logo/RedCarpet.png"group-title="fabryka 2 SZYBKA",Red Carpet TV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/134089
-#EXTINF:-1 tvg-name="Romance TV"tvg-id="romancetv.pl"tvg-logo="http://fabryka.stream:8080/images/27645951f8a7c8d54011f0ab86b64f5f.png"group-title="fabryka 2 SZYBKA",Romance TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155231
-#EXTINF:-1 tvg-name="Romance TV HD"tvg-id="romancetv.pl"tvg-logo="http://fabryka.stream/images/logo/romancetv.png"group-title="fabryka 2 SZYBKA",Romance TV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105394
-#EXTINF:-1 tvg-name="SciFi"tvg-id="SCI FI"tvg-logo="http://fabryka.stream:8080/images/a15434f391f803211b5b736faba9fdf9.png"group-title="fabryka 2 SZYBKA",SciFi
-http://fabryka.stream:8080/elaikrzysiu/357252884/155233
-#EXTINF:-1 tvg-name="SciFi HD"tvg-id="SCI FI"tvg-logo="http://fabryka.stream/images/logo/scifi.png"group-title="fabryka 2 SZYBKA",SciFi HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105396
-#EXTINF:-1 tvg-name="Sportklub"tvg-id="Sportklub"tvg-logo="http://fabryka.stream:8080/images/17584a75c3f522d3ebb348fe2dc06356.png"group-title="fabryka 2 SZYBKA",Sportklub
-http://fabryka.stream:8080/elaikrzysiu/357252884/155268
-#EXTINF:-1 tvg-name="Sportklub HD"tvg-id="Sportklub"tvg-logo="http://fabryka.stream/images/logo/sportklub.png"group-title="fabryka 2 SZYBKA",Sportklub HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105543
-#EXTINF:-1 tvg-name="STARS.TV"tvg-id="Stars TV"tvg-logo="http://fabryka.stream/images/logo/starstv.png"group-title="fabryka 2 SZYBKA",STARS.TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/105516
-#EXTINF:-1 tvg-name="STARS.TV"tvg-id="Stars TV"tvg-logo="http://fabryka.stream:8080/images/ac0c67e66ff979ea865b487b58aebed0.png"group-title="fabryka 2 SZYBKA",STARS.TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155198
-#EXTINF:-1 tvg-name="Stopklatka TV"tvg-id="stopklatka.pl"tvg-logo="http://fabryka.stream/images/logo/stopklatkatv.png"group-title="fabryka 2 SZYBKA",Stopklatka TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/105387
-#EXTINF:-1 tvg-name="Stopklatka TV"tvg-id="stopklatka.pl"tvg-logo="http://fabryka.stream:8080/images/1c3988f3a12d04d0a172492964a4b242.png"group-title="fabryka 2 SZYBKA",Stopklatka TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155225
-#EXTINF:-1 tvg-name="StudioMed TV"tvg-id="studiomed.pl"tvg-logo="http://fabryka.stream:8080/images/31acab505e73cb9ae49fefed3e2dd6f7.png"group-title="fabryka 2 SZYBKA",StudioMed TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155114
-#EXTINF:-1 tvg-name="StudioMed TV HD"tvg-id="studiomed.pl"tvg-logo="http://fabryka.stream/images/logo/studiomedtv.png"group-title="fabryka 2 SZYBKA",StudioMed TV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105440
-#EXTINF:-1 tvg-name="Sundance"tvg-id="sundancetv.pl"tvg-logo="http://fabryka.stream:8080/images/e7c297e3b8b6f2ebe8d1c2ceab5deccf.png"group-title="fabryka 2 SZYBKA",Sundance
-http://fabryka.stream:8080/elaikrzysiu/357252884/155229
-#EXTINF:-1 tvg-name="Sundance HD"tvg-id="sundancetv.pl"tvg-logo="http://fabryka.stream/images/logo/sundancehd.png"group-title="fabryka 2 SZYBKA",Sundance HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105391
-#EXTINF:-1 tvg-name="Super Polsat"tvg-id="superpolsat.pl"tvg-logo="http://fabryka.stream:8080/images/abdc327fd10084b3e6877cccbfd4f4e2.png"group-title="fabryka 2 SZYBKA",Super Polsat
-http://fabryka.stream:8080/elaikrzysiu/357252884/155064
-#EXTINF:-1 tvg-name="Super Polsat HD"tvg-id="superpolsat.pl"tvg-logo="http://fabryka.stream/images/logo/polsat/superpolsat.png"group-title="fabryka 2 SZYBKA",Super Polsat HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105351
-#EXTINF:-1 tvg-name="TBN Polska"tvg-id="TBN Polska"tvg-logo="http://fabryka.stream/images/logo/TBN.png"group-title="fabryka 2 SZYBKA",TBN Polska
-http://fabryka.stream:8080/elaikrzysiu/357252884/134088
-#EXTINF:-1 tvg-name="TBN Polska"tvg-id="TBN Polska"tvg-logo="http://fabryka.stream:8080/images/f2222d7903e9887844a97252645aa13e.png"group-title="fabryka 2 SZYBKA",TBN Polska
-http://fabryka.stream:8080/elaikrzysiu/357252884/155119
-#EXTINF:-1 tvg-name="TeenNick"tvg-id="teennick.pl"tvg-logo="http://fabryka.stream:8080/images/9c0cb7101915944abc187d38c5be754c.png"group-title="fabryka 2 SZYBKA",TeenNick
-http://fabryka.stream:8080/elaikrzysiu/357252884/155181
-#EXTINF:-1 tvg-name="TeenNick HD"tvg-id="teennick.pl"tvg-logo="https://logodix.com/logo/244472.png"group-title="fabryka 2 SZYBKA",TeenNick HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/152819
-#EXTINF:-1 tvg-name="TELE 5"tvg-id="tele5.pl"tvg-logo="http://fabryka.stream:8080/images/e957dcbbbe591322f649cd96d961d18b.png"group-title="fabryka 2 SZYBKA",TELE 5
-http://fabryka.stream:8080/elaikrzysiu/357252884/155120
-#EXTINF:-1 tvg-name="TELE 5 HD"tvg-id="tele5.pl"tvg-logo="http://fabryka.stream/images/logo/tele5.png"group-title="fabryka 2 SZYBKA",TELE 5 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105447
-#EXTINF:-1 tvg-name="TeleTOON+"tvg-id="Teletoon"tvg-logo="http://fabryka.stream:8080/images/ac7f283bca75fdf911c6cf85d4b94a4d.png"group-title="fabryka 2 SZYBKA",TeleTOON+
-http://fabryka.stream:8080/elaikrzysiu/357252884/155178
-#EXTINF:-1 tvg-name="TeleTOON+ HD"tvg-id="Teletoon"tvg-logo="http://fabryka.stream/images/logo/teletoonplushd.png"group-title="fabryka 2 SZYBKA",TeleTOON+ HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105498
-#EXTINF:-1 tvg-name="TLC"tvg-id="TLC"tvg-logo="http://fabryka.stream:8080/images/09bb420f718ce5feabbe5cd86f67ddfe.png"group-title="fabryka 2 SZYBKA",TLC
-http://fabryka.stream:8080/elaikrzysiu/357252884/155118
-#EXTINF:-1 tvg-name="TLC HD"tvg-id="TLC"tvg-logo="http://fabryka.stream/images/logo/tlchd.png"group-title="fabryka 2 SZYBKA",TLC HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105446
-#EXTINF:-1 tvg-name="TNT"tvg-id="tnt.pl"tvg-logo="http://fabryka.stream:8080/images/42fecba416ee9c82c3af60dabdc4ff42.png"group-title="fabryka 2 SZYBKA",TNT
-http://fabryka.stream:8080/elaikrzysiu/357252884/155234
-#EXTINF:-1 tvg-name="TNT HD"tvg-id="tnt.pl"tvg-logo="http://fabryka.stream/images/logo/tnthd.png"group-title="fabryka 2 SZYBKA",TNT HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105397
-#EXTINF:-1 tvg-name="TOP Kids"tvg-id="TOP KIDS"tvg-logo="http://fabryka.stream/images/logo/Top+Kids+HD.png"group-title="fabryka 2 SZYBKA",TOP Kids
-http://fabryka.stream:8080/elaikrzysiu/357252884/120419
-#EXTINF:-1 tvg-name="TOP Kids"tvg-id="TOP KIDS"tvg-logo="http://fabryka.stream:8080/images/838109aed177b49bd5f705625cb0729f.png"group-title="fabryka 2 SZYBKA",TOP Kids
-http://fabryka.stream:8080/elaikrzysiu/357252884/155180
-#EXTINF:-1 tvg-name="Travel Channel"tvg-id="Travel Channel"tvg-logo="http://fabryka.stream:8080/images/f87a799b4f4136abaac7b2021ee44386.png"group-title="fabryka 2 SZYBKA",Travel Channel
-http://fabryka.stream:8080/elaikrzysiu/357252884/155130
-#EXTINF:-1 tvg-name="Travel Channel HD"tvg-id="Travel Channel"tvg-logo="http://fabryka.stream/images/logo/travelchannelhd.png"group-title="fabryka 2 SZYBKA",Travel Channel HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105456
-#EXTINF:-1 tvg-name="TTV"tvg-id="ttv.pl"tvg-logo="http://fabryka.stream:8080/images/8976ea86fa5393676636d0d9bfe716ce.png"group-title="fabryka 2 SZYBKA",TTV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155066
-#EXTINF:-1 tvg-name="TTV HD"tvg-id="ttv.pl"tvg-logo="http://fabryka.stream:8080/images/8976ea86fa5393676636d0d9bfe716ce.png"group-title="fabryka 2 SZYBKA",TTV HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105353
-#EXTINF:-1 tvg-name="TV Okazje"tvg-id="TV OKAZJE"tvg-logo="http://fabryka.stream/images/logo/tvokazje.png"group-title="fabryka 2 SZYBKA",TV Okazje
-http://fabryka.stream:8080/elaikrzysiu/357252884/105459
-#EXTINF:-1 tvg-name="TV Okazje"tvg-id="TV OKAZJE"tvg-logo="http://fabryka.stream:8080/images/532e98d4746f65e900916bf78f97c775.png"group-title="fabryka 2 SZYBKA",TV Okazje
-http://fabryka.stream:8080/elaikrzysiu/357252884/155134
-#EXTINF:-1 tvg-name="TV Puls"tvg-id="tvpuls.pl"tvg-logo="http://fabryka.stream:8080/images/ddbf13685943f24041438d7653d09f87.png"group-title="fabryka 2 SZYBKA",TV Puls
-http://fabryka.stream:8080/elaikrzysiu/357252884/155070
-#EXTINF:-1 tvg-name="TV Puls HD"tvg-id="tvpuls.pl"tvg-logo="http://fabryka.stream:8080/images/ddbf13685943f24041438d7653d09f87.png"group-title="fabryka 2 SZYBKA",TV Puls HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105357
-#EXTINF:-1 tvg-name="TV Republika"tvg-id="TV Republika"tvg-logo="http://fabryka.stream/images/logo/tvrepublika.png"group-title="fabryka 2 SZYBKA",TV Republika
-http://fabryka.stream:8080/elaikrzysiu/357252884/105463
-#EXTINF:-1 tvg-name="TV Republika"tvg-id="TV Republika"tvg-logo="http://fabryka.stream/images/logo/Republika.png"group-title="fabryka 2 SZYBKA",TV Republika
-http://fabryka.stream:8080/elaikrzysiu/357252884/151854
-#EXTINF:-1 tvg-name="TV Republika"tvg-id="TV Republika"tvg-logo="http://fabryka.stream:8080/images/94eae56e2f4b89b9f142ca5044a5dbd4.png"group-title="fabryka 2 SZYBKA",TV Republika
-http://fabryka.stream:8080/elaikrzysiu/357252884/155139
-#EXTINF:-1 tvg-name="TV Republika"tvg-id="TV Republika"tvg-logo="http://fabryka.stream:8080/images/dc66be6dbe31fc465e5e466749f16090.png"group-title="fabryka 2 SZYBKA",TV Republika
-http://fabryka.stream:8080/elaikrzysiu/357252884/155148
-#EXTINF:-1 tvg-name="TV Trwam"tvg-id="TV TRWAM"tvg-logo="http://fabryka.stream/images/logo/tvtrwam.png"group-title="fabryka 2 SZYBKA",TV Trwam
-http://fabryka.stream:8080/elaikrzysiu/357252884/105461
-#EXTINF:-1 tvg-name="TV Trwam"tvg-id="TV TRWAM"tvg-logo="http://fabryka.stream:8080/images/68cac160461e39eab055592a7c795cd7.png"group-title="fabryka 2 SZYBKA",TV Trwam
-http://fabryka.stream:8080/elaikrzysiu/357252884/155137
-#EXTINF:-1 tvg-name="TV4"tvg-id="tv4.pl"tvg-logo="http://fabryka.stream:8080/images/f7c242d4f286ca40d1cc4c90d568a589.png"group-title="fabryka 2 SZYBKA",TV4
-http://fabryka.stream:8080/elaikrzysiu/357252884/155067
-#EXTINF:-1 tvg-name="TV4 HD"tvg-id="tv4.pl"tvg-logo="http://fabryka.stream/images/logo/TV%204%20HD.png"group-title="fabryka 2 SZYBKA",TV4 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105354
-#EXTINF:-1 tvg-name="TV6"tvg-id="tv6.pl"tvg-logo="http://fabryka.stream:8080/images/d6e25915237675f1e3453e78cffb08cc.png"group-title="fabryka 2 SZYBKA",TV6
-http://fabryka.stream:8080/elaikrzysiu/357252884/155068
-#EXTINF:-1 tvg-name="TV6 HD"tvg-id="tv6.pl"tvg-logo="http://fabryka.stream/images/logo/TV%206%20HD.png"group-title="fabryka 2 SZYBKA",TV6 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105355
-#EXTINF:-1 tvg-name="TVC Polska"tvg-id="tvc.pl"tvg-logo="http://telepro.com.pl/wp-content/uploads/2020/11/TVC-555x381.png"group-title="fabryka 2 SZYBKA",TVC Polska
-http://fabryka.stream:8080/elaikrzysiu/357252884/105445
-#EXTINF:-1 tvg-name="TVC Polska"tvg-id="tvc.pl"tvg-logo="http://fabryka.stream:8080/images/91ab8030e9246ebaec455b89869e7100.png"group-title="fabryka 2 SZYBKA",TVC Polska
-http://fabryka.stream:8080/elaikrzysiu/357252884/155117
-#EXTINF:-1 tvg-name="TVN"tvg-id="tvn.pl"tvg-logo="http://fabryka.stream:8080/images/2ea325ffb82521ee39ad2403eef6084a.png"group-title="fabryka 2 SZYBKA",TVN
-http://fabryka.stream:8080/elaikrzysiu/357252884/155065
-#EXTINF:-1 tvg-name="TVN 24"tvg-id="TVN 24"tvg-logo="http://fabryka.stream:8080/images/c8edd6c1af7704ad53a6977f10514fc1.png"group-title="fabryka 2 SZYBKA",TVN 24
-http://fabryka.stream:8080/elaikrzysiu/357252884/155144
-#EXTINF:-1 tvg-name="TVN 24 BiS"tvg-id="TVN 24 BiS"tvg-logo="http://fabryka.stream:8080/images/fb8deca40b62a5d8fa07055b8417b286.png"group-title="fabryka 2 SZYBKA",TVN 24 BiS
-http://fabryka.stream:8080/elaikrzysiu/357252884/155145
-#EXTINF:-1 tvg-name="TVN 24 BiS HD"tvg-id="TVN 24 BiS"tvg-logo="http://fabryka.stream/images/logo/tvn24biznesiswiat.png"group-title="fabryka 2 SZYBKA",TVN 24 BiS HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105468
-#EXTINF:-1 tvg-name="TVN 24 HD"tvg-id="TVN 24"tvg-logo="http://fabryka.stream/images/logo/tvn24hd.png"group-title="fabryka 2 SZYBKA",TVN 24 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105467
-#EXTINF:-1 tvg-name="TVN 7"tvg-id="tvn7.pl"tvg-logo="http://fabryka.stream:8080/images/97bd0a95cd7e9dc1a65069be3ccb129d.png"group-title="fabryka 2 SZYBKA",TVN 7
-http://fabryka.stream:8080/elaikrzysiu/357252884/155069
-#EXTINF:-1 tvg-name="TVN 7 HD"tvg-id="tvn7.pl"tvg-logo="http://fabryka.stream/images/logo/TVN%207%20HD.png"group-title="fabryka 2 SZYBKA",TVN 7 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105356
-#EXTINF:-1 tvg-name="TVN Fabula"tvg-id="tvnfabula.pl"tvg-logo="http://fabryka.stream:8080/images/5f50152ebfcd93d7a46a91cd52bd36ab.png"group-title="fabryka 2 SZYBKA",TVN Fabula
-http://fabryka.stream:8080/elaikrzysiu/357252884/155074
-#EXTINF:-1 tvg-name="TVN Fabula HD"tvg-id="tvnfabula.pl"tvg-logo="http://fabryka.stream/images/logo/tvnfabula.png"group-title="fabryka 2 SZYBKA",TVN Fabula HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105393
-#EXTINF:-1 tvg-name="TVN HD"tvg-id="tvn.pl"tvg-logo="http://fabryka.stream:8080/images/2ea325ffb82521ee39ad2403eef6084a.png"group-title="fabryka 2 SZYBKA",TVN HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105352
-#EXTINF:-1 tvg-name="TVN Style"tvg-id="tvnstyle.pl"tvg-logo="http://fabryka.stream:8080/images/b5c89f780ad65e11b0e5dcdfcf4a41d7.png"group-title="fabryka 2 SZYBKA",TVN Style
-http://fabryka.stream:8080/elaikrzysiu/357252884/155115
-#EXTINF:-1 tvg-name="TVN Style HD"tvg-id="tvnstyle.pl"tvg-logo="http://fabryka.stream/images/logo/tvnstylehd.png"group-title="fabryka 2 SZYBKA",TVN Style HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105441
-#EXTINF:-1 tvg-name="TVN Turbo"tvg-id="tvnturbo.pl"tvg-logo="http://fabryka.stream:8080/images/798614bf316bc72eafcf52b915ff1fc8.png"group-title="fabryka 2 SZYBKA",TVN Turbo
-http://fabryka.stream:8080/elaikrzysiu/357252884/155242
-#EXTINF:-1 tvg-name="TVN Turbo HD"tvg-id="tvnturbo.pl"tvg-logo="http://fabryka.stream/images/logo/tvnturbohd.png"group-title="fabryka 2 SZYBKA",TVN Turbo HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105442
-#EXTINF:-1 tvg-name="TVP"tvg-id="tvp.pl"tvg-logo="http://fabryka.stream:8080/images/4fc089dcef909e1f2b7c6ba23ed4d208.png"group-title="fabryka 2 SZYBKA",TVP
-http://fabryka.stream:8080/elaikrzysiu/357252884/155061
-#EXTINF:-1 tvg-name="TVP 1"tvg-id="tvp1.pl"tvg-logo="http://fabryka.stream:8080/images/b7589e99b86a35a25306948e458cc5ef.png"group-title="fabryka 2 SZYBKA",TVP 1
-http://fabryka.stream:8080/elaikrzysiu/357252884/155058
-#EXTINF:-1 tvg-name="TVP 1 HD"tvg-id="tvp1.pl"tvg-logo="http://fabryka.stream:8080/images/b7589e99b86a35a25306948e458cc5ef.png"group-title="fabryka 2 SZYBKA",TVP 1 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105345
-#EXTINF:-1 tvg-name="TVP 2"tvg-id="tvp2.pl"tvg-logo="http://fabryka.stream:8080/images/973d02b39d8460242cfe79887635c963.png"group-title="fabryka 2 SZYBKA",TVP 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155059
-#EXTINF:-1 tvg-name="TVP 2 HD"tvg-id="tvp2.pl"tvg-logo="http://fabryka.stream/images/logo/TVP%202%20HD.png"group-title="fabryka 2 SZYBKA",TVP 2 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105346
-#EXTINF:-1 tvg-name="TVP 3"tvg-id="tvp3.pl"tvg-logo="http://fabryka.stream/images/logo/TVP%203.png"group-title="fabryka 2 SZYBKA",TVP 3
-http://fabryka.stream:8080/elaikrzysiu/357252884/105347
-#EXTINF:-1 tvg-name="TVP 3"tvg-id="tvp3.pl"tvg-logo="http://fabryka.stream:8080/images/7e3420d2782f72c7b47bd3d4f4ba91de.png"group-title="fabryka 2 SZYBKA",TVP 3
-http://fabryka.stream:8080/elaikrzysiu/357252884/155060
-#EXTINF:-1 tvg-name="TVP 3 Bialystok"tvg-id="TVP 3 Białystok"tvg-logo="http://fabryka.stream/images/logo/TVP%20Bialystok.png"group-title="fabryka 2 SZYBKA",TVP 3 Bialystok
-http://fabryka.stream:8080/elaikrzysiu/357252884/105469
-#EXTINF:-1 tvg-name="TVP 3 Bialystok"tvg-id="TVP 3 Białystok"tvg-logo="http://fabryka.stream:8080/images/24967c8f1378625ce306d0a59176cd37.png"group-title="fabryka 2 SZYBKA",TVP 3 Bialystok
-http://fabryka.stream:8080/elaikrzysiu/357252884/155149
-#EXTINF:-1 tvg-name="TVP 3 Bydgoszcz"tvg-id="TVP 3 Bydgoszcz"tvg-logo="http://fabryka.stream/images/logo/TVP%20Bydgoszcz.png"group-title="fabryka 2 SZYBKA",TVP 3 Bydgoszcz
-http://fabryka.stream:8080/elaikrzysiu/357252884/105470
-#EXTINF:-1 tvg-name="TVP 3 Bydgoszcz"tvg-id="TVP 3 Bydgoszcz"tvg-logo="http://fabryka.stream:8080/images/3940c8f721cad607578160e58603d704.png"group-title="fabryka 2 SZYBKA",TVP 3 Bydgoszcz
-http://fabryka.stream:8080/elaikrzysiu/357252884/155150
-#EXTINF:-1 tvg-name="TVP 3 Gdansk"tvg-id="TVP 3 Gdańsk"tvg-logo="http://fabryka.stream/images/logo/TVP%20Gdansk.png"group-title="fabryka 2 SZYBKA",TVP 3 Gdansk
-http://fabryka.stream:8080/elaikrzysiu/357252884/105471
-#EXTINF:-1 tvg-name="TVP 3 Gdansk"tvg-id="TVP 3 Gdańsk"tvg-logo="http://fabryka.stream:8080/images/848018ab27917148a1189627c31d18b2.png"group-title="fabryka 2 SZYBKA",TVP 3 Gdansk
-http://fabryka.stream:8080/elaikrzysiu/357252884/155151
-#EXTINF:-1 tvg-name="TVP 3 Gorzów Wielkopolski"tvg-id="TVP 3 Gorzow Wielkopolski"tvg-logo="http://fabryka.stream/images/logo/TVP%20Gorzow%20Wielkopolski.png"group-title="fabryka 2 SZYBKA",TVP 3 Gorzów Wielkopolski
-http://fabryka.stream:8080/elaikrzysiu/357252884/105472
-#EXTINF:-1 tvg-name="TVP 3 Gorzów Wielkopolski"tvg-id="TVP 3 Gorzow Wielkopolski"tvg-logo="http://fabryka.stream:8080/images/c33c69627c0ec760ce99a8d9649bd92c.png"group-title="fabryka 2 SZYBKA",TVP 3 Gorzów Wielkopolski
-http://fabryka.stream:8080/elaikrzysiu/357252884/155152
-#EXTINF:-1 tvg-name="TVP 3 Katowice"tvg-id="TVP 3 Katowice"tvg-logo="http://fabryka.stream/images/logo/TVP%20Katowice.png"group-title="fabryka 2 SZYBKA",TVP 3 Katowice
-http://fabryka.stream:8080/elaikrzysiu/357252884/105473
-#EXTINF:-1 tvg-name="TVP 3 Katowice"tvg-id="TVP 3 Katowice"tvg-logo="http://fabryka.stream:8080/images/509f07e6c8deffd5ac7028fd942a9691.png"group-title="fabryka 2 SZYBKA",TVP 3 Katowice
-http://fabryka.stream:8080/elaikrzysiu/357252884/155153
-#EXTINF:-1 tvg-name="TVP 3 Kielce"tvg-id="TVP 3 Kielce"tvg-logo="http://fabryka.stream/images/logo/TVP%20Kielce.png"group-title="fabryka 2 SZYBKA",TVP 3 Kielce
-http://fabryka.stream:8080/elaikrzysiu/357252884/105474
-#EXTINF:-1 tvg-name="TVP 3 Kielce"tvg-id="TVP 3 Kielce"tvg-logo="http://fabryka.stream:8080/images/7fdc9ccbb162631a73b49a9d9e95199e.png"group-title="fabryka 2 SZYBKA",TVP 3 Kielce
-http://fabryka.stream:8080/elaikrzysiu/357252884/155154
-#EXTINF:-1 tvg-name="TVP 3 Kraków"tvg-id="TVP 3 Kraków"tvg-logo="http://fabryka.stream/images/logo/TVP%203%20Krakow.png"group-title="fabryka 2 SZYBKA",TVP 3 Kraków
-http://fabryka.stream:8080/elaikrzysiu/357252884/105475
-#EXTINF:-1 tvg-name="TVP 3 Kraków"tvg-id="TVP 3 Kraków"tvg-logo="http://fabryka.stream:8080/images/786d92d566093b3c6cbaed6018fac8c2.png"group-title="fabryka 2 SZYBKA",TVP 3 Kraków
-http://fabryka.stream:8080/elaikrzysiu/357252884/155155
-#EXTINF:-1 tvg-name="TVP 3 Lódz"tvg-id="TVP 3 Łódź"tvg-logo="http://fabryka.stream/images/logo/TVPLodz.png"group-title="fabryka 2 SZYBKA",TVP 3 Lódz
-http://fabryka.stream:8080/elaikrzysiu/357252884/105477
-#EXTINF:-1 tvg-name="TVP 3 Lódz"tvg-id="TVP 3 Łódź"tvg-logo="http://fabryka.stream:8080/images/28371773800701796ca7c7eb4f4cbdc3.png"group-title="fabryka 2 SZYBKA",TVP 3 Lódz
-http://fabryka.stream:8080/elaikrzysiu/357252884/155157
-#EXTINF:-1 tvg-name="TVP 3 Lublin"tvg-id="TVP 3 Lublin"tvg-logo="http://fabryka.stream/images/logo/TVP%203%20Lublin.png"group-title="fabryka 2 SZYBKA",TVP 3 Lublin
-http://fabryka.stream:8080/elaikrzysiu/357252884/105476
-#EXTINF:-1 tvg-name="TVP 3 Lublin"tvg-id="TVP 3 Lublin"tvg-logo="http://fabryka.stream:8080/images/69d1d74afc84a82d29354891ee372a13.png"group-title="fabryka 2 SZYBKA",TVP 3 Lublin
-http://fabryka.stream:8080/elaikrzysiu/357252884/155156
-#EXTINF:-1 tvg-name="TVP 3 Olsztyn"tvg-id="TVP 3 Olsztyn"tvg-logo="http://fabryka.stream/images/logo/TVP%20Olsztyn.png"group-title="fabryka 2 SZYBKA",TVP 3 Olsztyn
-http://fabryka.stream:8080/elaikrzysiu/357252884/105478
-#EXTINF:-1 tvg-name="TVP 3 Olsztyn"tvg-id="TVP 3 Olsztyn"tvg-logo="http://fabryka.stream:8080/images/bea9d7cea964f5cff8e550c6e76efeed.png"group-title="fabryka 2 SZYBKA",TVP 3 Olsztyn
-http://fabryka.stream:8080/elaikrzysiu/357252884/155158
-#EXTINF:-1 tvg-name="TVP 3 Opole"tvg-id="TVP 3 Opole"tvg-logo="http://fabryka.stream/images/logo/TVP%20Opole.png"group-title="fabryka 2 SZYBKA",TVP 3 Opole
-http://fabryka.stream:8080/elaikrzysiu/357252884/105479
-#EXTINF:-1 tvg-name="TVP 3 Opole"tvg-id="TVP 3 Opole"tvg-logo="http://fabryka.stream:8080/images/a6593704e1e8b5886252c1b4cab01338.png"group-title="fabryka 2 SZYBKA",TVP 3 Opole
-http://fabryka.stream:8080/elaikrzysiu/357252884/155159
-#EXTINF:-1 tvg-name="TVP 3 Poznan"tvg-id="TVP 3 Poznań"tvg-logo="http://fabryka.stream/images/logo/TVP%20Poznan.png"group-title="fabryka 2 SZYBKA",TVP 3 Poznan
-http://fabryka.stream:8080/elaikrzysiu/357252884/105480
-#EXTINF:-1 tvg-name="TVP 3 Poznan"tvg-id="TVP 3 Poznań"tvg-logo="http://fabryka.stream:8080/images/8ca19827193f9d1cbee71bda6fa9fade.png"group-title="fabryka 2 SZYBKA",TVP 3 Poznan
-http://fabryka.stream:8080/elaikrzysiu/357252884/155160
-#EXTINF:-1 tvg-name="TVP 3 Rzeszów"tvg-id="TVP 3 Rzeszow"tvg-logo="http://fabryka.stream/images/logo/TVP%20Rzeszow.png"group-title="fabryka 2 SZYBKA",TVP 3 Rzeszów
-http://fabryka.stream:8080/elaikrzysiu/357252884/105481
-#EXTINF:-1 tvg-name="TVP 3 Rzeszów"tvg-id="TVP 3 Rzeszow"tvg-logo="http://fabryka.stream:8080/images/b059c506dfb71fb80be7dc470d02b76d.png"group-title="fabryka 2 SZYBKA",TVP 3 Rzeszów
-http://fabryka.stream:8080/elaikrzysiu/357252884/155161
-#EXTINF:-1 tvg-name="TVP 3 Szczecin"tvg-id="TVP 3 Szczecin"tvg-logo="http://fabryka.stream/images/logo/TVP%20Szczecin.png"group-title="fabryka 2 SZYBKA",TVP 3 Szczecin
-http://fabryka.stream:8080/elaikrzysiu/357252884/105482
-#EXTINF:-1 tvg-name="TVP 3 Szczecin"tvg-id="TVP 3 Szczecin"tvg-logo="http://fabryka.stream:8080/images/e70985c035858f4e81452e8b0bfcfb97.png"group-title="fabryka 2 SZYBKA",TVP 3 Szczecin
-http://fabryka.stream:8080/elaikrzysiu/357252884/155162
-#EXTINF:-1 tvg-name="TVP 3 Warszawa"tvg-id="TVP 3 Warszawa"tvg-logo="http://fabryka.stream/images/logo/TVP%203%20Warszawa.png"group-title="fabryka 2 SZYBKA",TVP 3 Warszawa
-http://fabryka.stream:8080/elaikrzysiu/357252884/105483
-#EXTINF:-1 tvg-name="TVP 3 Warszawa"tvg-id="TVP 3 Warszawa"tvg-logo="http://fabryka.stream:8080/images/578ee244ac4bdf151d18338d425fbcf9.png"group-title="fabryka 2 SZYBKA",TVP 3 Warszawa
-http://fabryka.stream:8080/elaikrzysiu/357252884/155163
-#EXTINF:-1 tvg-name="TVP 3 Wroclaw"tvg-id="TVP 3 Wrocław"tvg-logo="http://fabryka.stream/images/logo/TVP%20Wroclaw.png"group-title="fabryka 2 SZYBKA",TVP 3 Wroclaw
-http://fabryka.stream:8080/elaikrzysiu/357252884/105484
-#EXTINF:-1 tvg-name="TVP 3 Wroclaw"tvg-id="TVP 3 Wrocław"tvg-logo="http://fabryka.stream:8080/images/3b3d3063602572e0e44e7ecc5041c486.png"group-title="fabryka 2 SZYBKA",TVP 3 Wroclaw
-http://fabryka.stream:8080/elaikrzysiu/357252884/155164
-#EXTINF:-1 tvg-name="TVP ABC"tvg-id="TVP ABC"tvg-logo="http://fabryka.stream/images/logo/tvpabc.png"group-title="fabryka 2 SZYBKA",TVP ABC
-http://fabryka.stream:8080/elaikrzysiu/357252884/105496
-#EXTINF:-1 tvg-name="TVP ABC"tvg-id="TVP ABC"tvg-logo="http://fabryka.stream:8080/images/33a91b1b7820e603e3544597680209ca.png"group-title="fabryka 2 SZYBKA",TVP ABC
-http://fabryka.stream:8080/elaikrzysiu/357252884/155176
-#EXTINF:-1 tvg-name="TVP ABC 2"tvg-id="TVP ABC 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TVP_ABC_2_-_Logo_od_15_lutego_2022_roku.png"group-title="fabryka 2 SZYBKA",TVP ABC 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155038
-#EXTINF:-1 tvg-name="TVP ABC 2"tvg-id="TVP ABC 2"tvg-logo="http://fabryka.stream:8080/images/43ef59c34bc219b46a8b27495edeaa31.png"group-title="fabryka 2 SZYBKA",TVP ABC 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155277
-#EXTINF:-1 tvg-name="TVP Dokument"tvg-id="tvpdokument.pl"tvg-logo="http://fabryka.stream:8080/images/fc3ea3367270e2cf8691e88311b66078.png"group-title="fabryka 2 SZYBKA",TVP Dokument
-http://fabryka.stream:8080/elaikrzysiu/357252884/155128
-#EXTINF:-1 tvg-name="TVP Dokument HD"tvg-id="tvpdokument.pl"tvg-logo="http://fabryka.stream:8080/images/fc3ea3367270e2cf8691e88311b66078.png"group-title="fabryka 2 SZYBKA",TVP Dokument HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/134087
-#EXTINF:-1 tvg-name="TVP HD"tvg-id="tvp.pl"tvg-logo="http://fabryka.stream/images/logo/TVP%20HD.png"group-title="fabryka 2 SZYBKA",TVP HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105348
-#EXTINF:-1 tvg-name="TVP Historia"tvg-id="TVP Historia"tvg-logo="http://fabryka.stream/images/logo/tvphistoria.png"group-title="fabryka 2 SZYBKA",TVP Historia
-http://fabryka.stream:8080/elaikrzysiu/357252884/105453
-#EXTINF:-1 tvg-name="TVP Historia"tvg-id="TVP Historia"tvg-logo="http://fabryka.stream:8080/images/5a0617c5cf6c0311694cc9ed67b443f8.png"group-title="fabryka 2 SZYBKA",TVP Historia
-http://fabryka.stream:8080/elaikrzysiu/357252884/155127
-#EXTINF:-1 tvg-name="TVP Historia 2"tvg-id="TVP Historia 2"tvg-logo="http://fabryka.stream:8080/images/c4fdeabe7e79c676a426dfe7c310aa86.jpg"group-title="fabryka 2 SZYBKA",TVP Historia 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155037
-#EXTINF:-1 tvg-name="TVP Historia 2"tvg-id="TVP Historia 2"tvg-logo="http://fabryka.stream:8080/images/c4fdeabe7e79c676a426dfe7c310aa86.jpg"group-title="fabryka 2 SZYBKA",TVP Historia 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/155276
-#EXTINF:-1 tvg-name="TVP INFO"tvg-id="TVP Info"tvg-logo="http://fabryka.stream:8080/images/a68da3b7c1a1694599c63812d3dd3df2.png"group-title="fabryka 2 SZYBKA",TVP INFO
-http://fabryka.stream:8080/elaikrzysiu/357252884/155138
-#EXTINF:-1 tvg-name="TVP INFO HD"tvg-id="TVP Info"tvg-logo="http://fabryka.stream/images/logo/tvpinfo.png"group-title="fabryka 2 SZYBKA",TVP INFO HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105462
-#EXTINF:-1 tvg-name="TVP Kobieta"tvg-id="TVP Kobieta"tvg-logo="http://fabryka.stream:8080/images/db32b90e6bf9bc16b244fa3e2910034e.png"group-title="fabryka 2 SZYBKA",TVP Kobieta
-http://fabryka.stream:8080/elaikrzysiu/357252884/155275
-#EXTINF:-1 tvg-name="TVP Kobieta HD"tvg-id="TVP Kobieta"tvg-logo="https://e-cho.pl/wp-content/uploads/2021/03/TVP-Kobieta-logo-300x147.png"group-title="fabryka 2 SZYBKA",TVP Kobieta HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/155036
-#EXTINF:-1 tvg-name="TVP Kultura"tvg-id="TVP Kultura"tvg-logo="http://fabryka.stream/images/logo/tvpkultura.png"group-title="fabryka 2 SZYBKA",TVP Kultura
-http://fabryka.stream:8080/elaikrzysiu/357252884/105451
-#EXTINF:-1 tvg-name="TVP Kultura"tvg-id="TVP Kultura"tvg-logo="http://fabryka.stream:8080/images/181a9af7e93094e61234a5dad2d10ae6.png"group-title="fabryka 2 SZYBKA",TVP Kultura
-http://fabryka.stream:8080/elaikrzysiu/357252884/155125
-#EXTINF:-1 tvg-name="TVP Nauka"tvg-id="TVP Nauka"tvg-logo="http://fabryka.stream:8080/images/1ab90f6803db1250be7a5ca62e6ca2ff.png"group-title="fabryka 2 SZYBKA",TVP Nauka
-http://fabryka.stream:8080/elaikrzysiu/357252884/155039
-#EXTINF:-1 tvg-name="TVP Nauka"tvg-id="TVP Nauka"tvg-logo="http://fabryka.stream:8080/images/1ab90f6803db1250be7a5ca62e6ca2ff.png"group-title="fabryka 2 SZYBKA",TVP Nauka
-http://fabryka.stream:8080/elaikrzysiu/357252884/155278
-#EXTINF:-1 tvg-name="TVP Polonia"tvg-id="TVP Polonia"tvg-logo="http://fabryka.stream/images/logo/tvppolonia.png"group-title="fabryka 2 SZYBKA",TVP Polonia
-http://fabryka.stream:8080/elaikrzysiu/357252884/105450
-#EXTINF:-1 tvg-name="TVP Polonia"tvg-id="TVP Polonia"tvg-logo="http://fabryka.stream:8080/images/72d433544420288f327043443b9cd8dc.png"group-title="fabryka 2 SZYBKA",TVP Polonia
-http://fabryka.stream:8080/elaikrzysiu/357252884/155124
-#EXTINF:-1 tvg-name="TVP Rozrywka"tvg-id="TVP Rozrywka"tvg-logo="http://fabryka.stream/images/logo/tvprozrywka.png"group-title="fabryka 2 SZYBKA",TVP Rozrywka
-http://fabryka.stream:8080/elaikrzysiu/357252884/105452
-#EXTINF:-1 tvg-name="TVP Rozrywka"tvg-id="TVP Rozrywka"tvg-logo="http://fabryka.stream:8080/images/face9183fec779dd3092a24e55083a1e.png"group-title="fabryka 2 SZYBKA",TVP Rozrywka
-http://fabryka.stream:8080/elaikrzysiu/357252884/155126
-#EXTINF:-1 tvg-name="TVP Seriale"tvg-id="tvpseriale.pl"tvg-logo="http://fabryka.stream/images/logo/tvpseriale.png"group-title="fabryka 2 SZYBKA",TVP Seriale
-http://fabryka.stream:8080/elaikrzysiu/357252884/105398
-#EXTINF:-1 tvg-name="TVP Seriale"tvg-id="tvpseriale.pl"tvg-logo="http://fabryka.stream:8080/images/4c1993ef3762fba502ff20578d5c7651.png"group-title="fabryka 2 SZYBKA",TVP Seriale
-http://fabryka.stream:8080/elaikrzysiu/357252884/155075
-#EXTINF:-1 tvg-name="TVP Sport"tvg-id="TVP Sport"tvg-logo="http://fabryka.stream:8080/images/fcf96423f74a741a0fa5f80e4f021f52.png"group-title="fabryka 2 SZYBKA",TVP Sport
-http://fabryka.stream:8080/elaikrzysiu/357252884/155273
-#EXTINF:-1 tvg-name="TVP Sport HD"tvg-id="TVP Sport"tvg-logo="http://fabryka.stream:8080/images/fcf96423f74a741a0fa5f80e4f021f52.png"group-title="fabryka 2 SZYBKA",TVP Sport HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/105548
-#EXTINF:-1 tvg-name="TVS"tvg-id="tvs.pl"tvg-logo="http://fabryka.stream/images/logo/tvs.png"group-title="fabryka 2 SZYBKA",TVS
-http://fabryka.stream:8080/elaikrzysiu/357252884/105444
-#EXTINF:-1 tvg-name="TVS"tvg-id="tvs.pl"tvg-logo="http://fabryka.stream:8080/images/f3d320408efc5ab66630b9ffc6c6cf2b.png"group-title="fabryka 2 SZYBKA",TVS
-http://fabryka.stream:8080/elaikrzysiu/357252884/155116
-#EXTINF:-1 tvg-name="TVT"tvg-id="TVT"tvg-logo="http://fabryka.stream/images/logo/TVT.png"group-title="fabryka 2 SZYBKA",TVT
-http://fabryka.stream:8080/elaikrzysiu/357252884/105519
-#EXTINF:-1 tvg-name="TVT"tvg-id="TVT"tvg-logo="http://fabryka.stream:8080/images/24cafe2947f1097300124599c0eb80f8.png"group-title="fabryka 2 SZYBKA",TVT
-http://fabryka.stream:8080/elaikrzysiu/357252884/155135
-#EXTINF:-1 tvg-name="UFC Fight Pass HD"tvg-id=""tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/577/592/logo_UFC__840941.png?width=240"group-title="fabryka 2 SZYBKA",UFC Fight Pass HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/152912
-#EXTINF:-1 tvg-name="Viaplay 1"tvg-id="plviaplay-1"tvg-logo="http://fabryka.stream/images/logo/via/viaplay1.png"group-title="fabryka 2 SZYBKA",Viaplay 1
-http://fabryka.stream:8080/elaikrzysiu/357252884/153307
-#EXTINF:-1 tvg-name="Viaplay 10"tvg-id="plviaplay-10"tvg-logo="http://fabryka.stream/images/logo/via/viaplay10.png"group-title="fabryka 2 SZYBKA",Viaplay 10
-http://fabryka.stream:8080/elaikrzysiu/357252884/153316
-#EXTINF:-1 tvg-name="Viaplay 11"tvg-id="plviaplay-11"tvg-logo="http://fabryka.stream/images/logo/via/viaplay11.png"group-title="fabryka 2 SZYBKA",Viaplay 11
-http://fabryka.stream:8080/elaikrzysiu/357252884/153317
-#EXTINF:-1 tvg-name="Viaplay 12"tvg-id="plviaplay-12"tvg-logo="http://fabryka.stream/images/logo/via/viaplay12.png"group-title="fabryka 2 SZYBKA",Viaplay 12
-http://fabryka.stream:8080/elaikrzysiu/357252884/153318
-#EXTINF:-1 tvg-name="Viaplay 13"tvg-id="plviaplay-13"tvg-logo="http://fabryka.stream/images/logo/via/viaplay13.png"group-title="fabryka 2 SZYBKA",Viaplay 13
-http://fabryka.stream:8080/elaikrzysiu/357252884/153319
-#EXTINF:-1 tvg-name="Viaplay 14"tvg-id="plviaplay-14"tvg-logo="http://fabryka.stream/images/logo/via/viaplay14.png"group-title="fabryka 2 SZYBKA",Viaplay 14
-http://fabryka.stream:8080/elaikrzysiu/357252884/153320
-#EXTINF:-1 tvg-name="Viaplay 15"tvg-id="plviaplay-15"tvg-logo="http://fabryka.stream/images/logo/via/viaplay15.png"group-title="fabryka 2 SZYBKA",Viaplay 15
-http://fabryka.stream:8080/elaikrzysiu/357252884/153321
-#EXTINF:-1 tvg-name="Viaplay 16"tvg-id="plviaplay-16"tvg-logo="http://fabryka.stream/images/logo/via/viaplay16.png"group-title="fabryka 2 SZYBKA",Viaplay 16
-http://fabryka.stream:8080/elaikrzysiu/357252884/153322
-#EXTINF:-1 tvg-name="Viaplay 17"tvg-id="plviaplay-17"tvg-logo="http://fabryka.stream/images/logo/via/viaplay17.png"group-title="fabryka 2 SZYBKA",Viaplay 17
-http://fabryka.stream:8080/elaikrzysiu/357252884/153323
-#EXTINF:-1 tvg-name="Viaplay 18"tvg-id="plviaplay-18"tvg-logo="http://fabryka.stream/images/logo/via/viaplay18.png"group-title="fabryka 2 SZYBKA",Viaplay 18
-http://fabryka.stream:8080/elaikrzysiu/357252884/153324
-#EXTINF:-1 tvg-name="Viaplay 19"tvg-id="plviaplay-19"tvg-logo="http://fabryka.stream/images/logo/via/viaplay19.png"group-title="fabryka 2 SZYBKA",Viaplay 19
-http://fabryka.stream:8080/elaikrzysiu/357252884/153325
-#EXTINF:-1 tvg-name="Viaplay 2"tvg-id="plviaplay-2"tvg-logo="http://fabryka.stream/images/logo/via/viaplay2.png"group-title="fabryka 2 SZYBKA",Viaplay 2
-http://fabryka.stream:8080/elaikrzysiu/357252884/153308
-#EXTINF:-1 tvg-name="Viaplay 20"tvg-id="plviaplay-20"tvg-logo="http://fabryka.stream/images/logo/via/viaplay20.png"group-title="fabryka 2 SZYBKA",Viaplay 20
-http://fabryka.stream:8080/elaikrzysiu/357252884/153326
-#EXTINF:-1 tvg-name="Viaplay 21"tvg-id="plviaplay-21"tvg-logo="http://fabryka.stream/images/logo/via/viaplay21.png"group-title="fabryka 2 SZYBKA",Viaplay 21
-http://fabryka.stream:8080/elaikrzysiu/357252884/153327
-#EXTINF:-1 tvg-name="Viaplay 22"tvg-id="plviaplay-22"tvg-logo="http://fabryka.stream/images/logo/via/viaplay22.png"group-title="fabryka 2 SZYBKA",Viaplay 22
-http://fabryka.stream:8080/elaikrzysiu/357252884/153328
-#EXTINF:-1 tvg-name="Viaplay 23"tvg-id="plviaplay-23"tvg-logo="http://fabryka.stream/images/logo/via/viaplay23.png"group-title="fabryka 2 SZYBKA",Viaplay 23
-http://fabryka.stream:8080/elaikrzysiu/357252884/153329
-#EXTINF:-1 tvg-name="Viaplay 24"tvg-id="plviaplay-24"tvg-logo="http://fabryka.stream/images/logo/via/viaplay24.png"group-title="fabryka 2 SZYBKA",Viaplay 24
-http://fabryka.stream:8080/elaikrzysiu/357252884/153330
-#EXTINF:-1 tvg-name="Viaplay 25"tvg-id="plviaplay-25"tvg-logo="http://fabryka.stream/images/logo/via/viaplay25.png"group-title="fabryka 2 SZYBKA",Viaplay 25
-http://fabryka.stream:8080/elaikrzysiu/357252884/153331
-#EXTINF:-1 tvg-name="Viaplay 26"tvg-id="plviaplay-26"tvg-logo="http://fabryka.stream/images/logo/via/viaplay26.png"group-title="fabryka 2 SZYBKA",Viaplay 26
-http://fabryka.stream:8080/elaikrzysiu/357252884/153332
-#EXTINF:-1 tvg-name="Viaplay 27"tvg-id="plviaplay-27"tvg-logo="http://fabryka.stream/images/logo/via/viaplay27.png"group-title="fabryka 2 SZYBKA",Viaplay 27
-http://fabryka.stream:8080/elaikrzysiu/357252884/153333
-#EXTINF:-1 tvg-name="Viaplay 28"tvg-id="plviaplay-28"tvg-logo="http://fabryka.stream/images/logo/via/viaplay28.png"group-title="fabryka 2 SZYBKA",Viaplay 28
-http://fabryka.stream:8080/elaikrzysiu/357252884/153334
-#EXTINF:-1 tvg-name="Viaplay 29"tvg-id="plviaplay-29"tvg-logo="http://fabryka.stream/images/logo/via/viaplay29.png"group-title="fabryka 2 SZYBKA",Viaplay 29
-http://fabryka.stream:8080/elaikrzysiu/357252884/153335
-#EXTINF:-1 tvg-name="Viaplay 3"tvg-id="plviaplay-3"tvg-logo="http://fabryka.stream/images/logo/via/viaplay3.png"group-title="fabryka 2 SZYBKA",Viaplay 3
-http://fabryka.stream:8080/elaikrzysiu/357252884/153309
-#EXTINF:-1 tvg-name="Viaplay 30"tvg-id="plviaplay-30"tvg-logo="http://fabryka.stream/images/logo/via/viaplay30.png"group-title="fabryka 2 SZYBKA",Viaplay 30
-http://fabryka.stream:8080/elaikrzysiu/357252884/153336
-#EXTINF:-1 tvg-name="Viaplay 31"tvg-id="plviaplay-31"tvg-logo="http://fabryka.stream/images/logo/via/viaplay31.png"group-title="fabryka 2 SZYBKA",Viaplay 31
-http://fabryka.stream:8080/elaikrzysiu/357252884/153337
-#EXTINF:-1 tvg-name="Viaplay 32"tvg-id="plviaplay-32"tvg-logo="http://fabryka.stream/images/logo/via/viaplay32.png"group-title="fabryka 2 SZYBKA",Viaplay 32
-http://fabryka.stream:8080/elaikrzysiu/357252884/153338
-#EXTINF:-1 tvg-name="Viaplay 33"tvg-id="plviaplay-33"tvg-logo="http://fabryka.stream/images/logo/via/viaplay33.png"group-title="fabryka 2 SZYBKA",Viaplay 33
-http://fabryka.stream:8080/elaikrzysiu/357252884/153339
-#EXTINF:-1 tvg-name="Viaplay 34"tvg-id="plviaplay-34"tvg-logo="http://fabryka.stream/images/logo/via/viaplay34.png"group-title="fabryka 2 SZYBKA",Viaplay 34
-http://fabryka.stream:8080/elaikrzysiu/357252884/153340
-#EXTINF:-1 tvg-name="Viaplay 35"tvg-id="plviaplay-35"tvg-logo="http://fabryka.stream/images/logo/via/viaplay35.png"group-title="fabryka 2 SZYBKA",Viaplay 35
-http://fabryka.stream:8080/elaikrzysiu/357252884/153341
-#EXTINF:-1 tvg-name="Viaplay 36"tvg-id="plviaplay-36"tvg-logo="http://fabryka.stream/images/logo/via/viaplay36.png"group-title="fabryka 2 SZYBKA",Viaplay 36
-http://fabryka.stream:8080/elaikrzysiu/357252884/153342
-#EXTINF:-1 tvg-name="Viaplay 37"tvg-id="plviaplay-37"tvg-logo="http://fabryka.stream/images/logo/via/viaplay37.png"group-title="fabryka 2 SZYBKA",Viaplay 37
-http://fabryka.stream:8080/elaikrzysiu/357252884/153343
-#EXTINF:-1 tvg-name="Viaplay 38"tvg-id="plviaplay-38"tvg-logo="http://fabryka.stream/images/logo/via/viaplay38.png"group-title="fabryka 2 SZYBKA",Viaplay 38
-http://fabryka.stream:8080/elaikrzysiu/357252884/153344
-#EXTINF:-1 tvg-name="Viaplay 39"tvg-id="plviaplay-39"tvg-logo="http://fabryka.stream/images/logo/via/viaplay39.png"group-title="fabryka 2 SZYBKA",Viaplay 39
-http://fabryka.stream:8080/elaikrzysiu/357252884/153345
-#EXTINF:-1 tvg-name="Viaplay 4"tvg-id="plviaplay-4"tvg-logo="http://fabryka.stream/images/logo/via/viaplay4.png"group-title="fabryka 2 SZYBKA",Viaplay 4
-http://fabryka.stream:8080/elaikrzysiu/357252884/153310
-#EXTINF:-1 tvg-name="Viaplay 40"tvg-id="plviaplay-40"tvg-logo="http://fabryka.stream/images/logo/via/viaplay40.png"group-title="fabryka 2 SZYBKA",Viaplay 40
-http://fabryka.stream:8080/elaikrzysiu/357252884/153346
-#EXTINF:-1 tvg-name="Viaplay 41"tvg-id="plviaplay-41"tvg-logo="http://fabryka.stream/images/logo/via/viaplay41.png"group-title="fabryka 2 SZYBKA",Viaplay 41
-http://fabryka.stream:8080/elaikrzysiu/357252884/153347
-#EXTINF:-1 tvg-name="Viaplay 42"tvg-id="plviaplay-42"tvg-logo="http://fabryka.stream/images/logo/via/viaplay42.png"group-title="fabryka 2 SZYBKA",Viaplay 42
-http://fabryka.stream:8080/elaikrzysiu/357252884/153348
-#EXTINF:-1 tvg-name="Viaplay 43"tvg-id="plviaplay-43"tvg-logo="http://fabryka.stream/images/logo/via/viaplay43.png"group-title="fabryka 2 SZYBKA",Viaplay 43
-http://fabryka.stream:8080/elaikrzysiu/357252884/153349
-#EXTINF:-1 tvg-name="Viaplay 44"tvg-id="plviaplay-44"tvg-logo="http://fabryka.stream/images/logo/via/viaplay44.png"group-title="fabryka 2 SZYBKA",Viaplay 44
-http://fabryka.stream:8080/elaikrzysiu/357252884/153350
-#EXTINF:-1 tvg-name="Viaplay 45"tvg-id="plviaplay-45"tvg-logo="http://fabryka.stream/images/logo/via/viaplay45.png"group-title="fabryka 2 SZYBKA",Viaplay 45
-http://fabryka.stream:8080/elaikrzysiu/357252884/153351
-#EXTINF:-1 tvg-name="Viaplay 46"tvg-id="plviaplay-46"tvg-logo="http://fabryka.stream/images/logo/via/viaplay46.png"group-title="fabryka 2 SZYBKA",Viaplay 46
-http://fabryka.stream:8080/elaikrzysiu/357252884/153352
-#EXTINF:-1 tvg-name="Viaplay 47"tvg-id="plviaplay-47"tvg-logo="http://fabryka.stream/images/logo/via/viaplay47.png"group-title="fabryka 2 SZYBKA",Viaplay 47
-http://fabryka.stream:8080/elaikrzysiu/357252884/153353
-#EXTINF:-1 tvg-name="Viaplay 48"tvg-id="plviaplay-48"tvg-logo="http://fabryka.stream/images/logo/via/viaplay48.png"group-title="fabryka 2 SZYBKA",Viaplay 48
-http://fabryka.stream:8080/elaikrzysiu/357252884/153354
-#EXTINF:-1 tvg-name="Viaplay 49"tvg-id="plviaplay-49"tvg-logo="http://fabryka.stream/images/logo/via/viaplay49.png"group-title="fabryka 2 SZYBKA",Viaplay 49
-http://fabryka.stream:8080/elaikrzysiu/357252884/153355
-#EXTINF:-1 tvg-name="Viaplay 5"tvg-id="plviaplay-5"tvg-logo="http://fabryka.stream/images/logo/via/viaplay5.png"group-title="fabryka 2 SZYBKA",Viaplay 5
-http://fabryka.stream:8080/elaikrzysiu/357252884/153311
-#EXTINF:-1 tvg-name="Viaplay 50"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay50.png"group-title="fabryka 2 SZYBKA",Viaplay 50
-http://fabryka.stream:8080/elaikrzysiu/357252884/153356
-#EXTINF:-1 tvg-name="Viaplay 51"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay51.png"group-title="fabryka 2 SZYBKA",Viaplay 51
-http://fabryka.stream:8080/elaikrzysiu/357252884/153357
-#EXTINF:-1 tvg-name="Viaplay 52"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay52.png"group-title="fabryka 2 SZYBKA",Viaplay 52
-http://fabryka.stream:8080/elaikrzysiu/357252884/153358
-#EXTINF:-1 tvg-name="Viaplay 53"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay53.png"group-title="fabryka 2 SZYBKA",Viaplay 53
-http://fabryka.stream:8080/elaikrzysiu/357252884/153359
-#EXTINF:-1 tvg-name="Viaplay 54"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay54.png"group-title="fabryka 2 SZYBKA",Viaplay 54
-http://fabryka.stream:8080/elaikrzysiu/357252884/153360
-#EXTINF:-1 tvg-name="Viaplay 55"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay55.png"group-title="fabryka 2 SZYBKA",Viaplay 55
-http://fabryka.stream:8080/elaikrzysiu/357252884/153361
-#EXTINF:-1 tvg-name="Viaplay 56"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay56.png"group-title="fabryka 2 SZYBKA",Viaplay 56
-http://fabryka.stream:8080/elaikrzysiu/357252884/153362
-#EXTINF:-1 tvg-name="Viaplay 57"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay57.png"group-title="fabryka 2 SZYBKA",Viaplay 57
-http://fabryka.stream:8080/elaikrzysiu/357252884/153363
-#EXTINF:-1 tvg-name="Viaplay 58"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay58.png"group-title="fabryka 2 SZYBKA",Viaplay 58
-http://fabryka.stream:8080/elaikrzysiu/357252884/153364
-#EXTINF:-1 tvg-name="Viaplay 59"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay59.png"group-title="fabryka 2 SZYBKA",Viaplay 59
-http://fabryka.stream:8080/elaikrzysiu/357252884/153365
-#EXTINF:-1 tvg-name="Viaplay 6"tvg-id="plviaplay-6"tvg-logo="http://fabryka.stream/images/logo/via/viaplay6.png"group-title="fabryka 2 SZYBKA",Viaplay 6
-http://fabryka.stream:8080/elaikrzysiu/357252884/153312
-#EXTINF:-1 tvg-name="Viaplay 60"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay60.png"group-title="fabryka 2 SZYBKA",Viaplay 60
-http://fabryka.stream:8080/elaikrzysiu/357252884/153366
-#EXTINF:-1 tvg-name="Viaplay 61"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay61.png"group-title="fabryka 2 SZYBKA",Viaplay 61
-http://fabryka.stream:8080/elaikrzysiu/357252884/153367
-#EXTINF:-1 tvg-name="Viaplay 62"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay62.png"group-title="fabryka 2 SZYBKA",Viaplay 62
-http://fabryka.stream:8080/elaikrzysiu/357252884/153368
-#EXTINF:-1 tvg-name="Viaplay 63"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay63.png"group-title="fabryka 2 SZYBKA",Viaplay 63
-http://fabryka.stream:8080/elaikrzysiu/357252884/153369
-#EXTINF:-1 tvg-name="Viaplay 64"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay64.png"group-title="fabryka 2 SZYBKA",Viaplay 64
-http://fabryka.stream:8080/elaikrzysiu/357252884/153370
-#EXTINF:-1 tvg-name="Viaplay 65"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay65.png"group-title="fabryka 2 SZYBKA",Viaplay 65
-http://fabryka.stream:8080/elaikrzysiu/357252884/153371
-#EXTINF:-1 tvg-name="Viaplay 66"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay66.png"group-title="fabryka 2 SZYBKA",Viaplay 66
-http://fabryka.stream:8080/elaikrzysiu/357252884/153372
-#EXTINF:-1 tvg-name="Viaplay 67"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay67.png"group-title="fabryka 2 SZYBKA",Viaplay 67
-http://fabryka.stream:8080/elaikrzysiu/357252884/153373
-#EXTINF:-1 tvg-name="Viaplay 68"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay68.png"group-title="fabryka 2 SZYBKA",Viaplay 68
-http://fabryka.stream:8080/elaikrzysiu/357252884/153374
-#EXTINF:-1 tvg-name="Viaplay 69"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay69.png"group-title="fabryka 2 SZYBKA",Viaplay 69
-http://fabryka.stream:8080/elaikrzysiu/357252884/153375
-#EXTINF:-1 tvg-name="Viaplay 7"tvg-id="plviaplay-7"tvg-logo="http://fabryka.stream/images/logo/via/viaplay7.png"group-title="fabryka 2 SZYBKA",Viaplay 7
-http://fabryka.stream:8080/elaikrzysiu/357252884/153313
-#EXTINF:-1 tvg-name="Viaplay 70"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay70.png"group-title="fabryka 2 SZYBKA",Viaplay 70
-http://fabryka.stream:8080/elaikrzysiu/357252884/153376
-#EXTINF:-1 tvg-name="Viaplay 71"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay71.png"group-title="fabryka 2 SZYBKA",Viaplay 71
-http://fabryka.stream:8080/elaikrzysiu/357252884/153377
-#EXTINF:-1 tvg-name="Viaplay 72"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay72.png"group-title="fabryka 2 SZYBKA",Viaplay 72
-http://fabryka.stream:8080/elaikrzysiu/357252884/153378
-#EXTINF:-1 tvg-name="Viaplay 73"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay73.png"group-title="fabryka 2 SZYBKA",Viaplay 73
-http://fabryka.stream:8080/elaikrzysiu/357252884/153379
-#EXTINF:-1 tvg-name="Viaplay 74"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay74.png"group-title="fabryka 2 SZYBKA",Viaplay 74
-http://fabryka.stream:8080/elaikrzysiu/357252884/153380
-#EXTINF:-1 tvg-name="Viaplay 75"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay75.png"group-title="fabryka 2 SZYBKA",Viaplay 75
-http://fabryka.stream:8080/elaikrzysiu/357252884/153381
-#EXTINF:-1 tvg-name="Viaplay 76"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay76.png"group-title="fabryka 2 SZYBKA",Viaplay 76
-http://fabryka.stream:8080/elaikrzysiu/357252884/153382
-#EXTINF:-1 tvg-name="Viaplay 77"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay77.png"group-title="fabryka 2 SZYBKA",Viaplay 77
-http://fabryka.stream:8080/elaikrzysiu/357252884/153383
-#EXTINF:-1 tvg-name="Viaplay 78"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay78.png"group-title="fabryka 2 SZYBKA",Viaplay 78
-http://fabryka.stream:8080/elaikrzysiu/357252884/153384
-#EXTINF:-1 tvg-name="Viaplay 79"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay79.png"group-title="fabryka 2 SZYBKA",Viaplay 79
-http://fabryka.stream:8080/elaikrzysiu/357252884/153385
-#EXTINF:-1 tvg-name="Viaplay 8"tvg-id="plviaplay-8"tvg-logo="http://fabryka.stream/images/logo/via/viaplay8.png"group-title="fabryka 2 SZYBKA",Viaplay 8
-http://fabryka.stream:8080/elaikrzysiu/357252884/153314
-#EXTINF:-1 tvg-name="Viaplay 80"tvg-id=""tvg-logo="http://fabryka.stream/images/logo/via/viaplay80.png"group-title="fabryka 2 SZYBKA",Viaplay 80
-http://fabryka.stream:8080/elaikrzysiu/357252884/153386
-#EXTINF:-1 tvg-name="Viaplay 9"tvg-id="plviaplay-9"tvg-logo="http://fabryka.stream/images/logo/via/viaplay9.png"group-title="fabryka 2 SZYBKA",Viaplay 9
-http://fabryka.stream:8080/elaikrzysiu/357252884/153315
-#EXTINF:-1 tvg-name="VOD 205"tvg-id="VOD 205"tvg-logo="http://fabryka.stream/images/logo/VOD%205.png"group-title="fabryka 2 SZYBKA",VOD 205
-http://fabryka.stream:8080/elaikrzysiu/357252884/105549
-#EXTINF:-1 tvg-name="VOD 205"tvg-id="VOD 205"tvg-logo="http://fabryka.stream:8080/images/8dab00c65c085996dc9822f9c67bf98e.png"group-title="fabryka 2 SZYBKA",VOD 205
-http://fabryka.stream:8080/elaikrzysiu/357252884/155236
-#EXTINF:-1 tvg-name="VOD 206"tvg-id="VOD 206"tvg-logo="http://fabryka.stream/images/logo/VOD%206.png"group-title="fabryka 2 SZYBKA",VOD 206
-http://fabryka.stream:8080/elaikrzysiu/357252884/105550
-#EXTINF:-1 tvg-name="VOD 206"tvg-id="VOD 206"tvg-logo="http://fabryka.stream:8080/images/2a4fcc1f76437940805d940b1051850a.png"group-title="fabryka 2 SZYBKA",VOD 206
-http://fabryka.stream:8080/elaikrzysiu/357252884/155237
-#EXTINF:-1 tvg-name="VOD 207"tvg-id="VOD 207"tvg-logo="http://fabryka.stream/images/logo/VOD%207.png"group-title="fabryka 2 SZYBKA",VOD 207
-http://fabryka.stream:8080/elaikrzysiu/357252884/105551
-#EXTINF:-1 tvg-name="VOD 207"tvg-id="VOD 207"tvg-logo="http://fabryka.stream:8080/images/622a3ebe7a501ccba5c2e441c00afda1.png"group-title="fabryka 2 SZYBKA",VOD 207
-http://fabryka.stream:8080/elaikrzysiu/357252884/155238
-#EXTINF:-1 tvg-name="VOD 208"tvg-id="VOD 208"tvg-logo="http://fabryka.stream/images/logo/VOD%208.png"group-title="fabryka 2 SZYBKA",VOD 208
-http://fabryka.stream:8080/elaikrzysiu/357252884/105552
-#EXTINF:-1 tvg-name="VOD 208"tvg-id="VOD 208"tvg-logo="http://fabryka.stream:8080/images/ffdc01c04a71293a899a04f976c39c55.png"group-title="fabryka 2 SZYBKA",VOD 208
-http://fabryka.stream:8080/elaikrzysiu/357252884/155239
-#EXTINF:-1 tvg-name="VOX Music TV"tvg-id="Vox Music TV"tvg-logo="http://fabryka.stream/images/logo/voxmusictv.png"group-title="fabryka 2 SZYBKA",VOX Music TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/105518
-#EXTINF:-1 tvg-name="VOX Music TV"tvg-id="Vox Music TV"tvg-logo="http://fabryka.stream:8080/images/25a5cf51cee7a3f28d27051bf288c0d7.png"group-title="fabryka 2 SZYBKA",VOX Music TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155200
-#EXTINF:-1 tvg-name="Warner TV"tvg-id="Warner TV"tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_WarnerTV_422x278.png"group-title="fabryka 2 SZYBKA",Warner TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155028
-#EXTINF:-1 tvg-name="Warner TV"tvg-id="Warner TV"tvg-logo="http://fabryka.stream:8080/images/746dcc7286cbc7cf15fb27c40a71f49e.png"group-title="fabryka 2 SZYBKA",Warner TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155274
-#EXTINF:-1 tvg-name="Water Planet"tvg-id="waterplanet.pl"tvg-logo="http://fabryka.stream/images/logo/waterplanet.png"group-title="fabryka 2 SZYBKA",Water Planet
-http://fabryka.stream:8080/elaikrzysiu/357252884/105427
-#EXTINF:-1 tvg-name="Water Planet"tvg-id="waterplanet.pl"tvg-logo="http://fabryka.stream:8080/images/6e9578c45f68bfcea31cf646fbdc30dd.png"group-title="fabryka 2 SZYBKA",Water Planet
-http://fabryka.stream:8080/elaikrzysiu/357252884/155102
-#EXTINF:-1 tvg-name="WP"tvg-id="WP"tvg-logo="http://fabryka.stream/images/logo/wp1.png"group-title="fabryka 2 SZYBKA",WP
-http://fabryka.stream:8080/elaikrzysiu/357252884/105460
-#EXTINF:-1 tvg-name="WP"tvg-id="WP"tvg-logo="http://fabryka.stream:8080/images/896ad8ff2a664823aa3d3c44653cea45.png"group-title="fabryka 2 SZYBKA",WP
-http://fabryka.stream:8080/elaikrzysiu/357252884/155136
-#EXTINF:-1 tvg-name="wPolsce.pl"tvg-id="wPolsce.pl"tvg-logo="http://fabryka.stream/images/logo/wPolsce.pl.png"group-title="fabryka 2 SZYBKA",wPolsce.pl
-http://fabryka.stream:8080/elaikrzysiu/357252884/105464
-#EXTINF:-1 tvg-name="wPolsce.pl"tvg-id="wPolsce.pl"tvg-logo="http://fabryka.stream:8080/images/dafb5a30c06d6cc4feb9ffd9750b0139.png"group-title="fabryka 2 SZYBKA",wPolsce.pl
-http://fabryka.stream:8080/elaikrzysiu/357252884/155140
-#EXTINF:-1 tvg-name="WWE"tvg-id=""tvg-logo="https://www.freepnglogos.com/uploads/wwe-network-logo-0.png"group-title="fabryka 2 SZYBKA",WWE
-http://fabryka.stream:8080/elaikrzysiu/357252884/152822
-#EXTINF:-1 tvg-name="Wydarzenia 24"tvg-id="Wydarzenia 24"tvg-logo="http://fabryka.stream:8080/images/f9e7859024d3f269a3295e461ee99b81.png"group-title="fabryka 2 SZYBKA",Wydarzenia 24
-http://fabryka.stream:8080/elaikrzysiu/357252884/155147
-#EXTINF:-1 tvg-name="Wydarzenia 24 HD"tvg-id="Wydarzenia 24"tvg-logo="http://fabryka.stream:8080/images/f9e7859024d3f269a3295e461ee99b81.png"group-title="fabryka 2 SZYBKA",Wydarzenia 24 HD
-http://fabryka.stream:8080/elaikrzysiu/357252884/151853
-#EXTINF:-1 tvg-name="Xtreme TV"tvg-id="Xtreme TV"tvg-logo=""group-title="fabryka 2 SZYBKA",Xtreme TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155040
-#EXTINF:-1 tvg-name="Xtreme TV"tvg-id="Xtreme TV"tvg-logo=""group-title="fabryka 2 SZYBKA",Xtreme TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155279
-#EXTINF:-1 tvg-name="Zoom TV"tvg-id="ZOOM TV"tvg-logo="http://fabryka.stream/images/logo/zoomtv.png"group-title="fabryka 2 SZYBKA",Zoom TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/105458
-#EXTINF:-1 tvg-name="Zoom TV"tvg-id="ZOOM TV"tvg-logo="http://fabryka.stream:8080/images/48a1ac8e84baeb038da08816181835f7.png"group-title="fabryka 2 SZYBKA",Zoom TV
-http://fabryka.stream:8080/elaikrzysiu/357252884/155133
 #EXTINF:-1 tvg-name="13 ULICA FHD"tvg-id="13ulica.pl"tvg-logo=""group-title="crazytvvip 1 HEVC+SZYBKA",13 ULICA FHD
 http://crazytvvip.xyz:8080/Erhan111/7678/307658
 #EXTINF:-1 tvg-name="13 ULICA HEVC"tvg-id="13ulica.pl"tvg-logo=""group-title="crazytvvip 1 HEVC+SZYBKA",13 ULICA HEVC
@@ -2391,3 +1321,591 @@ http://crazytvvip.xyz:8080/Erhan111/7678/16546
 http://crazytvvip.xyz:8080/Erhan111/7678/16529
 #EXTINF:-1 tvg-name="ZOOM TV"tvg-id="zoomtv.pl"tvg-logo="https://tvlogo.nl/files/ch/POLONYA/zoom-tv-min.png"group-title="crazytvvip 1 HEVC+SZYBKA",ZOOM TV
 http://crazytvvip.xyz:8080/Erhan111/7678/16528
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjSSJpjzPjX1UmGOvFl2Nds_9dRk6XEqhcAMzZlXjmEq710c447LEVge0uUii1WlGlF_C9SxQLiu9mJqF3Ned9nA.png"group-title="✦PL › POLAND™",TVP Info
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84370
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ni5gShzKQuSxMO7HLTIcZnm635QA-tDZb3FGXZdwLM5P.PNG"group-title="✦PL › POLAND™",TVP INFO HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3913
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nnBNV65u2hcJRW6rh-eJ7oFx6IEOJ16n0hGhOXNmCJzj.png"group-title="✦PL › POLAND™",TVP HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3911
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nk5EnUnv4CHooHoVKGVL3D1N1w8Jryu_YdSz55G2J2qK.png"group-title="✦PL › POLAND™",TVP 1 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3893
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04njdnmA7UAR3Oe44DH0gPJt-5v_-Nb5jNcLZLOx7sPz3b.png"group-title="✦PL › POLAND™",TVP 2 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3894
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nsB0wHowIMQEAIoHL4lhYzf5A3-gq2pRjP9M7150LqKy.png"group-title="✦PL › POLAND™",TVP 3
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3895
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nowMqMHlFJM5BQs0WyJSARnYq4SoXSdcqYTydGpus0Hf.png"group-title="✦PL › POLAND™",TVP Polonia
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3896
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nuMFEyxofXab3clOkyL0gPFAZAsUOa2pbFbuXYgorPSN.png"group-title="✦PL › POLAND™",TVP ABC
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3910
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ns28E5Okpypkdposf29XWD-rTt7NDhbyCAQq7dLb2m8j.png"group-title="✦PL › POLAND™",TVP Rozrywka
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3915
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/-rBG6QJMtpNLQpsGdlPNtA6phzgur2iVVHnQRYIgzSfBFqRllSI5JZR-7fLS4qd0z-aZeA3w-f5ASfZAg1jmvENoS1m5pthOc-NztUuCe0qQN3aYAAsbF9wnqjKBITeyQ94zZ7_Pby45YKKNYFUUCUhltWPpoNq4HT0VO-jSo2U.png"group-title="✦PL › POLAND™",TVP DOKUMENT  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/280101
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/UzbinYOBtSgLn1oF4CJ3ZYPDExnmbnrxEuKP53xvEE4.jpg"group-title="✦PL › POLAND™",Polonia 1
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3897
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhZbgQKd8hByi5uCAUmbKIyIeEZPv_3YYN64KV7p_0O1.png"group-title="✦PL › POLAND™",Polsat HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4015
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhZbgQKd8hByi5uCAUmbKIwvuGeyvzURqgsBxCyf9qyY.png"group-title="✦PL › POLAND™",Polsat News HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/275446
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhZbgQKd8hByi5uCAUmbKIwvuGeyvzURqgsBxCyf9qyY.png"group-title="✦PL › POLAND™",Polsat News 2
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/275445
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhZbgQKd8hByi5uCAUmbKIzKHRMWaHbw8VxRjeV6WtxE.png"group-title="✦PL › POLAND™",Polsat Doku HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4012
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhZbgQKd8hByi5uCAUmbKIzkQFKNQU45HTj72V7KjUCt.png"group-title="✦PL › POLAND™",Polsat Games
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4014
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhZbgQKd8hByi5uCAUmbKIx4Ki9OfHgB_RkUOlgrUliB.png"group-title="✦PL › POLAND™",Polsat Jim Jam
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4016
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhZbgQKd8hByi5uCAUmbKIycScMiCq5DE0opohljFhEn.png"group-title="✦PL › POLAND™",Polsat Music HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4017
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhZbgQKd8hByi5uCAUmbKIwpfIoQm1dt4_9s0N_hMmoV.png"group-title="✦PL › POLAND™",Polsat Rodzina
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4021
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nlEZ0LwihNSFTb7m4aIxUA4XTthO2QjRZIAZeuIV3vz8.png"group-title="✦PL › POLAND™",TTV HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3898
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04noNc6xCSHlFzulD7BGR2e-T3t125VkOsUyyUqyKpzDab.png"group-title="✦PL › POLAND™",TV Republika
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3901
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04np-wNIchpbXLXlJksVPEHUV3e54w8HPQ_qmJGuzeHWLP.png"group-title="✦PL › POLAND™",TV4 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279830
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04np-wNIchpbXLXlJksVPEHUV3e54w8HPQ_qmJGuzeHWLP.png"group-title="✦PL › POLAND™",TV4 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279864
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ni7X_MbF2yPNWHVer9CoyKb9eDCdT35VZxS1ssd4ZW9j.png"group-title="✦PL › POLAND™",TV6
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3903
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nnz95St3B67pC8kwhRaz96gB_vZSIZ51f0b7pcfnZr_4.png"group-title="✦PL › POLAND™",TVN 7 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3905
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhYzSj9UThn86PaaHIhalyfzjiYngpY-4MmQ08KkdNjn.png"group-title="✦PL › POLAND™",TVN 24 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3904
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bd/TVN_24_BiS_%282016-.n.v.%29.png/revision/latest?cb=20180330163919"group-title="✦PL › POLAND™",TVN24 BIS HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279881
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nrRgLb8BDWL65_pdOM-NzNzDL7rFaqbXpftN7jrCiJRo.png"group-title="✦PL › POLAND™",TVN Fabula
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3906
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nrQq_G2gZ3fIDN3dE0mJbGgriP1rxFpqfUtEtYFswxs-.PNG"group-title="✦PL › POLAND™",TVN HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3907
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nmpLxnDfQFRfz4JJEvfq1azDnhAtClMLPpXXijbtm_df.png"group-title="✦PL › POLAND™",TVN Style HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3908
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nqngdQTLZunjzaI-98zWhXBLncXzM1YY7cP_R8FOyg3Y.png"group-title="✦PL › POLAND™",TVN Turbo HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3909
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ntNWovB9lxnkJY6AfaVoue4H4kgalTG53LUfkjMVKHWK.png"group-title="✦PL › POLAND™",CANAL  DOKUMENT HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3935
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nnC7PfAJ6LeqDO5YYHBk3HyrwajpzaE_WdtPrXOTXmsu.png"group-title="✦PL › POLAND™",CI Polsat HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3948
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ng6V9Yvij2aaItTmJYubQj4cgyJb3HevFCyGCkq66TBN.png"group-title="✦PL › POLAND™",DISCOVERY TURBO EXTRA FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3961
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nrvW9jAkdY19Kaj1MtpoHX8knBWLdDEvlPjJ2k-6_GpN.png"group-title="✦PL › POLAND™",Eska TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3968
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ni61Olz86gn6p94Czpaf5sEJ6CAE0s9Hyrm2yH3N9k9v.png"group-title="✦PL › POLAND™",TLC HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4044
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04noINrH6uvNDg2owVH4vT0iTwPXZVeMi5JHIobss72Axi.png"group-title="✦PL › POLAND™",WP
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4049
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nuDwgPHUxoW9hR2sFUVhCXK2PcYXCMeqg5PXubQukZDr.PNG"group-title="✦PL › POLAND™",wPolsce.pl
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4050
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCKaa_R4gP_ePMBRpy4nn_5vXixyjl0aXBGCr4wwlt1tRrv22rV0M_64wzO58eMa0zHYI&usqp=CAU"group-title="✦PL › POLAND™",TVC
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279870
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/gauhRM69Feaezysrc6w-GgHVi2u4lRb4f9ADFzvl-TyJr_3_u1kQH-UFSUifAUOXBsZK-gLGNTkfI3-1dKRXWw.png"group-title="✦PL › POLAND™",ANTENA
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279871
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/RFpGgiFIwD-zg89GX_bnrC0YxWHdrrV89QL-EweVA6VwNJyN9YA6wXNunjACIB7R-0I71YcxyiYYceK5rrYA18FLnCPmhiMotz_6njvVLo4.jpg"group-title="✦PL › POLAND™",WYDARZENIA 24 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279884
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nuT7PSr2tRgvmmqCK0xW2qRiQKl3SWAj6NN8D0P0nazU.png"group-title="✦PL › POLAND™",NOWA TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279856
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nh54aQhUY1i0Fxyiuoh47_tCydAdUeTIWw1j-gbvb19k.png"group-title="✦PL › POLAND™",NUTA TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279919
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nl6ACo_-C_BSzF1sbVabkEVrN8dalQ6064Ylv_kw9wbi.PNG"group-title="✦PL › POLAND™",TV PULS HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3900
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nmNQKCakSZmyGOzZi1kfNkHfnJJfem98ETDOgdBuHtTI.png"group-title="✦PL › POLAND™",TV Puls 2
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4032
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nkKKg4qjQX5nmi4e0Sh9PSs78uVnqc_ellwiz542Yu3H.png"group-title="✦PL › POLAND™",4Fun Dance
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3919
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nmohPJRo2OGRT4kJGKoAbwo3v_9yddsTE14p6YgERFYl.png"group-title="✦PL › POLAND™",4Fun Gold Hits
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3920
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ntgOF5TPkVhLU9FfTyv3uQ-cbTSUG2jydeaJ6lkprhNv.png"group-title="✦PL › POLAND™",4Fun.TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3921
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ngi_Ivn1W-g1RqD2oT-Smv1ufHB-ngIClOPUapSO80bm.png"group-title="✦PL › POLAND™",Animal Planet HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3925
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ntyq6MK7dA-WLpIO50WLojMy9MBFPwPEO24NeAWZinQg.png"group-title="✦PL › POLAND™",BBC Earth HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3932
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nvbSbMnjtS8aDXKqkDJ6tk78QNm6EKp1bze5KmhgNqNZ.png"group-title="✦PL › POLAND™",BBC FIRST
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3933
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ni8vUszBhKHVjnAJvVuLIB0NQ4Grf6bDuTzHn1bGj8hP.png"group-title="✦PL › POLAND™",Boomerang HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3934
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhdhOXGReF-fQsZNXmhtIBerYOB8dEIzJpjm0f7vXUwX.png"group-title="✦PL › POLAND™",Cartoon Network HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3945
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nkRdmiFGuSGYdpTHXraGKCmfgo1c27pOiG5RU3DclpnJ.png"group-title="✦PL › POLAND™",Da Vinci
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3951
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.scdn.co/image/ab67706c0000da84ad4c334c1acb8ad7e234027d"group-title="✦PL › POLAND™",Disco Polo Music
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3952
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nqvIZPyQlLRUwuIjpZ1HgUvmVdd7kTRkp8SVYSnFDBSQ.png"group-title="✦PL › POLAND™",DOMO  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3960
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04noYBngGCwJssuzA6cIsATH1BGDxkX1mUc6Sc6GNMjm6V.png"group-title="✦PL › POLAND™",E! Entertainment
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3962
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04noM4YWzV3fEKnEH1vbLovSZ80bx0VmT_0rlkKjkyDLbH.png"group-title="✦PL › POLAND™",EskaROCK TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3970
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhc-928236fU2TsVUz6qLxmezKytaAWQSKFJKlvFLDxi.png"group-title="✦PL › POLAND™",Food Network HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3982
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nh2hA5PAppkxZ2DT1GIR6WbrtwZEgeeZ5eEE-hIEMRpd.png"group-title="✦PL › POLAND™",Golf Channel
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3987
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ntCU8wi9TQeMiAW8m8BhzLDgwrPzPKDRiLzLK0zSF3tjHv1EOiiJXlaUmR8gIQ3pdQ.png"group-title="✦PL › POLAND™",ID HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3993
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04no1ClHpmfOiXzlOp7aBhqVVNo1i72uGR1UJwMVkqi5we.png"group-title="✦PL › POLAND™",Kino Polska Muzyka
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3995
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFjYzoSaUtSZapeAhEm3GAJ12ChnVuazWw4j_g5StVH15TeSqKwqOTMdPKwnrlXDD4.png"group-title="✦PL › POLAND™",Kuchnia  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3997
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nh5s-Dw3HLp8DO106bsPKA3kEJHqbQvKBDsKSLMKFDBV.png"group-title="✦PL › POLAND™",Lifetime HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3998
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ni4xPOnuZMIG-xqbhIidvq1r1Z8xhL92PkqRPRgYqAEA.png"group-title="✦PL › POLAND™",Metro
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3999
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nj-XIq7qoUDM4t6e-SwlUhZB1sh2NCKlkXOjGxIlMnrm.png"group-title="✦PL › POLAND™",MiniMini  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4000
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nqIHyl5uncmHPul6UzYy2YSEggzWVgx2p4qWrex8vmLw.png"group-title="✦PL › POLAND™",Motowizja HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4001
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ni5FyEr0SMSC3AFTpdyL8fjdcQpKWNGsCqAL9Q16Sq78.png"group-title="✦PL › POLAND™",Planete  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4008
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nub_BZoA19ZIyYxCDEjtvNvC8Hbe5VeAVazjnVYdVPi1.png"group-title="✦PL › POLAND™",Polo TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4009
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04non5TUQD3Hw0c5ljFiA9gVvrfGr6nDf494zjkH5kVY2j.png"group-title="✦PL › POLAND™",POWER TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279920
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nn27ya0n1MeKxWptutHyiFb-VGXW8WGsZQeZ7T7lZp4j.PNG"group-title="✦PL › POLAND™",STARS TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279921
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nkvVrO-LQSeTn0BS2UAekA-9dHhdR3dFaunRxWJuJ-mJ.png"group-title="✦PL › POLAND™",teleTOON  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4043
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/tZv03ULqw-ygJw7wk6uxdtGnyf0FQGPnSKR1y6IGZ4i7iWruwKcUJI7DOYQyvypvD-PKkVYLl5wIGqwjWSmRd-378knWym-jhe_lwrOq0kc.png"group-title="✦PL › POLAND™",TRACE TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4046
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04npTQPmyHyvu3E_h4meSliKqTm6SWtnMUvqw1RUzZDgS_.png"group-title="✦PL › POLAND™",VOX MUSIC TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4048
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nnJpKR-ctr1BTElbVZ7Cj8Gcm_3xA4lcTxDpZ9IA9Qo-.png"group-title="✦PL › POLAND™",Zoom TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4051
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhRrFIpN70EUCtFLSFbAIycNnEG09-xDQ11nYbymutTL.png"group-title="✦PL › POLAND™",TVS
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279854
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://photos.prnewswire.com/prnfull/20160531/373466LOGO"group-title="✦PL › POLAND™",TBN POLSKA FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279866
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsUVHBZMjrG2ydfmuFPuK5Ls.jpg"group-title="✦PL › POLAND™",TVP 3 Szczecin
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84367
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsRc7YzjlrBTxcdK6R3SHS78.jpg"group-title="✦PL › POLAND™",TVP 3 Rzeszów
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84366
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsQ1LniRw7z58Sjk2Y5qKMFY.jpg"group-title="✦PL › POLAND™",TVP 3 Poznań
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84365
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsQzTQ8yf8EzsZ7JRDMShrR0.jpg"group-title="✦PL › POLAND™",TVP 3 Opole
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84364
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsaw3KsIOH1sxB6Yg9LMbL7c.jpg"group-title="✦PL › POLAND™",TVP 3 Olsztyn
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84363
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBscMMcYu03AoixPM8NTvqtfM.jpg"group-title="✦PL › POLAND™",TVP 3 Lublin
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84362
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsc1AOBJ13WtUs6mL9LZgaDA.jpg"group-title="✦PL › POLAND™",TVP 3 Łódź
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84361
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsbTCrKaY3CdVjFGIgE0_LCI.jpg"group-title="✦PL › POLAND™",TVP 3 Kraków
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84360
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBscjk2LsP03pG1-kiOxxy3ek.jpg"group-title="✦PL › POLAND™",TVP 3 Kielce
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84359
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsUj5kGbsw7BX7NMt1vvQzU8.jpg"group-title="✦PL › POLAND™",TVP 3 Katowice
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84358
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsVl7NMajHc_Amvh8UJcjZ1Q.jpg"group-title="✦PL › POLAND™",TVP 3 Gorzów Wielkopolski
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84357
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsYwp80J8eyxrOMtVFltZYRg.jpg"group-title="✦PL › POLAND™",TVP 3 Wroclaw
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84356
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsRpVbqeKSyvWlGb7a7ZVDIU.jpg"group-title="✦PL › POLAND™",TVP 3 Bydgoszcz
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84355
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsd5oLIPJwaRuixrJk5EAVwo.png"group-title="✦PL › POLAND™",Telewizja Toruń
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/84344
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/lB4MgRI.png"group-title="✦PL › POLAND™",TVP
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/317643
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsZ1Rr6F1RvkLqbwybcQIrS0.jpg"group-title="✦PL › POLAND™",TVT Zgorzelec
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/317648
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBscWAM9vrkFbKlpt2GuxjOdE.png"group-title="✦PL › POLAND™",4FUN TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/317600
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/dsAt8cMDBjbP3mVNdeYR4S5AMG7l0dd_FUnS7v8Kcox79dNITQ7cR-aNAyHmro2IBdRZq5BYWlv5vaWAujnncg.png"group-title="✦PL › POLAND™",TV Imperium
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/317634
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/nV2jQQP.png"group-title="✦PL › POLAND™",TV Jasło
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/317635
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/mg9e4VnU5MiobcDarwnBsQ45jGkBQn0MFDmzer_F4Go.png"group-title="✦PL › POLAND™",TV Toruń
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/317640
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/qqv9Nbj.png"group-title="✦PL › POLAND™",Telewizja Pogranicze Glubczyce
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/317626
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › POLAND™",Radio Czwórka
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/317617
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/2D5k4IF9mMHvytT-mX_tf9pkdXzvvYbOuntOqUHAvY8wiFeNeoN-_p-tPE-x82FXEjz6pIyoySlgVNT_RJPr6Mp4m_6rDl4AMoGZs65F8Sw.png"group-title="✦PL › POLAND™",Telekriti
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/317622
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/qQsL2NuKc5Y70qyrRAK6DQCLu-OBCZ5mOY7gDUXh1wE2XmI-O34l-ZxUKf8OtJm3YqPmBrxKSEfHLP4OeNgnnL7wngFKx9JIGwbo4jgZxuM.png"group-title="✦PL › POLAND™",MTV POLSKA HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279908
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/gauhRM69Feaezysrc6w-GgHVi2u4lRb4f9ADFzvl-Txyd95FmAuu7AsfgaYFrVnes-8O7bX0xo_ObEF0CxHQvg.png"group-title="✦PL › POLAND™",NOVELA TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/280063
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ngh6cLGOJNp68G0dmD-P5BzSAdGAaO4XcY438S3jnb3K.png"group-title="✦PL › POLAND™",CBS EUROPA HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/280080
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nqCh246Yuxhgp8K_IjSN0NX0UrIyyenqw3Wa-M7uCGUj.png"group-title="✦PL › MOVIES™",13 Ulica HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3918
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjFyrkHHJbq0jYEm2FF6nYKZkdAGlCPzK3IIX9QvEOxVgREM_Dm6HgI3wnkT16yLaBDI&usqp=CAU"group-title="✦PL › MOVIES™",WARNER TV POLSKA HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282562
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFLL1ePs1_koKmWzyRp98ecdWp_9jijpy3kN8kDEF-mad.png"group-title="✦PL › MOVIES™",ACTIVE FAMILY
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282558
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3Txeex4ERHNhP_ecLXO-ENucw.png"group-title="✦PL › MOVIES™",ALE KINO+ HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282542
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5Ul60Fmv4ivYCaDFprdOI-CQHOmX2Q2HDmwX0LA0w2CrQ.png"group-title="✦PL › MOVIES™",AMC HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282541
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3Txb6OPf8sFqyn6U6o958TN6g.png"group-title="✦PL › MOVIES™",AXN HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282537
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3TxMUGSUAuwAZIYFOm9qXQ-qQ.png"group-title="✦PL › MOVIES™",AXN WHITE
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282536
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3Tx3NjTtTMy6l7yTvpfqDjf7Q.png"group-title="✦PL › MOVIES™",AXN BLACK
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282535
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3TxOUlK7UhxxnnmuB9lSAic3w.png"group-title="✦PL › MOVIES™",AXN SPIN HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282538
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5UG-4K-vFdZ363HedYXlpATela8gQ1QF9RLtVxu0R8ACA.png"group-title="✦PL › MOVIES™",FOX HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282539
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3Txeq1Pr5hBqYHKgdHUEh5KDw.png"group-title="✦PL › MOVIES™",FOX COMEDY
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282540
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5XNYmiuQGt-fikrybPwwTtx9Xx2gRaN2zkmSe13IcVzTQ.png"group-title="✦PL › MOVIES™",CANAL 1 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282564
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/pI9A-S7x2GD3JjySrsJJIJ4j-MyrxDjv-iDyrqWeSqk1Ybp2dwjdtlW-zA3zuqtj.png"group-title="✦PL › MOVIES™",Canal+ 1 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/289485
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ntNWovB9lxnkJY6AfaVoue5-qB7IiVvXHXhyBHPKd-GY.png"group-title="✦PL › MOVIES™",CANAL+ PREMIUM
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3944
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5XNYmiuQGt-fikrybPwwTtxqtMCuWcn1hDbxdVLiAeV-g.png"group-title="✦PL › MOVIES™",CANAL+ FILM FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282534
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://upload.wikimedia.org/wikipedia/fr/thumb/1/15/Canal%2B_Family_HD_%282010-2013%29.svg/1280px-Canal%2B_Family_HD_%282010-2013%29.svg.png"group-title="✦PL › MOVIES™",CANAL+ FAMILY FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282533
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ntNWovB9lxnkJY6AfaVoue5QHEKnrFhbgfoeoirObm20.png"group-title="✦PL › MOVIES™",CANAL  SERIALE HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3939
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ntNWovB9lxnkJY6AfaVoue4b5oF_kGe5Vw5_dC6uM1gt.png"group-title="✦PL › MOVIES™",CANAL  NOW
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3938
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/HcmAxsPcKmIh-qyQeuFxomxKN83TZgSJP8OifiaPn0RSpkxMzy2VLQeByylS9KfxYfb3qEmWBlaeF3J-AODGYY_Lgutsn1gls4u_GOE3dH_tH8irohRJqJx7xogi52na.png"group-title="✦PL › MOVIES™",CINEMAX HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282556
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WlbakMgNpRV-K-0ZwpQxYE15U46Ue182pmstp4K5pu4Q.png"group-title="✦PL › MOVIES™",CINEMAX 2 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282555
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WPhCdpK7DH-4WvXh0lZz6J6mrjgUu8c_eVYsvxwgm8R-lnVBVnDDIRu8j2lEOofdw.png"group-title="✦PL › MOVIES™",FILMBOX PREMIUM HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282554
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WPhCdpK7DH-4WvXh0lZz6JhdgEqdb72fSHmGpkMX4Uew.png"group-title="✦PL › MOVIES™",FILMBOX ACTION
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282552
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WPhCdpK7DH-4WvXh0lZz6JoSK4Zi1SndUqVv-xCkUkM1D2ecUqmc03iG2zfU4RtTY.png"group-title="✦PL › MOVIES™",FILMBOX ARTHOUSE
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282565
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WPhCdpK7DH-4WvXh0lZz6JoocUs1UcTRk3d7h0_CTL4g.png"group-title="✦PL › MOVIES™",FILMBOX EXTRA
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282553
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3Tx00-WdwliUBA8mns5KseOfQ.png"group-title="✦PL › MOVIES™",HBO HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282548
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3Tx_Zw6H1rzxaJxjcUcvoFUfA.png"group-title="✦PL › MOVIES™",HBO 2 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282549
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3Txwwsi_x2I9om_Dgz_Quab-w.png"group-title="✦PL › MOVIES™",HBO 3 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282550
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5U0AJhUoigonh_0JdMywh4Z_N94Xb45fAs6HqLOq3_AhQ.png"group-title="✦PL › MOVIES™",POLSAT FILM HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282547
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFBNIuA0_El7eU4dI3BURM-7q4CUuDS9ueKkxZtBJUUZL.png"group-title="✦PL › MOVIES™",POLSAT SERIALE FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282546
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5U0AJhUoigonh_0JdMywh4Zrg-MwG2gDWxmxnlg9M9YIQ.png"group-title="✦PL › MOVIES™",POLSAT CAFE HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282545
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3TxkKpS5aQqXita1ypZvAeWbw.png"group-title="✦PL › MOVIES™",SUPER POLSAT HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282544
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nniSpt3U97wtt5vN12Qu3ti5NB1gFxUx5ULErkWZWs44.PNG"group-title="✦PL › MOVIES™",Polsat Comedy Central Extra HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4058
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhZbgQKd8hByi5uCAUmbKIyvXL9ZPUihv0YBhm4OkDSt.png"group-title="✦PL › MOVIES™",Polsat Play HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4020
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/wuckMg1Vt2dHLxbqpsT1X03czB6yGHQClhYhwOqGm2ghi_1rrKh6qnfJntiLr2m7b12nW_rH1AJvcrTTg0DNqg.jpg"group-title="✦PL › MOVIES™",Polsat Romans
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4022
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhJ6V8xRYsPavmKRzhF9bcCRsA9pk0jiKpQW22ZOIm_9.png"group-title="✦PL › MOVIES™",Romance TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4034
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5UUmGFW_N69woCGnNklWHorVwqPC38npLg5fU6XW-S_8hCYXaRnWiV0chF2XZqVDIY9lZ5x3aCc_UUBwlmua7p2.png"group-title="✦PL › MOVIES™",COMEDY CENTRAL POLAND HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282563
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFCg1axH_pS-HWTM4UX8sIkg8n-bR2y0wwySOathKf3RS.png"group-title="✦PL › MOVIES™",COMEDY CENTRAL FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282543
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5VBjN2i5m0fCoS8pfvIq0FtvO-MXzABAEjsNVlBbrMlog.png"group-title="✦PL › MOVIES™",KINO POLSKA HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282561
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nrGnucZkj6qPkSUyq-_BvGnYKIKatLqf4NHZiez3WjjT.png"group-title="✦PL › MOVIES™",TVP SERIALE
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3916
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5VHyLaTh_SH0Y0o4I59FOd1vbbLGsNmbX6Rc199UYvdV6k0rBJnrj6UO-SjkPHrdA4.png"group-title="✦PL › MOVIES™",PARAMOUNT CHANNEL HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282560
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/0qVL_XtrWjENgCgWhxOiNRjZFXUA0fUjaLnMYXWeNVI4nt5ym7WxZu_H0ZPCQjEFWN8w9DvBiC74AqS0JucvryZ_9mNdDEX_p1wC8c3ZCNk.jpg"group-title="✦PL › MOVIES™",UNIVERSAL HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/280047
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nlzfNo5NTGoVAT8o62jOLJjZKFQ9v9hSf8gYaM9dI6He.png"group-title="✦PL › MOVIES™",SciFi HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4035
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nmTssu87M94RBcwttQtS8kdOEcWQbAxrkTcs3A2fIx3E.png"group-title="✦PL › MOVIES™",Epic Drama HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3967
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nuJWdsdbrHecvO6XiqBFXFdAJchd_n6dvBeDOpyBKFHN.png"group-title="✦PL › MOVIES™",Sundance HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4040
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04ntL_-Gz3PfvrRRDgDmLJxB1MN20A-ZmeuZ_J132XQ1Ze.png"group-title="✦PL › MOVIES™",Stopklatka TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4038
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › MOVIES™",VOD 206
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/280060
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/VmAklZp.png"group-title="✦PL › MOVIES™",POLSKA 24/ 7 KINO 1
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/287104
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/zEr69UZ.png"group-title="✦PL › MOVIES™",POLSKA 24/ 7 KINO 2
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/287105
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/vM93zyj.png"group-title="✦PL › MOVIES™",POLSKA 24/ 7 KINO 3
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/287106
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/Q9AZVaW.png"group-title="✦PL › MOVIES™",POLSKA 7/24 CINEMA 1
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/287109
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/Q9AZVaW.png"group-title="✦PL › MOVIES™",POLSKA 7/24 CINEMA 3
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/287111
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/Q9AZVaW.png"group-title="✦PL › MOVIES™",POLSKA 7/24 CINEMA 4
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/287112
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04noevtCgjTGLBzQEfdLBlRA0XjEFIuwnPboy_U5GGrRBV.png"group-title="✦PL › DOCU™",Discovery HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3953
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04noevtCgjTGLBzQEfdLBlRA0Zhbv8ilNKg9gLnbZHB51HcjK3cdB9ysP20Lpf-JIZog.png"group-title="✦PL › DOCU™",Discovery Historia
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3954
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04noevtCgjTGLBzQEfdLBlRA1cgcAvgyce4QSh_wEDHO97.png"group-title="✦PL › DOCU™",Discovery Life HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3955
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04noevtCgjTGLBzQEfdLBlRA3X_aYHH5TJ-x9vY0QSi3t5.png"group-title="✦PL › DOCU™",Discovery Science HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3956
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04npgeMtT2pMu-PelCDZzGRF1YQyjsSKayyKgAtcTnNeJL.png"group-title="✦PL › DOCU™",History 2 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3991
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/KeoQQENyQNzuYokg-zs6u91uE9XtEp0VlD0opLO8crcteQQfMH7PnfMZwN6nSiFeDgOpA4FBJmSiX-rRhQm3hdliHvlMOk6jM96CXNLvLgc.png"group-title="✦PL › DOCU™",History HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/3992
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhoqbvQjkuZlyONYmxoLTxGDXsJgesND2j-mYaOPbl3w.png"group-title="✦PL › DOCU™",Nat Geo People HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4003
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nnQX2vFvnsQ9uLnBTFSohTNIWfda1NK4iZJVSGc5CK8LKKYCyEK79YQ-7KHy4HVZEw.png"group-title="✦PL › DOCU™",NATIONAL GEO
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4004
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhoqbvQjkuZlyONYmxoLTxHFGXcd8EDnjmn6shnqiv_n.png"group-title="✦PL › DOCU™",National Geographic Wild
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4005
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › DOCU™",Polsat Viasat Explore HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4029
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhZbgQKd8hByi5uCAUmbKIyarjHEOa0xTb7RsXTBNS3wS_rjbHaaOv_KwNEdmNKPKw.png"group-title="✦PL › DOCU™",Polsat Viasat History HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4030
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04nhZbgQKd8hByi5uCAUmbKIxaLZ6sMwu1J-MG4LLCG23Zn2V7fdNpZmm70_LjrpADhA.png"group-title="✦PL › DOCU™",Polsat Viasat Nature HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4031
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/We-jYjggl-4KeVoyuy04norwCgHPuB5j750FEDaugXkUOYTiDjB86vZk6-1SEMMZ.png"group-title="✦PL › DOCU™",Travel Channel HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/4047
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-Wubv79sdyf43bW7l-uwO-wfEO2KSIV8L5BGAcyelsmHtfZUEjbPsdQE44DnZP4r3cYOfdWgS75A4ypE3f44eIC4q.png"group-title="✦PL › DOCU™",HGTV HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/209125
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WJTnPCv1E_kzRmIn_SUCRkk8SS3m_WJU9mMIXWjwJJGg.png"group-title="✦PL › SPORT™",TVP SPORT HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282123
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WJTnPCv1E_kzRmIn_SUCRkk8SS3m_WJU9mMIXWjwJJGg.png"group-title="✦PL › SPORT™",TVP SPORT FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282124
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5U0AJhUoigonh_0JdMywh4ZjKipbhVUOYc7g-efh1He84tCVvjf8QHVbB6q6lbpCvI.png"group-title="✦PL › SPORT™",POLSAT SPORT NEWS HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282117
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5U0AJhUoigonh_0JdMywh4ZjKipbhVUOYc7g-efh1He84tCVvjf8QHVbB6q6lbpCvI.png"group-title="✦PL › SPORT™",POLSAT SPORT NEWS FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282118
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5U0AJhUoigonh_0JdMywh4Z2a8yLBYQbOezDsaItxNdUw.png"group-title="✦PL › SPORT™",POLSAT SPORT HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282125
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5U0AJhUoigonh_0JdMywh4Z2a8yLBYQbOezDsaItxNdUw.png"group-title="✦PL › SPORT™",POLSAT SPORT FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282126
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFKiO3D1nyRdHilpgUPflFRmA5Zk7o-Ot_hD93gTkddjH.png"group-title="✦PL › SPORT™",POLSAT SPORT EXTRA FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282120
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://media2.pl/g/750/55829.jpg"group-title="✦PL › SPORT™",POLSAT SPORT FIGHT HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282121
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://media2.pl/g/750/55829.jpg"group-title="✦PL › SPORT™",POLSAT SPORT FIGHT FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282122
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFKiO3D1nyRdHilpgUPflFRm5gUlUJeb-7-ojnI8tMEwSqffn08snDXsytU_FriFiXg.png"group-title="✦PL › SPORT™",POLSAT SPORT PREMIUM 1 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282129
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFKiO3D1nyRdHilpgUPflFRk0W7TLo6OmnRPx401jBewRpAbTLcShkyPmuCwRlJoZ6g.png"group-title="✦PL › SPORT™",POLSAT SPORT PREMIUM 2 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282132
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFKiO3D1nyRdHilpgUPflFRk0W7TLo6OmnRPx401jBewRpAbTLcShkyPmuCwRlJoZ6g.png"group-title="✦PL › SPORT™",POLSAT SPORT PREMIUM 2 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282133
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFKiO3D1nyRdHilpgUPflFRkYSzK5DRZE64hD3xu1tcPu.png"group-title="✦PL › SPORT™",POLSAT SPORT PREMIUM 3 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282134
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFKiO3D1nyRdHilpgUPflFRkYSzK5DRZE64hD3xu1tcPu.png"group-title="✦PL › SPORT™",POLSAT SPORT PREMIUM 3 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282135
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFKiO3D1nyRdHilpgUPflFRnbVPLmLNVp0NuqasMTbVM9.png"group-title="✦PL › SPORT™",POLSAT SPORT PREMIUM 4 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282136
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFKiO3D1nyRdHilpgUPflFRnbVPLmLNVp0NuqasMTbVM9.png"group-title="✦PL › SPORT™",POLSAT SPORT PREMIUM 4 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282137
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5UDfiVcfpnvUjH92zczOWNYR97kzj0ZiphsM7fOsnThojC8Obeo93DkZA1z37XhvZo.png"group-title="✦PL › SPORT™",POLSAT SPORT PREMIUM 5 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282138
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5UDfiVcfpnvUjH92zczOWNYR97kzj0ZiphsM7fOsnThojC8Obeo93DkZA1z37XhvZo.png"group-title="✦PL › SPORT™",POLSAT SPORT PREMIUM 5 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282139
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFKiO3D1nyRdHilpgUPflFRkj3Kcst9Fs0pVG7qqMPw6M.png"group-title="✦PL › SPORT™",POLSAT SPORT PREMIUM 6 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282140
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFKiO3D1nyRdHilpgUPflFRkj3Kcst9Fs0pVG7qqMPw6M.png"group-title="✦PL › SPORT™",POLSAT SPORT PREMIUM 6 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282141
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5U3Zicyg7voBfB2wTXAUCV38tkDFTsq-0ttXQjE4oS6ew.png"group-title="✦PL › SPORT™",NSPORT+  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282142
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFNcATPsI-YFS2Ui0P3JBecm_k1zL8aCmVDjRV6vVlsHU.png"group-title="✦PL › SPORT™",CANAL+ SPORT 1 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282144
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5XNYmiuQGt-fikrybPwwTtxRdgA6KXGAbjlIN3YCx1_DA.png"group-title="✦PL › SPORT™",CANAL+  SPORT 1 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282145
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFNcATPsI-YFS2Ui0P3JBecm6cO4xZeF7XGWCXC-x_HFs.png"group-title="✦PL › SPORT™",CANAL+ SPORT 2 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282146
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5XNYmiuQGt-fikrybPwwTtxco7ZhCFkriMz4EnoyMfK7nNms5pA6uv_0JAyCdIAGHE.png"group-title="✦PL › SPORT™",CANAL+  SPORT 2 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282147
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFNcATPsI-YFS2Ui0P3JBeclyu-yL50KXBt1q6NxU7E_V.png"group-title="✦PL › SPORT™",CANAL+ SPORT 3 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282148
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFNcATPsI-YFS2Ui0P3JBeclyu-yL50KXBt1q6NxU7E_V.png"group-title="✦PL › SPORT™",CANAL+ SPORT 3 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282149
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFNcATPsI-YFS2Ui0P3JBecnXzj9XzyELgMztvbEUx3k-.png"group-title="✦PL › SPORT™",CANAL+ SPORT 4 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282150
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5XNYmiuQGt-fikrybPwwTtxhJDtQ3A4wsV_zIPzLpS1q6Nu67Rc3g2t0Vv2sD6PfD8.png"group-title="✦PL › SPORT™",CANAL+ SPORT 5 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282153
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png"group-title="✦PL › SPORT™",ELEVEN SPORT HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282154
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFFkmWHXsbI5SViNL3NZg9ZF9UwoX5zM9dpYznvqDRX4N.png"group-title="✦PL › SPORT™",ELEVEN SPORTS 1 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282155
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFFkmWHXsbI5SViNL3NZg9ZF9UwoX5zM9dpYznvqDRX4N.png"group-title="✦PL › SPORT™",ELEVEN SPORTS 1 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282156
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFFkmWHXsbI5SViNL3NZg9ZFWB8wHCc_4VKgAfatwjnuK.png"group-title="✦PL › SPORT™",ELEVEN SPORTS 2 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282157
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFFkmWHXsbI5SViNL3NZg9ZFWB8wHCc_4VKgAfatwjnuK.png"group-title="✦PL › SPORT™",ELEVEN SPORTS 2 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282158
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFFkmWHXsbI5SViNL3NZg9ZHOuskdXgDkLnh_eIq_R45I.png"group-title="✦PL › SPORT™",ELEVEN SPORTS 3 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282159
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFFkmWHXsbI5SViNL3NZg9ZHOuskdXgDkLnh_eIq_R45I.png"group-title="✦PL › SPORT™",ELEVEN SPORTS 3 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282160
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFFkmWHXsbI5SViNL3NZg9ZFz0a-ZHpAJzpRBey8jieJI.png"group-title="✦PL › SPORT™",ELEVEN SPORTS 4 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282161
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFFkmWHXsbI5SViNL3NZg9ZFz0a-ZHpAJzpRBey8jieJI.png"group-title="✦PL › SPORT™",ELEVEN SPORTS 4 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282162
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3TxeUK1FE1IiDadnH8pHamNU_fmOzX7kU0vgdsol8HrTcI.png"group-title="✦PL › SPORT™",EUROSPORT 1 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282163
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3TxeUK1FE1IiDadnH8pHamNU_fmOzX7kU0vgdsol8HrTcI.png"group-title="✦PL › SPORT™",EUROSPORT 1 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282164
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3Txa065jwtFjxs4jvJHNqtqJh9WaMCttQ3KAeoqT1NYYkQ.png"group-title="✦PL › SPORT™",EUROSPORT 2 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282165
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WBlc1CnMTYwxHcpUQxq3Txa065jwtFjxs4jvJHNqtqJh9WaMCttQ3KAeoqT1NYYkQ.png"group-title="✦PL › SPORT™",EUROSPORT 2 FHD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282166
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WYUOGSHJvseEQD1STdDjzG2Ima2piP3CIxWggozJLP5w.png"group-title="✦PL › SPORT™",SPORT KLUB HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282167
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/zTeTOuzZWPmZmXwM6_HUxes--Pflvd_-Iiecridx46hyboB5lEZFfUOqUK9zKzwsttM6pGBa2ToXNmOiudcgU2VmVtEcBmx5_-d8XhbuseItqJ8jtJyJbIb2ZHbyNtYWP3EONYocbbGK7eV-XXG8EQ.jpg"group-title="✦PL › SPORT™",EXTREME SPORTS HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282168
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/NNxQg22-Al8fdGUxjmzJFBeuBuEiYSIZkzFywsPpFe-JZYGHCC9V7uE-kUe9yQyv.png"group-title="✦PL › SPORT™",FIGHTKLUB HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282169
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/XeBPM6SDukVJOAeLTcLJW71UQkE2a1NIBaLn0xBqt5WPhCdpK7DH-4WvXh0lZz6JTa6uGERGDKPlb_e7Obh_5A.png"group-title="✦PL › SPORT™",FIGHTBOX HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/282170
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/w7tBB9K1EBPFgnsD1yNaAvSof3CixWkIYwW505kF-QQgDnAfSG0C5FCvDncUyTJLX1vAXOJzDEgIxnjBKZ9uutrxBYk7S5kqK4_Y8q_c7qU.jpg"group-title="✦PL › SPORT™",VIP POLSAT SPORT PREMIUM PPV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279955
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/w7tBB9K1EBPFgnsD1yNaAvSof3CixWkIYwW505kF-QQgDnAfSG0C5FCvDncUyTJLX1vAXOJzDEgIxnjBKZ9uutrxBYk7S5kqK4_Y8q_c7qU.jpg"group-title="✦PL › SPORT™",VIP POLSAT SPORT PREMIUM PPV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279956
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › KIDS™",DISNEY CHANNEL HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279889
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › KIDS™",DISNEY XD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279890
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › KIDS™",MINIMINI+ HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279891
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › KIDS™",BABY TV
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279892
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › KIDS™",DISNEY JUNIOR
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279893
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › KIDS™",JIMJAM POLSKA
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279900
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › KIDS™",TELETOON+  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279901
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › KIDS™",NICK TOONS HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279902
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › KIDS™",4FUN KIDS
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279906
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › KIDS™",TEEN NICK HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279927
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › KIDS™",GAME TOON H HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279928
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY 1 HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279978
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY 2
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279979
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY 4
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279981
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY 5
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279982
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 1  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320383
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 2  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320384
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 3  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320385
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 4  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320386
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 5  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320387
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 6  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320388
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 7  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320389
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 8  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320390
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 9  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320391
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 10  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320392
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 11  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320393
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 12  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320394
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 13  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320395
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 14  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320396
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 15  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320397
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 16  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320398
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 17  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320399
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 18  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320400
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 19  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320401
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 20  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320402
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 21  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320403
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 22  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320404
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 23  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320405
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 24  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320406
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 25  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320407
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 26  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320408
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 27  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320409
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 28  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320410
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 29  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320411
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 30  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320412
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 31  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320413
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 32  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320414
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 33  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320415
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 34  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320416
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 35  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320417
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 36  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320418
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 37  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320419
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 38  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320420
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 39  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320421
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 40  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320422
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 41  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320423
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 42  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320424
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 43  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320425
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 44  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320426
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 45  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320427
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 46  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320428
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 47  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320429
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://worldclasstv.at:80/images/rp1amMNgKaqtkxe5QdZxGmr0n7A66POYqvreDcbBc2ch7fq5Gm1s4LwuAVi7AgIm8D7M5nKgLhiub4BOCowH9GCDPRtGscG_wIKu13-AeOw.png"group-title="✦PL › VIAPLAY™",VIAPLAY 48  HD
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/320430
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 1 HD [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279983
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 3 HD [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279985
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 4 HD [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279986
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 5 HD [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279987
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 6 HD [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279988
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 7 HD [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279989
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 8 HD [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279990
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 9 HD [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279991
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 10 HD [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279992
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 11 HD KSW [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279993
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 12 HD [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279994
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 13 HD [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279995
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 14 HD [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279996
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✦PL › VIAPLAY™",VIAPLAY XTRA 15 HD [LIVE-MATCH]
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/279997
