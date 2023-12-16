@@ -18687,3 +18687,1539 @@ http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111709
 http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=1111753&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="onezapping"catchup="",ZOOM TV
 http://line.onezapping.xyz:80/play/live.php?mac=00:1A:79:ba:02:3F&stream=880190&extension=ts
+#EXTINF:-1 tvg-name="13 Ulica"tvg-id="13ulica.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/87d5e667e5bd556fef0bc1142acc83c3.png"group-title="3749255"catchup="",13 Ulica
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2716
+#EXTINF:-1 tvg-name="4Fun Dance"tvg-id="4funfitdance.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/b86ff63a571df5e13957e2136f7b9d2c.png"group-title="3749255"catchup="",4Fun Dance
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/278633
+#EXTINF:-1 tvg-name="4Fun Kids"tvg-id="4funhits.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/def2f373ae714251530c0089cadae7aa.png"group-title="3749255"catchup="",4Fun Kids
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2703
+#EXTINF:-1 tvg-name="4Fun TV"tvg-id="4funtv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/116afa76b6010e7cba01105683acae6c.png"group-title="3749255"catchup="",4Fun TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2704
+#EXTINF:-1 tvg-name="Active Family"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2dfd0147b940c20e05508a4ca3f7e351.png"group-title="3749255"catchup="",Active Family
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/67603
+#EXTINF:-1 tvg-name="Adventure"tvg-id="adventure.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9001ae89ec0323b232df0e01f167ebda.png"group-title="3749255"catchup="",Adventure
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/37054
+#EXTINF:-1 tvg-name="Ale Kino+"tvg-id="alekino.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f9aca5b74e9bb34141fc4b9abb06ffe1.png"group-title="3749255"catchup="",Ale Kino+
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/339
+#EXTINF:-1 tvg-name="AMC"tvg-id="amc.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2926a999892b88ddfd688a81b56e4206.png"group-title="3749255"catchup="",AMC
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/26539
+#EXTINF:-1 tvg-name="ANIMAL PLANET"tvg-id="animalplanet.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/87b6b7c1d370b39e5a27a12190bd4391.png"group-title="3749255"catchup="",ANIMAL PLANET
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1717
+#EXTINF:-1 tvg-name="AXN"tvg-id="axn.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6d1bff8931805727a09ea57291ed398e.png"group-title="3749255"catchup="",AXN
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3227
+#EXTINF:-1 tvg-name="AXN Black"tvg-id="axnblack.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8940f3afd5ec2bbeac8094b0420af06a.png"group-title="3749255"catchup="",AXN Black
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2715
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id="axn.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-11/02e3a86cb78507312f45c2066db0148c.png"group-title="3749255"catchup="",AXN Spin
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/23186
+#EXTINF:-1 tvg-name="AXN White"tvg-id="axnwhite.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6eb591ac493fb0bd7a4814bf32465d74.png"group-title="3749255"catchup="",AXN White
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/340
+#EXTINF:-1 tvg-name="Baby TV"tvg-id="babyfirsttv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7fd355c10396e2f04c93ad98e7f9d995.png"group-title="3749255"catchup="",Baby TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/37890
+#EXTINF:-1 tvg-name="BBC Brit Polska"tvg-id="bbcbrit.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/031f332d547a4b36b87c51acf5ab985f.png"group-title="3749255"catchup="",BBC Brit Polska
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3206
+#EXTINF:-1 tvg-name="BBC Earth"tvg-id="bbcearth.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/64ffbc139834792691b7c94a448ac112.png"group-title="3749255"catchup="",BBC Earth
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1716
+#EXTINF:-1 tvg-name="BBC First"tvg-id="bbc.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/38aafb142bb4b04282e1a277a8fe1298.png"group-title="3749255"catchup="",BBC First
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/26545
+#EXTINF:-1 tvg-name="BBC Lifestyle"tvg-id="bbclifestyle.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a3f3b95b7ae00a43258fb2700198b452.png"group-title="3749255"catchup="",BBC Lifestyle
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/122184
+#EXTINF:-1 tvg-name="Biznes 24"tvg-id="biznes24hd.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/01caeb85b13a8b9a095cc92368310335.png"group-title="3749255"catchup="",Biznes 24
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/276488
+#EXTINF:-1 tvg-name="Boomerang"tvg-id="boomerang.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5bda1e92679ba8eeb77067b56ad337c6.png"group-title="3749255"catchup="",Boomerang
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/10206
+#EXTINF:-1 tvg-name="CANAL+ 1"tvg-id="canalplus.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/812726221490a0613a84839d98841089.png"group-title="3749255"catchup="",CANAL+ 1
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/24247
+#EXTINF:-1 tvg-name="CANAL+ Dokument"tvg-id="canalplusdokumenttv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/99d9e118f2944b07b5a917812c16932f.png"group-title="3749255"catchup="",CANAL+ Dokument
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2720
+#EXTINF:-1 tvg-name="CANAL+ Domo"tvg-id="domo.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1c571edf76970e17b081ae170ee4133c.png"group-title="3749255"catchup="",CANAL+ Domo
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2695
+#EXTINF:-1 tvg-name="CANAL+ Family"tvg-id="canalplusfamily.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/0b0740eb7ff783b99c5e9b91e4107be8.png"group-title="3749255"catchup="",CANAL+ Family
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/147180
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id="canalplusfilm.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/54cff68b6254cb66c588ee3eafebf054.png"group-title="3749255"catchup="",CANAL+ Film
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1714
+#EXTINF:-1 tvg-name="CANAL+ Kuchnia"tvg-id="kuchniaplus.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bd68563b3c37075d8c31177c27a87205.png"group-title="3749255"catchup="",CANAL+ Kuchnia
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1703
+#EXTINF:-1 tvg-name="CANAL+ Now"tvg-id="canalplusnow.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e78640bbfdfd6682aaecaf43c138d5f5.png"group-title="3749255"catchup="",CANAL+ Now
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/122183
+#EXTINF:-1 tvg-name="CANAL+ PLUS SPORT"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png"group-title="3749255"catchup="",CANAL+ PLUS SPORT
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/163161
+#EXTINF:-1 tvg-name="CANAL+ Premium"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/524e80b807006b992f74efd99450afae.png"group-title="3749255"catchup="",CANAL+ Premium
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/341
+#EXTINF:-1 tvg-name="CANAL+ Seriale"tvg-id="canalplusseriale.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fe9e74a82c8c642c4b1bbbcfb2170805.png"group-title="3749255"catchup="",CANAL+ Seriale
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/342
+#EXTINF:-1 tvg-name="CANAL+ Sport"tvg-id="canalplussport.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4103f08667719cf9449e3df11e0a27a0.png"group-title="3749255"catchup="",CANAL+ Sport
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/69426
+#EXTINF:-1 tvg-name="CANAL+ Sport 2"tvg-id="canalplussport2.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/13195a8ec80cfd5754934fa6b004be0d.png"group-title="3749255"catchup="",CANAL+ Sport 2
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/343
+#EXTINF:-1 tvg-name="CANAL+ Sport 3"tvg-id="canalplussport3.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/0c5a073d3a1fab634642a6235cbb08d4.png"group-title="3749255"catchup="",CANAL+ Sport 3
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/33580
+#EXTINF:-1 tvg-name="CANAL+ Sport 4"tvg-id="canalplussport4.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/57f01cd46b2f8fb03af711f9db020bb4.png"group-title="3749255"catchup="",CANAL+ Sport 4
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/78322
+#EXTINF:-1 tvg-name="CANAL+ Sport 5"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/6b3e922a78ab307d4fc4fc1779a72aa7.png"group-title="3749255"catchup="",CANAL+ Sport 5
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/297382
+#EXTINF:-1 tvg-name="Cartoon Network"tvg-id="cartoonnetwork.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0f7da7982fa0b9a48cc669a21cd19cd9.png"group-title="3749255"catchup="",Cartoon Network
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1713
+#EXTINF:-1 tvg-name="CBeebies"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b0600575c26a2c2e55820b1ca7bfcb17.png"group-title="3749255"catchup="",CBeebies
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/41868
+#EXTINF:-1 tvg-name="CBS Europa"tvg-id="cbseuropa.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f6d2bdaa8e12833479a38d9cf6001237.png"group-title="3749255"catchup="",CBS Europa
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/26210
+#EXTINF:-1 tvg-name="CBS Reality"tvg-id="cbsreality.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0bb4b67179871ccbc18d81a74ae8ede9.png"group-title="3749255"catchup="",CBS Reality
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3224
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="cinemax.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/00ec5e9df167e3baccd58fa840c0518d.png"group-title="3749255"catchup="",Cinemax
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/345
+#EXTINF:-1 tvg-name="Cinemax 2"tvg-id="cinemax2.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aa851877eb4a83692647263403412e45.png"group-title="3749255"catchup="",Cinemax 2
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1712
+#EXTINF:-1 tvg-name="Comedy Central"tvg-id="comedycentral.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f04f78fd3deb1fffa14d30ba9c0edaa7.png"group-title="3749255"catchup="",Comedy Central
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16675
+#EXTINF:-1 tvg-name="Comedy Central Extra"tvg-id="comedycentralextra.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/b75f514f842791e2684788cf4a7f74ed.jpg"group-title="3749255"catchup="",Comedy Central Extra
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3222
+#EXTINF:-1 tvg-name="Crime+ Investigation"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e9db84ebce7eef5d8b91b13883a918be.png"group-title="3749255"catchup="",Crime+ Investigation
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2729
+#EXTINF:-1 tvg-name="Da Vinci Kids"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/7179a7cd6a0f5123d5d1deef81675892.png"group-title="3749255"catchup="",Da Vinci Kids
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/25615
+#EXTINF:-1 tvg-name="Disco Polo Music"tvg-id="discopolomusic.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12bc2acc704c67e3870ac07d024208a1.png"group-title="3749255"catchup="",Disco Polo Music
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1711
+#EXTINF:-1 tvg-name="Discovery History"tvg-id="discoveryhistoria.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e4546f701d423acc4cafdfad8454c28a.png"group-title="3749255"catchup="",Discovery History
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1710
+#EXTINF:-1 tvg-name="Discovery Life Polska"tvg-id="discoverylife.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bcac66fa5dc49504f86569f6f83ec32e.png"group-title="3749255"catchup="",Discovery Life Polska
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1709
+#EXTINF:-1 tvg-name="Discovery Science Polska"tvg-id="discoveryscience.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f819bf88e9a61dc95cda148b2f127d47.png"group-title="3749255"catchup="",Discovery Science Polska
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/10523
+#EXTINF:-1 tvg-name="Discovery Turbo Xtra (DTX)"tvg-id="discoveryturboxtra.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/ad2248ed73515048617dfac5243457f8.png"group-title="3749255"catchup="",Discovery Turbo Xtra (DTX)
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/283190
+#EXTINF:-1 tvg-name="Discovery World"tvg-id="discovery.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5e3085bfa0a23c71340c2ecb0d3a2e4d.png"group-title="3749255"catchup="",Discovery World
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3230
+#EXTINF:-1 tvg-name="Disney Channel"tvg-id="disneychannel.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7100d013931ad704c97e4082742171b2.png"group-title="3749255"catchup="",Disney Channel
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1708
+#EXTINF:-1 tvg-name="Disney Junior"tvg-id="disneyjunior.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b1ba4b81984b558b833b12792b131211.png"group-title="3749255"catchup="",Disney Junior
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16649
+#EXTINF:-1 tvg-name="Disney XD"tvg-id="disneyxd.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/feb43bd0e37c845f765b10e13ee750d1.png"group-title="3749255"catchup="",Disney XD
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3219
+#EXTINF:-1 tvg-name="dlaCiebie.tv"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png"group-title="3749255"catchup="",dlaCiebie.tv
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/284780
+#EXTINF:-1 tvg-name="E!"tvg-id="eentertainment.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/df1a70bb2d54964cc1e27ec414a01f40.png"group-title="3749255"catchup="",E!
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/8036
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1"tvg-id="elevensports1.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6dbad401029775c28d9e7df7bbc58e81.png"group-title="3749255"catchup="",ELEVEN SPORTS 1
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/347
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2"tvg-id="elevensports2.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0fe5b9578692f9baaeace94f995cc585.png"group-title="3749255"catchup="",ELEVEN SPORTS 2
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3643
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3"tvg-id="elevensports3.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8ffe0919e6125a450c32ae08aa5ab282.png"group-title="3749255"catchup="",ELEVEN SPORTS 3
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3644
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4"tvg-id="elevensportsports4.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/41ec41ec81476d5663826a743938b397.png"group-title="3749255"catchup="",ELEVEN SPORTS 4
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3645
+#EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/97b6e81871f08495122a28e92e64e3ea.png"group-title="3749255"catchup="",Epic Drama
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2694
+#EXTINF:-1 tvg-name="Eska Rock TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fdfc787712f69fa59f4903bcf822ed02.png"group-title="3749255"catchup="",Eska Rock TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/26211
+#EXTINF:-1 tvg-name="Eska TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cea651a34ce3e6cf04316e5c6f58e8f3.png"group-title="3749255"catchup="",Eska TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2707
+#EXTINF:-1 tvg-name="Eska TV Extra"tvg-id="eskatvextra.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/63eddfafa832d6d678a7af7a182796f7.png"group-title="3749255"catchup="",Eska TV Extra
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/281589
+#EXTINF:-1 tvg-name="Eurosport 1"tvg-id="eurosport1.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0558215aed968675061b7626e36d357e.png"group-title="3749255"catchup="",Eurosport 1
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/348
+#EXTINF:-1 tvg-name="Eurosport 2"tvg-id="eurosport2.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cc3435593970b51fb9f5ee07e41bf4d8.png"group-title="3749255"catchup="",Eurosport 2
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3218
+#EXTINF:-1 tvg-name="Extreme Sports Channel"tvg-id="extremesports.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/566a8b323a7919b14ce15ac97f649bdf.png"group-title="3749255"catchup="",Extreme Sports Channel
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/349
+#EXTINF:-1 tvg-name="FIGHT BOX"tvg-id="fightbox.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/94bc6cae7e751f5d7d5bb3bb5d459aff.png"group-title="3749255"catchup="",FIGHT BOX
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/350
+#EXTINF:-1 tvg-name="FIGHT Klub"tvg-id="fightKlub.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/97f3ed75795cf15a6c66a0d8303b6729.png"group-title="3749255"catchup="",FIGHT Klub
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/67638
+#EXTINF:-1 tvg-name="FilmBox Action"tvg-id="filmboxaction.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f3e96520e87187259d13fcf3be23c44d.png"group-title="3749255"catchup="",FilmBox Action
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3232
+#EXTINF:-1 tvg-name="FilmBox Arthouse"tvg-id="filmboxarthouse.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/06b376e60da4b4479d958aa3f427b2ec.png"group-title="3749255"catchup="",FilmBox Arthouse
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1707
+#EXTINF:-1 tvg-name="FilmBox Extra"tvg-id="filmboxextra.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5dcf2b8a5ed73d5ee29bbbbe3c74fde2.png"group-title="3749255"catchup="",FilmBox Extra
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/351
+#EXTINF:-1 tvg-name="FilmBox Family"tvg-id="filmboxfamily.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7122de08b0f6eb7be80ceddd567e6447.png"group-title="3749255"catchup="",FilmBox Family
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/352
+#EXTINF:-1 tvg-name="FilmBox Premium"tvg-id="filmboxpremium.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/387f32afc3f9f0c890062c773ffd4a79.png"group-title="3749255"catchup="",FilmBox Premium
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1705
+#EXTINF:-1 tvg-name="Fokus TV"tvg-id="fokustv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/99d1f27fdb5cb0731d74a3f645e88bf0.png"group-title="3749255"catchup="",Fokus TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/24267
+#EXTINF:-1 tvg-name="Food Network"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a1960a99e21c7401a53f324ed2eb45b0.png"group-title="3749255"catchup="",Food Network
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/26204
+#EXTINF:-1 tvg-name="Fox"tvg-id="fox.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bc0ba2ddc1c12bf2b586815f4e15a6eb.png"group-title="3749255"catchup="",Fox
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16650
+#EXTINF:-1 tvg-name="Fox Comedy"tvg-id="foxcomedy.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8c3f1b681c6b9a7ec6f6a1617253a8ad.png"group-title="3749255"catchup="",Fox Comedy
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3235
+#EXTINF:-1 tvg-name="Golf Channel"tvg-id="golfchannel.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5901f5d9b6bb1640c6e7e8a1b44e138e.png"group-title="3749255"catchup="",Golf Channel
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/26575
+#EXTINF:-1 tvg-name="HBO"tvg-id="hbo.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c4d90a7b367c6e93d21799f35035780e.png"group-title="3749255"catchup="",HBO
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/10194
+#EXTINF:-1 tvg-name="HBO 2"tvg-id="hbo2.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0b078594e24efd2cb21bbcadb76326aa.png"group-title="3749255"catchup="",HBO 2
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3217
+#EXTINF:-1 tvg-name="HBO 3"tvg-id="hbo3.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2ad95e28c20ce8d36b7b60924a0f8a35.png"group-title="3749255"catchup="",HBO 3
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1704
+#EXTINF:-1 tvg-name="HGTV"tvg-id="hgtv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5ca903470e4da3dcaf2d5fdae1e319a5.png"group-title="3749255"catchup="",HGTV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/23202
+#EXTINF:-1 tvg-name="History"tvg-id="history.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3252380059b657ef423b13734fd62442.png"group-title="3749255"catchup="",History
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2719
+#EXTINF:-1 tvg-name="History 2"tvg-id="history2.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5aa694a3fce9da81b67fd2f39f7e6bb0.png"group-title="3749255"catchup="",History 2
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16659
+#EXTINF:-1 tvg-name="Home TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/f154530ae936ea58ea50ce67018f5784.png"group-title="3749255"catchup="",Home TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/276491
+#EXTINF:-1 tvg-name="Investigation Discovery"tvg-id="investigationdiscovery.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6b9bfa6ab7160b4440f4cfaf5df7387b.png"group-title="3749255"catchup="",Investigation Discovery
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16686
+#EXTINF:-1 tvg-name="JimJam Polsat"tvg-id="jimjam.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/845f4c07817c175e823d9086532ec51b.png"group-title="3749255"catchup="",JimJam Polsat
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1696
+#EXTINF:-1 tvg-name="Kino Polska"tvg-id="kinopolska.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/674d6c2fdf5877196c504cf13d9096e8.png"group-title="3749255"catchup="",Kino Polska
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16691
+#EXTINF:-1 tvg-name="Kino Polska Muzyka"tvg-id="kinopolskamuzyka.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f2cd3b54e14f83d074ebd18b75d251cf.png"group-title="3749255"catchup="",Kino Polska Muzyka
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/26209
+#EXTINF:-1 tvg-name="Kino TV"tvg-id="kinotv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-11/fd99e74e93edfb34e8bd0b51f2de8809.png"group-title="3749255"catchup="",Kino TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/24242
+#EXTINF:-1 tvg-name="Metro"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/117d789ad96bae2c1e98539588cb315f.png"group-title="3749255"catchup="",Metro
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/26202
+#EXTINF:-1 tvg-name="MiniMini+"tvg-id="minimini.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/86f5712162a0e49be151a5b16e2fdc49.png"group-title="3749255"catchup="",MiniMini+
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3231
+#EXTINF:-1 tvg-name="Motowizja"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fa1e7ccd88c76e588efc31137d5c2e29.png"group-title="3749255"catchup="",Motowizja
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3216
+#EXTINF:-1 tvg-name="MTV Polska"tvg-id="mtvpolska.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b5ba95468faf2a01e2dfc0063f37c87e.png"group-title="3749255"catchup="",MTV Polska
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16689
+#EXTINF:-1 tvg-name="MTV Rocks"tvg-id=""tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png"group-title="3749255"catchup="",MTV Rocks
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/67657
+#EXTINF:-1 tvg-name="NAT GEO"tvg-id="natgeo.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f3e07007a40c8cfbb9b1f3da67edc37a.png"group-title="3749255"catchup="",NAT GEO
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1702
+#EXTINF:-1 tvg-name="NAT GEO People"tvg-id="natgeopeople.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/84d273256ce861d31dbe7c3df444e1c0.png"group-title="3749255"catchup="",NAT GEO People
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16663
+#EXTINF:-1 tvg-name="NAT GEO Wild"tvg-id="natgeowild.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ac4845bdac7ba84eed8649971e472708.png"group-title="3749255"catchup="",NAT GEO Wild
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/278637
+#EXTINF:-1 tvg-name="Nick Junior"tvg-id="nickjr.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e7f38e78c7bb189b1c59b905083968a4.png"group-title="3749255"catchup="",Nick Junior
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16641
+#EXTINF:-1 tvg-name="nickelodeon"tvg-id="nickelodeon.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1cb2153d9ccfa9c04096fd5a5f2ee276.png"group-title="3749255"catchup="",nickelodeon
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16647
+#EXTINF:-1 tvg-name="Nicktoons"tvg-id="nicktoons.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9cf6bb54ada3e7419482592825868c39.png"group-title="3749255"catchup="",Nicktoons
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16646
+#EXTINF:-1 tvg-name="Novela TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9210ebe280367fec6fff0412a48f0744.png"group-title="3749255"catchup="",Novela TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/192812
+#EXTINF:-1 tvg-name="Novelas+"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/44ba9e0550a40247e7f9328535dfb544.png"group-title="3749255"catchup="",Novelas+
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/276492
+#EXTINF:-1 tvg-name="Nowa TV"tvg-id="nowatv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c17e136f9688ba8d2fde4011f19bfad5.png"group-title="3749255"catchup="",Nowa TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16640
+#EXTINF:-1 tvg-name="Nuta TV"tvg-id="nutatv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/061cadc41946cea6d87a7305e5f503d5.png"group-title="3749255"catchup="",Nuta TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/84764
+#EXTINF:-1 tvg-name="Paramount Channel"tvg-id="paramount.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5cd24c29d3aa4cf6a05c08a2db55a8a7.png"group-title="3749255"catchup="",Paramount Channel
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/10190
+#EXTINF:-1 tvg-name="PLANETE+"tvg-id="planete.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/18681e22c9484d067d77048b1ec60a0d.png"group-title="3749255"catchup="",PLANETE+
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1701
+#EXTINF:-1 tvg-name="Polo TV"tvg-id="polotv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b73864ce8364cbc604827060b5270953.png"group-title="3749255"catchup="",Polo TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1700
+#EXTINF:-1 tvg-name="Polonia 1"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/c57a1054106de8213c8c37518933d987.png"group-title="3749255"catchup="",Polonia 1
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/276494
+#EXTINF:-1 tvg-name="Polsat"tvg-id="powertv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1bf0509dca0ebab85591041d55d7ea21.png"group-title="3749255"catchup="",Polsat
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3234
+#EXTINF:-1 tvg-name="Polsat 2"tvg-id="polsat2.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ad31ca903fd9927e8e2aee2a55452cc5.png"group-title="3749255"catchup="",Polsat 2
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3233
+#EXTINF:-1 tvg-name="Polsat Cafe"tvg-id="polsatcafe.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/708a3b64f0641cbebba99b5d3f6de9ef.png"group-title="3749255"catchup="",Polsat Cafe
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1699
+#EXTINF:-1 tvg-name="Polsat Doku"tvg-id="polsatdoku.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fceb2e61aafa436659806dda2d402462.png"group-title="3749255"catchup="",Polsat Doku
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1698
+#EXTINF:-1 tvg-name="Polsat Film"tvg-id="polsatfilm.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5191cc9d3fd863e5639d2a767ceda84e.png"group-title="3749255"catchup="",Polsat Film
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1697
+#EXTINF:-1 tvg-name="Polsat Games"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d2b386ce6e6872cbba6bc060c62f8a26.png"group-title="3749255"catchup="",Polsat Games
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16668
+#EXTINF:-1 tvg-name="Polsat Music"tvg-id="polsatmusic.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8b6f92120f1bdb7adfc3a921a1e55e7d.png"group-title="3749255"catchup="",Polsat Music
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2688
+#EXTINF:-1 tvg-name="Polsat News"tvg-id="polsatnews.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/6415c9aa1febe0fc675e302ad532582c.png"group-title="3749255"catchup="",Polsat News
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2689
+#EXTINF:-1 tvg-name="Polsat News 2"tvg-id="polsatnews2.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/970c9f8ca680e6ae94d0ab573b9e201c.jpg"group-title="3749255"catchup="",Polsat News 2
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2690
+#EXTINF:-1 tvg-name="Polsat Play"tvg-id="polsatplay.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/2887139f17d4dc137a82b9b8f0f3f9ae.png"group-title="3749255"catchup="",Polsat Play
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2691
+#EXTINF:-1 tvg-name="Polsat Rodzina"tvg-id="polsatrodzina.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/0bfcda9d76eb3edd5e0509fbfa345a46.png"group-title="3749255"catchup="",Polsat Rodzina
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/26591
+#EXTINF:-1 tvg-name="Polsat Seriale"tvg-id="polsatseriale.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/a0dca224f649cbb123e8b05aeff68561.png"group-title="3749255"catchup="",Polsat Seriale
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16643
+#EXTINF:-1 tvg-name="Polsat Sport"tvg-id="polsatsport.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f3f3f2765b30bb460c9f2c07a2303b90.png"group-title="3749255"catchup="",Polsat Sport
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/356
+#EXTINF:-1 tvg-name="Polsat Sport Extra"tvg-id="polsatsportextra.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ab6b2174511b2261698dc982b3123556.png"group-title="3749255"catchup="",Polsat Sport Extra
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/353
+#EXTINF:-1 tvg-name="Polsat Sport FIGHT"tvg-id="fightbox.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/004ea7bb81589ce24fbeb5aae3ee1a3c.png"group-title="3749255"catchup="",Polsat Sport FIGHT
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/26592
+#EXTINF:-1 tvg-name="Polsat Sport News"tvg-id="polsatsportnews.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1a0067670263c42a460b113615cfd80a.png"group-title="3749255"catchup="",Polsat Sport News
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/355
+#EXTINF:-1 tvg-name="Polsat Sport Premium 1"tvg-id="polsatsportpremium1.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/36b09d18656255ec922fb2c5d324f58c.png"group-title="3749255"catchup="",Polsat Sport Premium 1
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/23199
+#EXTINF:-1 tvg-name="Polsat Sport Premium 2"tvg-id="polsatsportpremium2.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/22f29148c61f543ed4083efeeacf931e.png"group-title="3749255"catchup="",Polsat Sport Premium 2
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/29607
+#EXTINF:-1 tvg-name="Polsat Sport Premium 3"tvg-id="polsatsportpremium3ppv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e1ec5f267ca1decde0d9e51925976033.png"group-title="3749255"catchup="",Polsat Sport Premium 3
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/147031
+#EXTINF:-1 tvg-name="Polsat Sport Premium 4"tvg-id="polsatsportpremium4ppv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2370076885bf3c96a4e14c15ceba0409.png"group-title="3749255"catchup="",Polsat Sport Premium 4
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/147034
+#EXTINF:-1 tvg-name="Polsat Sport Premium 5"tvg-id="polsatsportpremium5ppv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/14bd016816e1cbf9669f1b542435f135.png"group-title="3749255"catchup="",Polsat Sport Premium 5
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/147035
+#EXTINF:-1 tvg-name="Polsat Sport Premium 6"tvg-id="polsatsportpremium6ppv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c404f889f4046f09e2dca333dea70f2.png"group-title="3749255"catchup="",Polsat Sport Premium 6
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/147036
+#EXTINF:-1 tvg-name="Power TV"tvg-id="powertv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0fd8c7c5668f04857e8319ae4f48eb50.png"group-title="3749255"catchup="",Power TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/10525
+#EXTINF:-1 tvg-name="Puls 2"tvg-id="tvpuls2.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/190515a04fd9282a2c43182c9de726d9.png"group-title="3749255"catchup="",Puls 2
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/26596
+#EXTINF:-1 tvg-name="Red Carpet"tvg-id="redcarpet.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0b5f1bab21d26dc3973f6a66ab5c70be.png"group-title="3749255"catchup="",Red Carpet
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/26191
+#EXTINF:-1 tvg-name="Romance"tvg-id="romancetv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/6601f235a4820046115c5e3a6fbf8bd4.png"group-title="3749255"catchup="",Romance
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16671
+#EXTINF:-1 tvg-name="sci-fi"tvg-id="scifiuniversal.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/cf7e12625ebab813aa4a5ab714ad1e32.png"group-title="3749255"catchup="",sci-fi
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3207
+#EXTINF:-1 tvg-name="Sport Klub"tvg-id="sportklub.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/d680eb597fdb3c1a0f42c96bf0cb5a54.png"group-title="3749255"catchup="",Sport Klub
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3211
+#EXTINF:-1 tvg-name="Stars TV"tvg-id="starstv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4c2306256f4d1f46460fe4dc2e8df79d.png"group-title="3749255"catchup="",Stars TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2710
+#EXTINF:-1 tvg-name="Stopklatka TV"tvg-id="stopklatka.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/01239468e8e1173fc37f6151d9281ba6.png"group-title="3749255"catchup="",Stopklatka TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/26190
+#EXTINF:-1 tvg-name="StudioMed TV"tvg-id="studiomed.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b822f19324f1b2cde5b0b84d87faff8d.png"group-title="3749255"catchup="",StudioMed TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/193765
+#EXTINF:-1 tvg-name="Sundance TV"tvg-id="sundancetv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/be33cc805bc784ae650135818850ca10.png"group-title="3749255"catchup="",Sundance TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2705
+#EXTINF:-1 tvg-name="Super Polsat"tvg-id="superpolsat.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/96eb6c90f96d4ad6c95e09981436dd95.png"group-title="3749255"catchup="",Super Polsat
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2692
+#EXTINF:-1 tvg-name="Superstacja"tvg-id="superstacja.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f8b3b923f145c1a8bd799c873e52e0b1.png"group-title="3749255"catchup="",Superstacja
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/24241
+#EXTINF:-1 tvg-name="TBN"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/fb6e866b7a2955e82189488f619d2f73.jpeg"group-title="3749255"catchup="",TBN
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/294467
+#EXTINF:-1 tvg-name="Tele 5"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6af61f36616ce9dc6b150a79969106d2.png"group-title="3749255"catchup="",Tele 5
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/192814
+#EXTINF:-1 tvg-name="TeleToon+"tvg-id="teletoon.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3aa9133ff3c527c25c7f926f749af06a.png"group-title="3749255"catchup="",TeleToon+
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16644
+#EXTINF:-1 tvg-name="TLC"tvg-id="tlc.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4f6c18833fe32e3a6f1769bfa102c712.png"group-title="3749255"catchup="",TLC
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3210
+#EXTINF:-1 tvg-name="Travel Channel"tvg-id="travelchannel.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/285510ea8e1b512592ce34b110ad684d.png"group-title="3749255"catchup="",Travel Channel
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/24273
+#EXTINF:-1 tvg-name="TTV"tvg-id="ttv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/15fc8247ab6dc5342f7dc4ca988b1115.png"group-title="3749255"catchup="",TTV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2696
+#EXTINF:-1 tvg-name="TV 4"tvg-id="tv4.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7d349571a026c62598f2b46b6636d7aa.png"group-title="3749255"catchup="",TV 4
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3238
+#EXTINF:-1 tvg-name="TV 6"tvg-id="tv6.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2c5f04c827ede67752b5a5830590f616.png"group-title="3749255"catchup="",TV 6
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/23198
+#EXTINF:-1 tvg-name="TV Kujawy"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/3f489d772a26b8f839d962d3c4a8b84f.jpg"group-title="3749255"catchup="",TV Kujawy
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/41798
+#EXTINF:-1 tvg-name="TV Okazje"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/378179177ab134a90e10d62f8759de84.jpg"group-title="3749255"catchup="",TV Okazje
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/67589
+#EXTINF:-1 tvg-name="TV Puls"tvg-id="tvpuls.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/af5d701870db3734f68dc56f34ede6cc.png"group-title="3749255"catchup="",TV Puls
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1694
+#EXTINF:-1 tvg-name="TV Regionalna"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png"group-title="3749255"catchup="",TV Regionalna
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/280323
+#EXTINF:-1 tvg-name="TV Republika"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/631373898d7a2282bfd80c9477a186d1.png"group-title="3749255"catchup="",TV Republika
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/18932
+#EXTINF:-1 tvg-name="TV Torun"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/8d33ae433eaaf8d8b5b16d99645a69fd.png"group-title="3749255"catchup="",TV Torun
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/41791
+#EXTINF:-1 tvg-name="TV TRWAM"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/3ed508e70ca33943ea85c89c720173ba.png"group-title="3749255"catchup="",TV TRWAM
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/196356
+#EXTINF:-1 tvg-name="TVC"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/106cd621d6f564c28b0da2289867c985.png"group-title="3749255"catchup="",TVC
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/192105
+#EXTINF:-1 tvg-name="TVN"tvg-id="tvn.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0e6061e9b1e8f09b8157c3ba1beb67e2.png"group-title="3749255"catchup="",TVN
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16642
+#EXTINF:-1 tvg-name="TVN 24"tvg-id="tvn24.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/da21b9203986193c046a6749874e2296.png"group-title="3749255"catchup="",TVN 24
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2682
+#EXTINF:-1 tvg-name="TVN 24 BiS"tvg-id="tvn24.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/ed882067f248a4cb08dedf4131a4993f.png"group-title="3749255"catchup="",TVN 24 BiS
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16674
+#EXTINF:-1 tvg-name="TVN 7"tvg-id="tvn7.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c4322b69c49c3893efe6ec27976603e7.png"group-title="3749255"catchup="",TVN 7
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2683
+#EXTINF:-1 tvg-name="TVN Fabula"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d57f0e760f2562daa1d235bdcfb4ac28.png"group-title="3749255"catchup="",TVN Fabula
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2684
+#EXTINF:-1 tvg-name="TVN Style"tvg-id="tvnstyle.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d31a9964df7d5eae90a99d76db384ee6.png"group-title="3749255"catchup="",TVN Style
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/19708
+#EXTINF:-1 tvg-name="TVN Turbo"tvg-id="discoveryturboxtra.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ab67e74b7ce8a0a8e73e5625898b3ea2.png"group-title="3749255"catchup="",TVN Turbo
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3229
+#EXTINF:-1 tvg-name="TVP"tvg-id="tvp.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/14dfbcac09b4e07f8fad57a4ace98966.png"group-title="3749255"catchup="",TVP
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/10515
+#EXTINF:-1 tvg-name="TVP 1"tvg-id="tvp1.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/794ead2df72cd69a108a301b8be4d655.png"group-title="3749255"catchup="",TVP 1
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1693
+#EXTINF:-1 tvg-name="TVP 2"tvg-id="tvp2.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/24a00e4280e41aa5abd59c4861bc3e4f.png"group-title="3749255"catchup="",TVP 2
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1692
+#EXTINF:-1 tvg-name="TVP ABC"tvg-id="tvpabc.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c1993fd53d5eeb9a3def6a608ea267dd.png"group-title="3749255"catchup="",TVP ABC
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2677
+#EXTINF:-1 tvg-name="TVP Dokument"tvg-id="tvpdokument.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/9e3a7084de207366ff1d5ef7422da7cb.png"group-title="3749255"catchup="",TVP Dokument
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/276472
+#EXTINF:-1 tvg-name="TVP History"tvg-id="tvphistoria.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6552f2cce0d6a8ee371d17ce8ed79ecf.png"group-title="3749255"catchup="",TVP History
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2675
+#EXTINF:-1 tvg-name="TVP Info"tvg-id="tvpinfo.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/96439cf2be2ae76b1018aef648b32c2f.png"group-title="3749255"catchup="",TVP Info
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2674
+#EXTINF:-1 tvg-name="TVP Kultura"tvg-id="tvpkultura.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/448901fd717fd24520d0cbd4db49e099.png"group-title="3749255"catchup="",TVP Kultura
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2678
+#EXTINF:-1 tvg-name="TVP Polonia"tvg-id="tvppolonia.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/4d5d8d496223b4149d0212bd5eb451e0.png"group-title="3749255"catchup="",TVP Polonia
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3208
+#EXTINF:-1 tvg-name="TVP Rozrywka"tvg-id="atmrozrywka.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/087e2f38b1ceeed2f8f06c2a3eac713e.png"group-title="3749255"catchup="",TVP Rozrywka
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2698
+#EXTINF:-1 tvg-name="TVP Seriale"tvg-id="tvpseriale.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/65712b55f0b5b27aeb3c0a9c87718e6b.png"group-title="3749255"catchup="",TVP Seriale
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1691
+#EXTINF:-1 tvg-name="TVP Sport"tvg-id="tvpsport.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a1062d71be753ce76c06705131811c3e.png"group-title="3749255"catchup="",TVP Sport
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/3240
+#EXTINF:-1 tvg-name="TVS"tvg-id="tvs.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4804e7bb873143d8432c2fc55304730f.png"group-title="3749255"catchup="",TVS
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/78386
+#EXTINF:-1 tvg-name="TVT Zgorzelec"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/5dfcc55c4b088d025b9e81e96dd4adc5.jpeg"group-title="3749255"catchup="",TVT Zgorzelec
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/294858
+#EXTINF:-1 tvg-name="Viasat Explore"tvg-id="polsatviasatexpl.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dccf90171da20bbc807f4f0a4b1b4416.png"group-title="3749255"catchup="",Viasat Explore
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16657
+#EXTINF:-1 tvg-name="Viasat History"tvg-id="polsatviasathist.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a699fc4ea63e6da646c0feb2cf636418.png"group-title="3749255"catchup="",Viasat History
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16658
+#EXTINF:-1 tvg-name="Viasat Nature"tvg-id="polsatviasatnature.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7d872abdfa2ac547ecc3408dcf341767.png"group-title="3749255"catchup="",Viasat Nature
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/16661
+#EXTINF:-1 tvg-name="VOD 202"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6aa5fffeb2f6698cb90711c9687d9c3f.png"group-title="3749255"catchup="",VOD 202
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2728
+#EXTINF:-1 tvg-name="VOD 206"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/62bf21d0bb21fbc03d357edcfce505f4.png"group-title="3749255"catchup="",VOD 206
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/296476
+#EXTINF:-1 tvg-name="VOD 208"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/f7999baf5393a83ac0329c5ffebe2181.png"group-title="3749255"catchup="",VOD 208
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/122177
+#EXTINF:-1 tvg-name="Vox Music TV"tvg-id="voxmusic.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1e605c6c704997355a9ada5659e95f42.png"group-title="3749255"catchup="",Vox Music TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/1690
+#EXTINF:-1 tvg-name="W Polsce"tvg-id="wPolsce.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/21bc67acfe9926129ed017b57c31bc08.png"group-title="3749255"catchup="",W Polsce
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/64681
+#EXTINF:-1 tvg-name="Warner TV"tvg-id="tnt.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/a92d9a728202c85ec107f2730c7c46b9.jpg"group-title="3749255"catchup="",Warner TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/2713
+#EXTINF:-1 tvg-name="Water Planet"tvg-id="waterplanet.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0055e22b545f65d5c1427243570c0310.png"group-title="3749255"catchup="",Water Planet
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/192815
+#EXTINF:-1 tvg-name="WP TV"tvg-id="wp.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a8f93e5c9221d18fd90a539f6fa7506d.png"group-title="3749255"catchup="",WP TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/24244
+#EXTINF:-1 tvg-name="Zoom TV"tvg-id="zoomtv.pl"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/515fbca039b0382bee7f002998ff7fa1.png"group-title="3749255"catchup="",Zoom TV
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/24246
+#EXTINF:-1 tvg-name="Белсат ТВ (Belsat)"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1803840f05419e6d5b132a5d7c048148.svg"group-title="3749255"catchup="",Белсат ТВ (Belsat)
+http://37.49.225.197:8080/smooth806/MQ7UYSsfVHacEr9b/297693
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",13 Ulica
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2716
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",4Fun Dance
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/278633
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",4Fun Kids
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2703
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",4Fun TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2704
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Active Family
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/67603
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Adventure
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/37054
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Ale Kino+
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/339
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",AMC
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/26539
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",ANIMAL PLANET
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1717
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",AXN
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3227
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",AXN Black
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2715
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",AXN Spin
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/23186
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",AXN White
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/340
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Baby TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/37890
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",BBC Brit Polska
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3206
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",BBC Earth
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1716
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",BBC First
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/26545
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",BBC Lifestyle
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/122184
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Biznes 24
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/276488
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Boomerang
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/10206
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ 1
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/24247
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ Dokument
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2720
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ Domo
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2695
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ Family
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/147180
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ Film
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1714
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ Kuchnia
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1703
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ Now
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/122183
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ PLUS SPORT
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/163161
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ Premium
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/341
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ Seriale
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/342
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ Sport
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/69426
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ Sport 2
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/343
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ Sport 3
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/33580
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ Sport 4
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/78322
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CANAL+ Sport 5
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/297382
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Cartoon Network
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1713
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CBeebies
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/41868
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CBS Europa
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/26210
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",CBS Reality
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3224
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Cinemax
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/345
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Cinemax 2
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1712
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Comedy Central
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16675
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Comedy Central Extra
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3222
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Crime+ Investigation
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2729
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Da Vinci Kids
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/25615
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Disco Polo Music
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1711
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Discovery History
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1710
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Discovery Life Polska
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1709
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Discovery Science Polska
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/10523
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Discovery Turbo Xtra (DTX)
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/283190
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Discovery World
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3230
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Disney Channel
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1708
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Disney Junior
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16649
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Disney XD
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3219
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",dlaCiebie.tv
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/284780
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",E!
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/8036
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",ELEVEN SPORTS 1
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/347
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",ELEVEN SPORTS 2
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3643
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",ELEVEN SPORTS 3
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3644
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",ELEVEN SPORTS 4
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3645
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Epic Drama
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2694
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Eska Rock TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/26211
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Eska TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2707
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Eska TV Extra
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/281589
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Eurosport 1
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/348
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Eurosport 2
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3218
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Extreme Sports Channel
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/349
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",FIGHT BOX
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/350
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",FIGHT Klub
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/67638
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",FilmBox Action
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3232
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",FilmBox Arthouse
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1707
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",FilmBox Extra
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/351
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",FilmBox Family
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/352
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",FilmBox Premium
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1705
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Fokus TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/24267
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Food Network
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/26204
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Fox
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16650
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Fox Comedy
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3235
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Golf Channel
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/26575
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",HBO
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/10194
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",HBO 2
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3217
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",HBO 3
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1704
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",HGTV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/23202
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",History
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2719
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",History 2
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16659
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Home TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/276491
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Investigation Discovery
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16686
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",JimJam Polsat
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1696
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Kino Polska
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16691
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Kino Polska Muzyka
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/26209
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Kino TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/24242
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Metro
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/26202
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",MiniMini+
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3231
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Motowizja
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3216
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",MTV Polska
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16689
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",MTV Rocks
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/67657
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",NAT GEO
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1702
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",NAT GEO People
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16663
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",NAT GEO Wild
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/278637
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Nick Junior
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16641
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",nickelodeon
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16647
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Nicktoons
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16646
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Novela TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/192812
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Novelas+
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/276492
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Nowa TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16640
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Nuta TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/84764
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Paramount Channel
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/10190
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",PLANETE+
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1701
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polo TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1700
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polonia 1
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/276494
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3234
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat 2
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3233
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Cafe
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1699
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Doku
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1698
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Film
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1697
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Games
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16668
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Music
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2688
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat News
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2689
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat News 2
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2690
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Play
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2691
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Rodzina
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/26591
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Seriale
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16643
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Sport
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/356
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Sport Extra
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/353
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Sport FIGHT
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/26592
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Sport News
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/355
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Sport Premium 1
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/23199
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Sport Premium 2
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/29607
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Sport Premium 3
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/147031
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Sport Premium 4
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/147034
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Sport Premium 5
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/147035
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Polsat Sport Premium 6
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/147036
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Power TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/10525
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Puls 2
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/26596
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Red Carpet
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/26191
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Romance
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16671
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",sci-fi
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3207
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Sport Klub
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3211
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Stars TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2710
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Stopklatka TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/26190
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",StudioMed TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/193765
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Sundance TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2705
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Super Polsat
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2692
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Superstacja
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/24241
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TBN
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/294467
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Tele 5
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/192814
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TeleToon+
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16644
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TLC
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3210
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Travel Channel
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/24273
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TTV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2696
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TV 4
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3238
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TV 6
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/23198
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TV Kujawy
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/41798
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TV Okazje
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/67589
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TV Puls
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1694
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TV Regionalna
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/280323
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TV Republika
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/18932
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TV Torun
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/41791
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TV TRWAM
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/196356
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVC
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/192105
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVN
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16642
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVN 24
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2682
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVN 24 BiS
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16674
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVN 7
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2683
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVN Fabula
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2684
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVN Style
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/19708
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVN Turbo
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3229
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVP
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/10515
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVP 1
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1693
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVP 2
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1692
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVP Dokument
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/276472
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVP History
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2675
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVP Info
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2674
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVP Kultura
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2678
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVP Polonia
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3208
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVP Rozrywka
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2698
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVP Seriale
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1691
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVP Sport
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3240
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVS
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/78386
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",TVT Zgorzelec
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/294858
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Viasat Explore
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16657
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Viasat History
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16658
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Viasat Nature
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/16661
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",VOD 202
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2728
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",VOD 206
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/296476
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",VOD 208
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/122177
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Vox Music TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1690
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",W Polsce
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/64681
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Warner TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2713
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Water Planet
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/192815
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",WP TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/24244
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Zoom TV
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/24246
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree20"catchup="",Белсат ТВ (Belsat)
+http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/297693
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",13 Ulica
+http://iptvtree.net:8080/F33638/590ef23d/2716
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",4Fun Dance
+http://iptvtree.net:8080/F33638/590ef23d/278633
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",4Fun Kids
+http://iptvtree.net:8080/F33638/590ef23d/2703
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",4Fun TV
+http://iptvtree.net:8080/F33638/590ef23d/2704
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Active Family
+http://iptvtree.net:8080/F33638/590ef23d/67603
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Adventure
+http://iptvtree.net:8080/F33638/590ef23d/37054
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Ale Kino+
+http://iptvtree.net:8080/F33638/590ef23d/339
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",AMC
+http://iptvtree.net:8080/F33638/590ef23d/26539
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",ANIMAL PLANET
+http://iptvtree.net:8080/F33638/590ef23d/1717
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",AXN
+http://iptvtree.net:8080/F33638/590ef23d/3227
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",AXN Black
+http://iptvtree.net:8080/F33638/590ef23d/2715
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",AXN Spin
+http://iptvtree.net:8080/F33638/590ef23d/23186
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",AXN White
+http://iptvtree.net:8080/F33638/590ef23d/340
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",BBC Brit Polska
+http://iptvtree.net:8080/F33638/590ef23d/3206
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",BBC Earth
+http://iptvtree.net:8080/F33638/590ef23d/1716
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",BBC First
+http://iptvtree.net:8080/F33638/590ef23d/26545
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",BBC Lifestyle
+http://iptvtree.net:8080/F33638/590ef23d/122184
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Biznes 24
+http://iptvtree.net:8080/F33638/590ef23d/276488
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Boomerang
+http://iptvtree.net:8080/F33638/590ef23d/10206
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ 1
+http://iptvtree.net:8080/F33638/590ef23d/24247
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ Dokument
+http://iptvtree.net:8080/F33638/590ef23d/2720
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ Domo
+http://iptvtree.net:8080/F33638/590ef23d/2695
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ Family
+http://iptvtree.net:8080/F33638/590ef23d/147180
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ Film
+http://iptvtree.net:8080/F33638/590ef23d/1714
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ Kuchnia
+http://iptvtree.net:8080/F33638/590ef23d/1703
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ Now
+http://iptvtree.net:8080/F33638/590ef23d/122183
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ PLUS SPORT
+http://iptvtree.net:8080/F33638/590ef23d/163161
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ Premium
+http://iptvtree.net:8080/F33638/590ef23d/341
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ Seriale
+http://iptvtree.net:8080/F33638/590ef23d/342
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ Sport
+http://iptvtree.net:8080/F33638/590ef23d/69426
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ Sport 2
+http://iptvtree.net:8080/F33638/590ef23d/343
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ Sport 3
+http://iptvtree.net:8080/F33638/590ef23d/33580
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ Sport 4
+http://iptvtree.net:8080/F33638/590ef23d/78322
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CANAL+ Sport 5
+http://iptvtree.net:8080/F33638/590ef23d/297382
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Cartoon Network
+http://iptvtree.net:8080/F33638/590ef23d/1713
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CBeebies
+http://iptvtree.net:8080/F33638/590ef23d/41868
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CBS Europa
+http://iptvtree.net:8080/F33638/590ef23d/26210
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",CBS Reality
+http://iptvtree.net:8080/F33638/590ef23d/3224
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Cinemax
+http://iptvtree.net:8080/F33638/590ef23d/345
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Cinemax 2
+http://iptvtree.net:8080/F33638/590ef23d/1712
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Comedy Central
+http://iptvtree.net:8080/F33638/590ef23d/16675
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Comedy Central Extra
+http://iptvtree.net:8080/F33638/590ef23d/3222
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Crime+ Investigation
+http://iptvtree.net:8080/F33638/590ef23d/2729
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Da Vinci Kids
+http://iptvtree.net:8080/F33638/590ef23d/25615
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Disco Polo Music
+http://iptvtree.net:8080/F33638/590ef23d/1711
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Discovery History
+http://iptvtree.net:8080/F33638/590ef23d/1710
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Discovery Life Polska
+http://iptvtree.net:8080/F33638/590ef23d/1709
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Discovery Science Polska
+http://iptvtree.net:8080/F33638/590ef23d/10523
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Discovery Turbo Xtra (DTX)
+http://iptvtree.net:8080/F33638/590ef23d/283190
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Discovery World
+http://iptvtree.net:8080/F33638/590ef23d/3230
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Disney Channel
+http://iptvtree.net:8080/F33638/590ef23d/1708
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Disney Junior
+http://iptvtree.net:8080/F33638/590ef23d/16649
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Disney XD
+http://iptvtree.net:8080/F33638/590ef23d/3219
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",dlaCiebie.tv
+http://iptvtree.net:8080/F33638/590ef23d/284780
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",E!
+http://iptvtree.net:8080/F33638/590ef23d/8036
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",ELEVEN SPORTS 1
+http://iptvtree.net:8080/F33638/590ef23d/347
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",ELEVEN SPORTS 2
+http://iptvtree.net:8080/F33638/590ef23d/3643
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",ELEVEN SPORTS 3
+http://iptvtree.net:8080/F33638/590ef23d/3644
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",ELEVEN SPORTS 4
+http://iptvtree.net:8080/F33638/590ef23d/3645
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Epic Drama
+http://iptvtree.net:8080/F33638/590ef23d/2694
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Eska Rock TV
+http://iptvtree.net:8080/F33638/590ef23d/26211
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Eska TV
+http://iptvtree.net:8080/F33638/590ef23d/2707
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Eska TV Extra
+http://iptvtree.net:8080/F33638/590ef23d/281589
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Eurosport 1
+http://iptvtree.net:8080/F33638/590ef23d/348
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Eurosport 2
+http://iptvtree.net:8080/F33638/590ef23d/3218
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Extreme Sports Channel
+http://iptvtree.net:8080/F33638/590ef23d/349
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",FIGHT BOX
+http://iptvtree.net:8080/F33638/590ef23d/350
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",FIGHT Klub
+http://iptvtree.net:8080/F33638/590ef23d/67638
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",FilmBox Action
+http://iptvtree.net:8080/F33638/590ef23d/3232
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",FilmBox Arthouse
+http://iptvtree.net:8080/F33638/590ef23d/1707
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",FilmBox Family
+http://iptvtree.net:8080/F33638/590ef23d/352
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",FilmBox Premium
+http://iptvtree.net:8080/F33638/590ef23d/1705
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Fokus TV
+http://iptvtree.net:8080/F33638/590ef23d/24267
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Food Network
+http://iptvtree.net:8080/F33638/590ef23d/26204
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Fox
+http://iptvtree.net:8080/F33638/590ef23d/16650
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Fox Comedy
+http://iptvtree.net:8080/F33638/590ef23d/3235
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Golf Channel
+http://iptvtree.net:8080/F33638/590ef23d/26575
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",HBO
+http://iptvtree.net:8080/F33638/590ef23d/10194
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",HBO 2
+http://iptvtree.net:8080/F33638/590ef23d/3217
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",HBO 3
+http://iptvtree.net:8080/F33638/590ef23d/1704
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",HGTV
+http://iptvtree.net:8080/F33638/590ef23d/23202
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",History
+http://iptvtree.net:8080/F33638/590ef23d/2719
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",History 2
+http://iptvtree.net:8080/F33638/590ef23d/16659
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Home TV
+http://iptvtree.net:8080/F33638/590ef23d/276491
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Investigation Discovery
+http://iptvtree.net:8080/F33638/590ef23d/16686
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",JimJam Polsat
+http://iptvtree.net:8080/F33638/590ef23d/1696
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Kino Polska
+http://iptvtree.net:8080/F33638/590ef23d/16691
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Kino Polska Muzyka
+http://iptvtree.net:8080/F33638/590ef23d/26209
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Kino TV
+http://iptvtree.net:8080/F33638/590ef23d/24242
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Metro
+http://iptvtree.net:8080/F33638/590ef23d/26202
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",MiniMini+
+http://iptvtree.net:8080/F33638/590ef23d/3231
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Motowizja
+http://iptvtree.net:8080/F33638/590ef23d/3216
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",MTV Polska
+http://iptvtree.net:8080/F33638/590ef23d/16689
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",MTV Rocks
+http://iptvtree.net:8080/F33638/590ef23d/67657
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",NAT GEO
+http://iptvtree.net:8080/F33638/590ef23d/1702
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",NAT GEO People
+http://iptvtree.net:8080/F33638/590ef23d/16663
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",NAT GEO Wild
+http://iptvtree.net:8080/F33638/590ef23d/278637
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Nick Junior
+http://iptvtree.net:8080/F33638/590ef23d/16641
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",nickelodeon
+http://iptvtree.net:8080/F33638/590ef23d/16647
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Nicktoons
+http://iptvtree.net:8080/F33638/590ef23d/16646
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Novela TV
+http://iptvtree.net:8080/F33638/590ef23d/192812
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Novelas+
+http://iptvtree.net:8080/F33638/590ef23d/276492
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Nowa TV
+http://iptvtree.net:8080/F33638/590ef23d/16640
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Nuta TV
+http://iptvtree.net:8080/F33638/590ef23d/84764
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Paramount Channel
+http://iptvtree.net:8080/F33638/590ef23d/10190
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",PLANETE+
+http://iptvtree.net:8080/F33638/590ef23d/1701
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polo TV
+http://iptvtree.net:8080/F33638/590ef23d/1700
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polonia 1
+http://iptvtree.net:8080/F33638/590ef23d/276494
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat
+http://iptvtree.net:8080/F33638/590ef23d/3234
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat 2
+http://iptvtree.net:8080/F33638/590ef23d/3233
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Cafe
+http://iptvtree.net:8080/F33638/590ef23d/1699
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Doku
+http://iptvtree.net:8080/F33638/590ef23d/1698
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Film
+http://iptvtree.net:8080/F33638/590ef23d/1697
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Games
+http://iptvtree.net:8080/F33638/590ef23d/16668
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Music
+http://iptvtree.net:8080/F33638/590ef23d/2688
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat News
+http://iptvtree.net:8080/F33638/590ef23d/2689
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat News 2
+http://iptvtree.net:8080/F33638/590ef23d/2690
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Play
+http://iptvtree.net:8080/F33638/590ef23d/2691
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Rodzina
+http://iptvtree.net:8080/F33638/590ef23d/26591
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Seriale
+http://iptvtree.net:8080/F33638/590ef23d/16643
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Sport
+http://iptvtree.net:8080/F33638/590ef23d/356
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Sport Extra
+http://iptvtree.net:8080/F33638/590ef23d/353
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Sport FIGHT
+http://iptvtree.net:8080/F33638/590ef23d/26592
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Sport News
+http://iptvtree.net:8080/F33638/590ef23d/355
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Sport Premium 1
+http://iptvtree.net:8080/F33638/590ef23d/23199
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Sport Premium 2
+http://iptvtree.net:8080/F33638/590ef23d/29607
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Sport Premium 3
+http://iptvtree.net:8080/F33638/590ef23d/147031
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Sport Premium 4
+http://iptvtree.net:8080/F33638/590ef23d/147034
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Sport Premium 5
+http://iptvtree.net:8080/F33638/590ef23d/147035
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Polsat Sport Premium 6
+http://iptvtree.net:8080/F33638/590ef23d/147036
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Power TV
+http://iptvtree.net:8080/F33638/590ef23d/10525
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Puls 2
+http://iptvtree.net:8080/F33638/590ef23d/26596
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Red Carpet
+http://iptvtree.net:8080/F33638/590ef23d/26191
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Romance
+http://iptvtree.net:8080/F33638/590ef23d/16671
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",sci-fi
+http://iptvtree.net:8080/F33638/590ef23d/3207
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Sport Klub
+http://iptvtree.net:8080/F33638/590ef23d/3211
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Stars TV
+http://iptvtree.net:8080/F33638/590ef23d/2710
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Stopklatka TV
+http://iptvtree.net:8080/F33638/590ef23d/26190
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",StudioMed TV
+http://iptvtree.net:8080/F33638/590ef23d/193765
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Sundance TV
+http://iptvtree.net:8080/F33638/590ef23d/2705
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Super Polsat
+http://iptvtree.net:8080/F33638/590ef23d/2692
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Superstacja
+http://iptvtree.net:8080/F33638/590ef23d/24241
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Tele 5
+http://iptvtree.net:8080/F33638/590ef23d/192814
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TeleToon+
+http://iptvtree.net:8080/F33638/590ef23d/16644
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TLC
+http://iptvtree.net:8080/F33638/590ef23d/3210
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Travel Channel
+http://iptvtree.net:8080/F33638/590ef23d/24273
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TTV
+http://iptvtree.net:8080/F33638/590ef23d/2696
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TV 4
+http://iptvtree.net:8080/F33638/590ef23d/3238
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TV 6
+http://iptvtree.net:8080/F33638/590ef23d/23198
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TV Kujawy
+http://iptvtree.net:8080/F33638/590ef23d/41798
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TV Okazje
+http://iptvtree.net:8080/F33638/590ef23d/67589
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TV Puls
+http://iptvtree.net:8080/F33638/590ef23d/1694
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TV Regionalna
+http://iptvtree.net:8080/F33638/590ef23d/280323
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TV Republika
+http://iptvtree.net:8080/F33638/590ef23d/18932
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TV Torun
+http://iptvtree.net:8080/F33638/590ef23d/41791
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TV TRWAM
+http://iptvtree.net:8080/F33638/590ef23d/196356
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVC
+http://iptvtree.net:8080/F33638/590ef23d/192105
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVN
+http://iptvtree.net:8080/F33638/590ef23d/16642
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVN 24
+http://iptvtree.net:8080/F33638/590ef23d/2682
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVN 24 BiS
+http://iptvtree.net:8080/F33638/590ef23d/16674
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVN 7
+http://iptvtree.net:8080/F33638/590ef23d/2683
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVN Fabula
+http://iptvtree.net:8080/F33638/590ef23d/2684
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVN Style
+http://iptvtree.net:8080/F33638/590ef23d/19708
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVN Turbo
+http://iptvtree.net:8080/F33638/590ef23d/3229
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVP
+http://iptvtree.net:8080/F33638/590ef23d/10515
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVP 1
+http://iptvtree.net:8080/F33638/590ef23d/1693
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVP 2
+http://iptvtree.net:8080/F33638/590ef23d/1692
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVP ABC
+http://iptvtree.net:8080/F33638/590ef23d/2677
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVP Dokument
+http://iptvtree.net:8080/F33638/590ef23d/276472
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVP History
+http://iptvtree.net:8080/F33638/590ef23d/2675
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVP Info
+http://iptvtree.net:8080/F33638/590ef23d/2674
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVP Kultura
+http://iptvtree.net:8080/F33638/590ef23d/2678
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVP Polonia
+http://iptvtree.net:8080/F33638/590ef23d/3208
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVP Rozrywka
+http://iptvtree.net:8080/F33638/590ef23d/2698
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVP Sport
+http://iptvtree.net:8080/F33638/590ef23d/3240
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVS
+http://iptvtree.net:8080/F33638/590ef23d/78386
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",TVT Zgorzelec
+http://iptvtree.net:8080/F33638/590ef23d/294858
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Viasat Explore
+http://iptvtree.net:8080/F33638/590ef23d/16657
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Viasat History
+http://iptvtree.net:8080/F33638/590ef23d/16658
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Viasat Nature
+http://iptvtree.net:8080/F33638/590ef23d/16661
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",VOD 202
+http://iptvtree.net:8080/F33638/590ef23d/2728
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",VOD 206
+http://iptvtree.net:8080/F33638/590ef23d/296476
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",VOD 208
+http://iptvtree.net:8080/F33638/590ef23d/122177
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Vox Music TV
+http://iptvtree.net:8080/F33638/590ef23d/1690
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",W Polsce
+http://iptvtree.net:8080/F33638/590ef23d/64681
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Warner TV
+http://iptvtree.net:8080/F33638/590ef23d/2713
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Water Planet
+http://iptvtree.net:8080/F33638/590ef23d/192815
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",WP TV
+http://iptvtree.net:8080/F33638/590ef23d/24244
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Zoom TV
+http://iptvtree.net:8080/F33638/590ef23d/24246
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="iptvtree21"catchup="",Белсат ТВ (Belsat)
+http://iptvtree.net:8080/F33638/590ef23d/297693
+#EXTINF:-1 tvg-name="13 Ulica"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/87d5e667e5bd556fef0bc1142acc83c3.png"group-title="iptvtree22"catchup="",13 Ulica
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2716
+#EXTINF:-1 tvg-name="4Fun Dance"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/b86ff63a571df5e13957e2136f7b9d2c.png"group-title="iptvtree22"catchup="",4Fun Dance
+http://iptvtree.net:8080/Atharv7733/453e4c0d/278633
+#EXTINF:-1 tvg-name="4Fun Kids"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/def2f373ae714251530c0089cadae7aa.png"group-title="iptvtree22"catchup="",4Fun Kids
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2703
+#EXTINF:-1 tvg-name="4Fun TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/116afa76b6010e7cba01105683acae6c.png"group-title="iptvtree22"catchup="",4Fun TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2704
+#EXTINF:-1 tvg-name="Active Family"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2dfd0147b940c20e05508a4ca3f7e351.png"group-title="iptvtree22"catchup="",Active Family
+http://iptvtree.net:8080/Atharv7733/453e4c0d/67603
+#EXTINF:-1 tvg-name="Adventure"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9001ae89ec0323b232df0e01f167ebda.png"group-title="iptvtree22"catchup="",Adventure
+http://iptvtree.net:8080/Atharv7733/453e4c0d/37054
+#EXTINF:-1 tvg-name="Ale Kino+"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f9aca5b74e9bb34141fc4b9abb06ffe1.png"group-title="iptvtree22"catchup="",Ale Kino+
+http://iptvtree.net:8080/Atharv7733/453e4c0d/339
+#EXTINF:-1 tvg-name="AMC"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2926a999892b88ddfd688a81b56e4206.png"group-title="iptvtree22"catchup="",AMC
+http://iptvtree.net:8080/Atharv7733/453e4c0d/26539
+#EXTINF:-1 tvg-name="ANIMAL PLANET"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/87b6b7c1d370b39e5a27a12190bd4391.png"group-title="iptvtree22"catchup="",ANIMAL PLANET
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1717
+#EXTINF:-1 tvg-name="AXN"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6d1bff8931805727a09ea57291ed398e.png"group-title="iptvtree22"catchup="",AXN
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3227
+#EXTINF:-1 tvg-name="AXN Black"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8940f3afd5ec2bbeac8094b0420af06a.png"group-title="iptvtree22"catchup="",AXN Black
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2715
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-11/02e3a86cb78507312f45c2066db0148c.png"group-title="iptvtree22"catchup="",AXN Spin
+http://iptvtree.net:8080/Atharv7733/453e4c0d/23186
+#EXTINF:-1 tvg-name="AXN White"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6eb591ac493fb0bd7a4814bf32465d74.png"group-title="iptvtree22"catchup="",AXN White
+http://iptvtree.net:8080/Atharv7733/453e4c0d/340
+#EXTINF:-1 tvg-name="Baby TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7fd355c10396e2f04c93ad98e7f9d995.png"group-title="iptvtree22"catchup="",Baby TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/37890
+#EXTINF:-1 tvg-name="BBC Brit Polska"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/031f332d547a4b36b87c51acf5ab985f.png"group-title="iptvtree22"catchup="",BBC Brit Polska
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3206
+#EXTINF:-1 tvg-name="BBC Earth"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/64ffbc139834792691b7c94a448ac112.png"group-title="iptvtree22"catchup="",BBC Earth
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1716
+#EXTINF:-1 tvg-name="BBC First"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/38aafb142bb4b04282e1a277a8fe1298.png"group-title="iptvtree22"catchup="",BBC First
+http://iptvtree.net:8080/Atharv7733/453e4c0d/26545
+#EXTINF:-1 tvg-name="BBC Lifestyle"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a3f3b95b7ae00a43258fb2700198b452.png"group-title="iptvtree22"catchup="",BBC Lifestyle
+http://iptvtree.net:8080/Atharv7733/453e4c0d/122184
+#EXTINF:-1 tvg-name="Biznes 24"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/01caeb85b13a8b9a095cc92368310335.png"group-title="iptvtree22"catchup="",Biznes 24
+http://iptvtree.net:8080/Atharv7733/453e4c0d/276488
+#EXTINF:-1 tvg-name="Boomerang"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5bda1e92679ba8eeb77067b56ad337c6.png"group-title="iptvtree22"catchup="",Boomerang
+http://iptvtree.net:8080/Atharv7733/453e4c0d/10206
+#EXTINF:-1 tvg-name="CANAL+ 1"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/812726221490a0613a84839d98841089.png"group-title="iptvtree22"catchup="",CANAL+ 1
+http://iptvtree.net:8080/Atharv7733/453e4c0d/24247
+#EXTINF:-1 tvg-name="CANAL+ Dokument"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/99d9e118f2944b07b5a917812c16932f.png"group-title="iptvtree22"catchup="",CANAL+ Dokument
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2720
+#EXTINF:-1 tvg-name="CANAL+ Domo"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1c571edf76970e17b081ae170ee4133c.png"group-title="iptvtree22"catchup="",CANAL+ Domo
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2695
+#EXTINF:-1 tvg-name="CANAL+ Family"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/0b0740eb7ff783b99c5e9b91e4107be8.png"group-title="iptvtree22"catchup="",CANAL+ Family
+http://iptvtree.net:8080/Atharv7733/453e4c0d/147180
+#EXTINF:-1 tvg-name="CANAL+ Film"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/54cff68b6254cb66c588ee3eafebf054.png"group-title="iptvtree22"catchup="",CANAL+ Film
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1714
+#EXTINF:-1 tvg-name="CANAL+ Kuchnia"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bd68563b3c37075d8c31177c27a87205.png"group-title="iptvtree22"catchup="",CANAL+ Kuchnia
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1703
+#EXTINF:-1 tvg-name="CANAL+ Now"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e78640bbfdfd6682aaecaf43c138d5f5.png"group-title="iptvtree22"catchup="",CANAL+ Now
+http://iptvtree.net:8080/Atharv7733/453e4c0d/122183
+#EXTINF:-1 tvg-name="CANAL+ PLUS SPORT"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png"group-title="iptvtree22"catchup="",CANAL+ PLUS SPORT
+http://iptvtree.net:8080/Atharv7733/453e4c0d/163161
+#EXTINF:-1 tvg-name="CANAL+ Premium"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/524e80b807006b992f74efd99450afae.png"group-title="iptvtree22"catchup="",CANAL+ Premium
+http://iptvtree.net:8080/Atharv7733/453e4c0d/341
+#EXTINF:-1 tvg-name="CANAL+ Seriale"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fe9e74a82c8c642c4b1bbbcfb2170805.png"group-title="iptvtree22"catchup="",CANAL+ Seriale
+http://iptvtree.net:8080/Atharv7733/453e4c0d/342
+#EXTINF:-1 tvg-name="CANAL+ Sport"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4103f08667719cf9449e3df11e0a27a0.png"group-title="iptvtree22"catchup="",CANAL+ Sport
+http://iptvtree.net:8080/Atharv7733/453e4c0d/69426
+#EXTINF:-1 tvg-name="CANAL+ Sport 2"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/13195a8ec80cfd5754934fa6b004be0d.png"group-title="iptvtree22"catchup="",CANAL+ Sport 2
+http://iptvtree.net:8080/Atharv7733/453e4c0d/343
+#EXTINF:-1 tvg-name="CANAL+ Sport 3"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/0c5a073d3a1fab634642a6235cbb08d4.png"group-title="iptvtree22"catchup="",CANAL+ Sport 3
+http://iptvtree.net:8080/Atharv7733/453e4c0d/33580
+#EXTINF:-1 tvg-name="CANAL+ Sport 4"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/57f01cd46b2f8fb03af711f9db020bb4.png"group-title="iptvtree22"catchup="",CANAL+ Sport 4
+http://iptvtree.net:8080/Atharv7733/453e4c0d/78322
+#EXTINF:-1 tvg-name="CANAL+ Sport 5"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/6b3e922a78ab307d4fc4fc1779a72aa7.png"group-title="iptvtree22"catchup="",CANAL+ Sport 5
+http://iptvtree.net:8080/Atharv7733/453e4c0d/297382
+#EXTINF:-1 tvg-name="Cartoon Network"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0f7da7982fa0b9a48cc669a21cd19cd9.png"group-title="iptvtree22"catchup="",Cartoon Network
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1713
+#EXTINF:-1 tvg-name="CBeebies"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b0600575c26a2c2e55820b1ca7bfcb17.png"group-title="iptvtree22"catchup="",CBeebies
+http://iptvtree.net:8080/Atharv7733/453e4c0d/41868
+#EXTINF:-1 tvg-name="CBS Europa"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f6d2bdaa8e12833479a38d9cf6001237.png"group-title="iptvtree22"catchup="",CBS Europa
+http://iptvtree.net:8080/Atharv7733/453e4c0d/26210
+#EXTINF:-1 tvg-name="CBS Reality"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0bb4b67179871ccbc18d81a74ae8ede9.png"group-title="iptvtree22"catchup="",CBS Reality
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3224
+#EXTINF:-1 tvg-name="Cinemax"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/00ec5e9df167e3baccd58fa840c0518d.png"group-title="iptvtree22"catchup="",Cinemax
+http://iptvtree.net:8080/Atharv7733/453e4c0d/345
+#EXTINF:-1 tvg-name="Cinemax 2"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aa851877eb4a83692647263403412e45.png"group-title="iptvtree22"catchup="",Cinemax 2
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1712
+#EXTINF:-1 tvg-name="Comedy Central"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f04f78fd3deb1fffa14d30ba9c0edaa7.png"group-title="iptvtree22"catchup="",Comedy Central
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16675
+#EXTINF:-1 tvg-name="Comedy Central Extra"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/b75f514f842791e2684788cf4a7f74ed.jpg"group-title="iptvtree22"catchup="",Comedy Central Extra
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3222
+#EXTINF:-1 tvg-name="Crime+ Investigation"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e9db84ebce7eef5d8b91b13883a918be.png"group-title="iptvtree22"catchup="",Crime+ Investigation
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2729
+#EXTINF:-1 tvg-name="Da Vinci Kids"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/7179a7cd6a0f5123d5d1deef81675892.png"group-title="iptvtree22"catchup="",Da Vinci Kids
+http://iptvtree.net:8080/Atharv7733/453e4c0d/25615
+#EXTINF:-1 tvg-name="Disco Polo Music"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12bc2acc704c67e3870ac07d024208a1.png"group-title="iptvtree22"catchup="",Disco Polo Music
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1711
+#EXTINF:-1 tvg-name="Discovery History"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e4546f701d423acc4cafdfad8454c28a.png"group-title="iptvtree22"catchup="",Discovery History
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1710
+#EXTINF:-1 tvg-name="Discovery Life Polska"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bcac66fa5dc49504f86569f6f83ec32e.png"group-title="iptvtree22"catchup="",Discovery Life Polska
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1709
+#EXTINF:-1 tvg-name="Discovery Science Polska"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f819bf88e9a61dc95cda148b2f127d47.png"group-title="iptvtree22"catchup="",Discovery Science Polska
+http://iptvtree.net:8080/Atharv7733/453e4c0d/10523
+#EXTINF:-1 tvg-name="Discovery Turbo Xtra (DTX)"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/ad2248ed73515048617dfac5243457f8.png"group-title="iptvtree22"catchup="",Discovery Turbo Xtra (DTX)
+http://iptvtree.net:8080/Atharv7733/453e4c0d/283190
+#EXTINF:-1 tvg-name="Discovery World"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5e3085bfa0a23c71340c2ecb0d3a2e4d.png"group-title="iptvtree22"catchup="",Discovery World
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3230
+#EXTINF:-1 tvg-name="Disney Channel"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7100d013931ad704c97e4082742171b2.png"group-title="iptvtree22"catchup="",Disney Channel
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1708
+#EXTINF:-1 tvg-name="Disney Junior"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b1ba4b81984b558b833b12792b131211.png"group-title="iptvtree22"catchup="",Disney Junior
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16649
+#EXTINF:-1 tvg-name="Disney XD"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/feb43bd0e37c845f765b10e13ee750d1.png"group-title="iptvtree22"catchup="",Disney XD
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3219
+#EXTINF:-1 tvg-name="E!"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/df1a70bb2d54964cc1e27ec414a01f40.png"group-title="iptvtree22"catchup="",E!
+http://iptvtree.net:8080/Atharv7733/453e4c0d/8036
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6dbad401029775c28d9e7df7bbc58e81.png"group-title="iptvtree22"catchup="",ELEVEN SPORTS 1
+http://iptvtree.net:8080/Atharv7733/453e4c0d/347
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0fe5b9578692f9baaeace94f995cc585.png"group-title="iptvtree22"catchup="",ELEVEN SPORTS 2
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3643
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8ffe0919e6125a450c32ae08aa5ab282.png"group-title="iptvtree22"catchup="",ELEVEN SPORTS 3
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3644
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/41ec41ec81476d5663826a743938b397.png"group-title="iptvtree22"catchup="",ELEVEN SPORTS 4
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3645
+#EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/97b6e81871f08495122a28e92e64e3ea.png"group-title="iptvtree22"catchup="",Epic Drama
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2694
+#EXTINF:-1 tvg-name="Eska Rock TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fdfc787712f69fa59f4903bcf822ed02.png"group-title="iptvtree22"catchup="",Eska Rock TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/26211
+#EXTINF:-1 tvg-name="Eska TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cea651a34ce3e6cf04316e5c6f58e8f3.png"group-title="iptvtree22"catchup="",Eska TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2707
+#EXTINF:-1 tvg-name="Eska TV Extra"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/63eddfafa832d6d678a7af7a182796f7.png"group-title="iptvtree22"catchup="",Eska TV Extra
+http://iptvtree.net:8080/Atharv7733/453e4c0d/281589
+#EXTINF:-1 tvg-name="Eurosport 1"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0558215aed968675061b7626e36d357e.png"group-title="iptvtree22"catchup="",Eurosport 1
+http://iptvtree.net:8080/Atharv7733/453e4c0d/348
+#EXTINF:-1 tvg-name="Eurosport 2"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cc3435593970b51fb9f5ee07e41bf4d8.png"group-title="iptvtree22"catchup="",Eurosport 2
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3218
+#EXTINF:-1 tvg-name="Extreme Sports Channel"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/566a8b323a7919b14ce15ac97f649bdf.png"group-title="iptvtree22"catchup="",Extreme Sports Channel
+http://iptvtree.net:8080/Atharv7733/453e4c0d/349
+#EXTINF:-1 tvg-name="FIGHT BOX"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/94bc6cae7e751f5d7d5bb3bb5d459aff.png"group-title="iptvtree22"catchup="",FIGHT BOX
+http://iptvtree.net:8080/Atharv7733/453e4c0d/350
+#EXTINF:-1 tvg-name="FIGHT Klub"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/97f3ed75795cf15a6c66a0d8303b6729.png"group-title="iptvtree22"catchup="",FIGHT Klub
+http://iptvtree.net:8080/Atharv7733/453e4c0d/67638
+#EXTINF:-1 tvg-name="FilmBox Action"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f3e96520e87187259d13fcf3be23c44d.png"group-title="iptvtree22"catchup="",FilmBox Action
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3232
+#EXTINF:-1 tvg-name="FilmBox Arthouse"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/06b376e60da4b4479d958aa3f427b2ec.png"group-title="iptvtree22"catchup="",FilmBox Arthouse
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1707
+#EXTINF:-1 tvg-name="FilmBox Extra"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5dcf2b8a5ed73d5ee29bbbbe3c74fde2.png"group-title="iptvtree22"catchup="",FilmBox Extra
+http://iptvtree.net:8080/Atharv7733/453e4c0d/351
+#EXTINF:-1 tvg-name="FilmBox Family"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7122de08b0f6eb7be80ceddd567e6447.png"group-title="iptvtree22"catchup="",FilmBox Family
+http://iptvtree.net:8080/Atharv7733/453e4c0d/352
+#EXTINF:-1 tvg-name="FilmBox Premium"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/387f32afc3f9f0c890062c773ffd4a79.png"group-title="iptvtree22"catchup="",FilmBox Premium
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1705
+#EXTINF:-1 tvg-name="Fokus TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/99d1f27fdb5cb0731d74a3f645e88bf0.png"group-title="iptvtree22"catchup="",Fokus TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/24267
+#EXTINF:-1 tvg-name="Food Network"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a1960a99e21c7401a53f324ed2eb45b0.png"group-title="iptvtree22"catchup="",Food Network
+http://iptvtree.net:8080/Atharv7733/453e4c0d/26204
+#EXTINF:-1 tvg-name="Fox"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bc0ba2ddc1c12bf2b586815f4e15a6eb.png"group-title="iptvtree22"catchup="",Fox
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16650
+#EXTINF:-1 tvg-name="Fox Comedy"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8c3f1b681c6b9a7ec6f6a1617253a8ad.png"group-title="iptvtree22"catchup="",Fox Comedy
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3235
+#EXTINF:-1 tvg-name="Golf Channel"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5901f5d9b6bb1640c6e7e8a1b44e138e.png"group-title="iptvtree22"catchup="",Golf Channel
+http://iptvtree.net:8080/Atharv7733/453e4c0d/26575
+#EXTINF:-1 tvg-name="HBO"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c4d90a7b367c6e93d21799f35035780e.png"group-title="iptvtree22"catchup="",HBO
+http://iptvtree.net:8080/Atharv7733/453e4c0d/10194
+#EXTINF:-1 tvg-name="HBO 2"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0b078594e24efd2cb21bbcadb76326aa.png"group-title="iptvtree22"catchup="",HBO 2
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3217
+#EXTINF:-1 tvg-name="HBO 3"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2ad95e28c20ce8d36b7b60924a0f8a35.png"group-title="iptvtree22"catchup="",HBO 3
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1704
+#EXTINF:-1 tvg-name="HGTV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5ca903470e4da3dcaf2d5fdae1e319a5.png"group-title="iptvtree22"catchup="",HGTV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/23202
+#EXTINF:-1 tvg-name="History"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3252380059b657ef423b13734fd62442.png"group-title="iptvtree22"catchup="",History
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2719
+#EXTINF:-1 tvg-name="History 2"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5aa694a3fce9da81b67fd2f39f7e6bb0.png"group-title="iptvtree22"catchup="",History 2
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16659
+#EXTINF:-1 tvg-name="Home TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/f154530ae936ea58ea50ce67018f5784.png"group-title="iptvtree22"catchup="",Home TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/276491
+#EXTINF:-1 tvg-name="Investigation Discovery"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6b9bfa6ab7160b4440f4cfaf5df7387b.png"group-title="iptvtree22"catchup="",Investigation Discovery
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16686
+#EXTINF:-1 tvg-name="JimJam Polsat"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/845f4c07817c175e823d9086532ec51b.png"group-title="iptvtree22"catchup="",JimJam Polsat
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1696
+#EXTINF:-1 tvg-name="Kino Polska"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/674d6c2fdf5877196c504cf13d9096e8.png"group-title="iptvtree22"catchup="",Kino Polska
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16691
+#EXTINF:-1 tvg-name="Kino Polska Muzyka"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f2cd3b54e14f83d074ebd18b75d251cf.png"group-title="iptvtree22"catchup="",Kino Polska Muzyka
+http://iptvtree.net:8080/Atharv7733/453e4c0d/26209
+#EXTINF:-1 tvg-name="Kino TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-11/fd99e74e93edfb34e8bd0b51f2de8809.png"group-title="iptvtree22"catchup="",Kino TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/24242
+#EXTINF:-1 tvg-name="Metro"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/117d789ad96bae2c1e98539588cb315f.png"group-title="iptvtree22"catchup="",Metro
+http://iptvtree.net:8080/Atharv7733/453e4c0d/26202
+#EXTINF:-1 tvg-name="MiniMini+"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/86f5712162a0e49be151a5b16e2fdc49.png"group-title="iptvtree22"catchup="",MiniMini+
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3231
+#EXTINF:-1 tvg-name="Motowizja"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fa1e7ccd88c76e588efc31137d5c2e29.png"group-title="iptvtree22"catchup="",Motowizja
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3216
+#EXTINF:-1 tvg-name="MTV Polska"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b5ba95468faf2a01e2dfc0063f37c87e.png"group-title="iptvtree22"catchup="",MTV Polska
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16689
+#EXTINF:-1 tvg-name="MTV Rocks"tvg-id=""tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png"group-title="iptvtree22"catchup="",MTV Rocks
+http://iptvtree.net:8080/Atharv7733/453e4c0d/67657
+#EXTINF:-1 tvg-name="NAT GEO"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f3e07007a40c8cfbb9b1f3da67edc37a.png"group-title="iptvtree22"catchup="",NAT GEO
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1702
+#EXTINF:-1 tvg-name="NAT GEO People"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/84d273256ce861d31dbe7c3df444e1c0.png"group-title="iptvtree22"catchup="",NAT GEO People
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16663
+#EXTINF:-1 tvg-name="NAT GEO Wild"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ac4845bdac7ba84eed8649971e472708.png"group-title="iptvtree22"catchup="",NAT GEO Wild
+http://iptvtree.net:8080/Atharv7733/453e4c0d/278637
+#EXTINF:-1 tvg-name="Nick Junior"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e7f38e78c7bb189b1c59b905083968a4.png"group-title="iptvtree22"catchup="",Nick Junior
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16641
+#EXTINF:-1 tvg-name="nickelodeon"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1cb2153d9ccfa9c04096fd5a5f2ee276.png"group-title="iptvtree22"catchup="",nickelodeon
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16647
+#EXTINF:-1 tvg-name="Nicktoons"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9cf6bb54ada3e7419482592825868c39.png"group-title="iptvtree22"catchup="",Nicktoons
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16646
+#EXTINF:-1 tvg-name="Novela TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9210ebe280367fec6fff0412a48f0744.png"group-title="iptvtree22"catchup="",Novela TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/192812
+#EXTINF:-1 tvg-name="Novelas+"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/44ba9e0550a40247e7f9328535dfb544.png"group-title="iptvtree22"catchup="",Novelas+
+http://iptvtree.net:8080/Atharv7733/453e4c0d/276492
+#EXTINF:-1 tvg-name="Nowa TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c17e136f9688ba8d2fde4011f19bfad5.png"group-title="iptvtree22"catchup="",Nowa TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16640
+#EXTINF:-1 tvg-name="Nuta TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/061cadc41946cea6d87a7305e5f503d5.png"group-title="iptvtree22"catchup="",Nuta TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/84764
+#EXTINF:-1 tvg-name="Paramount Channel"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5cd24c29d3aa4cf6a05c08a2db55a8a7.png"group-title="iptvtree22"catchup="",Paramount Channel
+http://iptvtree.net:8080/Atharv7733/453e4c0d/10190
+#EXTINF:-1 tvg-name="PLANETE+"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/18681e22c9484d067d77048b1ec60a0d.png"group-title="iptvtree22"catchup="",PLANETE+
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1701
+#EXTINF:-1 tvg-name="Polo TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b73864ce8364cbc604827060b5270953.png"group-title="iptvtree22"catchup="",Polo TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1700
+#EXTINF:-1 tvg-name="Polonia 1"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/c57a1054106de8213c8c37518933d987.png"group-title="iptvtree22"catchup="",Polonia 1
+http://iptvtree.net:8080/Atharv7733/453e4c0d/276494
+#EXTINF:-1 tvg-name="Polsat"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1bf0509dca0ebab85591041d55d7ea21.png"group-title="iptvtree22"catchup="",Polsat
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3234
+#EXTINF:-1 tvg-name="Polsat 2"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ad31ca903fd9927e8e2aee2a55452cc5.png"group-title="iptvtree22"catchup="",Polsat 2
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3233
+#EXTINF:-1 tvg-name="Polsat Cafe"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/708a3b64f0641cbebba99b5d3f6de9ef.png"group-title="iptvtree22"catchup="",Polsat Cafe
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1699
+#EXTINF:-1 tvg-name="Polsat Doku"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fceb2e61aafa436659806dda2d402462.png"group-title="iptvtree22"catchup="",Polsat Doku
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1698
+#EXTINF:-1 tvg-name="Polsat Film"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5191cc9d3fd863e5639d2a767ceda84e.png"group-title="iptvtree22"catchup="",Polsat Film
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1697
+#EXTINF:-1 tvg-name="Polsat Games"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d2b386ce6e6872cbba6bc060c62f8a26.png"group-title="iptvtree22"catchup="",Polsat Games
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16668
+#EXTINF:-1 tvg-name="Polsat Music"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8b6f92120f1bdb7adfc3a921a1e55e7d.png"group-title="iptvtree22"catchup="",Polsat Music
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2688
+#EXTINF:-1 tvg-name="Polsat News"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/6415c9aa1febe0fc675e302ad532582c.png"group-title="iptvtree22"catchup="",Polsat News
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2689
+#EXTINF:-1 tvg-name="Polsat News 2"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/970c9f8ca680e6ae94d0ab573b9e201c.jpg"group-title="iptvtree22"catchup="",Polsat News 2
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2690
+#EXTINF:-1 tvg-name="Polsat Play"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/2887139f17d4dc137a82b9b8f0f3f9ae.png"group-title="iptvtree22"catchup="",Polsat Play
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2691
+#EXTINF:-1 tvg-name="Polsat Rodzina"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/0bfcda9d76eb3edd5e0509fbfa345a46.png"group-title="iptvtree22"catchup="",Polsat Rodzina
+http://iptvtree.net:8080/Atharv7733/453e4c0d/26591
+#EXTINF:-1 tvg-name="Polsat Seriale"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/a0dca224f649cbb123e8b05aeff68561.png"group-title="iptvtree22"catchup="",Polsat Seriale
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16643
+#EXTINF:-1 tvg-name="Polsat Sport"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f3f3f2765b30bb460c9f2c07a2303b90.png"group-title="iptvtree22"catchup="",Polsat Sport
+http://iptvtree.net:8080/Atharv7733/453e4c0d/356
+#EXTINF:-1 tvg-name="Polsat Sport Extra"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ab6b2174511b2261698dc982b3123556.png"group-title="iptvtree22"catchup="",Polsat Sport Extra
+http://iptvtree.net:8080/Atharv7733/453e4c0d/353
+#EXTINF:-1 tvg-name="Polsat Sport FIGHT"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/004ea7bb81589ce24fbeb5aae3ee1a3c.png"group-title="iptvtree22"catchup="",Polsat Sport FIGHT
+http://iptvtree.net:8080/Atharv7733/453e4c0d/26592
+#EXTINF:-1 tvg-name="Polsat Sport News"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1a0067670263c42a460b113615cfd80a.png"group-title="iptvtree22"catchup="",Polsat Sport News
+http://iptvtree.net:8080/Atharv7733/453e4c0d/355
+#EXTINF:-1 tvg-name="Polsat Sport Premium 1"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/36b09d18656255ec922fb2c5d324f58c.png"group-title="iptvtree22"catchup="",Polsat Sport Premium 1
+http://iptvtree.net:8080/Atharv7733/453e4c0d/23199
+#EXTINF:-1 tvg-name="Polsat Sport Premium 2"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/22f29148c61f543ed4083efeeacf931e.png"group-title="iptvtree22"catchup="",Polsat Sport Premium 2
+http://iptvtree.net:8080/Atharv7733/453e4c0d/29607
+#EXTINF:-1 tvg-name="Polsat Sport Premium 3"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e1ec5f267ca1decde0d9e51925976033.png"group-title="iptvtree22"catchup="",Polsat Sport Premium 3
+http://iptvtree.net:8080/Atharv7733/453e4c0d/147031
+#EXTINF:-1 tvg-name="Polsat Sport Premium 4"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2370076885bf3c96a4e14c15ceba0409.png"group-title="iptvtree22"catchup="",Polsat Sport Premium 4
+http://iptvtree.net:8080/Atharv7733/453e4c0d/147034
+#EXTINF:-1 tvg-name="Polsat Sport Premium 5"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/14bd016816e1cbf9669f1b542435f135.png"group-title="iptvtree22"catchup="",Polsat Sport Premium 5
+http://iptvtree.net:8080/Atharv7733/453e4c0d/147035
+#EXTINF:-1 tvg-name="Polsat Sport Premium 6"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c404f889f4046f09e2dca333dea70f2.png"group-title="iptvtree22"catchup="",Polsat Sport Premium 6
+http://iptvtree.net:8080/Atharv7733/453e4c0d/147036
+#EXTINF:-1 tvg-name="Power TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0fd8c7c5668f04857e8319ae4f48eb50.png"group-title="iptvtree22"catchup="",Power TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/10525
+#EXTINF:-1 tvg-name="Puls 2"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/190515a04fd9282a2c43182c9de726d9.png"group-title="iptvtree22"catchup="",Puls 2
+http://iptvtree.net:8080/Atharv7733/453e4c0d/26596
+#EXTINF:-1 tvg-name="Red Carpet"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0b5f1bab21d26dc3973f6a66ab5c70be.png"group-title="iptvtree22"catchup="",Red Carpet
+http://iptvtree.net:8080/Atharv7733/453e4c0d/26191
+#EXTINF:-1 tvg-name="Romance"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/6601f235a4820046115c5e3a6fbf8bd4.png"group-title="iptvtree22"catchup="",Romance
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16671
+#EXTINF:-1 tvg-name="sci-fi"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/cf7e12625ebab813aa4a5ab714ad1e32.png"group-title="iptvtree22"catchup="",sci-fi
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3207
+#EXTINF:-1 tvg-name="Sport Klub"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/d680eb597fdb3c1a0f42c96bf0cb5a54.png"group-title="iptvtree22"catchup="",Sport Klub
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3211
+#EXTINF:-1 tvg-name="Stars TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4c2306256f4d1f46460fe4dc2e8df79d.png"group-title="iptvtree22"catchup="",Stars TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2710
+#EXTINF:-1 tvg-name="Stopklatka TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/01239468e8e1173fc37f6151d9281ba6.png"group-title="iptvtree22"catchup="",Stopklatka TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/26190
+#EXTINF:-1 tvg-name="StudioMed TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b822f19324f1b2cde5b0b84d87faff8d.png"group-title="iptvtree22"catchup="",StudioMed TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/193765
+#EXTINF:-1 tvg-name="Sundance TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/be33cc805bc784ae650135818850ca10.png"group-title="iptvtree22"catchup="",Sundance TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2705
+#EXTINF:-1 tvg-name="Super Polsat"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/96eb6c90f96d4ad6c95e09981436dd95.png"group-title="iptvtree22"catchup="",Super Polsat
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2692
+#EXTINF:-1 tvg-name="Superstacja"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f8b3b923f145c1a8bd799c873e52e0b1.png"group-title="iptvtree22"catchup="",Superstacja
+http://iptvtree.net:8080/Atharv7733/453e4c0d/24241
+#EXTINF:-1 tvg-name="TBN"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/fb6e866b7a2955e82189488f619d2f73.jpeg"group-title="iptvtree22"catchup="",TBN
+http://iptvtree.net:8080/Atharv7733/453e4c0d/294467
+#EXTINF:-1 tvg-name="Tele 5"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6af61f36616ce9dc6b150a79969106d2.png"group-title="iptvtree22"catchup="",Tele 5
+http://iptvtree.net:8080/Atharv7733/453e4c0d/192814
+#EXTINF:-1 tvg-name="TeleToon+"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3aa9133ff3c527c25c7f926f749af06a.png"group-title="iptvtree22"catchup="",TeleToon+
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16644
+#EXTINF:-1 tvg-name="TLC"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4f6c18833fe32e3a6f1769bfa102c712.png"group-title="iptvtree22"catchup="",TLC
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3210
+#EXTINF:-1 tvg-name="Travel Channel"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/285510ea8e1b512592ce34b110ad684d.png"group-title="iptvtree22"catchup="",Travel Channel
+http://iptvtree.net:8080/Atharv7733/453e4c0d/24273
+#EXTINF:-1 tvg-name="TTV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/15fc8247ab6dc5342f7dc4ca988b1115.png"group-title="iptvtree22"catchup="",TTV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2696
+#EXTINF:-1 tvg-name="TV 4"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7d349571a026c62598f2b46b6636d7aa.png"group-title="iptvtree22"catchup="",TV 4
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3238
+#EXTINF:-1 tvg-name="TV 6"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2c5f04c827ede67752b5a5830590f616.png"group-title="iptvtree22"catchup="",TV 6
+http://iptvtree.net:8080/Atharv7733/453e4c0d/23198
+#EXTINF:-1 tvg-name="TV Puls"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/af5d701870db3734f68dc56f34ede6cc.png"group-title="iptvtree22"catchup="",TV Puls
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1694
+#EXTINF:-1 tvg-name="TV Regionalna"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png"group-title="iptvtree22"catchup="",TV Regionalna
+http://iptvtree.net:8080/Atharv7733/453e4c0d/280323
+#EXTINF:-1 tvg-name="TV Republika"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/631373898d7a2282bfd80c9477a186d1.png"group-title="iptvtree22"catchup="",TV Republika
+http://iptvtree.net:8080/Atharv7733/453e4c0d/18932
+#EXTINF:-1 tvg-name="TV Torun"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/8d33ae433eaaf8d8b5b16d99645a69fd.png"group-title="iptvtree22"catchup="",TV Torun
+http://iptvtree.net:8080/Atharv7733/453e4c0d/41791
+#EXTINF:-1 tvg-name="TV TRWAM"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/3ed508e70ca33943ea85c89c720173ba.png"group-title="iptvtree22"catchup="",TV TRWAM
+http://iptvtree.net:8080/Atharv7733/453e4c0d/196356
+#EXTINF:-1 tvg-name="TVC"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/106cd621d6f564c28b0da2289867c985.png"group-title="iptvtree22"catchup="",TVC
+http://iptvtree.net:8080/Atharv7733/453e4c0d/192105
+#EXTINF:-1 tvg-name="TVN"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0e6061e9b1e8f09b8157c3ba1beb67e2.png"group-title="iptvtree22"catchup="",TVN
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16642
+#EXTINF:-1 tvg-name="TVN 24"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/da21b9203986193c046a6749874e2296.png"group-title="iptvtree22"catchup="",TVN 24
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2682
+#EXTINF:-1 tvg-name="TVN 24 BiS"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/ed882067f248a4cb08dedf4131a4993f.png"group-title="iptvtree22"catchup="",TVN 24 BiS
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16674
+#EXTINF:-1 tvg-name="TVN 7"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c4322b69c49c3893efe6ec27976603e7.png"group-title="iptvtree22"catchup="",TVN 7
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2683
+#EXTINF:-1 tvg-name="TVN Fabula"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d57f0e760f2562daa1d235bdcfb4ac28.png"group-title="iptvtree22"catchup="",TVN Fabula
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2684
+#EXTINF:-1 tvg-name="TVN Style"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d31a9964df7d5eae90a99d76db384ee6.png"group-title="iptvtree22"catchup="",TVN Style
+http://iptvtree.net:8080/Atharv7733/453e4c0d/19708
+#EXTINF:-1 tvg-name="TVN Turbo"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ab67e74b7ce8a0a8e73e5625898b3ea2.png"group-title="iptvtree22"catchup="",TVN Turbo
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3229
+#EXTINF:-1 tvg-name="TVP"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/14dfbcac09b4e07f8fad57a4ace98966.png"group-title="iptvtree22"catchup="",TVP
+http://iptvtree.net:8080/Atharv7733/453e4c0d/10515
+#EXTINF:-1 tvg-name="TVP 1"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/794ead2df72cd69a108a301b8be4d655.png"group-title="iptvtree22"catchup="",TVP 1
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1693
+#EXTINF:-1 tvg-name="TVP 2"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/24a00e4280e41aa5abd59c4861bc3e4f.png"group-title="iptvtree22"catchup="",TVP 2
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1692
+#EXTINF:-1 tvg-name="TVP ABC"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c1993fd53d5eeb9a3def6a608ea267dd.png"group-title="iptvtree22"catchup="",TVP ABC
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2677
+#EXTINF:-1 tvg-name="TVP Dokument"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/9e3a7084de207366ff1d5ef7422da7cb.png"group-title="iptvtree22"catchup="",TVP Dokument
+http://iptvtree.net:8080/Atharv7733/453e4c0d/276472
+#EXTINF:-1 tvg-name="TVP History"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6552f2cce0d6a8ee371d17ce8ed79ecf.png"group-title="iptvtree22"catchup="",TVP History
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2675
+#EXTINF:-1 tvg-name="TVP Info"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/96439cf2be2ae76b1018aef648b32c2f.png"group-title="iptvtree22"catchup="",TVP Info
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2674
+#EXTINF:-1 tvg-name="TVP Kultura"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/448901fd717fd24520d0cbd4db49e099.png"group-title="iptvtree22"catchup="",TVP Kultura
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2678
+#EXTINF:-1 tvg-name="TVP Polonia"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/4d5d8d496223b4149d0212bd5eb451e0.png"group-title="iptvtree22"catchup="",TVP Polonia
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3208
+#EXTINF:-1 tvg-name="TVP Rozrywka"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/087e2f38b1ceeed2f8f06c2a3eac713e.png"group-title="iptvtree22"catchup="",TVP Rozrywka
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2698
+#EXTINF:-1 tvg-name="TVP Seriale"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/65712b55f0b5b27aeb3c0a9c87718e6b.png"group-title="iptvtree22"catchup="",TVP Seriale
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1691
+#EXTINF:-1 tvg-name="TVP Sport"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a1062d71be753ce76c06705131811c3e.png"group-title="iptvtree22"catchup="",TVP Sport
+http://iptvtree.net:8080/Atharv7733/453e4c0d/3240
+#EXTINF:-1 tvg-name="TVS"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4804e7bb873143d8432c2fc55304730f.png"group-title="iptvtree22"catchup="",TVS
+http://iptvtree.net:8080/Atharv7733/453e4c0d/78386
+#EXTINF:-1 tvg-name="TVT Zgorzelec"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/5dfcc55c4b088d025b9e81e96dd4adc5.jpeg"group-title="iptvtree22"catchup="",TVT Zgorzelec
+http://iptvtree.net:8080/Atharv7733/453e4c0d/294858
+#EXTINF:-1 tvg-name="Viasat Explore"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dccf90171da20bbc807f4f0a4b1b4416.png"group-title="iptvtree22"catchup="",Viasat Explore
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16657
+#EXTINF:-1 tvg-name="Viasat History"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a699fc4ea63e6da646c0feb2cf636418.png"group-title="iptvtree22"catchup="",Viasat History
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16658
+#EXTINF:-1 tvg-name="Viasat Nature"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7d872abdfa2ac547ecc3408dcf341767.png"group-title="iptvtree22"catchup="",Viasat Nature
+http://iptvtree.net:8080/Atharv7733/453e4c0d/16661
+#EXTINF:-1 tvg-name="VOD 202"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6aa5fffeb2f6698cb90711c9687d9c3f.png"group-title="iptvtree22"catchup="",VOD 202
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2728
+#EXTINF:-1 tvg-name="VOD 206"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/62bf21d0bb21fbc03d357edcfce505f4.png"group-title="iptvtree22"catchup="",VOD 206
+http://iptvtree.net:8080/Atharv7733/453e4c0d/296476
+#EXTINF:-1 tvg-name="VOD 208"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/f7999baf5393a83ac0329c5ffebe2181.png"group-title="iptvtree22"catchup="",VOD 208
+http://iptvtree.net:8080/Atharv7733/453e4c0d/122177
+#EXTINF:-1 tvg-name="Vox Music TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1e605c6c704997355a9ada5659e95f42.png"group-title="iptvtree22"catchup="",Vox Music TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/1690
+#EXTINF:-1 tvg-name="W Polsce"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/21bc67acfe9926129ed017b57c31bc08.png"group-title="iptvtree22"catchup="",W Polsce
+http://iptvtree.net:8080/Atharv7733/453e4c0d/64681
+#EXTINF:-1 tvg-name="Warner TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/a92d9a728202c85ec107f2730c7c46b9.jpg"group-title="iptvtree22"catchup="",Warner TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/2713
+#EXTINF:-1 tvg-name="Water Planet"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0055e22b545f65d5c1427243570c0310.png"group-title="iptvtree22"catchup="",Water Planet
+http://iptvtree.net:8080/Atharv7733/453e4c0d/192815
+#EXTINF:-1 tvg-name="WP TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a8f93e5c9221d18fd90a539f6fa7506d.png"group-title="iptvtree22"catchup="",WP TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/24244
+#EXTINF:-1 tvg-name="Zoom TV"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/515fbca039b0382bee7f002998ff7fa1.png"group-title="iptvtree22"catchup="",Zoom TV
+http://iptvtree.net:8080/Atharv7733/453e4c0d/24246
+#EXTINF:-1 tvg-name="Белсат ТВ (Belsat)"tvg-id=""tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1803840f05419e6d5b132a5d7c048148.svg"group-title="iptvtree22"catchup="",Белсат ТВ (Belsat)
+http://iptvtree.net:8080/Atharv7733/453e4c0d/297693
