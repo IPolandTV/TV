@@ -3,10 +3,6 @@ POLSKA IPTV 2023
 https://bit.ly/IPTV-PL
 ```
 
-Pomniejszona lista dla KODI
-```
-https://bit.ly/KODI-IPTV
-```
 
 Aktualizuje przynajmniej raz w tygodniu.
 
