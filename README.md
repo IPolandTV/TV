@@ -1,6 +1,11 @@
-POLSKA IPTV 2023
+POLSKA IPTV 2023 (grupy zródłami)
 ```
 https://bit.ly/IPTV-PL
+```
+
+POLSKA IPTV 2024 (grupy kanałami)
+```
+https://bit.ly/IPTVPL
 ```
 
 
