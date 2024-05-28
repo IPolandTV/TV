@@ -8,6 +8,10 @@ POLSKA IPTV 2024 (grupy kanałami)
 https://bit.ly/IPTVPL
 ```
 
+DE IPTV 2024 (grupy kanałami)
+```
+https://bit.ly/DE-IPTV
+```
 
 Aktualizuje przynajmniej raz w tygodniu.
 
