@@ -3,22 +3,12 @@
 https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",13th Street HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4629.ts
-#EXTINF:-1 tvg-name="13TH STREET HD"tvg-id=""tvg-logo="http://vodkom.com:25461/Logo/NEW/13th_Street_HD.png"group-title="IPTV DE by YinYang",13TH STREET HD
-http://sansat.net:88/02020041118041/9762135664/116470
-#EXTINF:-1 tvg-name="13TH STREET HD"tvg-id=""tvg-logo="http://vodkom.com:25461/Logo/NEW/13th_Street_HD.png"group-title="IPTV DE by YinYang",13TH STREET HD
-http://sansat.net:88/02020571466379/CVSPUAFBQVGY6U3/116470
-#EXTINF:-1 tvg-name="13TH STREET HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_7F_D_85_C00000_0_0_0.png"group-title="IPTV DE by YinYang",13TH STREET HD
-http://sansat.net:88/02020647544536/02020647544536/55784
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",3 sat HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxeLQglvQ7AGQCsJhMkrig4g/ts
 #EXTINF:-1 tvg-name="3sat"tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png"group-title="IPTV DE by YinYang",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",3Sat HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/16517.ts
-#EXTINF:-1 tvg-name="4K: BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)"tvg-id=""tvg-logo="http://vodkom.com:25461/Logo/NEW/Sky_Sport_Bundesliga_7_HD.png"group-title="IPTV DE by YinYang",4K: BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/02020647544536/02020647544536/116404
-#EXTINF:-1 tvg-name="4K: TNT COMEDY HD"tvg-id=""tvg-logo="http://vodkom.com:25461/Logo/NEW/"group-title="IPTV DE by YinYang",4K: TNT COMEDY HD
-http://sansat.net:88/02020647544536/02020647544536/116492
 #EXTINF:-1 tvg-name="a.tv"tvg-id="a.tv.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png"group-title="IPTV DE by YinYang",a.tv
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="ALEX Berlin"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png"group-title="IPTV DE by YinYang",ALEX Berlin
@@ -31,8 +21,6 @@ http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxcgpG1YSnLuZoPnkI8Pc348/ts
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxa1nRj-ZKm523yBWmNwXV_w/ts
 #EXTINF:-1 tvg-name="ANIXE HD"tvg-id="Anixe.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png"group-title="IPTV DE by YinYang",ANIXE HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-name="ANIXE HD"tvg-id=""tvg-logo="http://vodkom.com:25461/Logo/NEW/ANIXE_HD.png"group-title="IPTV DE by YinYang",ANIXE HD
-http://sansat.net:88/02020215638484/3142416589/116388
 #EXTINF:-1 tvg-name="ARD Event 2"tvg-id="ARDEvent2.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png"group-title="IPTV DE by YinYang",ARD Event 2
 https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
 #EXTINF:-1 tvg-name="ARD-alpha"tvg-id="ARD-alpha.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png"group-title="IPTV DE by YinYang",ARD-alpha
@@ -55,16 +43,10 @@ https://arteconcerthls.akamaized.net/hls/live/2025499/channel06/master.m3u8
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4738.ts
 #EXTINF:-1 tvg-name="ARTE HD"tvg-id="ARTE.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png"group-title="IPTV DE by YinYang",ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Arte HD RAW
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/109016.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",ATV 2
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxUaVSTw93EiVlNx-nSdTv5I/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",ATV HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxSWkgRSODuNRKQnFhqHUrBQ/ts
 #EXTINF:-1 tvg-name="AutoBild"tvg-id="AUTOBILD.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png"group-title="IPTV DE by YinYang",AUTO BILD TV
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Auto Motor Sport HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxeT0JRjVgd8Iqqt87GsLbgo/ts
 #EXTINF:-1 tvg-name="Baden TV"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png"group-title="IPTV DE by YinYang",Baden TV
 http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bibel TV"tvg-id="BibelTV.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png"group-title="IPTV DE by YinYang",Bibel TV
@@ -77,14 +59,8 @@ http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="BLK Regional TV"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blkregionaltv.png"group-title="IPTV DE by YinYang",BLK Regional TV
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",BlueTV 4K ABENTEUER
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxZZt4GhlVQgToCP9yr9vKts/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",BlueTV 4K ACTION
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxRZBo1v_o7jznU8lMZChByc/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",BonGusto HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxTOs1aUBaq_Ogvdp5eec5Zg/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",BonGusto HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxQe8Vlew1rhzTx3AbNL2wSE/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",BR
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxTO_baTHiu-3rKCNyWcHMCM/ts
 #EXTINF:-1 tvg-name="BR Event 4"tvg-id="BREvent4.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png"group-title="IPTV DE by YinYang",BR Event 4
@@ -102,27 +78,17 @@ http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4749.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Das Erste FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4683.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Das Erste HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxUIGBVnE0M5WaJShDPtsEGk/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Das Erste HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/16521.ts
 #EXTINF:-1 tvg-name="Das Erste HD"tvg-id="DasErste.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png"group-title="IPTV DE by YinYang",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Das Erste HD RAW
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/108994.ts
 #EXTINF:-1 tvg-name="DASDING-VisualRadio"tvg-id="Dasding.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png"group-title="IPTV DE by YinYang",DASDING-VisualRadio
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DAZN Bar 2 FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/22074.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DAZN Bar 2 HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4557.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DAZN Event 1 HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxS0Ztzv32DsDhHuCmkFbO1k/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DAZN Event 10 HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxUHGDYjwpa_AqtX6noMNM_Y/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DAZN Event 11 HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxZoNNoAxG3BFJBIFupb83nQ/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DAZN Event 13 HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxTo8Tc76JoUS4a3WZ0QCFJ0/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DAZN Event 2 HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxbDpzhS_B56XqfZnqtxDfrc/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DAZN Event 3 HD
@@ -145,8 +111,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC ROCK"tvg-id="DeLuxeMusicRock.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrock.png"group-title="IPTV DE by YinYang",DELUXE MUSIC ROCK
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Deluxe Rap HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxWZMsP3ZaC48T2hAWfnsBnY/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Deluxe Rock HD+
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxVPst1w4ohPpAqjg71-ZUi0/ts
 #EXTINF:-1 tvg-name="Deutsche Welle"tvg-id="DeutscheWelleDE.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"group-title="IPTV DE by YinYang",Deutsche Welle
@@ -169,16 +133,12 @@ http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxZ5XdxK58em_B430NDUOc-U/ts
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxY0PhLB3CSMQ0je11Wxo8Ac/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Disney Channel HEVC
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxSsb7TxM34NJ39XVdO-ZXOw/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DMAX Austria
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxarisSLK2wUw5ZJFIEgdZLs/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DMAX FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/16258.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Dmax HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxbjc3VS899ynUdndgdA4iew/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DMAX HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4744.ts
-#EXTINF:-1 tvg-name="DMAX HD"tvg-id=""tvg-logo="http://vodkom.com:25461/Logo/NEW/DMAX_HD.png"group-title="IPTV DE by YinYang",DMAX HD
-http://sansat.net:88/02020041118041/9762135664/116389
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Dmax HD+
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxbptbyW7oEVfUScNmvFXLtU/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DMAX RAW
@@ -187,18 +147,12 @@ http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxZx_iW-9Ry_ACD51m9J-tEE/ts
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-name="Dresden Fernsehen"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dresdenfernsehen.png"group-title="IPTV DE by YinYang",Dresden Fernsehen
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DYN SPORTS 7
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxWZ3RCk8gYb1jvgPqeyVpC4/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DYN SPORTS 8
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxRt0KJt7z1UqpV5HDFyNmwg/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DYN SPORTS 9
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxQst9qYC-85DqyCaZjXYNsQ/ts
 #EXTINF:-1 tvg-name="emstv"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/emstv.png"group-title="IPTV DE by YinYang",Ems TV
 https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",eSPORTS1 HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxcn9ft_2Ux6LB9mwJZlWJt8/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Eurosport 1 Deutschland
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxcdv6nHJ24XgXKc4la0qcto/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",EuroSport 1 FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4596.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",EuroSport 1 HD
@@ -207,14 +161,6 @@ http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4595.ts
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4597.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Eurosport 2 HD+
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxf31zWCIChAXUiqY6o__3CM/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Eurosport 2 RAW
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/109058.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",EUROSPORT 360  HD 1
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxSN8Weef2E19Kix8JH1-5zY/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",EUROSPORT 360 HD 16
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxaKs5mBkk4qLqAMMJYmJsII/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",EUROSPORT 360 HD 8
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxVW8u5IrQNmDDxMHR_eXvd8/ts
 #EXTINF:-1 tvg-name="EWTN katholisches TV"tvg-id="EWTN.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png"group-title="IPTV DE by YinYang",EWTN katholisches TV
 https://1775071782.rsc.cdn77.org/1775071782/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Folx TV"tvg-id="FolxTV.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png"group-title="IPTV DE by YinYang",Folx TV
@@ -225,24 +171,14 @@ https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_a
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxXpWSsVnS72l8I0qgKPQnHI/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Heimatkanal
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/64242.ts
-#EXTINF:-1 tvg-name="HEIMATKANAL"tvg-id=""tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_16_16_2_85_C00000_0_0_0.png"group-title="IPTV DE by YinYang",HEIMATKANAL
-http://sansat.net:88/02020215638484/3142416589/55785
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",HGTV
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxbQORbih-1h-5sIhsyHGjg4/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",History Channel FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4753.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",History HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxV_rfovl18qWRlfZuqW0KUs/ts
-#EXTINF:-1 tvg-name="HISTORY HD"tvg-id=""tvg-logo="http://vodkom.com:25461/Logo/NEW/HISTORY_Channel_HD.png"group-title="IPTV DE by YinYang",HISTORY HD
-http://sansat.net:88/02020041118041/9762135664/116422
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",History HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxUvyc00gxRbGToD1kG-9sD0/ts
 #EXTINF:-1 tvg-name="hr-fernsehen"tvg-id="HR.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png"group-title="IPTV DE by YinYang",hr-fernsehen
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
-#EXTINF:-1 tvg-name="JUKEBOX"tvg-id=""tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_16_191_9_85_C00000_0_0_0.png"group-title="IPTV DE by YinYang",JUKEBOX
-http://sansat.net:88/02020571466379/CVSPUAFBQVGY6U3/55726
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Just Cooking HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxVcAvaw9C9azvD7xATitFgU/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",kabel 1 Doku Austria
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxVrCJ3UOCHMJMtzh48SVecw/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Kabel 1 FHD
@@ -251,20 +187,10 @@ http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/16520.ts
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxfpIT0VnFhE2o6FZ48gf9Hk/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Kabel Eins Doku HD+
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxVHc5ASGIXP5bWox9FxfVRk/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Kabel Eins Doku RAW
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxVzNXRchDXYWr3byQNdJ_j0/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Kabel Eins RAW
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxfQlBvcea6xCvlZO6fikIRA/ts
 #EXTINF:-1 tvg-name="KabelJournal"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kabeljournal.png"group-title="IPTV DE by YinYang",KabelJournal
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="KiKA"tvg-id="Kika.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png"group-title="IPTV DE by YinYang",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",KiKA HEVC
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxXbClnPinhiILylaX4-3Ov8/ts
-#EXTINF:-1 tvg-name="KINOWELT TV"tvg-id=""tvg-logo="http://vodkom.com:25461/Logo/NEW/"group-title="IPTV DE by YinYang",KINOWELT TV
-http://sansat.net:88/02020571466379/CVSPUAFBQVGY6U3/116472
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Kinowelt TV HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4648.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Krone TV
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxZ0GS05qMOkSVbQZD4_qBJY/ts
 #EXTINF:-1 tvg-name="K-TV"tvg-id="KTV.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png"group-title="IPTV DE by YinYang",K-TV
@@ -279,8 +205,6 @@ https://live2.telvi.de/hls/l-tv_s1.m3u8
 https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
 #EXTINF:-1 tvg-name="Magenta Musik 360 2"tvg-id="MagentaMusik2.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png"group-title="IPTV DE by YinYang",Magenta Musik 360 2
 https://streaming.magentamusik.de/csm/573871/magentamusik2/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Magenta Sport 1 HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxVtOCnjgCKZNuAw4Z1z0evM/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Magenta Sport 1 HD+
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxQHzGiqaeMGwz37-MBE5Gts/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Magenta Sport 10 HD
@@ -329,8 +253,6 @@ http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxXcDjEc6mgBQOLe4SebgTiA/ts
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Motorvision TV HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4765.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",MTV
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxZhjHMvMfPNsqUnD98k1uC4/ts
 #EXTINF:-1 tvg-name="MTV Germany"tvg-id="MTVGermany.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png"group-title="IPTV DE by YinYang",MTV Germany
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_5000.m3u8
 #EXTINF:-1 tvg-name="münchen.tv"tvg-id="MunchenTV.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png"group-title="IPTV DE by YinYang",münchen.tv
@@ -343,10 +265,6 @@ http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxT0xiYO6391XonK93lUbves/ts
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxdgddLZAFFd1hdzfM41Pf8c/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Nat Geo HD+
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxbQi8Cb75Wb47UgMYJvJ42M/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Nat Geo HEVC
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxamg2R5gDAEBFwrylNEhGP8/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Nat Geo RAW
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxf4P0abjDsuuqnyP3Awukok/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Nat Geo Wild HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxWuQt6VQStmozaXpB3iThVs/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",National Geo FHD
@@ -365,10 +283,6 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-name="NDR Schleswig-Holstein HD"tvg-id="ndr.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png"group-title="IPTV DE by YinYang",NDR Schleswig-Holstein HD
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Netflix  Action ʜᴅ
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxSu2_G5Wub4_sQMz7CY_qPQ/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Netflix  Dokumentarfilm ʜᴅ
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxfCrlLULYa30DFaeALET5kU/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Netflix 9 ʜᴅ
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxdJpIuNB9ddN30HdZPlIphA/ts
 #EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png"group-title="IPTV DE by YinYang",Nickelodeon
@@ -387,14 +301,10 @@ https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",NTV
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/55177.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",n-tv FHD RAW
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/109030.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",N-tv HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxWT1pt0gPdRJNor8ku3qxZE/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",n-tv HEVC
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxTYo7KgAmW_yr3m_yGLF5s8/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",n-tv RAW
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxamBOqBb_j4CDSRKm-wD3v0/ts
 #EXTINF:-1 tvg-name="Ö3-VisualRadio"tvg-id="oe3.at"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png"group-title="IPTV DE by YinYang",Ö3-VisualRadio
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
 #EXTINF:-1 tvg-name="Oberpfalz TV"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oberpfalztv.png"group-title="IPTV DE by YinYang",Oberpfalz TV
@@ -433,8 +343,6 @@ https://s.ok54.de/okswp/test/chunks.m3u8
 https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
 #EXTINF:-1 tvg-name="OK Wernigerode"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png"group-title="IPTV DE by YinYang",OK Wernigerode
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK4 (Adenau Andernach Koblenz Neuwied)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png"group-title="IPTV DE by YinYang",OK4 (Adenau Andernach Koblenz Neuwied)
-https://s.ok54.de/abr_ok4/live/playlist.m3u8
 #EXTINF:-1 tvg-name="OK54 (Trier)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png"group-title="IPTV DE by YinYang",OK54 (Trier)
 https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="One 1 Music TV"tvg-id="One1MusicTV.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/one1musictv.png"group-title="IPTV DE by YinYang",One 1 Music TV
@@ -443,14 +351,6 @@ https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxY44D2XGMBLt6qqHVi57Q0w/ts
 #EXTINF:-1 tvg-name="one HD"tvg-id="One.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png"group-title="IPTV DE by YinYang",one HD
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",ONE HD RAW
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxWESzI_DVJ2rd-XsfBe8We8/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",One HD RAW
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/109018.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",ORF 2B HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxVhRNh1YADgyWCvDHxrj-eE/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",ORF 2O HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxbNgEbOCwwPUnt-PMlrYQAA/ts
 #EXTINF:-1 tvg-name="Parlamentsfernsehen 1"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png"group-title="IPTV DE by YinYang",Parlamentsfernsehen 1
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Parlamentsfernsehen 4"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png"group-title="IPTV DE by YinYang",Parlamentsfernsehen 4
@@ -463,40 +363,18 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4737.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",PRO 7 Fun FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4711.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Pro 7 Fun HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxYd-xWbah8us5smRifEplww/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Pro 7 HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxSP_XwTc91p0QiHGcHG--64/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",PRO 7 HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4706.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",PRO 7 Maxx FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4709.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",PRO 7 Maxx HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4708.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Pro Sieben RAW
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxVJGjkXoWYpl9lvGd3Ekvbo/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Pro7 MAXX Austria
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxadBESOTWUxG_II20PQLDYs/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Pro7 MAXX HD RAW
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/109098.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Pro7 MAXX RAW
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxcysqID8u0OdE1w_39-aPWw/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Pro7Sat.1 UHD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxUnImYfPd7zIbcxQh2YeeOI/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",ProSieben Austria
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxXJRy-N2dVJeIs4wwvjlgas/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",ProSieben FHD RAW
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/108999.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",ProSieben HEVC
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxeQEtfAvBuC3srJCF2KGSQk/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",PULS 24 HD+
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxTMW0XRUdLlWPsLAEq_bT0M/ts
 #EXTINF:-1 tvg-name="PUNKTum"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png"group-title="IPTV DE by YinYang",PUNKTum
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",QVC STYLE HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxfit3lZLTZf6OhQGerlsG9k/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Radio Bremen HD RAW
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxWAghTuvqNzGetEL9ywtLkg/ts
 #EXTINF:-1 tvg-name="Radio Bremen TV HD"tvg-id="RadioBremen.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png"group-title="IPTV DE by YinYang",Radio Bremen TV HD
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Rakuten TV
@@ -511,12 +389,8 @@ https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/maste
 https://rbbevent01-hls.akamaized.net/hls/live/685984/rbbevent01/master.m3u8
 #EXTINF:-1 tvg-name="rbb Event 2"tvg-id="RBBEvent2.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png"group-title="IPTV DE by YinYang",rbb Event 2
 https://rbbevent02-hls.akamaized.net/hls/live/685985/rbbevent02/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RBB HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxZ-QF_iaxhAulsLoFa7ugUs/ts
 #EXTINF:-1 tvg-name="RBW"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbw.png"group-title="IPTV DE by YinYang",RBW
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Red Adventure HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxbNcDYPrEdoe7ry5P3MH7sI/ts
 #EXTINF:-1 tvg-name="Red Bull TV"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/redbulltv.png"group-title="IPTV DE by YinYang",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="Regio TV Bodensee"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png"group-title="IPTV DE by YinYang",Regio TV Bodensee
@@ -539,22 +413,12 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxWKMkFWy8Pj3RPWbNcqdfc4/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL 2 HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4694.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL 2 HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxWx_-ah8Qsw6LobllxLokls/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL 2 RAW
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxQmrhJD6yexXG9K_sPXMzBA/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL Austria
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxcMxFx3BcCWDopI8pgEPcBE/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL Crime FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4702.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4691.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL FHD RAW
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/108997.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxY4uRIvOs_AnQl85eUbkW5M/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL HEVC
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxdXtdhXfcGMBL9Q_vytnDJI/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL Living HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4698.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL Passion FHD
@@ -563,70 +427,30 @@ http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4701.ts
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxQD8pczEtnFxBEphuxli1bI/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL UHD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxV22JB_zxhN36_HVStGCGVk/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL UP Austria
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxR6gQRrFFjXfgdozhmjqLJA/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL+ SPORT EVENT 6
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxYj3VRphZ847eTVmRuyLm8c/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTLup HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4693.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",SAT 1 Austria
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxedW9kLGukF8rHTXqghPaNw/ts
-#EXTINF:-1 tvg-name="SAT 1 EMOTIONS"tvg-id=""tvg-logo="http://vodkom.com:25461/Logo/GERMANY/sat1emotions.png"group-title="IPTV DE by YinYang",SAT 1 EMOTIONS
-http://sansat.net:88/02020571466379/CVSPUAFBQVGY6U3/199200
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",SAT 1 Gold Austria
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxRZdCywOQTlsW6DrDWiVf8I/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",SAT 1 Gold HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxTzC2Xb796BhEtRHs-nfJIo/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sat 1 HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxUIIacmKeRGQyqAVsrAlppI/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sat 1 HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxbc57fK5jcYT2_y44CIKRmk/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sat.1 FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4713.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",SAT.1 Gold HEVC
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxcsEkqSettqAnGtXulRQrnw/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",SAT.1 Gold RAW
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxcVRnJYHYdASXEllUSLrAwM/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sat.1 HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4712.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",SAT.1 HEVC
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxbJeqz3G8wTsw1PeetQg9xs/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",SAT.1 RAW
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxQKKPK9HuRajuTdNbFLeBmU/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sat.1 RAW
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/108996.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Schlager Deluxe
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxeREGvYTFfFTDMFdhNj4-XU/ts
 #EXTINF:-1 tvg-name="Schlager Deluxe"tvg-id="SchlagerDeluxe.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/schlagerdeluxe.png"group-title="IPTV DE by YinYang",Schlager Deluxe
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-name="seenluft24"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/seenluft24.png"group-title="IPTV DE by YinYang",seenluft24
 https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",ServusTV FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/10372.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sixx Austria
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxVxJjXo9ySqH8-OOEbN5DGc/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sixx FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4717.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sixx HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4716.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",SIXX HEVC
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxTjPNPsr8SEjlnwTdkW1vIg/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Atlantic FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4631.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Atlantic HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4630.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",SKY BOX ABENTEUER HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxZ9VvLLpb9TRrjNnzo5KD5c/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",SKY BOX FAMILIE HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxYolKtWF3ijh-jPny5ZABeo/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",SKY BOX KRIEGSFILM HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxcpG2qpRDQWGNlakRFOVrWI/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",SKY BOX PREMIEREN 2 HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxZEinK_teBe51hkwqz3HIcc/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Bundesliga  6 HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxer6ZXuT6QPuy1wk0LYZi8A/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Bundesliga 6 HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxdVzv7M3b_5-PTyllVLl5rg/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Cinema Action FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4624.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Cinema Action HD
@@ -635,8 +459,6 @@ http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/108141.ts
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/65295.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Cinema Family HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4622.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Cinema Family HEVC
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxahd9WCARgMBGyYOCsD7zsI/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Cinema Highlights FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/140848.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Cinema Premieren HD
@@ -647,8 +469,6 @@ http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxe0oh8GLHI5nWjvTErkZjdA/ts
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxXCn2JwYNHsBFOnD2T758CA/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Crime HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/107397.ts
-#EXTINF:-1 tvg-name="SKY CRIME HD"tvg-id=""tvg-logo="http://vodkom.com:25461/Logo/GERMANY/SKY_CRIME_HD.png"group-title="IPTV DE by YinYang",SKY CRIME HD
-http://sansat.net:88/02020571466379/CVSPUAFBQVGY6U3/193551
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Documentaries HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxVBCAz5Im86o_V0DC8hB6Dk/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Documentaries HD+
@@ -663,100 +483,38 @@ http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxZjCflh84uD4QU9XXtXfKiA/ts
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxW_yvdGnAVQzPgnRpyDKg6M/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Nature HD+
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxfSMRN3t_HTBwbVyjytis9c/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky One FHD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/16200.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky One HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/107933.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport  2 HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxVrT3CIHwRuNdby5e8Hgjac/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport  5 HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxZYCwKhw15CLigMI3l8OJV8/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport  8 HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxT5fQ6BXMEYcmQddBsT0CJ0/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport  9 HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxdfHNyLTSitM_qhMf0BchhM/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport 1 HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4534.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport 10 HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxYGaaqEbOJT_MHfUim9XKT0/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport 10 HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxUjMq43TPoMfTK3hqCnAS_8/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport 2 HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4536.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport 2 HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxdQJk7pWZ7TsI_VyGhuHy9I/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport 3 HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxU1KjKfkUaUs_A89t8wOA0E/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport 4 HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxfQyv2rt0mbUNSldGKy3I0g/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport 5 HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4542.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport 5 HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxQxhH_b6Il1xVh1bhtnv9l0/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport 6 HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxbBbcHxGAE9YpAAhJtZhQSM/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport 8 HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxXqQxUbyeYs5JaoUE3wZsyM/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport 9 HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxV4xkTP_1pJDejDtEx18stY/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Austria 1 FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4585.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Austria 1 HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/11335.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Austria 4 HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxepQYZ3sS_L-7LBHsmimJj0/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Austria 4 HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxX19Hg8CXBVz6r471HYooO8/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Austria 5 HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxVw6hMLn0IVWUtJXE2zj_F4/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Bundesliga
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/88932.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Bundesliga 1 FullHD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/72224.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport F1 FHD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/72330.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport F1 HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxV2u5pwqrA0V5Sz9EhJRlm0/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport F1 HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/72328.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Golf HD+
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxWmESsdDKsYhnTJSlCnBFB0/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Mix FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/83188.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport News HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxcaSdVmA0MxJ04pUBcgWH6w/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport News HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4586.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport News HEVC
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxU3-CpUkAdikdGRpNXHptUY/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Premier League HD
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxdDZUgM2JRnJnvFVgyK1CFA/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Premier League HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/84532.ts
-#EXTINF:-1 tvg-name="SKY SPORT TENNIS FHD"tvg-id=""tvg-logo="http://vodkom.com:25461/Logo/GERMANY/SKY_SPORT_TENNIS_HD.png"group-title="IPTV DE by YinYang",SKY SPORT TENNIS FHD
-http://sansat.net:88/02020041118041/9762135664/193622
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Tennis HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxStu5GZr-rImeLP9tsM0j4I/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Tennis HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/108133.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Tennis HD RAW
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxUuLYdeKerYCH8kCJgBBPhA/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Tennis HD+
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxROvoR_mUSJ-M3n3lx6pc5g/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport Top Event HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/91190.ts
-#EXTINF:-1 tvg-name="SONNENKLAR.TV HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1518_455_1_C00000_0_0_0.png"group-title="IPTV DE by YinYang",SONNENKLAR.TV HD
-http://sansat.net:88/02020571466379/CVSPUAFBQVGY6U3/55757
 #EXTINF:-1 tvg-name="SonnenklarTV HD"tvg-id="sonnenklar.tv"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sonnenklartv.png"group-title="IPTV DE by YinYang",SonnenklarTV HD
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_89_10_85_C00000_0_0_0.png"group-title="IPTV DE by YinYang",SPIEGEL GESCHICHTE HD
-http://sansat.net:88/02020647544536/02020647544536/55737
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Spiegel TV Geschichte FHD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4751.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Spiegel TV Geschichte HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4750.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Spiegel TV Wissen
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxd3mU2O7A54a3K6cBbgLXxI/ts
 #EXTINF:-1 tvg-name="SportBild"tvg-id="SPORTBILD.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sportbildtv.png"group-title="IPTV DE by YinYang",SPORT BILD TV
 https://sport-bild.personalstream.tv/v1/bildde/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sport1 HD
@@ -793,24 +551,14 @@ http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxRSE5_tfMo0iJ6ey0B0Lyas/ts
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4734.ts
 #EXTINF:-1 tvg-name="tagesschau24"tvg-id="tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png"group-title="IPTV DE by YinYang",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",tagesschau24 HD RAW
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxaD88bstqwhekrTnaXfzTew/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",TELE 5 HD
 http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxfY0EerkQ3ekRbxfeQekYtI/ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Tele 5 HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/16229.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Tele 5 RAW
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/109015.ts
 #EXTINF:-1 tvg-name="teltOwkanal"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/teltOwkanal.png"group-title="IPTV DE by YinYang",teltOwkanal
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
 #EXTINF:-1 tvg-name="Tide TV"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png"group-title="IPTV DE by YinYang",Tide TV
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",TLC HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4764.ts
-#EXTINF:-1 tvg-name="TNT COMEDY HD"tvg-id=""tvg-logo="http://vodkom.com:25461/Logo/NEW/"group-title="IPTV DE by YinYang",TNT COMEDY HD
-http://sansat.net:88/02020571466379/CVSPUAFBQVGY6U3/116492
-#EXTINF:-1 tvg-name="TNT FILM HD"tvg-id=""tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_8C_4_85_C00000_0_0_0.png"group-title="IPTV DE by YinYang",TNT FILM HD
-http://sansat.net:88/02020041118041/9762135664/55810
 #EXTINF:-1 tvg-name="TV Mainfranken"tvg-id="tvmainfranken.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png"group-title="IPTV DE by YinYang",TV Mainfranken
 https://stream01.welocal.stream/stream/fhd-tvmainfranken_255661/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mittelrhein"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png"group-title="IPTV DE by YinYang",TV Mittelrhein
@@ -833,8 +581,6 @@ http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4639.ts
 https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/master-540p-1728.m3u8
 #EXTINF:-1 tvg-name="VISIT-X.tv"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png"group-title="IPTV DE by YinYang",VISIT-X.tv
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",VOX Austria
-http://tvs.lol:8080/play/2CdaQZbSp0FNPLtPtjmaxTYom82Tni6c_oXY4JWhzjg/ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",VOX FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4715.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",VOX HD
