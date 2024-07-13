@@ -1,7 +1,5 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",13 Ulica
-http://premium.pro4ott.com:8789/aziz2345/kaxwqcg/419791
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",13 Ulica
 http://iptvtree.net:8080/Wat138/d4a37c62/2716
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",13 ULICA FHD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7C:6A:9F&stream=520050&extension=ts
@@ -19,8 +17,6 @@ http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/137073
 http://iptvtree.net:8080/Wat138/d4a37c62/278633
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUNDANCE.png"group-title="POLSKA TV by geglus"catchup="",4FUN DANCE UHD
 http://chi.bright-sky.click:80/play/live.php?mac=00:1A:79:00:01:16&stream=17792&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",4FUN GOLD HITS
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7C:6A:9F&stream=521031&extension=ts
 #EXTINF:-1 tvg-name=" 4FUN GOLD HITS"tvg-id=""tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/POLONIA/4FUNGOLDHITS.png"group-title="POLSKA TV by geglus"catchup="",4FUN GOLD HITS
 http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/137071
 #EXTINF:-1 tvg-name="4Fun Gold Hits"tvg-id="4Fun Gold Hits"tvg-logo="https://epg.ovh/logo/4FUN+GOLD.png"group-title="POLSKA TV by geglus"catchup="",4Fun Gold Hits
@@ -635,8 +631,6 @@ http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/3222
 http://iptvtree.net:8080/Wat138/d4a37c62/281589
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ESKATVEXTRA.png"group-title="POLSKA TV by geglus"catchup="",ESKA TV EXTRA UHD
 http://chi.bright-sky.click:80/play/live.php?mac=00:1A:79:00:01:16&stream=17713&extension=ts
-#EXTINF:-1 tvg-name=" Eska TV FHD"tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",Eska TV FHD
-http://prime-tivu.com:25461/24892aqw2507/bSr4JsK/100055
 #EXTINF:-1 tvg-name=" ESKA TV FHD"tvg-id=""tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/POLONIA/ESKATVEXTRA.png"group-title="POLSKA TV by geglus"catchup="",ESKA TV FHD
 http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/137035
 #EXTINF:-1 tvg-name=" ESKA TV HD"tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",ESKA TV HD
@@ -699,8 +693,6 @@ http://iptvtree.net:8080/Wat138/d4a37c62/3232
 http://chi.bright-sky.click:80/play/live.php?mac=00:1A:79:00:01:16&stream=135049&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",FILMBOX ARTHOUSE
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7C:6A:9F&stream=520062&extension=ts
-#EXTINF:-1 tvg-name=" FILMBOX ARTHOUSE"tvg-id=""tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/LITHAUNIA/Filmbox_arthouse.png"group-title="POLSKA TV by geglus"catchup="",FILMBOX ARTHOUSE
-http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/136833
 #EXTINF:-1 tvg-name="FILMBOX ARTHOUSE"tvg-id="Filmbox Arthouse"tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Filmbox_Arthouse.png"group-title="POLSKA TV by geglus"catchup="",FILMBOX ARTHOUSE
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/3323
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",FilmBox Arthouse
@@ -741,8 +733,6 @@ http://chi.bright-sky.click:80/play/live.php?mac=00:1A:79:00:01:16&stream=17697&
 http://iptvtree.net:8080/Wat138/d4a37c62/24267
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",FOKUS TV FHD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7C:6A:9F&stream=519781&extension=ts
-#EXTINF:-1 tvg-name=" FOKUS TV FHD"tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",FOKUS TV FHD
-http://prime-tivu.com:25461/24892aqw2507/bSr4JsK/100097
 #EXTINF:-1 tvg-name=" FOKUS TV FHD"tvg-id=""tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/POLONIA/FOKUSTV.png"group-title="POLSKA TV by geglus"catchup="",FOKUS TV FHD
 http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/136909
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FOKUSTV.png"group-title="POLSKA TV by geglus"catchup="",FOKUS TV UHD
@@ -781,8 +771,6 @@ http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/3312
 http://chi.bright-sky.click:80/play/live.php?mac=00:1A:79:00:01:16&stream=17689&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",FX
 http://iptvtree.net:8080/Wat138/d4a37c62/304314
-#EXTINF:-1 tvg-name=" GAMETOON FHD"tvg-id=""tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/POLONIA/Gametoon.png"group-title="POLSKA TV by geglus"catchup="",GAMETOON FHD
-http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/167607
 #EXTINF:-1 tvg-name=" GOLF CH POLSKA HD"tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",GOLF CH POLSKA HD
 http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/521963
 #EXTINF:-1 tvg-name="GOLF CHANNEL"tvg-id="golfchannel.pl"tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Golf_Channel.png"group-title="POLSKA TV by geglus"catchup="",GOLF CHANNEL
@@ -809,8 +797,6 @@ http://178.219.128.68:64888/HBO2HD
 http://iptvtree.net:8080/Wat138/d4a37c62/3217
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",HBO 2 FHD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7C:6A:9F&stream=520059&extension=ts
-#EXTINF:-1 tvg-name=" HBO 2 FHD"tvg-id=""tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/CZECH/HBO_2_HD.png"group-title="POLSKA TV by geglus"catchup="",HBO 2 FHD
-http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/136841
 #EXTINF:-1 tvg-name=" HBO 2 HD"tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",HBO 2 HD
 http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/521961
 #EXTINF:-1 tvg-name="HBO 2 HD"tvg-id="hbo2.pl"tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/HBO2_HD.png"group-title="POLSKA TV by geglus"catchup="",HBO 2 HD
@@ -833,8 +819,6 @@ http://chi.bright-sky.click:80/play/live.php?mac=00:1A:79:00:01:16&stream=17683&
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7C:6A:9F&stream=520058&extension=ts
 #EXTINF:-1 tvg-name=" HBO FHD"tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",HBO FHD
 http://prime-tivu.com:25461/24892aqw2507/bSr4JsK/100198
-#EXTINF:-1 tvg-name=" HBO FHD"tvg-id=""tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/EXYU/SLO/HBO1HD.png"group-title="POLSKA TV by geglus"catchup="",HBO FHD
-http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/136839
 #EXTINF:-1 tvg-name=" HBO HD"tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",HBO HD
 http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/521957
 #EXTINF:-1 tvg-name="HBO HD"tvg-id="hbo.pl"tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/HBO_HD.png"group-title="POLSKA TV by geglus"catchup="",HBO HD
@@ -887,8 +871,6 @@ http://chi.bright-sky.click:80/play/live.php?mac=00:1A:79:00:01:16&stream=17675&
 http://178.219.128.68:64888/IDHD
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",Investigation Discovery
 http://iptvtree.net:8080/Wat138/d4a37c62/16686
-#EXTINF:-1 tvg-name=" ITVN EXTRA FHD"tvg-id=""tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/POLONIA/ITVN_Extra.png"group-title="POLSKA TV by geglus"catchup="",ITVN EXTRA FHD
-http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/167609
 #EXTINF:-1 tvg-name=" iTVN FHD"tvg-id=""tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/POLONIA/TVN.png"group-title="POLSKA TV by geglus"catchup="",iTVN FHD
 http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/137171
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.plusx.tv/logo/JimJam%20Polsat.png"group-title="POLSKA TV by geglus"catchup="",JimJam Polsat
@@ -917,8 +899,6 @@ http://iptvtree.net:8080/F33627/11e4b97d/16691
 http://iptvtree.net:8080/Wat138/d4a37c62/16691
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",KINO POLSKA FHD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7C:6A:9F&stream=520057&extension=ts
-#EXTINF:-1 tvg-name=" KINO POLSKA FHD"tvg-id=""tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/POLONIA/kino-polska.png"group-title="POLSKA TV by geglus"catchup="",KINO POLSKA FHD
-http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/136855
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Kino_Polska_Muzyka.png"group-title="POLSKA TV by geglus"catchup="",Kino Polska Muzyka
 http://iptvtree.net:8080/F32814/52428e06/26209
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Kino_Polska_Muzyka.png"group-title="POLSKA TV by geglus"catchup="",Kino Polska Muzyka
@@ -1789,8 +1769,6 @@ http://iptvtree.net:8080/Wat138/d4a37c62/1697
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7C:6A:9F&stream=622905&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",POLSAT FILM FHD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:4D:39:1B&stream=880505&extension=ts
-#EXTINF:-1 tvg-name=" Polsat Film FHD"tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",Polsat Film FHD
-http://prime-tivu.com:25461/24892aqw2507/bSr4JsK/100221
 #EXTINF:-1 tvg-name=" POLSAT FILM FHD"tvg-id=""tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/POLONIA/POLSATFILM.png"group-title="POLSKA TV by geglus"catchup="",POLSAT FILM FHD
 http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/137019
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",POLSAT FILM HD
@@ -2635,8 +2613,6 @@ http://iptvtree.net:8080/Wat138/d4a37c62/193765
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7C:6A:9F&stream=519798&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",STUDIOMED TV FHD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:4D:39:1B&stream=880393&extension=ts
-#EXTINF:-1 tvg-name=" STUDIOMED TV FHD"tvg-id=""tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/POLONIA/kwadrat_StudioMED.png"group-title="POLSKA TV by geglus"catchup="",STUDIOMED TV FHD
-http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/137169
 #EXTINF:-1 tvg-name="STUDIOMED TV HD"tvg-id="studiomed.pl"tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/STUDIOMEDTVHD.png"group-title="POLSKA TV by geglus"catchup="",STUDIOMED TV HD
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/3157
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",SUNDANCE FHD
@@ -2645,12 +2621,6 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7C:6A:9F&stream=519799&ext
 http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/137003
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",SUNDANCE HD
 http://chi.bright-sky.click:80/play/live.php?mac=00:1A:79:00:01:16&stream=339852&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",Sundance TV
-http://iptvtree.net:8080/Wat120/2ee6ab28/2705
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",Sundance TV
-http://iptvtree.net:8080/Wat115/0c871a4e/2705
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",Sundance TV
-http://iptvtree.net:8080/Wat138/d4a37c62/2705
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",SUNDANCE TV FHD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:4D:39:1B&stream=880392&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",SUNDANCE TV HD
@@ -2733,28 +2703,6 @@ http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/3260
 http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/136955
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TELETOON.png"group-title="POLSKA TV by geglus"catchup="",TELETOON UHD
 http://chi.bright-sky.click:80/play/live.php?mac=00:1A:79:00:01:16&stream=17577&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TeleToon+
-http://iptvtree.net:8080/F32814/52428e06/16644
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TeleToon+
-http://iptvtree.net:8080/Wat138/d4a37c62/16644
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TeleToon+
-http://iptvtree.net:8080/Isidorchait/ea940f8fd1/16644
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TeleToon+
-http://iptvtree.net:8080/Wat115/0c871a4e/16644
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TeleToon+
-http://iptvtree.net:8080/everton/7def2e7e/16644
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TeleToon+
-http://iptvtree.net:8080/F25015/f6cd63b8/16644
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TeleToon+
-http://iptvtree.net:8080/Wat112/f297cb58/16644
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TeleToon+
-http://iptvtree.net:8080/Wat103/a1549ded/16644
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TeleToon+
-http://iptvtree.net:8080/F33627/11e4b97d/16644
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TeleToon+
-http://iptvtree.net:8080/F23986/2ebf348d/16644
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TeleToon+
-http://iptvtree.net:8080/Wat138/d4a37c62/16644
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TLC
 http://iptvtree.net:8080/Isidorchait/ea940f8fd1/3210
 #EXTINF:-1 tvg-name="TLC"tvg-id="TLC"tvg-logo="https://epg.ovh/logo/TLC.png"group-title="POLSKA TV by geglus"catchup="",TLC
@@ -3137,8 +3085,6 @@ http://917444916233749535.ofd0126.xyz:80/play/vi822546/b@NHDhK5em/749535.ts
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7C:6A:9F&stream=519744&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TVN HD
 http://chi.bright-sky.click:80/play/live.php?mac=00:1A:79:00:01:16&stream=339771&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TVN HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:4D:39:1B&stream=882103&extension=ts
 #EXTINF:-1 tvg-name="TVN HD"tvg-id="tvn.pl"tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVN.png"group-title="POLSKA TV by geglus"catchup="",TVN HD
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/3342
 #EXTINF:-1 tvg-name=" TVN METEO FHD"tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TVN METEO FHD
@@ -3505,8 +3451,6 @@ http://iptvtree.net:8080/F23986/2ebf348d/2674
 http://178.219.128.68:64889/TVPINFOHD
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TVP Info
 http://iptvtree.net:8080/Wat138/d4a37c62/2674
-#EXTINF:-1 tvg-name=" TVP INFO FHD"tvg-id=""tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/POLONIA/TVP.png"group-title="POLSKA TV by geglus"catchup="",TVP INFO FHD
-http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/137167
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",TVP INFO HD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:4D:39:1B&stream=880363&extension=ts
 #EXTINF:-1 tvg-name="TVP INFO HD"tvg-id="tvpinfo.pl"tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPINFOHD.png"group-title="POLSKA TV by geglus"catchup="",TVP INFO HD
@@ -3637,16 +3581,6 @@ http://iptvtree.net:8080/Wat138/d4a37c62/294858
 http://chi.bright-sky.click:80/play/live.php?mac=00:1A:79:00:01:16&stream=339946&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/VH1.png"group-title="POLSKA TV by geglus"catchup="",VH1 UHDʳᵉᶜ
 http://chi.bright-sky.click:80/play/live.php?mac=00:1A:79:00:01:16&stream=17527&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",Viasat Explore
-http://iptvtree.net:8080/Wat115/0c871a4e/16657
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",Viasat Explore
-http://iptvtree.net:8080/everton/7def2e7e/16657
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",Viasat Explore
-http://iptvtree.net:8080/F25015/f6cd63b8/16657
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",Viasat Explore
-http://iptvtree.net:8080/F33627/11e4b97d/16657
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",Viasat Explore
-http://iptvtree.net:8080/Wat138/d4a37c62/16657
 #EXTINF:-1 tvg-name=" VIASAT EXPLORER HD"tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",VIASAT EXPLORER HD
 http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/521885
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",Viasat History
@@ -3677,8 +3611,6 @@ http://segawol.com:80/K32Q37K68W12P9/1HLAYAHSI52ULCSB/521883
 http://iptvtree.net:8080/Wat138/d4a37c62/2728
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",VOD 205
 http://iptvtree.net:8080/Wat138/d4a37c62/296475
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",VOD 206
-http://iptvtree.net:8080/Wat138/d4a37c62/296476
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",VOX MUSIC TV
 http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:4D:39:1B&stream=880198&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="POLSKA TV by geglus"catchup="",Vox Music TV
