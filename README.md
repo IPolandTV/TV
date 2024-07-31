@@ -37,11 +37,8 @@ https://downloads.videolan.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.ex
 KODI 
 https://mirrors.kodi.tv/releases/windows/win64/kodi-20.2-Nexus-x64.exe
 
-Android / Android TV:
-KODI
 
-iOS:
-IPTV Streamer
+Działa również na Android / Android TV / iOS
 
 
 
