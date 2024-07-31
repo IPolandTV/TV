@@ -95,8 +95,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1529698&
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=149517&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/Darkmovie1.png"group-title="IPTV DE by YinYang",7/24 Cinema VIP 2
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=146967&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/Darkmovie1.png"group-title="IPTV DE by YinYang",7/24 Kino 1
-http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=81473&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/Darkmovie1.png"group-title="IPTV DE by YinYang",7/24 Kino 2
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=3302&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/Darkmovie1.png"group-title="IPTV DE by YinYang",7/24 Kino 2024 VIP 1
@@ -175,8 +173,6 @@ http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=231055&
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=231054&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/PRO%207%20MAXX.png"group-title="IPTV DE by YinYang",Amazon Prime Video 2
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=231054&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/Darkmovie1.png"group-title="IPTV DE by YinYang",Amazon Serien 1 HD
-http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=103287&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/AMERICAN-CRIMES.png"group-title="IPTV DE by YinYang",AMERICAN CRIMES ᴴᴰ ᵃᵐᶻ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567503&extension=ts&play_token=cb4QSSsezG
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/AMERICAN-CRIMES.png"group-title="IPTV DE by YinYang",AMERICAN CRIMES ᴴᴰ ᵃᵐᶻ
@@ -193,8 +189,6 @@ http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=3439&exte
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/anixehd.png"group-title="IPTV DE by YinYang",Anixe+ 4K+
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=89867&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/Darkmovie1.png"group-title="IPTV DE by YinYang",Apple TV+ HD
-http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=103312&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/ardalpha.png"group-title="IPTV DE by YinYang",ARD Alpha 4K+
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=89868&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/ardalphahd.png"group-title="IPTV DE by YinYang",ARD ALPHA ᴴᴰ ᵃᵐᶻ
@@ -239,8 +233,6 @@ https://arteconcerthls.akamaized.net/hls/live/2025498/channel05/master.m3u8
 https://arteconcerthls.akamaized.net/hls/live/2025499/channel06/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Arte HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4738.ts
-#EXTINF:-1 tvg-name="ARTE HD"tvg-id="ARTE.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png"group-title="IPTV DE by YinYang",ARTE HD
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/artehd.png"group-title="IPTV DE by YinYang",ARTE HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411463&extension=ts&play_token=X6jCXtGuXV
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/artehd.png"group-title="IPTV DE by YinYang",ARTE HD
@@ -629,10 +621,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567490&
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567615&extension=ts&play_token=JPiWqDy55t
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/NOW.png"group-title="IPTV DE by YinYang",CURIOSITY NOW ᴿᴬᵂ ᵃᵐᶻ
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567615&extension=ts&play_token=UwE8YS2d4s
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png"group-title="IPTV DE by YinYang",D+ (DE) Events 16: Handball | U20_EM | Tschechien _ Rumänien | Vorrunde | Gruppe D | 3. Spieltag | Sat 13 Jul 11:50
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1369162&extension=ts&play_token=df63vvzHUS
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png"group-title="IPTV DE by YinYang",D+ (DE) Events 33: Hall Of Fame | Barcelona 1992 | Olympia_Magazin | Thu 11 Jul 17:57
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1369145&extension=ts&play_token=t88f1H95ML
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Das Erste FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4683.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/DASERSTEHD(ARD).png"group-title="IPTV DE by YinYang",DAS ERSTE FHD
@@ -656,11 +644,7 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567489&
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/DATELINE.png"group-title="IPTV DE by YinYang",DATELINE 24-7 ᴴᴰ ᵃᵐᶻ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567489&extension=ts&play_token=GBU26wjzMj
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/DATELINE.png"group-title="IPTV DE by YinYang",DATELINE 24-7 ᴿᴬᵂ ᵃᵐᶻ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567614&extension=ts&play_token=2cuci5DCv5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/DATELINE.png"group-title="IPTV DE by YinYang",DATELINE 24-7 ᴿᴬᵂ ᵃᵐᶻ
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567614&extension=ts&play_token=US76VDBjwd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/DATELINE.png"group-title="IPTV DE by YinYang",DATELINE 24-7 ᴿᴬᵂ ᵃᵐᶻ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567614&extension=ts&play_token=mAx4xVofbn
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DAZN 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=231220&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DAZN 1
@@ -747,8 +731,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411550&e
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411550&extension=ts&play_token=BD9cSzDgDI
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/DAZN-BAR-1-HEVC.png"group-title="IPTV DE by YinYang",DAZN BAR 1 HD
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411389&extension=ts&play_token=zLK5tNGtFo
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/DAZN-BAR-1-HEVC.png"group-title="IPTV DE by YinYang",DAZN BAR 1 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411389&extension=ts&play_token=9WEzVULHRm
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/DAZN-BAR-1-HEVC.png"group-title="IPTV DE by YinYang",DAZN BAR 1 HEVC
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889506&extension=ts&play_token=XTKH2yeyJS
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/DAZN-BAR-1-HEVC.png"group-title="IPTV DE by YinYang",DAZN BAR 1 HEVC
@@ -807,10 +789,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1535721&
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1535721&extension=ts&play_token=BvglNhBak7
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/dazn.png"group-title="IPTV DE by YinYang",DAZN Event 1 4K+
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=135183&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/dazn.png"group-title="IPTV DE by YinYang",DAZN Event 8 4K+
-http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=135176&extension=ts
-#EXTINF:-1 tvg-name="DAZN FAST+"tvg-id="daznfastplus.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daznfastplus.png"group-title="IPTV DE by YinYang",DAZN FAST+
-https://d2606t9eyamzl3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ia6qw6xh7nd2w-ssai-prd/out/v1/64dc66ee167d48db833377ab85217dfd/DAZN-FAST-HLS-CMAF-DRM/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/dazn.png"group-title="IPTV DE by YinYang",DAZN FAST+ ᴴᴰ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1535712&extension=ts&play_token=IJSIVhlctj
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/dazn.png"group-title="IPTV DE by YinYang",DAZN FAST+ ᴴᴰ
@@ -1061,10 +1039,6 @@ http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=231218&
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=231211&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/SKY%20KRIMI.png"group-title="IPTV DE by YinYang",DE | SKY KRIMI
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=231211&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/SKY%201%20HD.png"group-title="IPTV DE by YinYang",DE | SKY ONE
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=231219&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/SKY%201%20HD.png"group-title="IPTV DE by YinYang",DE | SKY ONE
-http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=231219&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/skyselect.png"group-title="IPTV DE by YinYang",DE | SKY SELECT PREMIERE 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=231198&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/skyselect.png"group-title="IPTV DE by YinYang",DE | SKY SELECT PREMIERE 1
@@ -1097,24 +1071,8 @@ http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=231066&
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=231067&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/WDR%20HD.png"group-title="IPTV DE by YinYang",DE | WDR HD
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=231067&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png"group-title="IPTV DE by YinYang",DE: DAZN PPV 21 - NO EVENT STREAMING -
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1580706&extension=ts&play_token=inoxGPkTeE
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png"group-title="IPTV DE by YinYang",DE: DAZN PPV 25 - NO EVENT STREAMING -
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1580710&extension=ts&play_token=gYiqrk32xG
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png"group-title="IPTV DE by YinYang",DE: DAZN PPV 25 - NO EVENT STREAMING -
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1580710&extension=ts&play_token=OBbPf3FMea
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png"group-title="IPTV DE by YinYang",DE: DAZN PPV 26 - NO EVENT STREAMING -
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1580711&extension=ts&play_token=rFWhJYyudw
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png"group-title="IPTV DE by YinYang",DE: DAZN PPV 8 - NO EVENT STREAMING -
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1580693&extension=ts&play_token=jqn2ISD0Nl
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/france/AMAZON-PRIME.png"group-title="IPTV DE by YinYang",DE: PRIME PPV -15 - NO EVENT STREAMING -
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1580657&extension=ts&play_token=pgaL38jlpA
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/france/AMAZON-PRIME.png"group-title="IPTV DE by YinYang",DE: PRIME PPV -29 - NO EVENT STREAMING -
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1580643&extension=ts&play_token=LEPuAa8Ed5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/france/AMAZON-PRIME.png"group-title="IPTV DE by YinYang",DE: PRIME PPV -29 - NO EVENT STREAMING -
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1580643&extension=ts&play_token=HlBF2GLiDX
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/france/AMAZON-PRIME.png"group-title="IPTV DE by YinYang",DE: PRIME PPV -5 - NO EVENT STREAMING -
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1580667&extension=ts&play_token=1x4mpb6CwI
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/DEFA.png"group-title="IPTV DE by YinYang",DEFA TV ᴴᴰ ᵃᵐᶻ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567488&extension=ts&play_token=ZNWoE0otVn
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/DEFA.png"group-title="IPTV DE by YinYang",DEFA TV ᴴᴰ ᵃᵐᶻ
@@ -1542,21 +1500,15 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1553075&exte
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT 9 ᴴᴰ ◉
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1535799&extension=ts&play_token=lHYGhASLLv
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT 9 ᴴᴰ ◉
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1535799&extension=ts&play_token=uunTBrHolo
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT 9 ᴴᴰ ◉
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1535799&extension=ts&play_token=sBXzs02GPP
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT 9 RAW
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1553076&extension=ts&play_token=7tZfbnmRSI
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT 9 RAW
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1553076&extension=ts&play_token=9F20olgWBQ
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT 9 RAW
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1553076&extension=ts&play_token=6ZqrqyzlQs
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT BUNDESLIGA 1 ᴴᴰ ◉
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1535781&extension=ts&play_token=HRp4E5Zvhf
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT BUNDESLIGA 1 ᴴᴰ ◉
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1535781&extension=ts&play_token=lPlCCN3x6r
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT BUNDESLIGA 1 ᴴᴰ ◉
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1535781&extension=ts&play_token=Ueg7nI1sCR
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT BUNDESLIGA 1 RAW
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1553058&extension=ts&play_token=oXy44vSU7a
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT BUNDESLIGA 1 RAW
@@ -1682,11 +1634,7 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1553054&
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT BUNDESLIGA RAW
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1553054&extension=ts&play_token=98pxiSiLir
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT F1 ᴴᴰ ◉
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1535778&extension=ts&play_token=d6NUcfgufw
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT F1 ᴴᴰ ◉
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1535778&extension=ts&play_token=lWKxVPnBYW
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT F1 ᴴᴰ ◉
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1535778&extension=ts&play_token=ZrUCX8UJTx
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT F1 RAW
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1553055&extension=ts&play_token=EJRzLXSz5H
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| SKY SPORT F1 RAW
@@ -1825,8 +1773,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1535763&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1535763&extension=ts&play_token=MNF5JaSUpG
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW.png"group-title="IPTV DE by YinYang",DE-WOW| WBSERIE ᴴᴰ ◉
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1535763&extension=ts&play_token=hhFLzyH2JG
-#EXTINF:-1 tvg-name="DF1 HD"tvg-id="DF1.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png"group-title="IPTV DE by YinYang",DF1 HD
-https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/discovery.png"group-title="IPTV DE by YinYang",Discovery 4K+
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=3421&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Discovery Channel FHD
@@ -2001,8 +1947,6 @@ https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=102613&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/Darkmovie1.png"group-title="IPTV DE by YinYang",DW Johnson
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=72351&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",DYN SPORT 17
-http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=167850&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/MoviesOnDemand-Logo.png"group-title="IPTV DE by YinYang",EB MASCHA UND DER BÄR FHD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=749356&extension=ts&play_token=uL90nGBcXE
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/MoviesOnDemand-Logo.png"group-title="IPTV DE by YinYang",EB MASCHA UND DER BÄR FHD
@@ -2237,12 +2181,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567698&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567698&extension=ts&play_token=fsZciyy1vn
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/EURO-SPORT.png"group-title="IPTV DE by YinYang",EURO SPORT 1 ᴴᴰ ᵃᵐᶻ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567698&extension=ts&play_token=psyJK51BG7
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/EUROSPORT-1.png"group-title="IPTV DE by YinYang",EURO SPORT 1 ᴿᴬᵂ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1570589&extension=ts&play_token=Wkyp2PWyPr
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/EUROSPORT-1.png"group-title="IPTV DE by YinYang",EURO SPORT 1 ᴿᴬᵂ
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1570589&extension=ts&play_token=nEqzhEJGsl
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/EUROSPORT-1.png"group-title="IPTV DE by YinYang",EURO SPORT 1 ᴿᴬᵂ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1570589&extension=ts&play_token=9cwyI2lBqU
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/EURO-SPORT.png"group-title="IPTV DE by YinYang",EURO SPORT 1 ᴿᴬᵂ ᵃᵐᶻ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567788&extension=ts&play_token=zRpqDJR5zk
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/EURO-SPORT.png"group-title="IPTV DE by YinYang",EURO SPORT 1 ᴿᴬᵂ ᵃᵐᶻ
@@ -2759,14 +2697,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567601&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567601&extension=ts&play_token=Og4pHtN2ji
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/FUN.png"group-title="IPTV DE by YinYang",FUN ᴿᴬᵂ ᵃᵐᶻ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567601&extension=ts&play_token=U7TV0QEmTb
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Fussball TV 1
-http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=171793&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Fussball TV 2
-http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=173584&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/FIFA-WORLDCUP-2022.png"group-title="IPTV DE by YinYang",FUSSBALL TV 2 FIFA WC 2022 FHD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1059578&extension=ts&play_token=XU8FjAE1Kb
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Fussball TV 3
-http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=173585&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/GAME-OF-THRONES.png"group-title="IPTV DE by YinYang",GAME OF THRONES S01 4K
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1543622&extension=ts&play_token=SMX2C6TWjc
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/GAME-OF-THRONES.png"group-title="IPTV DE by YinYang",GAME OF THRONES S01 4K
@@ -2777,8 +2707,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1543622&exte
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1574910&extension=ts&play_token=2a44zMF5Dc
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/GAME-OF-THRONES.png"group-title="IPTV DE by YinYang",GAME OF THRONES S01-S02 FHD
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1574910&extension=ts&play_token=3VuwSPsKHP
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/GAME-OF-THRONES.png"group-title="IPTV DE by YinYang",GAME OF THRONES S01-S02 FHD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1574910&extension=ts&play_token=sOtdThjkAY
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/GAME-OF-THRONES.png"group-title="IPTV DE by YinYang",GAME OF THRONES S02 4K
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1543623&extension=ts&play_token=dfAuKsjAgA
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/GAME-OF-THRONES.png"group-title="IPTV DE by YinYang",GAME OF THRONES S02 4K
@@ -2903,8 +2831,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567598&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567598&extension=ts&play_token=EIlSqMCmTB
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/GUTE-LAUNE.png"group-title="IPTV DE by YinYang",GUTE LAUNE TV ᴿᴬᵂ ᵃᵐᶻ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567598&extension=ts&play_token=FGTrUKkJX4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/H-C.png"group-title="IPTV DE by YinYang",H&C TV ᴴᴰ ᵃᵐᶻ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567472&extension=ts&play_token=fiZh6HiRdd
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/HARRY-POTTER.png"group-title="IPTV DE by YinYang",HARRY POTTER
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1457948&extension=ts&play_token=W7TogLIBXE
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/HARRY-POTTER.png"group-title="IPTV DE by YinYang",HARRY POTTER
@@ -2919,12 +2845,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1499254&
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1499254&extension=ts&play_token=YSDwvGNMBX
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/Darkmovie1.png"group-title="IPTV DE by YinYang",HBO Serien HD
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=103290&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/HEIMAT-KANAL.png"group-title="IPTV DE by YinYang",HEIMAT KANAL ᴴᴰ ᵃᵐᶻ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567471&extension=ts&play_token=yky0Ml5jck
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/HEIMAT-KANAL.png"group-title="IPTV DE by YinYang",HEIMAT KANAL ᴴᴰ ᵃᵐᶻ
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567471&extension=ts&play_token=GoGN5VFP51
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/HEIMAT-KANAL.png"group-title="IPTV DE by YinYang",HEIMAT KANAL ᴴᴰ ᵃᵐᶻ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567471&extension=ts&play_token=l38aHsMaQc
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/HEIMAT-KANAL.png"group-title="IPTV DE by YinYang",HEIMAT KANAL ᴿᴬᵂ ᵃᵐᶻ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567596&extension=ts&play_token=L7fnF7XaH1
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/HEIMAT-KANAL.png"group-title="IPTV DE by YinYang",HEIMAT KANAL ᴿᴬᵂ ᵃᵐᶻ
@@ -3005,8 +2925,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=921752&exte
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=921752&extension=ts&play_token=qtQPZ0Lu2Q
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/HORROR-3-4K.png"group-title="IPTV DE by YinYang",HORROR 1 4K
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=921752&extension=ts&play_token=FiWijUnyas
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/Darkmovie1.png"group-title="IPTV DE by YinYang",Horror 1 HD
-http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=48531&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/HORROR-3-4K.png"group-title="IPTV DE by YinYang",HORROR 2 4K
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=921753&extension=ts&play_token=cTj6jz8u6C
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/HORROR-3-4K.png"group-title="IPTV DE by YinYang",HORROR 2 4K
@@ -3167,12 +3085,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567463&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567463&extension=ts&play_token=JXJpzT7LSW
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/JUST-COOKING.png"group-title="IPTV DE by YinYang",JUST.COOKING ᴴᴰ ᵃᵐᶻ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567463&extension=ts&play_token=BJonUrdx8K
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/JUST-COOKING.png"group-title="IPTV DE by YinYang",JUST.COOKING ᴿᴬᵂ ᵃᵐᶻ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567588&extension=ts&play_token=rrzZJntT6p
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/JUST-COOKING.png"group-title="IPTV DE by YinYang",JUST.COOKING ᴿᴬᵂ ᵃᵐᶻ
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567588&extension=ts&play_token=hjVn6sXpFV
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/JUST-COOKING.png"group-title="IPTV DE by YinYang",JUST.COOKING ᴿᴬᵂ ᵃᵐᶻ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567588&extension=ts&play_token=QZGkwR9hbO
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/kabeleinshd.png"group-title="IPTV DE by YinYang",Kabel 1 4K+
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=4454&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/kabeleinsclassicshd.png"group-title="IPTV DE by YinYang",KABEL 1 CLASSIC HD
@@ -3327,8 +3239,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=921749&e
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=921749&extension=ts&play_token=GGRVnsQaUA
 #EXTINF:-1 tvg-name="KiKA"tvg-id="Kika.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png"group-title="IPTV DE by YinYang",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/kikahd.png"group-title="IPTV DE by YinYang",Kika 4K+
-http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=4467&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/KIKAHD.png"group-title="IPTV DE by YinYang",KIKA FHD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411529&extension=ts&play_token=43f6gSd0js
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/KIKAHD.png"group-title="IPTV DE by YinYang",KIKA FHD
@@ -3575,48 +3485,24 @@ http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=47987&ext
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=47988&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Magenta Sport 9 4K
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=168142&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 1 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=749404&extension=ts&play_token=EhleSXWCZE
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 1 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=749404&extension=ts&play_token=GLsOSHEP40
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 1 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=749404&extension=ts&play_token=N4elBXdHds
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 1 ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1578206&extension=ts&play_token=olvLCT2eSJ
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 1 ᴿᴬᵂ
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1578206&extension=ts&play_token=TceVuWhQwp
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 1 ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1578206&extension=ts&play_token=kcfXaTDuiu
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 10 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=914401&extension=ts&play_token=lTmQVaLDrA
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 10 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=914401&extension=ts&play_token=BtWI4afxCM
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 10 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=914401&extension=ts&play_token=2bCvB0wYPm
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 10 ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1578197&extension=ts&play_token=aW12S1Jx09
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 10 ᴿᴬᵂ
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1578197&extension=ts&play_token=ZMMu5CK1RP
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 10 ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1578197&extension=ts&play_token=T4eYFin6vP
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 11 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=914400&extension=ts&play_token=mfBataQ8jG
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 11 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=914400&extension=ts&play_token=pimWraTKQP
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 11 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=914400&extension=ts&play_token=rSuXzZoJ0u
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 11 ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1578196&extension=ts&play_token=sqzSSjXNqw
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 11 ᴿᴬᵂ
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1578196&extension=ts&play_token=l063s76nma
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 11 ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1578196&extension=ts&play_token=6fkmglwYQF
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 12 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=914399&extension=ts&play_token=DmAK2Wi2F4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 12 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=914399&extension=ts&play_token=Ca9k86VEnR
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 12 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=914399&extension=ts&play_token=Dr2DZ1mNAm
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 12 ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1578195&extension=ts&play_token=071ZZeWOnU
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 12 ᴿᴬᵂ
@@ -3629,10 +3515,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1578194&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1578194&extension=ts&play_token=2nzDrMmgxQ
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 13 ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1578194&extension=ts&play_token=rqnECQknfC
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 14 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=914397&extension=ts&play_token=nQ9aR6bmKV
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 14 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=914397&extension=ts&play_token=fvaE5ywCxr
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 14 ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1578193&extension=ts&play_token=D1MWDYpj4I
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 14 ᴿᴬᵂ
@@ -3641,56 +3523,30 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1578193&
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1578193&extension=ts&play_token=B2xJFQ8PEQ
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 15 HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=914396&extension=ts&play_token=E5eWbQ77xE
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 15 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=914396&extension=ts&play_token=E029MMsmfi
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 15 ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1578192&extension=ts&play_token=qDPhTrxJG4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 15 ᴿᴬᵂ
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1578192&extension=ts&play_token=MMB22c5EQz
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 15 ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1578192&extension=ts&play_token=MdQhAouXsd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 16 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=914395&extension=ts&play_token=JRRZ362aVb
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 16 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=914395&extension=ts&play_token=MJ5gjAcxBn
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 16 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=914395&extension=ts&play_token=6Wu9QQAJyV
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 16 ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1578191&extension=ts&play_token=2YKkwKJlXv
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 16 ᴿᴬᵂ
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1578191&extension=ts&play_token=F7OOXI52Gl
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 16 ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1578191&extension=ts&play_token=oyxTpodVKh
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 17 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=914394&extension=ts&play_token=WRmNLh3m13
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 17 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=914394&extension=ts&play_token=FN3c11HYWz
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 17 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=914394&extension=ts&play_token=ZpATEt0mEi
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 17 ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1578190&extension=ts&play_token=gHEN9Q2KJG
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 17 ᴿᴬᵂ
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1578190&extension=ts&play_token=vC4LdOtvzF
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 17 ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1578190&extension=ts&play_token=IPfv2vBJYv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 18 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=914393&extension=ts&play_token=98fm2UFIPr
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 18 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=914393&extension=ts&play_token=s5zYqE44gw
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 18 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=914393&extension=ts&play_token=x3OLmfVrT3
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 18 ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1578189&extension=ts&play_token=7NViaqmtxW
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 18 ᴿᴬᵂ
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1578189&extension=ts&play_token=vdXbKW3Q6I
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 18 ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1578189&extension=ts&play_token=yQFwWFanYh
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 2 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=749403&extension=ts&play_token=JnZyAm0orc
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 2 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=749403&extension=ts&play_token=GjbvoOoEEL
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 2 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=749403&extension=ts&play_token=HE2RlBzd5L
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 2 ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1578205&extension=ts&play_token=Ap5ccdtUQO
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 2 ᴿᴬᵂ
@@ -3721,10 +3577,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1578202&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1578202&extension=ts&play_token=GoYybwRUdj
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 5 ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1578202&extension=ts&play_token=c43w3Fo2Xx
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 6 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=749399&extension=ts&play_token=2AjgdihLtd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/120.jpg"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 6 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=749399&extension=ts&play_token=7eowEOaEML
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 6 ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1578201&extension=ts&play_token=cLcOvlq4tp
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAGENTA-SPORT.png"group-title="IPTV DE by YinYang",MAGENTA SPORT PPV 6 ᴿᴬᵂ
@@ -3777,8 +3629,6 @@ http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=158918&ex
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=79456&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://film.darktv.nl/logo/VIPGIF2.gif"group-title="IPTV DE by YinYang",Marvel's Serien HD
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=100330&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/XPANIMATION.jpg"group-title="IPTV DE by YinYang",Mascha und der Bär 1
-http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=76280&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAV-TV-MOTORSPORTS-NETWOR.png"group-title="IPTV DE by YinYang",MAV TV MOTORSPORTS NETWORK ᴴᴰ ᵃᵐᶻ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567456&extension=ts&play_token=lmcFLuFZ8u
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MAV-TV-MOTORSPORTS-NETWOR.png"group-title="IPTV DE by YinYang",MAV TV MOTORSPORTS NETWORK ᴴᴰ ᵃᵐᶻ
@@ -3819,16 +3669,12 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567650&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567650&extension=ts&play_token=p30jlcw9hC
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/mdr.png"group-title="IPTV DE by YinYang",MDR ᴿᴬᵂ ᵃᵐᶻ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567650&extension=ts&play_token=7yxNfpcagr
-#EXTINF:-1 tvg-name="MDR Sachsen HD"tvg-id="MDRSachsen.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png"group-title="IPTV DE by YinYang",MDR Sachsen HD
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/mdrsachsen.png"group-title="IPTV DE by YinYang",MDR SACHSEN ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1570625&extension=ts&play_token=lVF7gyiM80
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/mdrsachsen.png"group-title="IPTV DE by YinYang",MDR SACHSEN ᴿᴬᵂ
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1570625&extension=ts&play_token=2iZPR9sOU8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/mdrsachsen.png"group-title="IPTV DE by YinYang",MDR SACHSEN ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1570625&extension=ts&play_token=YvA3j2MldR
-#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt HD"tvg-id="MDRS-Anhalt.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png"group-title="IPTV DE by YinYang",MDR Sachsen-Anhalt HD
-https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MDR-SANHALT.png"group-title="IPTV DE by YinYang",MDR SANHALT ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1570624&extension=ts&play_token=SWoprhj3KE
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MDR-SANHALT.png"group-title="IPTV DE by YinYang",MDR SANHALT ᴿᴬᵂ
@@ -3841,8 +3687,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1570623&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1570623&extension=ts&play_token=YfNX1pEzF5
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MDR-THUERINGEN.png"group-title="IPTV DE by YinYang",MDR THUERINGEN ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1570623&extension=ts&play_token=Qn8E8PP8En
-#EXTINF:-1 tvg-name="MDR Thüringen HD"tvg-id="MDRThuringen.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png"group-title="IPTV DE by YinYang",MDR Thüringen HD
-https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/mdrthuringenhd.png"group-title="IPTV DE by YinYang",MDR THÜRINGEN HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411315&extension=ts&play_token=D4MMonqdo4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/mdrthuringenhd.png"group-title="IPTV DE by YinYang",MDR THÜRINGEN HD
@@ -3953,8 +3797,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411537&exte
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411537&extension=ts&play_token=5bQU9wl5yq
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/motorvisiontv.png"group-title="IPTV DE by YinYang",MOTORVISION TV FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411537&extension=ts&play_token=0nsGQzsXaZ
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Motorvision TV HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4765.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/motorvisiontv.png"group-title="IPTV DE by YinYang",MOTORVISION TV ᴴᴰ ᵃᵐᶻ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567701&extension=ts&play_token=Z4lPBet4Md
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/motorvisiontv.png"group-title="IPTV DE by YinYang",MOTORVISION TV ᴴᴰ ᵃᵐᶻ
@@ -4013,8 +3855,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411606&exte
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411606&extension=ts&play_token=TLq8Sa2s8o
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/mtv.png"group-title="IPTV DE by YinYang",MTV FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411606&extension=ts&play_token=InH4rOP1fq
-#EXTINF:-1 tvg-name="MTV Germany"tvg-id="MTVGermany.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png"group-title="IPTV DE by YinYang",MTV Germany
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_5000.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MTV-HITS.png"group-title="IPTV DE by YinYang",MTV HEVC
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889541&extension=ts&play_token=5azn3mP41Z
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MTV-HITS.png"group-title="IPTV DE by YinYang",MTV HEVC
@@ -4043,10 +3883,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567577&exte
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=89863&extension=ts
 #EXTINF:-1 tvg-name="münchen.tv"tvg-id="MunchenTV.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png"group-title="IPTV DE by YinYang",münchen.tv
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MYSPORTS-EDGE.png"group-title="IPTV DE by YinYang",MYSPORTS 5 4K
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1423308&extension=ts&play_token=Zevfw2E7fa
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MYSPORTS-EDGE.png"group-title="IPTV DE by YinYang",MYSPORTS 8 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1423301&extension=ts&play_token=r4wxRoBKsw
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MYTIME-MOVIE-NETWORK.png"group-title="IPTV DE by YinYang",MYTIME MOVIE NETWORK ᴴᴰ ᵃᵐᶻ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567450&extension=ts&play_token=Rr6aR1k7Hz
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/MYTIME-MOVIE-NETWORK.png"group-title="IPTV DE by YinYang",MYTIME MOVIE NETWORK ᴴᴰ ᵃᵐᶻ
@@ -4131,8 +3967,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889535&exte
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=889535&extension=ts&play_token=RwAhaSCgL7
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/natgeowild.png"group-title="IPTV DE by YinYang",NAT GEO WILD HEVC
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=889535&extension=ts&play_token=W9YTPz3naZ
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",National Geo HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4756.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/nationalgeographichd.png"group-title="IPTV DE by YinYang",NATIONAL GEO HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58220&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/nationalgeographichd.png"group-title="IPTV DE by YinYang",NATIONAL GEO HD
@@ -4319,8 +4153,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411375&exte
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411375&extension=ts&play_token=U61s9nUYQZ
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/NICKJR.png"group-title="IPTV DE by YinYang",NICK JR. SD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411375&extension=ts&play_token=Q5t362ryFa
-#EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png"group-title="IPTV DE by YinYang",Nickelodeon
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/NICKELODEON.png"group-title="IPTV DE by YinYang",NICKELODEON
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411373&extension=ts&play_token=K2ssFUFLrq
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/NICKELODEON.png"group-title="IPTV DE by YinYang",NICKELODEON
@@ -4369,18 +4201,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567573&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567573&extension=ts&play_token=pDluOGhMTP
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/now70s.png"group-title="IPTV DE by YinYang",NOW 70S ᴿᴬᵂ ᵃᵐᶻ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567573&extension=ts&play_token=ePie8uc5CW
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/now80s.png"group-title="IPTV DE by YinYang",NOW 80S ᴴᴰ ᵃᵐᶻ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567447&extension=ts&play_token=kqYpGg7xYY
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/now80s.png"group-title="IPTV DE by YinYang",NOW 80S ᴴᴰ ᵃᵐᶻ
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567447&extension=ts&play_token=xxTNhrMWq1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/now80s.png"group-title="IPTV DE by YinYang",NOW 80S ᴴᴰ ᵃᵐᶻ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567447&extension=ts&play_token=Io40az9EYn
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/now80s.png"group-title="IPTV DE by YinYang",NOW 80S ᴿᴬᵂ ᵃᵐᶻ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567572&extension=ts&play_token=AvsIAWWE4v
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/now80s.png"group-title="IPTV DE by YinYang",NOW 80S ᴿᴬᵂ ᵃᵐᶻ
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567572&extension=ts&play_token=A8LVR4b4eP
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/now80s.png"group-title="IPTV DE by YinYang",NOW 80S ᴿᴬᵂ ᵃᵐᶻ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567572&extension=ts&play_token=OWBG01IHWb
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/NOW.png"group-title="IPTV DE by YinYang",NOW ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1568897&extension=ts&play_token=xwLZ1UR0Cm
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/NOW.png"group-title="IPTV DE by YinYang",NOW ᴿᴬᵂ
@@ -4477,8 +4297,6 @@ https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
 https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/onehd.png"group-title="IPTV DE by YinYang",One 4K+
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=60636&extension=ts
-#EXTINF:-1 tvg-name="one HD"tvg-id="One.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png"group-title="IPTV DE by YinYang",one HD
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/onehd.png"group-title="IPTV DE by YinYang",ONE HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411443&extension=ts&play_token=BLdMEa1RII
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/onehd.png"group-title="IPTV DE by YinYang",ONE HD
@@ -4515,18 +4333,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1570570&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1570570&extension=ts&play_token=ZorLMUR5tl
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/ONETERRA.png"group-title="IPTV DE by YinYang",ONETERRA ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1570570&extension=ts&play_token=goeEIOqcLI
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/outtv.png"group-title="IPTV DE by YinYang",OUT TV ᴴᴰ ᵃᵐᶻ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567444&extension=ts&play_token=Nlz5BZSQs0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/outtv.png"group-title="IPTV DE by YinYang",OUT TV ᴴᴰ ᵃᵐᶻ
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567444&extension=ts&play_token=w701TeDuIU
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/outtv.png"group-title="IPTV DE by YinYang",OUT TV ᴴᴰ ᵃᵐᶻ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567444&extension=ts&play_token=OfJhIhQvqj
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/outtv.png"group-title="IPTV DE by YinYang",OUT TV ᴿᴬᵂ ᵃᵐᶻ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567569&extension=ts&play_token=gNNzeFjIZ0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/outtv.png"group-title="IPTV DE by YinYang",OUT TV ᴿᴬᵂ ᵃᵐᶻ
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567569&extension=ts&play_token=zHjdVjAB1F
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/outtv.png"group-title="IPTV DE by YinYang",OUT TV ᴿᴬᵂ ᵃᵐᶻ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567569&extension=ts&play_token=09Z0nlM0Pk
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/OZARK.png"group-title="IPTV DE by YinYang",OZARK 2017
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1511354&extension=ts&play_token=8saLUhOSLr
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/OZARK.png"group-title="IPTV DE by YinYang",OZARK 2017
@@ -4581,10 +4387,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1543635&
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1543635&extension=ts&play_token=7a3xfBGEKA
 #EXTINF:-1 tvg-name="pearl.tv"tvg-id="Pearl.tv.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png"group-title="IPTV DE by YinYang",pearl.tv
 https://www.youtube.com/embed/Ou6XkR1tGE4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/PEOPLE-ARE-AWESOME.png"group-title="IPTV DE by YinYang",PEOPLE ARE AWESOME ᴴᴰ ᵃᵐᶻ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567443&extension=ts&play_token=9Wj0M9nn8l
-#EXTINF:-1 tvg-name="phoenix HD"tvg-id="phoenix.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png"group-title="IPTV DE by YinYang",phoenix
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/phoenixhd.png"group-title="IPTV DE by YinYang",PHOENIX HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411331&extension=ts&play_token=gqSNqlQ8yh
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/phoenixhd.png"group-title="IPTV DE by YinYang",PHOENIX HD
@@ -4797,8 +4599,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1570568&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1570568&extension=ts&play_token=rZzwrD5av8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/radiobrementv.png"group-title="IPTV DE by YinYang",RADIO BREMEN ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1570568&extension=ts&play_token=xHYITknyGd
-#EXTINF:-1 tvg-name="Radio Bremen TV HD"tvg-id="RadioBremen.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png"group-title="IPTV DE by YinYang",Radio Bremen TV HD
-https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Rakuten TV
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/85445.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/Darkmovie1.png"group-title="IPTV DE by YinYang",Rambo HD
@@ -4813,16 +4613,12 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1570567&exte
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rbb.png"group-title="IPTV DE by YinYang",RBB Berlin 4K+
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=95041&extension=ts
-#EXTINF:-1 tvg-name="rbb Berlin HD"tvg-id="rbbBerlin.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png"group-title="IPTV DE by YinYang",rbb Berlin HD
-https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/RBB-BERLIN.png"group-title="IPTV DE by YinYang",RBB BERLIN ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1570566&extension=ts&play_token=NqIt9Qzw6o
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/RBB-BERLIN.png"group-title="IPTV DE by YinYang",RBB BERLIN ᴿᴬᵂ
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1570566&extension=ts&play_token=8sMNgMrQ6h
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/RBB-BERLIN.png"group-title="IPTV DE by YinYang",RBB BERLIN ᴿᴬᵂ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1570566&extension=ts&play_token=K3q3jXASXM
-#EXTINF:-1 tvg-name="rbb Brandenburg HD"tvg-id="rbbBrandenburg.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png"group-title="IPTV DE by YinYang",rbb Brandenburg HD
-https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/RBB-BRANDENBURG.png"group-title="IPTV DE by YinYang",RBB BRANDENBURG ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1570565&extension=ts&play_token=qVFyoKMU6N
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/RBB-BRANDENBURG.png"group-title="IPTV DE by YinYang",RBB BRANDENBURG ᴿᴬᵂ
@@ -4899,8 +4695,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1453786&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1453786&extension=ts&play_token=Bdx2knzjaP
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/ROBERT-DE-NIRO.png"group-title="IPTV DE by YinYang",ROBERT DE NIRO
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1453786&extension=ts&play_token=8yyOOdmPIA
-#EXTINF:-1 tvg-name="Rockland TV"tvg-id="Rockland.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rocklandtv.png"group-title="IPTV DE by YinYang",Rockland TV
-https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/romancetv.png"group-title="IPTV DE by YinYang",ROMANCE TV
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411712&extension=ts&play_token=lpAPaoQZs8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/romancetv.png"group-title="IPTV DE by YinYang",ROMANCE TV
@@ -4995,10 +4789,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=889556&e
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=889556&extension=ts&play_token=LyLXynsMGW
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rtlhd.png"group-title="IPTV DE by YinYang",RTL HEVC
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=151343&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/rtl2-clavecloha.png"group-title="IPTV DE by YinYang",RTL II
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58146&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/rtl2-clavecloha.png"group-title="IPTV DE by YinYang",RTL II
-http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58146&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/RTL.png"group-title="IPTV DE by YinYang",RTL II HEVC
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889555&extension=ts&play_token=iPRBZaH26F
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/RTL.png"group-title="IPTV DE by YinYang",RTL II HEVC
@@ -5021,8 +4811,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411626&exte
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411626&extension=ts&play_token=E09oI797mY
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/RTLLIVING.png"group-title="IPTV DE by YinYang",RTL LIVING FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411626&extension=ts&play_token=PtNzOZXDSP
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTL Living HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4698.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/Flag/germany.png"group-title="IPTV DE by YinYang",RTL Living HD
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=3357&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/rtlliving.png"group-title="IPTV DE by YinYang",RTL LIVING ᴴᴰ ᵃᵐᶻ ◉
@@ -5111,32 +4899,8 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=904550&exte
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=904550&extension=ts&play_token=XfS4QefBLg
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/RTL-PLUS.jpg"group-title="IPTV DE by YinYang",RTL+ EVENT 2 HD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=904550&extension=ts&play_token=P4g371EcSj
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/RTL-PLUS.jpg"group-title="IPTV DE by YinYang",RTL+ EVENT 3 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=904549&extension=ts&play_token=L9nDLHhKBz
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/RTL-PLUS.jpg"group-title="IPTV DE by YinYang",RTL+ EVENT 3 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=904549&extension=ts&play_token=jUM34KbuYe
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/RTL-PLUS.jpg"group-title="IPTV DE by YinYang",RTL+ EVENT 3 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=904549&extension=ts&play_token=24jITJZCXf
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/RTL-PLUS.jpg"group-title="IPTV DE by YinYang",RTL+ EVENT 4 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=904548&extension=ts&play_token=xofgoQSorP
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/RTL-PLUS.jpg"group-title="IPTV DE by YinYang",RTL+ EVENT 4 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=904548&extension=ts&play_token=8Ce6VBA49Y
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/RTL-PLUS.jpg"group-title="IPTV DE by YinYang",RTL+ EVENT 4 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=904548&extension=ts&play_token=W7HOZGQ1KV
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/RTL-PLUS.jpg"group-title="IPTV DE by YinYang",RTL+ EVENT 5 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=904547&extension=ts&play_token=4T9VKUyhhk
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/RTL-PLUS.jpg"group-title="IPTV DE by YinYang",RTL+ EVENT 5 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=904547&extension=ts&play_token=M5ijWXjrAG
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/RTL-PLUS.jpg"group-title="IPTV DE by YinYang",RTL+ EVENT 7 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1323962&extension=ts&play_token=v3KbKMLbO6
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/RTL-PLUS.jpg"group-title="IPTV DE by YinYang",RTL+ EVENT 7 HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1323962&extension=ts&play_token=KuZdToZ9fo
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/RTL-PLUS.jpg"group-title="IPTV DE by YinYang",RTL+ EVENT 7 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1323962&extension=ts&play_token=wjMAqIVZaV
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/RTL-PLUS.jpg"group-title="IPTV DE by YinYang",RTL+ EVENT 9 HD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1323964&extension=ts&play_token=xgxAZJA3n6
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",RTLup HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4693.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/satlogo/germany/super_rtl_de_hd.png"group-title="IPTV DE by YinYang",RTLup HEVC
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=151341&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/rtlzweihd.png"group-title="IPTV DE by YinYang",RTLZWEI FHD
@@ -5275,8 +5039,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1570627&
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1570627&extension=ts&play_token=aTaNQSt6Wn
 #EXTINF:-1 tvg-name="Schlager Deluxe"tvg-id="SchlagerDeluxe.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/schlagerdeluxe.png"group-title="IPTV DE by YinYang",Schlager Deluxe
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/deutschesmusikfernsehen.png"group-title="IPTV DE by YinYang",Schlager Deluxe HD
-http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=3423&extension=ts
 #EXTINF:-1 tvg-name="seenluft24"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/seenluft24.png"group-title="IPTV DE by YinYang",seenluft24
 https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/Darkmovie1.png"group-title="IPTV DE by YinYang",Select Kinder
@@ -5449,12 +5211,6 @@ http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=4619&exte
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58263&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga10hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 10 (Match Time)
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58263&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-10-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 10 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411554&extension=ts&play_token=DySMAwG35w
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-10-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 10 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411554&extension=ts&play_token=0Gpf9QPV4X
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-10-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 10 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411554&extension=ts&play_token=Fwbqhw0ftk
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga10hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 10 HD (Match Time)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58253&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga10hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 10 HD (Match Time)
@@ -5491,12 +5247,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58257&extension
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58257&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga4hd.png"group-title="IPTV DE by YinYang",Sky Bundesliga 4 4K+
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=3245&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-4-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 4 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411566&extension=ts&play_token=kfubXuofFR
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-4-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 4 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411566&extension=ts&play_token=CU3CwGAWrT
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-4-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 4 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411566&extension=ts&play_token=oJC3EkUwIn
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga4hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 4 HD (Match Time)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58247&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga4hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 4 HD (Match Time)
@@ -5507,8 +5257,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58258&extension
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58258&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga5hd.png"group-title="IPTV DE by YinYang",Sky Bundesliga 5 4K+
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=3244&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-5-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 5 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411564&extension=ts&play_token=tc8VzvBtCS
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga5hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 5 HD (Match Time)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58248&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga5hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 5 HD (Match Time)
@@ -5523,24 +5271,12 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411421&exten
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58249&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga6hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 6 HD (Match Time)
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58249&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-6-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 6 HD (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411420&extension=ts&play_token=BsTEPVCVK0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-6-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 6 HD (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411420&extension=ts&play_token=fnOcuRa21I
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-6-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 6 HD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411420&extension=ts&play_token=eqKfegQIoo
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga6hd.png"group-title="IPTV DE by YinYang",Sky Bundesliga 6 HEVC
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=3332&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga7hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 7 (Match Time)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58260&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga7hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 7 (Match Time)
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58260&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-7-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 7 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411560&extension=ts&play_token=nLaNSP41q8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-7-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 7 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411560&extension=ts&play_token=zSSXlAv8gR
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-7-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 7 HD (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411419&extension=ts&play_token=xeGgPEY6a9
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga7hd.png"group-title="IPTV DE by YinYang",Sky Bundesliga 7 HEVC
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=3331&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga8hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 8 (Match Time)
@@ -5551,14 +5287,8 @@ http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58261&e
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58251&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga8hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 8 HD (Match Time)
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58251&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-8-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 8 HD (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411418&extension=ts&play_token=8OXx54THJX
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-8-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 8 HD (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411418&extension=ts&play_token=920ZhCFEKT
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga8hd.png"group-title="IPTV DE by YinYang",Sky Bundesliga 8 HEVC
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=3330&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-BUNDESLIGA-9-FHD.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 9 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411556&extension=ts&play_token=OB1eCJz3GN
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga9hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 9 HD (Match Time)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58252&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga9hd.png"group-title="IPTV DE by YinYang",SKY BUNDESLIGA 9 HD (Match Time)
@@ -6249,8 +5979,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=871510&exten
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58212&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/kinowelttvhd.png"group-title="IPTV DE by YinYang",SKY KINOWELT TV
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58212&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Krimi FHD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/55243.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skykrimi.png"group-title="IPTV DE by YinYang",SKY KRIMI FHD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411492&extension=ts&play_token=b4hhtfxCBX
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY-KRIMI.jpeg"group-title="IPTV DE by YinYang",SKY KRIMI FHD
@@ -6295,18 +6023,10 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1372198&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1372198&extension=ts&play_token=NvYlq4c172
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/sky-max.png"group-title="IPTV DE by YinYang",SKY MAX 1 4K
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1372198&extension=ts&play_token=ik9xVQ0LJ8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/sky-max.png"group-title="IPTV DE by YinYang",SKY MAX 10 4K
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1372189&extension=ts&play_token=wwdTEkBjXU
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/sky-max.png"group-title="IPTV DE by YinYang",SKY MAX 10 4K
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1372189&extension=ts&play_token=shZugOiIcN
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/sky-max.png"group-title="IPTV DE by YinYang",SKY MAX 10 4K
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1372189&extension=ts&play_token=UICZjFqCu4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/sky-max.png"group-title="IPTV DE by YinYang",SKY MAX 11 4K
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1372188&extension=ts&play_token=UHpPFx1Km8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/sky-max.png"group-title="IPTV DE by YinYang",SKY MAX 11 4K
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1372188&extension=ts&play_token=XQlwJxNuwd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/sky-max.png"group-title="IPTV DE by YinYang",SKY MAX 11 4K
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1372188&extension=ts&play_token=Y25MtnLfDB
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/sky-max.png"group-title="IPTV DE by YinYang",SKY MAX 12 4K
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1372187&extension=ts&play_token=yn6lf8cqXf
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/sky-max.png"group-title="IPTV DE by YinYang",SKY MAX 12 4K
@@ -6342,11 +6062,7 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1372193&exte
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/sky-max.png"group-title="IPTV DE by YinYang",SKY MAX 7 4K
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1372192&extension=ts&play_token=7UGgkKHztN
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/sky-max.png"group-title="IPTV DE by YinYang",SKY MAX 7 4K
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1372192&extension=ts&play_token=OLgAyj11HF
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/sky-max.png"group-title="IPTV DE by YinYang",SKY MAX 7 4K
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1372192&extension=ts&play_token=fArCmJ3Gqg
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/sky-max.png"group-title="IPTV DE by YinYang",SKY MAX 8 4K
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1372191&extension=ts&play_token=4fv0haDCEw
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/picon/picon.darkbox/DarkTVLogo/Logolar/skyhd.png"group-title="IPTV DE by YinYang",Sky Nature 4K+
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=163463&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-NATURE-FHD.png"group-title="IPTV DE by YinYang",SKY NATURE FHD
@@ -6483,10 +6199,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411764&exte
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411764&extension=ts&play_token=KaGvFh6gTE
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/skyselect8.png"group-title="IPTV DE by YinYang",SKY SELECT 8 FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411764&extension=ts&play_token=vxg0VLOdKm
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skyselecthd-wispelutri.png"group-title="IPTV DE by YinYang",SKY SELECT HD 1 (Match Time)
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58296&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skyselecthd-wispelutri.png"group-title="IPTV DE by YinYang",SKY SELECT HD 1 (Match Time)
-http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58296&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skyselecthd-wispelutri.png"group-title="IPTV DE by YinYang",SKY SELECT HD 2 (Match Time)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58297&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skyselecthd-wispelutri.png"group-title="IPTV DE by YinYang",SKY SELECT HD 2 (Match Time)
@@ -6571,10 +6283,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235710&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1235710&extension=ts&play_token=UtyBE0Py1K
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-10.png"group-title="IPTV DE by YinYang",SKY SPORT 10 HD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235710&extension=ts&play_token=zafNrhtDdC
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport10.png"group-title="IPTV DE by YinYang",SKY SPORT 10 HD (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411431&extension=ts&play_token=2ZY7ECKGiU
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport10.png"group-title="IPTV DE by YinYang",SKY SPORT 10 HD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411431&extension=ts&play_token=RVN4TxALax
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport10.png"group-title="IPTV DE by YinYang",SKY SPORT 10 HEVC
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889478&extension=ts&play_token=5k0dcB4Rif
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport10.png"group-title="IPTV DE by YinYang",SKY SPORT 10 HEVC
@@ -6667,8 +6375,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1235801&
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235801&extension=ts&play_token=31dF3zLoOs
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport4.png"group-title="IPTV DE by YinYang",SKY SPORT 4 FHD (NUR WÄHREND DER LIVE SPIELE)
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411596&extension=ts&play_token=wkhXyxeVuC
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport4.png"group-title="IPTV DE by YinYang",SKY SPORT 4 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411596&extension=ts&play_token=NAWGVao27u
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-4.jpeg"group-title="IPTV DE by YinYang",SKY SPORT 4 HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235794&extension=ts&play_token=vwrDAYQa72
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-4.jpeg"group-title="IPTV DE by YinYang",SKY SPORT 4 HD
@@ -6682,8 +6388,6 @@ http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58267&e
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport4.png"group-title="IPTV DE by YinYang",SKY SPORT 4 HEVC
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889486&extension=ts&play_token=dzLQGFP0Da
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport4.png"group-title="IPTV DE by YinYang",SKY SPORT 4 HEVC
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=889486&extension=ts&play_token=xddANmtg7y
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport4.png"group-title="IPTV DE by YinYang",SKY SPORT 4 HEVC
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=889486&extension=ts&play_token=YszocxnZul
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysport5hd.png"group-title="IPTV DE by YinYang",Sky Sport 5 4K
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=3293&extension=ts
@@ -6693,16 +6397,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235787&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1235787&extension=ts&play_token=qms4UwTLBl
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-5.png"group-title="IPTV DE by YinYang",SKY SPORT 5 FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235787&extension=ts&play_token=KxqtZpw0mO
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport5.png"group-title="IPTV DE by YinYang",SKY SPORT 5 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411594&extension=ts&play_token=Lwcwo9nfC0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport5.png"group-title="IPTV DE by YinYang",SKY SPORT 5 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411594&extension=ts&play_token=PrVN0d7zT5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport5.png"group-title="IPTV DE by YinYang",SKY SPORT 5 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411594&extension=ts&play_token=jtHrQphcFi
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport5.png"group-title="IPTV DE by YinYang",SKY SPORT 5 FHD* (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411593&extension=ts&play_token=9qw1YHUuuZ
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport5.png"group-title="IPTV DE by YinYang",SKY SPORT 5 FHD* (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411593&extension=ts&play_token=S1vGwQfDkB
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-5.png"group-title="IPTV DE by YinYang",SKY SPORT 5 HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235780&extension=ts&play_token=rsbIGDsXjl
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-5.png"group-title="IPTV DE by YinYang",SKY SPORT 5 HD
@@ -6713,8 +6407,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58268&extension
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235780&extension=ts&play_token=t1SzenJyQz
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport5hd.png"group-title="IPTV DE by YinYang",SKY SPORT 5 HD
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58268&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport5.png"group-title="IPTV DE by YinYang",SKY SPORT 5 HEVC
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=889485&extension=ts&play_token=dASCUIfvus
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysport6hd.png"group-title="IPTV DE by YinYang",Sky Sport 6 4K
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=3292&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-6.png"group-title="IPTV DE by YinYang",SKY SPORT 6 FHD
@@ -6723,16 +6415,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235773&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1235773&extension=ts&play_token=LbmXaoGVGR
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-6.png"group-title="IPTV DE by YinYang",SKY SPORT 6 FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235773&extension=ts&play_token=fkiovlGRwY
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport6.png"group-title="IPTV DE by YinYang",SKY SPORT 6 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411592&extension=ts&play_token=Gh0JdhGlhE
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport6.png"group-title="IPTV DE by YinYang",SKY SPORT 6 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411592&extension=ts&play_token=yh0Opllnzq
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport6.png"group-title="IPTV DE by YinYang",SKY SPORT 6 FHD* (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411591&extension=ts&play_token=f3n49VdL0O
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport6.png"group-title="IPTV DE by YinYang",SKY SPORT 6 FHD* (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411591&extension=ts&play_token=IGPv4QI4UG
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport6.png"group-title="IPTV DE by YinYang",SKY SPORT 6 FHD* (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411591&extension=ts&play_token=5IcnB7enwS
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-6.png"group-title="IPTV DE by YinYang",SKY SPORT 6 HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235766&extension=ts&play_token=5MZvuuR6Y6
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-6.png"group-title="IPTV DE by YinYang",SKY SPORT 6 HD
@@ -6743,8 +6425,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58269&extension
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235766&extension=ts&play_token=Y0prsb56tO
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport6hd.png"group-title="IPTV DE by YinYang",SKY SPORT 6 HD
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58269&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport6.png"group-title="IPTV DE by YinYang",SKY SPORT 6 HD (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411435&extension=ts&play_token=nvLv9WmolU
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport6.png"group-title="IPTV DE by YinYang",SKY SPORT 6 HEVC
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889483&extension=ts&play_token=QxpCunBca7
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport6.png"group-title="IPTV DE by YinYang",SKY SPORT 6 HEVC
@@ -6759,8 +6439,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235759&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1235759&extension=ts&play_token=1bW4SdPZ3e
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORT-7-HD.png"group-title="IPTV DE by YinYang",SKY SPORT 7 FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235759&extension=ts&play_token=Huz5duZGrI
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportaustria2.png"group-title="IPTV DE by YinYang",SKY SPORT 7 FHD* (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411589&extension=ts&play_token=AQK0xfduA9
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORT-7-HD.png"group-title="IPTV DE by YinYang",SKY SPORT 7 HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235752&extension=ts&play_token=b6IHVsGfXV
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORT-7-HD.png"group-title="IPTV DE by YinYang",SKY SPORT 7 HD
@@ -6773,8 +6451,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235752&exte
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58270&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport7.png"group-title="IPTV DE by YinYang",SKY SPORT 7 HEVC
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889482&extension=ts&play_token=DPsK3adqke
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport7.png"group-title="IPTV DE by YinYang",SKY SPORT 7 HEVC
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=889482&extension=ts&play_token=Art0sO98di
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport7.png"group-title="IPTV DE by YinYang",SKY SPORT 7 HEVC
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=889482&extension=ts&play_token=agBVHzzN6z
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport8hd.png"group-title="IPTV DE by YinYang",SKY SPORT 8
@@ -6789,18 +6465,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235745&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1235745&extension=ts&play_token=r3jXwDBSAi
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-8.png"group-title="IPTV DE by YinYang",SKY SPORT 8 FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235745&extension=ts&play_token=wUTT10JgHH
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport8.png"group-title="IPTV DE by YinYang",SKY SPORT 8 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411588&extension=ts&play_token=IC6WJWLeu2
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport8.png"group-title="IPTV DE by YinYang",SKY SPORT 8 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411588&extension=ts&play_token=d6azw0g9PB
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport8.png"group-title="IPTV DE by YinYang",SKY SPORT 8 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411588&extension=ts&play_token=340BilcZEu
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport8.png"group-title="IPTV DE by YinYang",SKY SPORT 8 FHD* (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411587&extension=ts&play_token=QFsnoEXdGK
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport8.png"group-title="IPTV DE by YinYang",SKY SPORT 8 FHD* (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411587&extension=ts&play_token=y0wnVjQzcZ
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport8.png"group-title="IPTV DE by YinYang",SKY SPORT 8 FHD* (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411587&extension=ts&play_token=NYzd2h5PrQ
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-8.png"group-title="IPTV DE by YinYang",SKY SPORT 8 HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235738&extension=ts&play_token=SLyKSOyhYM
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-8.png"group-title="IPTV DE by YinYang",SKY SPORT 8 HD
@@ -6821,30 +6485,12 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235731&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1235731&extension=ts&play_token=7v0WDWMakp
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235731&extension=ts&play_token=EEco4c0h5q
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411586&extension=ts&play_token=XZwdGH0lRR
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411586&extension=ts&play_token=tPjDOTiz8k
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411586&extension=ts&play_token=VH1ELdpKOg
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 FHD* (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411585&extension=ts&play_token=Q0Z8j5jTQu
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 FHD* (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411585&extension=ts&play_token=O4NoIhMPoj
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 FHD* (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411585&extension=ts&play_token=eqqENFrZWh
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235724&extension=ts&play_token=AOj1Zgutte
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 HD
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1235724&extension=ts&play_token=TsIua52uLI
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 HD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235724&extension=ts&play_token=LzI1tP17Ke
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 HD (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411432&extension=ts&play_token=fhOubs1fY9
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 HD (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411432&extension=ts&play_token=jU0U0GBCFI
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 HD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411432&extension=ts&play_token=oGyqZF3K0s
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 HEVC
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889479&extension=ts&play_token=mj9U067zCz
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysport9.png"group-title="IPTV DE by YinYang",SKY SPORT 9 HEVC
@@ -6885,8 +6531,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1323972&
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1323972&extension=ts&play_token=vwqIOJzu0r
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportaustriahd.png"group-title="IPTV DE by YinYang",Sky Sport Austria 2 4K
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=119131&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportaustria2.png"group-title="IPTV DE by YinYang",SKY SPORT AUSTRIA 2 HD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411429&extension=ts&play_token=zxouHHVwcU
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportaustria2.png"group-title="IPTV DE by YinYang",SKY SPORT AUSTRIA 2 HEVC
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889476&extension=ts&play_token=006Sebt7Us
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportaustria2.png"group-title="IPTV DE by YinYang",SKY SPORT AUSTRIA 2 HEVC
@@ -6901,20 +6545,8 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1323971&
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1323971&extension=ts&play_token=kd6k7igIBB
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportaustriahd.png"group-title="IPTV DE by YinYang",Sky Sport Austria 3 4K
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=119132&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportaustria3.png"group-title="IPTV DE by YinYang",SKY SPORT AUSTRIA 3 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411578&extension=ts&play_token=BYe8Qjm6Ko
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportaustria3.png"group-title="IPTV DE by YinYang",SKY SPORT AUSTRIA 3 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411578&extension=ts&play_token=pv7Xc2JRTj
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportaustria3.png"group-title="IPTV DE by YinYang",SKY SPORT AUSTRIA 3 FHD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411578&extension=ts&play_token=tgP9hMMCds
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportaustria3.png"group-title="IPTV DE by YinYang",SKY SPORT AUSTRIA 3 FHD* (NUR WÄHREND DER LIVE SPIELE)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411577&extension=ts&play_token=Vip0c8L2K2
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportaustria3.png"group-title="IPTV DE by YinYang",SKY SPORT AUSTRIA 3 HD (NUR WÄHREND DER LIVE SPIELE)
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411428&extension=ts&play_token=Hy6r59KPrt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportaustria3.png"group-title="IPTV DE by YinYang",SKY SPORT AUSTRIA 3 HD (NUR WÄHREND DER LIVE SPIELE)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411428&extension=ts&play_token=YJWdRGzfzo
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportaustria3.png"group-title="IPTV DE by YinYang",SKY SPORT AUSTRIA 3 HEVC
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889475&extension=ts&play_token=KyvJDpR9ku
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportaustria3.png"group-title="IPTV DE by YinYang",SKY SPORT AUSTRIA 3 HEVC
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=889475&extension=ts&play_token=SvHxOx49t0
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportaustria3.png"group-title="IPTV DE by YinYang",SKY SPORT AUSTRIA 3 HEVC
@@ -6994,8 +6626,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1216682&exte
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORT-BUNDESLIGA-1.png"group-title="IPTV DE by YinYang",SKY SPORT BUNDESLIGA 1 HD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235675&extension=ts&play_token=gUuOuC3hpx
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportbundesliga.png"group-title="IPTV DE by YinYang",SKY SPORT BUNDESLIGA 1 HEVC
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889502&extension=ts&play_token=ZO3Lb97DgA
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/skysportbundesliga.png"group-title="IPTV DE by YinYang",SKY SPORT BUNDESLIGA 1 HEVC
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=889502&extension=ts&play_token=ZDPrmRuw5g
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-10-HD.png"group-title="IPTV DE by YinYang",SKY SPORT BUNDESLIGA 10 FHD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1216733&extension=ts&play_token=kQNFixwPqW
@@ -7007,8 +6637,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1216733&exte
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235556&extension=ts&play_token=bPESRXorku
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-10-HD.png"group-title="IPTV DE by YinYang",SKY SPORT BUNDESLIGA 10 HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1216736&extension=ts&play_token=qfLIDFEWzW
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORT-BUNDESLIGA-10.png"group-title="IPTV DE by YinYang",SKY SPORT BUNDESLIGA 10 HD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235549&extension=ts&play_token=qS4Z2NgenD
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-10-HD.png"group-title="IPTV DE by YinYang",SKY SPORT BUNDESLIGA 10 HD
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1216736&extension=ts&play_token=uxLdVLF3mY
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORT-BUNDESLIGA-10.png"group-title="IPTV DE by YinYang",SKY SPORT BUNDESLIGA 10 HD
@@ -7289,8 +6917,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1235899&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1235899&extension=ts&play_token=OKii8r8k4T
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/SKY--SPORT-F1.png"group-title="IPTV DE by YinYang",SKY SPORT F1 FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1235899&extension=ts&play_token=Dllb8M2mmC
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Sky Sport F1 HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/72328.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/skysportf1hd.png"group-title="IPTV DE by YinYang",SKY SPORT F1 HEVC
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889504&extension=ts&play_token=2FnHatel39
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/skysportf1hd.png"group-title="IPTV DE by YinYang",SKY SPORT F1 HEVC
@@ -7737,8 +7363,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889533&exte
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=889533&extension=ts&play_token=uaeU1tyDDo
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SPIEGELGESCHICHTE.png"group-title="IPTV DE by YinYang",SPIEGEL GESCHICHTE HEVC
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=889533&extension=ts&play_token=sDCzeG8TTb
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",Spiegel TV Geschichte HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4750.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/SPIEGEL-TV-KONFLIKTE.png"group-title="IPTV DE by YinYang",SPIEGEL TV KONFLIKTE ᴴᴰ ᵃᵐᶻ ◉
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567523&extension=ts&play_token=12cYHyzDbu
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/SPIEGEL-TV-KONFLIKTE.png"group-title="IPTV DE by YinYang",SPIEGEL TV KONFLIKTE ᴴᴰ ᵃᵐᶻ ◉
@@ -7911,8 +7535,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567645&
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567645&extension=ts&play_token=ers8GZikpH
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/Darkmovie1.png"group-title="IPTV DE by YinYang",Steven Segal
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=92728&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/STIMMUNGSGARTEN.png"group-title="IPTV DE by YinYang",STIMMUNGSGARTEN TV HD
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1447899&extension=ts&play_token=FqBsaJq92o
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/STINGRAY-CLASSICA.png"group-title="IPTV DE by YinYang",STINGRAY CLASSICA ᴴᴰ ᵃᵐᶻ ◉
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567519&extension=ts&play_token=gU5Wguauoy
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/STINGRAY-CLASSICA.png"group-title="IPTV DE by YinYang",STINGRAY CLASSICA ᴴᴰ ᵃᵐᶻ ◉
@@ -7959,12 +7581,8 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889532&exte
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=889532&extension=ts&play_token=Y9qDxzdAKE
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SUPERRTL.png"group-title="IPTV DE by YinYang",SUPER RTL HEVC
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=889532&extension=ts&play_token=9tJnNpp9GG
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/superrtlhd.png"group-title="IPTV DE by YinYang",SUPER RTL HEVC
-http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=151336&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/Flag/germany.png"group-title="IPTV DE by YinYang",Swr 4K+
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=3273&extension=ts
-#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD "tvg-id="SWRFernsehen.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png"group-title="IPTV DE by YinYang",SWR Baden-Württemberg HD
-https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/swrbwhd.png"group-title="IPTV DE by YinYang",SWR BW HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411297&extension=ts&play_token=tVn4oMRqZ1
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/swrbwhd.png"group-title="IPTV DE by YinYang",SWR BW HD
@@ -7995,8 +7613,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567564&ext
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567564&extension=ts&play_token=3TVXcCKG1R
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/SWR-FERNSEHEN.png"group-title="IPTV DE by YinYang",SWR FERNSEHEN ᴿᴬᵂ ᵃᵐᶻ
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567564&extension=ts&play_token=rZsUpkfiJW
-#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD"tvg-id="SWRFernsehen-rp.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png"group-title="IPTV DE by YinYang",SWR Rheinland-Pfalz HD
-https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/swr.png"group-title="IPTV DE by YinYang",SWR RP ᴿᴬᵂ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1570555&extension=ts&play_token=kRhSmNbXaP
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/swr.png"group-title="IPTV DE by YinYang",SWR RP ᴿᴬᵂ
@@ -8447,8 +8063,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567556&exte
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567430&extension=ts&play_token=lDmA8s593t
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/TOP-TRUE-CRIME.png"group-title="IPTV DE by YinYang",TOP TRUE CRIME ᴴᴰ ᵃᵐᶻ
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567430&extension=ts&play_token=KQK6smdu60
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/TOP-TRUE-CRIME.png"group-title="IPTV DE by YinYang",TOP TRUE CRIME ᴴᴰ ᵃᵐᶻ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567430&extension=ts&play_token=C5fx2rLWMT
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/TOP-TRUE-CRIME.png"group-title="IPTV DE by YinYang",TOP TRUE CRIME ᴿᴬᵂ ᵃᵐᶻ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567555&extension=ts&play_token=3UwuTHNLRu
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/TOP-TRUE-CRIME.png"group-title="IPTV DE by YinYang",TOP TRUE CRIME ᴿᴬᵂ ᵃᵐᶻ
@@ -8459,8 +8073,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567555&exte
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567429&extension=ts&play_token=ZOl57zAcQW
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/TRAILERS.png"group-title="IPTV DE by YinYang",TRAILERS ᴴᴰ ᵃᵐᶻ
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567429&extension=ts&play_token=LYKHo8dp6B
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/TRAILERS.png"group-title="IPTV DE by YinYang",TRAILERS ᴴᴰ ᵃᵐᶻ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567429&extension=ts&play_token=iMuFcsj5Ue
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/TRAILERS.png"group-title="IPTV DE by YinYang",TRAILERS ᴿᴬᵂ ᵃᵐᶻ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567554&extension=ts&play_token=eMXMQryJM6
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/TRAILERS.png"group-title="IPTV DE by YinYang",TRAILERS ᴿᴬᵂ ᵃᵐᶻ
@@ -9011,8 +8623,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=411364&e
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=411364&extension=ts&play_token=0v86PZAgHr
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tntcomedy.png"group-title="IPTV DE by YinYang",WarnerTV Comedy 4K+
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=30699&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",WarnerTV Comedy FHD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/18001.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",WarnerTV Comedy HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/12018.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/WARNERTV-COMEDY-HEVC.png"group-title="IPTV DE by YinYang",WARNERTV COMEDY HEVC
@@ -9021,8 +8631,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889527&exte
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=889527&extension=ts&play_token=nLCymg2LuW
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/WARNERTV-COMEDY-HEVC.png"group-title="IPTV DE by YinYang",WARNERTV COMEDY HEVC
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=889527&extension=ts&play_token=j5FEI4110f
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",WarnerTV Film HD
-http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4644.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/WARNERTV-FILM-HEVC.png"group-title="IPTV DE by YinYang",WARNERTV FILM HEVC
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=889526&extension=ts&play_token=Gd00kKS7eY
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/WARNERTV-FILM-HEVC.png"group-title="IPTV DE by YinYang",WARNERTV FILM HEVC
@@ -9397,30 +9005,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567545&exte
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58170&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/xite.png"group-title="IPTV DE by YinYang",XITE
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58170&extension=ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/XITE-HITS.png"group-title="IPTV DE by YinYang",XITE HITS ᴴᴰ ᵃᵐᶻ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567418&extension=ts&play_token=0JBw6JNTE6
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/XITE-HITS.png"group-title="IPTV DE by YinYang",XITE HITS ᴴᴰ ᵃᵐᶻ
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567418&extension=ts&play_token=KCest1Xl2w
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/XITE-HITS.png"group-title="IPTV DE by YinYang",XITE HITS ᴴᴰ ᵃᵐᶻ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567418&extension=ts&play_token=WF8kks5UwA
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/XITE-HITS.png"group-title="IPTV DE by YinYang",XITE HITS ᴿᴬᵂ ᵃᵐᶻ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567543&extension=ts&play_token=3LoGVC41ZI
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/XITE-HITS.png"group-title="IPTV DE by YinYang",XITE HITS ᴿᴬᵂ ᵃᵐᶻ
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567543&extension=ts&play_token=p1GcVZ3X4n
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/XITE-HITS.png"group-title="IPTV DE by YinYang",XITE HITS ᴿᴬᵂ ᵃᵐᶻ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567543&extension=ts&play_token=t11btr6i6p
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/XITE-HITS.png"group-title="IPTV DE by YinYang",XITE ROCK X METAL ᴴᴰ ᵃᵐᶻ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567417&extension=ts&play_token=dX8VmY4KEy
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/XITE-HITS.png"group-title="IPTV DE by YinYang",XITE ROCK X METAL ᴴᴰ ᵃᵐᶻ
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567417&extension=ts&play_token=o3BI42GizI
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/XITE-HITS.png"group-title="IPTV DE by YinYang",XITE ROCK X METAL ᴴᴰ ᵃᵐᶻ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567417&extension=ts&play_token=2yxTtCyZl1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/XITE-HITS.png"group-title="IPTV DE by YinYang",XITE ROCK X METAL ᴿᴬᵂ ᵃᵐᶻ
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=1567542&extension=ts&play_token=W2bleD1yZj
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/XITE-HITS.png"group-title="IPTV DE by YinYang",XITE ROCK X METAL ᴿᴬᵂ ᵃᵐᶻ
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567542&extension=ts&play_token=J5gmBcT0pW
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/logos/XITE-HITS.png"group-title="IPTV DE by YinYang",XITE ROCK X METAL ᴿᴬᵂ ᵃᵐᶻ
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567542&extension=ts&play_token=rLAQ0sz59B
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/XPANIMATION.jpg"group-title="IPTV DE by YinYang",XP Animation 1
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=49874&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/XPANIMATION.jpg"group-title="IPTV DE by YinYang",XP Animation 2
@@ -9459,16 +9043,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A7:D7:F1&stream=58143&extension
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58143&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/zdfhd.png"group-title="IPTV DE by YinYang",ZDF 4K+
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=4460&extension=ts
-#EXTINF:-1 tvg-name="ZDF Event 10"tvg-id="ZDFEvent10.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png"group-title="IPTV DE by YinYang",ZDF Event 10
-https://zdf-hls-10.akamaized.net/hls/live/2016305/de/high/master.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 3"tvg-id="ZDFEvent.de3"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png"group-title="IPTV DE by YinYang",ZDF Event 3
-https://zdf-hls-03.akamaized.net/hls/live/2016213/de/high/master.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 5"tvg-id="ZDFEvent5.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png"group-title="IPTV DE by YinYang",ZDF Event 5
-https://zdf-hls-05.akamaized.net/hls/live/2016300/de/high/master.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 7"tvg-id="ZDFEvent7.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png"group-title="IPTV DE by YinYang",ZDF Event 7
-https://zdf-hls-07.akamaized.net/hls/live/2016302/de/high/master.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 9"tvg-id="ZDFEvent7.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png"group-title="IPTV DE by YinYang",ZDF Event 9
-https://zdf-hls-09.akamaized.net/hls/live/2016304/de/high/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",ZDF FHD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/8447.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/ZDFHD.png"group-title="IPTV DE by YinYang",ZDF FHD
@@ -9479,8 +9053,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=557314&e
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=557314&extension=ts&play_token=uLqdBqPqtt
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="IPTV DE by YinYang",ZDF HD
 http://destinyip.tv:2086/live/WTxxRV1aCb/oYLJFjo06GgLkHdJaz8J/4685.ts
-#EXTINF:-1 tvg-name="ZDF HD"tvg-id="ZDF.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png"group-title="IPTV DE by YinYang",ZDF HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/zdfhd.png"group-title="IPTV DE by YinYang",ZDF HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411459&extension=ts&play_token=6Edr8jiR8M
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/zdfhd.png"group-title="IPTV DE by YinYang",ZDF HD
@@ -9557,8 +9129,6 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=1567663&
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=1567663&extension=ts&play_token=uQd8b82mUz
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/zdfneohd.png"group-title="IPTV DE by YinYang",zdf_neo HEVC
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=151337&extension=ts
-#EXTINF:-1 tvg-name="ZDFinfo HD"tvg-id="ZDFinfo.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png"group-title="IPTV DE by YinYang",ZDFinfo HD
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/zdfinfohd.png"group-title="IPTV DE by YinYang",ZDFinfo HEVC
 http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:F1:20:39&stream=151330&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/ZDFNEO.png"group-title="IPTV DE by YinYang",ZDFNEO FHD
@@ -9567,8 +9137,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=757227&exte
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:FF:07:AA&stream=757227&extension=ts&play_token=N5pxF2UQw6
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/ZDFNEO.png"group-title="IPTV DE by YinYang",ZDFNEO FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:BF:B4:41&stream=757227&extension=ts&play_token=eeeM3CRphb
-#EXTINF:-1 tvg-name="ZDFneo HD"tvg-id="ZDFneo.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png"group-title="IPTV DE by YinYang",ZDFneo HD
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/zdfneohd.png"group-title="IPTV DE by YinYang",ZDFNEO HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:76:5F:45&stream=411456&extension=ts&play_token=vNRnZYrmeX
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.protv.cc/piconsnew/zdfneohd.png"group-title="IPTV DE by YinYang",ZDFNEO HD
