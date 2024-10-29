@@ -26,7 +26,7 @@ https://bit.ly/DE-IPTV
 ```
 
 
-*Aktualizuje przynajmniej raz w tygodniu*
+### *Aktualizuje przynajmniej raz w tygodniu*
 
 EPG 5 DNI
 ```
