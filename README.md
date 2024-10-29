@@ -25,7 +25,8 @@ DE IPTV 2024 (grupy kanałami)
 https://bit.ly/DE-IPTV
 ```
 
-</div>
+
+
 
 Aktualizuje przynajmniej raz w tygodniu.
 
@@ -37,6 +38,10 @@ EPG 10 DNI
 ```
 https://epg.ovh/plar.xml
 ```
+
+
+
+
 
 Aplikacje IPTV
 
