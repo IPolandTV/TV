@@ -1,6 +1,5 @@
-![IPTV Logo]([https://typia.io/logo.png](https://github.com/IPolandTV/TV/blob/main/IPTVPLDE2024LogoYinYang.png))
 <div align="center">
-  <img src="IPTVPLDE2024LogoYinYang.png" alt="Logo" />
+  <img src="IPTVPLDE2024LogoYinYang.png" alt="Logo" width="400" height="400" />
 </div>
 
 ## IPTV2023.m3u
