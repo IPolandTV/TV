@@ -2,7 +2,7 @@
   <img src="IPTVPLDE2024LogoYinYang.png" alt="Logo" width="400" height="400" />
 </div>
 
-Adresy URL trzeba umieścić w miejscu listy m3u w aplikacjach.
+Adres URL trzeba umieścić w miejscu listy m3u w aplikacjach.
 
 ## IPTV2023.m3u
 
