@@ -1,4 +1,8 @@
+<div align="center">
 
+<img alt="" width="300" src="./media/logo.svg" />
+
+https://raw.githubusercontent.com/IPolandTV/TV/refs/heads/main/IPTVPLDE2024LogoYinYang.webp
 
 ## IPTV2023.m3u
 
