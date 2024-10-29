@@ -1,13 +1,16 @@
+IPTV2023.m3u
 POLSKA IPTV 2024 (grupy zródłami kanałów)
 ```
 https://bit.ly/IPTV-PL
 ```
 
+IPTV2024.m3u
 POLSKA IPTV 2024 (grupy tematycznie)
 ```
 https://bit.ly/IPTVPL
 ```
 
+IPTVDE.m3u
 DE IPTV 2024 (grupy kanałami)
 ```
 https://bit.ly/DE-IPTV
