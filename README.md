@@ -47,7 +47,9 @@ https://epg.ovh/plar.xml
 ### WINDOWS:
 
 SFVIP-Player v1.2.7.62 x64
-:star:GOTOWIEC:star:
+
+:star: GOTOWIEC :star:
+
 https://mega.nz/file/soYDiIBB#yuNTPnTB5izeY9m_geB3ATKe-CTkzAajXZgOeVzGyQQ
 
 
