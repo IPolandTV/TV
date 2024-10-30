@@ -46,11 +46,6 @@ https://epg.ovh/plar.xml
 
 ### WINDOWS:
 
-SFVIP-Player v1.2.7.62 x64 :star: GOTOWIEC :star:
-
-https://mega.nz/file/soYDiIBB#yuNTPnTB5izeY9m_geB3ATKe-CTkzAajXZgOeVzGyQQ
-
-
 MyIPTV Player (Microsoft Store) (Win10/ Win11)
 
 https://apps.microsoft.com/detail/9pjj2nmbf0tr?hl=en-US&gl=US
@@ -65,36 +60,7 @@ KODI 20.2 Nexus x64
 
 https://mirrors.kodi.tv/releases/windows/win64/kodi-20.2-Nexus-x64.exe
 
-
-### ANDROID / ANDROID TV:
-
-Televizo 1.9.1.5 (apk / MOD)
-
-https://mega.nz/file/N8JykBDT#L0H35o0oFFAYLyZqbmvzn6tuEihlnMTlSl02_h_JWfA
-
-
-IPTV Pro v7.0.3 (apk / MOD)
-
-https://mega.nz/file/g84mgQAS#rFEN1Sh0dARdqngY1nkkFYOo6OnA_Z4b1iKE2iyQKWE
-
-
-Tivimate v3.0.1 (apk / MOD)
-
-https://mega.nz/file/phxjVTLL#Z7w8xZbncj-GzwVIKBjoOTHl2m3cHB7Fvu5UganCGJc
-
-
-
-### iOS / iPhone:
-
-iSTB 1.25.2 (ipa / MOD)
-
-https://mega.nz/file/1oAkmDRC#elawmiVO72-NOLYaCrmRE4kuqLUxrPknx78qPb8Vpr4
-
-
-Kodi v20 Nexus (ipa)
-
-https://mega.nz/file/80BGRKbT#gBlVI8geKjpOsSHBr4YYFzx7o9F2-_jlpztL8zO4duk
-
+### Działa również na Android, Android TV, Smart TV ,iOS...
 
 ##
 
