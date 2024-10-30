@@ -42,7 +42,7 @@ https://epg.ovh/plar.xml
 
 ## **Aplikacje IPTV**
 
-WINDOWS:
+### WINDOWS:
 
 MyIPTV Player (Microsoft Store) (Win10/ Win11)
 
@@ -59,7 +59,7 @@ KODI 20.2 Nexus x64
 https://mirrors.kodi.tv/releases/windows/win64/kodi-20.2-Nexus-x64.exe
 
 
-ANDROID / ANDROID TV
+### ANDROID / ANDROID TV:
 
 Televizo 1.9.1.5 (apk / MOD)
 
@@ -77,7 +77,7 @@ https://mega.nz/file/phxjVTLL#Z7w8xZbncj-GzwVIKBjoOTHl2m3cHB7Fvu5UganCGJc
 
 
 
-iOS / iPhone:
+### iOS / iPhone:
 
 iSTB 1.25.2 (ipa / MOD)
 
@@ -89,6 +89,7 @@ Kodi v20 Nexus (ipa)
 https://mega.nz/file/80BGRKbT#gBlVI8geKjpOsSHBr4YYFzx7o9F2-_jlpztL8zO4duk
 
 
+##
 
 :star: NIE BIORE ODPOWIEDZIALNOŚCI ZA WYKORZYSTANIE POWYŻSZYCH PLIKÓW I LINKÓW :star:
 
