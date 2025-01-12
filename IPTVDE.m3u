@@ -23,22 +23,12 @@ https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ARTE Event 1"tvg-id="ArteEvent1.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png"group-title="IPTV DE by YinYang",ARTE Event 1
 https://arteconcerthls.akamaized.net/hls/live/2025494/channel01/master.m3u8
-#EXTINF:-1 tvg-name="ARTE Event 2"tvg-id="ArteEvent2.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png"group-title="IPTV DE by YinYang",ARTE Event 2
-https://arteconcerthls.akamaized.net/hls/live/2025495/channel02/master.m3u8
 #EXTINF:-1 tvg-name="ARTE Event 3"tvg-id="ArteEvent3.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png"group-title="IPTV DE by YinYang",ARTE Event 3
 https://arteconcerthls.akamaized.net/hls/live/2025496/channel03/master.m3u8
-#EXTINF:-1 tvg-name="ARTE Event 4"tvg-id="ArteEvent4.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png"group-title="IPTV DE by YinYang",ARTE Event 4
-https://arteconcerthls.akamaized.net/hls/live/2025497/channel04/master.m3u8
-#EXTINF:-1 tvg-name="ARTE Event 5"tvg-id="ArteEvent5.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png"group-title="IPTV DE by YinYang",ARTE Event 5
-https://arteconcerthls.akamaized.net/hls/live/2025498/channel05/master.m3u8
-#EXTINF:-1 tvg-name="ARTE Event 6"tvg-id="ArteEvent6.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png"group-title="IPTV DE by YinYang",ARTE Event 6
-https://arteconcerthls.akamaized.net/hls/live/2025499/channel06/master.m3u8
 #EXTINF:-1 tvg-name="AutoBild"tvg-id="AUTOBILD.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png"group-title="IPTV DE by YinYang",AUTO BILD TV
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/axnhd.png"group-title="IPTV DE by YinYang",AXN HD
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:01:02:03&stream=58222&extension=ts
-#EXTINF:-1 tvg-name="Baden TV"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png"group-title="IPTV DE by YinYang",Baden TV
-http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bibel TV"tvg-id="BibelTV.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png"group-title="IPTV DE by YinYang",Bibel TV
 https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Bibel TV Impuls"tvg-id="BibelTVImpuls.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png"group-title="IPTV DE by YinYang",Bibel TV Impuls
@@ -221,8 +211,6 @@ https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:punktum_high/p
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
 #EXTINF:-1 tvg-name="rbb Event 1"tvg-id="RBBEvent1.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png"group-title="IPTV DE by YinYang",rbb Event 1
 https://rbbevent01-hls.akamaized.net/hls/live/685984/rbbevent01/master.m3u8
-#EXTINF:-1 tvg-name="rbb Event 2"tvg-id="RBBEvent2.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png"group-title="IPTV DE by YinYang",rbb Event 2
-https://rbbevent02-hls.akamaized.net/hls/live/685985/rbbevent02/master.m3u8
 #EXTINF:-1 tvg-name="RBW"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbw.png"group-title="IPTV DE by YinYang",RBW
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/redbulltv.png"group-title="IPTV DE by YinYang",Red Bull TV
