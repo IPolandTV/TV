@@ -20,14 +20,6 @@ https://bit.ly/IPTVPL
 ```
 
 
-## IPTVDE.m3u
-
-DE IPTV 2024 (grupy kanałami)
-```
-https://bit.ly/DE-IPTV
-```
-##
-
 ### *Aktualizuje przynajmniej raz w tygodniu*
 
 ##
