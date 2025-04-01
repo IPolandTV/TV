@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="IPTVPLDE2024LogoYinYang.png" alt="Logo" width="400" height="400" />
+  <img src="tvlogopl.png" alt="Logo" width="400" height="400" />
 </div>
 
 Adres URL trzeba umieścić w miejscu listy m3u w aplikacjach.
