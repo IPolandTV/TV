@@ -781,8 +781,6 @@ http://iptvtree.net:8080/F25158/5a62f100/350
 http://bocian.io:8880/pawel1810/Nzk1NDExMDQz/155271
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://epg.ovh/logo/FightBox.png"group-title="SPORTOWE",Fightbox
 http://bocian.io:8880/pawel1810/Nzk1NDExMDQz/105546
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://epg.ovh/logo/FightBox.png"group-title="SPORTOWE",Fightbox
-http://bocian.io:8880/emil1984/MjAyNzE2MTA0/105546
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.ottcst.info/FILMAX.png"group-title="FILM & SERIAL",FilMax
 http://bocian.io:8880/emil1984/MjAyNzE2MTA0/155043
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.tvmedia.io/images/cff179fcdb23d2951807bc3040cda9c3.png"group-title="FILM & SERIAL",Filmbox Action
@@ -937,12 +935,6 @@ http://bocian.io:8880/pawel1810/Nzk1NDExMDQz/105421
 http://bocian.io:8880/emil1984/MjAyNzE2MTA0/105421
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/History_2_HD.png"group-title="DOKUMENTALNE",History 2
 http://bocian.io:8880/pawel1810/Nzk1NDExMDQz/155097
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/History_2_HD.png"group-title="DOKUMENTALNE",History 2
-http://iptvtree.net:8080/Wat160/7bf252c2/16659
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/History_2_HD.png"group-title="DOKUMENTALNE",History 2
-http://iptvtree.net:8080/F25158/5a62f100/16659
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/History_2_HD.png"group-title="DOKUMENTALNE",History 2
-http://iptvtree.net:8080/F25158/5a62f100/16659
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/History_2_HD.png"group-title="DOKUMENTALNE",History 2
 http://bocian.io:8880/pawel1810/Nzk1NDExMDQz/105422
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/History_2_HD.png"group-title="DOKUMENTALNE",History 2
@@ -1833,10 +1825,6 @@ http://iptvtree.net:8080/F25158/5a62f100/193765
 http://bocian.io:8880/pawel1810/Nzk1NDExMDQz/105440
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.tvmedia.io/images/31acab505e73cb9ae49fefed3e2dd6f7.png"group-title="SPORTOWE",StudioMed TV
 http://bocian.io:8880/emil1984/MjAyNzE2MTA0/105440
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.tvmedia.io/images/e7c297e3b8b6f2ebe8d1c2ceab5deccf.png"group-title="MUZYCZNE",Sundance TV
-http://bocian.io:8880/pawel1810/Nzk1NDExMDQz/155229
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.tvmedia.io/images/e7c297e3b8b6f2ebe8d1c2ceab5deccf.png"group-title="MUZYCZNE",Sundance TV
-http://bocian.io:8880/emil1984/MjAyNzE2MTA0/155229
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.tvmedia.io/images/e7c297e3b8b6f2ebe8d1c2ceab5deccf.png"group-title="MUZYCZNE",Sundance TV
 http://bocian.io:8880/pawel1810/Nzk1NDExMDQz/105391
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://logo.tvmedia.io/images/e7c297e3b8b6f2ebe8d1c2ceab5deccf.png"group-title="MUZYCZNE",Sundance TV
