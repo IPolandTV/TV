@@ -14,7 +14,7 @@ https://bit.ly/IPTV-PL
 
 ## IPTV2024.m3u
 
-POLSKA IPTV 2024 (grupy tematycznie)
+POLSKA IPTV 2024 (BACKUP MIX)
 ```
 https://bit.ly/IPTVPL
 ```
