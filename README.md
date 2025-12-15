@@ -4,17 +4,10 @@
 
 Adres URL trzeba umieścić w miejscu listy m3u w aplikacjach.
 
-## IPTV2023.m3u
-
-POLSKA IPTV 2024 (grupy zródłami kanałów)
-```
-https://bit.ly/IPTV-PL
-```
-
 
 ## IPTV2024.m3u
 
-POLSKA IPTV 2024 (BACKUP MIX)
+POLSKA IPTV
 ```
 https://bit.ly/IPTVPL
 ```
