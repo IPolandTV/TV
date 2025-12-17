@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-name="4Fun Dance"tvg-id="4FUN DANCE"tvg-logo="http://logo.tvmedia.io/images/logo/4fundance.png"group-title="4FUN DANCE",4Fun Dance
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105502
 #EXTINF:-1 tvg-name="4Fun Dance"tvg-id="4FUN DANCE"tvg-logo="http://logo.tvmedia.io/images/logo/4fundance.png"group-title="4FUN DANCE",4Fun Dance
@@ -11,8 +11,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105502
 http://bocian.io:8880/NL753811/552284900/105502
 #EXTINF:-1 tvg-name="4Fun Dance"tvg-id="4FUN DANCE"tvg-logo="http://logo.tvmedia.io/images/logo/4fundance.png"group-title="4FUN DANCE",4Fun Dance
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105502
-#EXTINF:-1 tvg-name="4Fun Dance"tvg-id="4FUN DANCE"tvg-logo="http://logo.tvmedia.io/images/logo/4fundance.png"group-title="4FUN DANCE",4Fun Dance
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105502
 #EXTINF:-1 tvg-name="4Fun Dance"tvg-id="4FUN DANCE"tvg-logo="http://logo.tvmedia.io/images/logo/4fundance.png"group-title="4FUN DANCE",4Fun Dance
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105502
 #EXTINF:-1 tvg-name="4Fun Dance"tvg-id="4FUN DANCE"tvg-logo="http://logo.tvmedia.io/images/logo/4fundance.png"group-title="4FUN DANCE",4Fun Dance
@@ -52,8 +50,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105501
 #EXTINF:-1 tvg-name="4Fun Kids"tvg-id="4FUN KIDS"tvg-logo="https://epg.ovh/logo/4FUN+KIDS.png"group-title="4FUN KIDS",4Fun Kids
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105501
 #EXTINF:-1 tvg-name="4Fun Kids"tvg-id="4FUN KIDS"tvg-logo="https://epg.ovh/logo/4FUN+KIDS.png"group-title="4FUN KIDS",4Fun Kids
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105501
-#EXTINF:-1 tvg-name="4Fun Kids"tvg-id="4FUN KIDS"tvg-logo="https://epg.ovh/logo/4FUN+KIDS.png"group-title="4FUN KIDS",4Fun Kids
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105501
 #EXTINF:-1 tvg-name="4Fun Kids"tvg-id="4FUN KIDS"tvg-logo="https://epg.ovh/logo/4FUN+KIDS.png"group-title="4FUN KIDS",4Fun Kids
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105501
@@ -86,8 +82,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105500
 #EXTINF:-1 tvg-name="4Fun.TV"tvg-id="4FUN TV"tvg-logo="http://logo.tvmedia.io/images/logo/4funtv.png"group-title="4FUN.TV",4Fun.TV
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105500
 #EXTINF:-1 tvg-name="4Fun.TV"tvg-id="4FUN TV"tvg-logo="http://logo.tvmedia.io/images/logo/4funtv.png"group-title="4FUN.TV",4Fun.TV
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105500
-#EXTINF:-1 tvg-name="4Fun.TV"tvg-id="4FUN TV"tvg-logo="http://logo.tvmedia.io/images/logo/4funtv.png"group-title="4FUN.TV",4Fun.TV
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105500
 #EXTINF:-1 tvg-name="4Fun.TV"tvg-id="4FUN TV"tvg-logo="http://logo.tvmedia.io/images/logo/4funtv.png"group-title="4FUN.TV",4Fun.TV
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105500
@@ -107,8 +101,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105388
 http://bocian.io:8880/NL753811/552284900/105388
 #EXTINF:-1 tvg-name="Active Family HD"tvg-id="activefamily.pl"tvg-logo="http://logo.tvmedia.io/images/7302859692925d4b45fb5b92ffa3dfd0.png"group-title="ACTIVE FAMILY",Active Family HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105388
-#EXTINF:-1 tvg-name="Active Family HD"tvg-id="activefamily.pl"tvg-logo="http://logo.tvmedia.io/images/7302859692925d4b45fb5b92ffa3dfd0.png"group-title="ACTIVE FAMILY",Active Family HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105388
 #EXTINF:-1 tvg-name="Active Family HD"tvg-id="activefamily.pl"tvg-logo="http://logo.tvmedia.io/images/7302859692925d4b45fb5b92ffa3dfd0.png"group-title="ACTIVE FAMILY",Active Family HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105388
 #EXTINF:-1 tvg-name="Active Family HD"tvg-id="activefamily.pl"tvg-logo="http://logo.tvmedia.io/images/7302859692925d4b45fb5b92ffa3dfd0.png"group-title="ACTIVE FAMILY",Active Family HD
@@ -142,8 +134,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105361
 #EXTINF:-1 tvg-name="Ale Kino+ HD"tvg-id="alekino.pl"tvg-logo="http://logo.tvmedia.io/images/logo/alekinoplushd.png"group-title="ALE KINO+",Ale Kino+ HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105361
 #EXTINF:-1 tvg-name="Ale Kino+ HD"tvg-id="alekino.pl"tvg-logo="http://logo.tvmedia.io/images/logo/alekinoplushd.png"group-title="ALE KINO+",Ale Kino+ HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105361
-#EXTINF:-1 tvg-name="Ale Kino+ HD"tvg-id="alekino.pl"tvg-logo="http://logo.tvmedia.io/images/logo/alekinoplushd.png"group-title="ALE KINO+",Ale Kino+ HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105361
 #EXTINF:-1 tvg-name="Ale Kino+ HD"tvg-id="alekino.pl"tvg-logo="http://logo.tvmedia.io/images/logo/alekinoplushd.png"group-title="ALE KINO+",Ale Kino+ HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105361
@@ -167,8 +157,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105360
 http://bocian.io:8880/NL753811/552284900/105360
 #EXTINF:-1 tvg-name="AMC HD"tvg-id="amc.pl"tvg-logo="http://logo.tvmedia.io/images/3654b34017508a963ccce2426e91e4cd.png"group-title="AMC",AMC HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105360
-#EXTINF:-1 tvg-name="AMC HD"tvg-id="amc.pl"tvg-logo="http://logo.tvmedia.io/images/3654b34017508a963ccce2426e91e4cd.png"group-title="AMC",AMC HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105360
 #EXTINF:-1 tvg-name="AMC HD"tvg-id="amc.pl"tvg-logo="http://logo.tvmedia.io/images/3654b34017508a963ccce2426e91e4cd.png"group-title="AMC",AMC HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105360
 #EXTINF:-1 tvg-name="AMC HD"tvg-id="amc.pl"tvg-logo="http://logo.tvmedia.io/images/3654b34017508a963ccce2426e91e4cd.png"group-title="AMC",AMC HD
@@ -206,8 +194,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105381
 #EXTINF:-1 tvg-name="AXN HD"tvg-id="axn.pl"tvg-logo="http://logo.tvmedia.io/images/logo/axnhd.png"group-title="AXN",AXN HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105381
 #EXTINF:-1 tvg-name="AXN HD"tvg-id="axn.pl"tvg-logo="http://logo.tvmedia.io/images/logo/axnhd.png"group-title="AXN",AXN HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105381
-#EXTINF:-1 tvg-name="AXN HD"tvg-id="axn.pl"tvg-logo="http://logo.tvmedia.io/images/logo/axnhd.png"group-title="AXN",AXN HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105381
 #EXTINF:-1 tvg-name="AXN HD"tvg-id="axn.pl"tvg-logo="http://logo.tvmedia.io/images/logo/axnhd.png"group-title="AXN",AXN HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105381
@@ -237,8 +223,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105382
 http://bocian.io:8880/NL753811/552284900/105382
 #EXTINF:-1 tvg-name="AXN Black"tvg-id="axnblack.pl"tvg-logo="http://logo.tvmedia.io/images/logo/axnblack.png"group-title="AXN BLACK",AXN Black
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105382
-#EXTINF:-1 tvg-name="AXN Black"tvg-id="axnblack.pl"tvg-logo="http://logo.tvmedia.io/images/logo/axnblack.png"group-title="AXN BLACK",AXN Black
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105382
 #EXTINF:-1 tvg-name="AXN Black"tvg-id="axnblack.pl"tvg-logo="http://logo.tvmedia.io/images/logo/axnblack.png"group-title="AXN BLACK",AXN Black
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105382
 #EXTINF:-1 tvg-name="AXN Black"tvg-id="axnblack.pl"tvg-logo="http://logo.tvmedia.io/images/logo/axnblack.png"group-title="AXN BLACK",AXN Black
@@ -274,8 +258,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105383
 #EXTINF:-1 tvg-name="AXN Spin HD"tvg-id="axnspin.pl"tvg-logo="http://logo.tvmedia.io/images/8d3a45db744642c838ec164e5c7b21dd.png"group-title="AXN SPIN",AXN Spin HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105383
 #EXTINF:-1 tvg-name="AXN Spin HD"tvg-id="axnspin.pl"tvg-logo="http://logo.tvmedia.io/images/8d3a45db744642c838ec164e5c7b21dd.png"group-title="AXN SPIN",AXN Spin HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105383
-#EXTINF:-1 tvg-name="AXN Spin HD"tvg-id="axnspin.pl"tvg-logo="http://logo.tvmedia.io/images/8d3a45db744642c838ec164e5c7b21dd.png"group-title="AXN SPIN",AXN Spin HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105383
 #EXTINF:-1 tvg-name="AXN Spin HD"tvg-id="axnspin.pl"tvg-logo="http://logo.tvmedia.io/images/8d3a45db744642c838ec164e5c7b21dd.png"group-title="AXN SPIN",AXN Spin HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105383
@@ -308,8 +290,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105384
 #EXTINF:-1 tvg-name="AXN White"tvg-id="axnwhite.pl"tvg-logo="http://logo.tvmedia.io/images/logo/axnwhite.png"group-title="AXN WHITE",AXN White
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105384
 #EXTINF:-1 tvg-name="AXN White"tvg-id="axnwhite.pl"tvg-logo="http://logo.tvmedia.io/images/logo/axnwhite.png"group-title="AXN WHITE",AXN White
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105384
-#EXTINF:-1 tvg-name="AXN White"tvg-id="axnwhite.pl"tvg-logo="http://logo.tvmedia.io/images/logo/axnwhite.png"group-title="AXN WHITE",AXN White
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105384
 #EXTINF:-1 tvg-name="AXN White"tvg-id="axnwhite.pl"tvg-logo="http://logo.tvmedia.io/images/logo/axnwhite.png"group-title="AXN WHITE",AXN White
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105384
@@ -337,8 +317,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105403
 http://bocian.io:8880/NL753811/552284900/105403
 #EXTINF:-1 tvg-name="BBC Brit HD"tvg-id="bbcbrit.pl"tvg-logo="http://logo.tvmedia.io/images/logo/bbcbrit.png"group-title="BBC BRIT",BBC Brit HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105403
-#EXTINF:-1 tvg-name="BBC Brit HD"tvg-id="bbcbrit.pl"tvg-logo="http://logo.tvmedia.io/images/logo/bbcbrit.png"group-title="BBC BRIT",BBC Brit HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105403
 #EXTINF:-1 tvg-name="BBC Brit HD"tvg-id="bbcbrit.pl"tvg-logo="http://logo.tvmedia.io/images/logo/bbcbrit.png"group-title="BBC BRIT",BBC Brit HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105403
 #EXTINF:-1 tvg-name="BBC Brit HD"tvg-id="bbcbrit.pl"tvg-logo="http://logo.tvmedia.io/images/logo/bbcbrit.png"group-title="BBC BRIT",BBC Brit HD
@@ -376,8 +354,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105405
 #EXTINF:-1 tvg-name="BBC Earth HD"tvg-id="bbcearth.pl"tvg-logo="http://logo.tvmedia.io/images/logo/bbcearthhd.png"group-title="BBC EARTH",BBC Earth HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105405
 #EXTINF:-1 tvg-name="BBC Earth HD"tvg-id="bbcearth.pl"tvg-logo="http://logo.tvmedia.io/images/logo/bbcearthhd.png"group-title="BBC EARTH",BBC Earth HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105405
-#EXTINF:-1 tvg-name="BBC Earth HD"tvg-id="bbcearth.pl"tvg-logo="http://logo.tvmedia.io/images/logo/bbcearthhd.png"group-title="BBC EARTH",BBC Earth HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105405
 #EXTINF:-1 tvg-name="BBC Earth HD"tvg-id="bbcearth.pl"tvg-logo="http://logo.tvmedia.io/images/logo/bbcearthhd.png"group-title="BBC EARTH",BBC Earth HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105405
@@ -407,8 +383,6 @@ http://bocian.io:8880/jelon80/NDM2NzcxOTE1/105402
 http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105402
 #EXTINF:-1 tvg-name="BBC First HD"tvg-id="bbcfirst.pl"tvg-logo="http://logo.tvmedia.io/images/7b0c0f3a88cd6e0ba5b4c2469ec62d9e.png"group-title="BBC FIRST",BBC First HD
 http://bocian.io:8880/NL753811/552284900/105402
-#EXTINF:-1 tvg-name="BBC First HD"tvg-id="bbcfirst.pl"tvg-logo="http://logo.tvmedia.io/images/7b0c0f3a88cd6e0ba5b4c2469ec62d9e.png"group-title="BBC FIRST",BBC First HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105402
 #EXTINF:-1 tvg-name="BBC First HD"tvg-id="bbcfirst.pl"tvg-logo="http://logo.tvmedia.io/images/7b0c0f3a88cd6e0ba5b4c2469ec62d9e.png"group-title="BBC FIRST",BBC First HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105402
 #EXTINF:-1 tvg-name="BBC First HD"tvg-id="bbcfirst.pl"tvg-logo="http://logo.tvmedia.io/images/7b0c0f3a88cd6e0ba5b4c2469ec62d9e.png"group-title="BBC FIRST",BBC First HD
@@ -442,8 +416,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/155041
 #EXTINF:-1 tvg-name="BollywooD HD"tvg-id="Bollywood HD"tvg-logo=""group-title="BOLLYWOOD",BollywooD HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155041
 #EXTINF:-1 tvg-name="BollywooD HD"tvg-id="Bollywood HD"tvg-logo=""group-title="BOLLYWOOD",BollywooD HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155041
-#EXTINF:-1 tvg-name="BollywooD HD"tvg-id="Bollywood HD"tvg-logo=""group-title="BOLLYWOOD",BollywooD HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/155041
 #EXTINF:-1 tvg-name="BollywooD HD"tvg-id="Bollywood HD"tvg-logo=""group-title="BOLLYWOOD",BollywooD HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/155041
@@ -461,8 +433,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105492
 http://bocian.io:8880/NL753811/552284900/105492
 #EXTINF:-1 tvg-name="Cartoon Network HD"tvg-id="Cartoon Network"tvg-logo="http://logo.tvmedia.io/images/logo/cartoonnetworkhd.png"group-title="CARTOON NETWORK",Cartoon Network HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105492
-#EXTINF:-1 tvg-name="Cartoon Network HD"tvg-id="Cartoon Network"tvg-logo="http://logo.tvmedia.io/images/logo/cartoonnetworkhd.png"group-title="CARTOON NETWORK",Cartoon Network HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105492
 #EXTINF:-1 tvg-name="Cartoon Network HD"tvg-id="Cartoon Network"tvg-logo="http://logo.tvmedia.io/images/logo/cartoonnetworkhd.png"group-title="CARTOON NETWORK",Cartoon Network HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105492
 #EXTINF:-1 tvg-name="Cartoon Network HD"tvg-id="Cartoon Network"tvg-logo="http://logo.tvmedia.io/images/logo/cartoonnetworkhd.png"group-title="CARTOON NETWORK",Cartoon Network HD
@@ -500,8 +470,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105491
 #EXTINF:-1 tvg-name="Cartoonito HD"tvg-id="boomerang.pl"tvg-logo="https://assets.www.warnerbros.com/drupal-root/public/cartoonito_-_logo_-_no_background.png"group-title="CARTOONITO",Cartoonito HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105491
 #EXTINF:-1 tvg-name="Cartoonito HD"tvg-id="boomerang.pl"tvg-logo="https://assets.www.warnerbros.com/drupal-root/public/cartoonito_-_logo_-_no_background.png"group-title="CARTOONITO",Cartoonito HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105491
-#EXTINF:-1 tvg-name="Cartoonito HD"tvg-id="boomerang.pl"tvg-logo="https://assets.www.warnerbros.com/drupal-root/public/cartoonito_-_logo_-_no_background.png"group-title="CARTOONITO",Cartoonito HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105491
 #EXTINF:-1 tvg-name="Cartoonito HD"tvg-id="boomerang.pl"tvg-logo="https://assets.www.warnerbros.com/drupal-root/public/cartoonito_-_logo_-_no_background.png"group-title="CARTOONITO",Cartoonito HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105491
@@ -523,8 +491,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105371
 http://bocian.io:8880/NL753811/552284900/105371
 #EXTINF:-1 tvg-name="Cinemax HD"tvg-id="cinemax.pl"tvg-logo="http://logo.tvmedia.io/images/0874f230b6ba300544ba4f90689d9a72.png"group-title="CINEMAX",Cinemax HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105371
-#EXTINF:-1 tvg-name="Cinemax HD"tvg-id="cinemax.pl"tvg-logo="http://logo.tvmedia.io/images/0874f230b6ba300544ba4f90689d9a72.png"group-title="CINEMAX",Cinemax HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105371
 #EXTINF:-1 tvg-name="Cinemax HD"tvg-id="cinemax.pl"tvg-logo="http://logo.tvmedia.io/images/0874f230b6ba300544ba4f90689d9a72.png"group-title="CINEMAX",Cinemax HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105371
 #EXTINF:-1 tvg-name="Cinemax HD"tvg-id="cinemax.pl"tvg-logo="http://logo.tvmedia.io/images/0874f230b6ba300544ba4f90689d9a72.png"group-title="CINEMAX",Cinemax HD
@@ -559,8 +525,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105372
 http://bocian.io:8880/NL753811/552284900/105372
 #EXTINF:-1 tvg-name="Cinemax 2 HD"tvg-id="cinemax2.pl"tvg-logo="http://logo.tvmedia.io/images/logo/cinemax2hd.png"group-title="CINEMAX 2",Cinemax 2 HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105372
-#EXTINF:-1 tvg-name="Cinemax 2 HD"tvg-id="cinemax2.pl"tvg-logo="http://logo.tvmedia.io/images/logo/cinemax2hd.png"group-title="CINEMAX 2",Cinemax 2 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105372
 #EXTINF:-1 tvg-name="Cinemax 2 HD"tvg-id="cinemax2.pl"tvg-logo="http://logo.tvmedia.io/images/logo/cinemax2hd.png"group-title="CINEMAX 2",Cinemax 2 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105372
 #EXTINF:-1 tvg-name="Cinemax 2 HD"tvg-id="cinemax2.pl"tvg-logo="http://logo.tvmedia.io/images/logo/cinemax2hd.png"group-title="CINEMAX 2",Cinemax 2 HD
@@ -600,8 +564,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105503
 #EXTINF:-1 tvg-name="Disco Polo Music"tvg-id="Disco Polo Music"tvg-logo="http://logo.tvmedia.io/images/logo/discopolomusic.png"group-title="DISCO POLO MUSIC",Disco Polo Music
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105503
 #EXTINF:-1 tvg-name="Disco Polo Music"tvg-id="Disco Polo Music"tvg-logo="http://logo.tvmedia.io/images/logo/discopolomusic.png"group-title="DISCO POLO MUSIC",Disco Polo Music
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105503
-#EXTINF:-1 tvg-name="Disco Polo Music"tvg-id="Disco Polo Music"tvg-logo="http://logo.tvmedia.io/images/logo/discopolomusic.png"group-title="DISCO POLO MUSIC",Disco Polo Music
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105503
 #EXTINF:-1 tvg-name="Disco Polo Music"tvg-id="Disco Polo Music"tvg-logo="http://logo.tvmedia.io/images/logo/discopolomusic.png"group-title="DISCO POLO MUSIC",Disco Polo Music
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105503
@@ -629,8 +591,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105410
 http://bocian.io:8880/NL753811/552284900/105410
 #EXTINF:-1 tvg-name="Discovery HD"tvg-id="discovery.pl"tvg-logo="http://logo.tvmedia.io/images/95ba0b8bff0356941e9e52c927d4278c.png"group-title="DISCOVERY CHANNEL",Discovery HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105410
-#EXTINF:-1 tvg-name="Discovery HD"tvg-id="discovery.pl"tvg-logo="http://logo.tvmedia.io/images/95ba0b8bff0356941e9e52c927d4278c.png"group-title="DISCOVERY CHANNEL",Discovery HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105410
 #EXTINF:-1 tvg-name="Discovery HD"tvg-id="discovery.pl"tvg-logo="http://logo.tvmedia.io/images/95ba0b8bff0356941e9e52c927d4278c.png"group-title="DISCOVERY CHANNEL",Discovery HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105410
 #EXTINF:-1 tvg-name="Discovery HD"tvg-id="discovery.pl"tvg-logo="http://logo.tvmedia.io/images/95ba0b8bff0356941e9e52c927d4278c.png"group-title="DISCOVERY CHANNEL",Discovery HD
@@ -676,8 +636,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105411
 #EXTINF:-1 tvg-name="Discovery Historia"tvg-id="discoveryhistoria.pl"tvg-logo="http://logo.tvmedia.io/images/logo/discoveryhistoria.png"group-title="DISCOVERY HISTORIA",Discovery Historia
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105411
 #EXTINF:-1 tvg-name="Discovery Historia"tvg-id="discoveryhistoria.pl"tvg-logo="http://logo.tvmedia.io/images/logo/discoveryhistoria.png"group-title="DISCOVERY HISTORIA",Discovery Historia
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105411
-#EXTINF:-1 tvg-name="Discovery Historia"tvg-id="discoveryhistoria.pl"tvg-logo="http://logo.tvmedia.io/images/logo/discoveryhistoria.png"group-title="DISCOVERY HISTORIA",Discovery Historia
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105411
 #EXTINF:-1 tvg-name="Discovery Historia"tvg-id="discoveryhistoria.pl"tvg-logo="http://logo.tvmedia.io/images/logo/discoveryhistoria.png"group-title="DISCOVERY HISTORIA",Discovery Historia
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105411
@@ -712,8 +670,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105412
 #EXTINF:-1 tvg-name="Discovery Life HD"tvg-id="discoverylife.pl"tvg-logo="http://logo.tvmedia.io/images/logo/discoverylifepoland.png"group-title="DISCOVERY LIFE",Discovery Life HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105412
 #EXTINF:-1 tvg-name="Discovery Life HD"tvg-id="discoverylife.pl"tvg-logo="http://logo.tvmedia.io/images/logo/discoverylifepoland.png"group-title="DISCOVERY LIFE",Discovery Life HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105412
-#EXTINF:-1 tvg-name="Discovery Life HD"tvg-id="discoverylife.pl"tvg-logo="http://logo.tvmedia.io/images/logo/discoverylifepoland.png"group-title="DISCOVERY LIFE",Discovery Life HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105412
 #EXTINF:-1 tvg-name="Discovery Life HD"tvg-id="discoverylife.pl"tvg-logo="http://logo.tvmedia.io/images/logo/discoverylifepoland.png"group-title="DISCOVERY LIFE",Discovery Life HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105412
@@ -735,8 +691,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105413
 http://bocian.io:8880/NL753811/552284900/105413
 #EXTINF:-1 tvg-name="Discovery Science HD"tvg-id="discoveryscience.pl"tvg-logo="http://logo.tvmedia.io/images/logo/discoverysciencehd.png"group-title="DISCOVERY SCIENCE",Discovery Science HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105413
-#EXTINF:-1 tvg-name="Discovery Science HD"tvg-id="discoveryscience.pl"tvg-logo="http://logo.tvmedia.io/images/logo/discoverysciencehd.png"group-title="DISCOVERY SCIENCE",Discovery Science HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105413
 #EXTINF:-1 tvg-name="Discovery Science HD"tvg-id="discoveryscience.pl"tvg-logo="http://logo.tvmedia.io/images/logo/discoverysciencehd.png"group-title="DISCOVERY SCIENCE",Discovery Science HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105413
 #EXTINF:-1 tvg-name="Discovery Science HD"tvg-id="discoveryscience.pl"tvg-logo="http://logo.tvmedia.io/images/logo/discoverysciencehd.png"group-title="DISCOVERY SCIENCE",Discovery Science HD
@@ -770,8 +724,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105415
 #EXTINF:-1 tvg-name="DTX HD"tvg-id="DTX"tvg-logo="http://logo.tvmedia.io/images/logo/dtxhd.png"group-title="DTX",DTX HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105415
 #EXTINF:-1 tvg-name="DTX HD"tvg-id="DTX"tvg-logo="http://logo.tvmedia.io/images/logo/dtxhd.png"group-title="DTX",DTX HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105415
-#EXTINF:-1 tvg-name="DTX HD"tvg-id="DTX"tvg-logo="http://logo.tvmedia.io/images/logo/dtxhd.png"group-title="DTX",DTX HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105415
 #EXTINF:-1 tvg-name="DTX HD"tvg-id="DTX"tvg-logo="http://logo.tvmedia.io/images/logo/dtxhd.png"group-title="DTX",DTX HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105415
@@ -795,8 +747,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105525
 http://bocian.io:8880/NL753811/552284900/105525
 #EXTINF:-1 tvg-name="Eleven Sports 1 HD"tvg-id="Eleven Sports 1"tvg-logo="http://logo.tvmedia.io/images/0205b33d00c33dfc5b63f217616d67be.png"group-title="ELEVEN SPORTS 1",Eleven Sports 1 HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105525
-#EXTINF:-1 tvg-name="Eleven Sports 1 HD"tvg-id="Eleven Sports 1"tvg-logo="http://logo.tvmedia.io/images/0205b33d00c33dfc5b63f217616d67be.png"group-title="ELEVEN SPORTS 1",Eleven Sports 1 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105525
 #EXTINF:-1 tvg-name="Eleven Sports 1 HD"tvg-id="Eleven Sports 1"tvg-logo="http://logo.tvmedia.io/images/0205b33d00c33dfc5b63f217616d67be.png"group-title="ELEVEN SPORTS 1",Eleven Sports 1 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105525
 #EXTINF:-1 tvg-name="Eleven Sports 1 HD"tvg-id="Eleven Sports 1"tvg-logo="http://logo.tvmedia.io/images/0205b33d00c33dfc5b63f217616d67be.png"group-title="ELEVEN SPORTS 1",Eleven Sports 1 HD
@@ -830,8 +780,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/153189
 #EXTINF:-1 tvg-name="PL | Eleven Sports 1 4K"tvg-id="Eleven Sports 4K"tvg-logo="http://logo.tvmedia.io/images/c83a83f176a26f957fd134ba36a5e330.png"group-title="ELEVEN SPORTS 1 4K",PL | Eleven Sports 1 4K
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/153189
 #EXTINF:-1 tvg-name="PL | Eleven Sports 1 4K"tvg-id="Eleven Sports 4K"tvg-logo="http://logo.tvmedia.io/images/c83a83f176a26f957fd134ba36a5e330.png"group-title="ELEVEN SPORTS 1 4K",PL | Eleven Sports 1 4K
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/153189
-#EXTINF:-1 tvg-name="PL | Eleven Sports 1 4K"tvg-id="Eleven Sports 4K"tvg-logo="http://logo.tvmedia.io/images/c83a83f176a26f957fd134ba36a5e330.png"group-title="ELEVEN SPORTS 1 4K",PL | Eleven Sports 1 4K
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/153189
 #EXTINF:-1 tvg-name="PL | Eleven Sports 1 4K"tvg-id="Eleven Sports 4K"tvg-logo="http://logo.tvmedia.io/images/c83a83f176a26f957fd134ba36a5e330.png"group-title="ELEVEN SPORTS 1 4K",PL | Eleven Sports 1 4K
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/153189
@@ -849,8 +797,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105526
 http://bocian.io:8880/NL753811/552284900/105526
 #EXTINF:-1 tvg-name="Eleven Sports 2 HD"tvg-id="Eleven Sports 2"tvg-logo="http://logo.tvmedia.io/images/39afd408825c655f76fac50ec04ba301.png"group-title="ELEVEN SPORTS 2",Eleven Sports 2 HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105526
-#EXTINF:-1 tvg-name="Eleven Sports 2 HD"tvg-id="Eleven Sports 2"tvg-logo="http://logo.tvmedia.io/images/39afd408825c655f76fac50ec04ba301.png"group-title="ELEVEN SPORTS 2",Eleven Sports 2 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105526
 #EXTINF:-1 tvg-name="Eleven Sports 2 HD"tvg-id="Eleven Sports 2"tvg-logo="http://logo.tvmedia.io/images/39afd408825c655f76fac50ec04ba301.png"group-title="ELEVEN SPORTS 2",Eleven Sports 2 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105526
 #EXTINF:-1 tvg-name="Eleven Sports 2 HD"tvg-id="Eleven Sports 2"tvg-logo="http://logo.tvmedia.io/images/39afd408825c655f76fac50ec04ba301.png"group-title="ELEVEN SPORTS 2",Eleven Sports 2 HD
@@ -880,8 +826,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105527
 #EXTINF:-1 tvg-name="Eleven Sports 3 HD"tvg-id="elevensports3.pl"tvg-logo="http://fabryka.stream:8880/images/d91d9b739ddf1fd861ffdd1f9be8efc9.png"group-title="ELEVEN SPORTS 3",Eleven Sports 3 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105527
 #EXTINF:-1 tvg-name="Eleven Sports 3 HD"tvg-id="elevensports3.pl"tvg-logo="http://fabryka.stream:8880/images/d91d9b739ddf1fd861ffdd1f9be8efc9.png"group-title="ELEVEN SPORTS 3",Eleven Sports 3 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105527
-#EXTINF:-1 tvg-name="Eleven Sports 3 HD"tvg-id="elevensports3.pl"tvg-logo="http://fabryka.stream:8880/images/d91d9b739ddf1fd861ffdd1f9be8efc9.png"group-title="ELEVEN SPORTS 3",Eleven Sports 3 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105527
 #EXTINF:-1 tvg-name="Eleven Sports 3 HD"tvg-id="elevensports3.pl"tvg-logo="http://fabryka.stream:8880/images/d91d9b739ddf1fd861ffdd1f9be8efc9.png"group-title="ELEVEN SPORTS 3",Eleven Sports 3 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105527
@@ -903,8 +847,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105528
 http://bocian.io:8880/NL753811/552284900/105528
 #EXTINF:-1 tvg-name="Eleven Sports 4 HD"tvg-id="elevensportsports4.pl"tvg-logo="http://logo.tvmedia.io/images/7d35169bc5f63f033d3562c4fbcb367e.png"group-title="ELEVEN SPORTS 4",Eleven Sports 4 HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105528
-#EXTINF:-1 tvg-name="Eleven Sports 4 HD"tvg-id="elevensportsports4.pl"tvg-logo="http://logo.tvmedia.io/images/7d35169bc5f63f033d3562c4fbcb367e.png"group-title="ELEVEN SPORTS 4",Eleven Sports 4 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105528
 #EXTINF:-1 tvg-name="Eleven Sports 4 HD"tvg-id="elevensportsports4.pl"tvg-logo="http://logo.tvmedia.io/images/7d35169bc5f63f033d3562c4fbcb367e.png"group-title="ELEVEN SPORTS 4",Eleven Sports 4 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105528
 #EXTINF:-1 tvg-name="Eleven Sports 4 HD"tvg-id="elevensportsports4.pl"tvg-logo="http://logo.tvmedia.io/images/7d35169bc5f63f033d3562c4fbcb367e.png"group-title="ELEVEN SPORTS 4",Eleven Sports 4 HD
@@ -948,10 +890,6 @@ http://bocian.io:8880/pietro86/OTk1NTYzNzMy/151384
 #EXTINF:-1 tvg-name="Eska Dance"tvg-id=""tvg-logo="http://logo.tvmedia.io/images/radio/EskaDance.png"group-title="ESKA DANCE",Eska Dance
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/151687
 #EXTINF:-1 tvg-name="Eska Dance"tvg-id=""tvg-logo="http://logo.tvmedia.io/images/radio/EskaDance.png"group-title="ESKA DANCE",Eska Dance
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/151384
-#EXTINF:-1 tvg-name="Eska Dance"tvg-id=""tvg-logo="http://logo.tvmedia.io/images/radio/EskaDance.png"group-title="ESKA DANCE",Eska Dance
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/151687
-#EXTINF:-1 tvg-name="Eska Dance"tvg-id=""tvg-logo="http://logo.tvmedia.io/images/radio/EskaDance.png"group-title="ESKA DANCE",Eska Dance
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/151384
 #EXTINF:-1 tvg-name="Eska Dance"tvg-id=""tvg-logo="http://logo.tvmedia.io/images/radio/EskaDance.png"group-title="ESKA DANCE",Eska Dance
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/151687
@@ -981,8 +919,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105506
 http://bocian.io:8880/NL753811/552284900/105506
 #EXTINF:-1 tvg-name="Eska Rock TV"tvg-id="Eska Rock TV"tvg-logo="http://logo.tvmedia.io/images/eb15b32b0b69258d92a88c02dcdfae62.png"group-title="ESKA ROCK TV",Eska Rock TV
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105506
-#EXTINF:-1 tvg-name="Eska Rock TV"tvg-id="Eska Rock TV"tvg-logo="http://logo.tvmedia.io/images/eb15b32b0b69258d92a88c02dcdfae62.png"group-title="ESKA ROCK TV",Eska Rock TV
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105506
 #EXTINF:-1 tvg-name="Eska Rock TV"tvg-id="Eska Rock TV"tvg-logo="http://logo.tvmedia.io/images/eb15b32b0b69258d92a88c02dcdfae62.png"group-title="ESKA ROCK TV",Eska Rock TV
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105506
 #EXTINF:-1 tvg-name="Eska Rock TV"tvg-id="Eska Rock TV"tvg-logo="http://logo.tvmedia.io/images/eb15b32b0b69258d92a88c02dcdfae62.png"group-title="ESKA ROCK TV",Eska Rock TV
@@ -1018,8 +954,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105504
 #EXTINF:-1 tvg-name="Eska TV HD"tvg-id="Eska TV"tvg-logo="http://logo.tvmedia.io/images/logo/eskatv.png"group-title="ESKA TV",Eska TV HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105504
 #EXTINF:-1 tvg-name="Eska TV HD"tvg-id="Eska TV"tvg-logo="http://logo.tvmedia.io/images/logo/eskatv.png"group-title="ESKA TV",Eska TV HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105504
-#EXTINF:-1 tvg-name="Eska TV HD"tvg-id="Eska TV"tvg-logo="http://logo.tvmedia.io/images/logo/eskatv.png"group-title="ESKA TV",Eska TV HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105504
 #EXTINF:-1 tvg-name="Eska TV HD"tvg-id="Eska TV"tvg-logo="http://logo.tvmedia.io/images/logo/eskatv.png"group-title="ESKA TV",Eska TV HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105504
@@ -1050,8 +984,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105505
 #EXTINF:-1 tvg-name="Eska TV Extra"tvg-id="Eska TV Extra"tvg-logo="http://logo.tvmedia.io/images/logo/eskatvextra.png"group-title="ESKA TV EXTRA",Eska TV Extra
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105505
 #EXTINF:-1 tvg-name="Eska TV Extra"tvg-id="Eska TV Extra"tvg-logo="http://logo.tvmedia.io/images/logo/eskatvextra.png"group-title="ESKA TV EXTRA",Eska TV Extra
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105505
-#EXTINF:-1 tvg-name="Eska TV Extra"tvg-id="Eska TV Extra"tvg-logo="http://logo.tvmedia.io/images/logo/eskatvextra.png"group-title="ESKA TV EXTRA",Eska TV Extra
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105505
 #EXTINF:-1 tvg-name="Eska TV Extra"tvg-id="Eska TV Extra"tvg-logo="http://logo.tvmedia.io/images/logo/eskatvextra.png"group-title="ESKA TV EXTRA",Eska TV Extra
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105505
@@ -1079,8 +1011,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105544
 http://bocian.io:8880/NL753811/552284900/105544
 #EXTINF:-1 tvg-name="Eurosport 1 HD"tvg-id="Eurosport"tvg-logo="http://logo.tvmedia.io/images/logo/eurosport1hd.png"group-title="EUROSPORT 1",Eurosport 1 HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105544
-#EXTINF:-1 tvg-name="Eurosport 1 HD"tvg-id="Eurosport"tvg-logo="http://logo.tvmedia.io/images/logo/eurosport1hd.png"group-title="EUROSPORT 1",Eurosport 1 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105544
 #EXTINF:-1 tvg-name="Eurosport 1 HD"tvg-id="Eurosport"tvg-logo="http://logo.tvmedia.io/images/logo/eurosport1hd.png"group-title="EUROSPORT 1",Eurosport 1 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105544
 #EXTINF:-1 tvg-name="Eurosport 1 HD"tvg-id="Eurosport"tvg-logo="http://logo.tvmedia.io/images/logo/eurosport1hd.png"group-title="EUROSPORT 1",Eurosport 1 HD
@@ -1116,8 +1046,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105545
 #EXTINF:-1 tvg-name="Eurosport 2 HD"tvg-id="Eurosport 2"tvg-logo="http://logo.tvmedia.io/images/logo/eurosport2hd.png"group-title="EUROSPORT 2",Eurosport 2 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105545
 #EXTINF:-1 tvg-name="Eurosport 2 HD"tvg-id="Eurosport 2"tvg-logo="http://logo.tvmedia.io/images/logo/eurosport2hd.png"group-title="EUROSPORT 2",Eurosport 2 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105545
-#EXTINF:-1 tvg-name="Eurosport 2 HD"tvg-id="Eurosport 2"tvg-logo="http://logo.tvmedia.io/images/logo/eurosport2hd.png"group-title="EUROSPORT 2",Eurosport 2 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105545
 #EXTINF:-1 tvg-name="Eurosport 2 HD"tvg-id="Eurosport 2"tvg-logo="http://logo.tvmedia.io/images/logo/eurosport2hd.png"group-title="EUROSPORT 2",Eurosport 2 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105545
@@ -1148,8 +1076,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/151264
 #EXTINF:-1 tvg-name="EUROSPORT 4K (OFF AIR)"tvg-id=""tvg-logo=""group-title="EUROSPORT 4K (OFF AIR)",EUROSPORT 4K (OFF AIR)
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/151264
 #EXTINF:-1 tvg-name="EUROSPORT 4K (OFF AIR)"tvg-id=""tvg-logo=""group-title="EUROSPORT 4K (OFF AIR)",EUROSPORT 4K (OFF AIR)
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/151264
-#EXTINF:-1 tvg-name="EUROSPORT 4K (OFF AIR)"tvg-id=""tvg-logo=""group-title="EUROSPORT 4K (OFF AIR)",EUROSPORT 4K (OFF AIR)
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/151264
 #EXTINF:-1 tvg-name="EUROSPORT 4K (OFF AIR)"tvg-id=""tvg-logo=""group-title="EUROSPORT 4K (OFF AIR)",EUROSPORT 4K (OFF AIR)
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/151264
@@ -1167,8 +1093,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105542
 http://bocian.io:8880/NL753811/552284900/105542
 #EXTINF:-1 tvg-name="Extreme Sports Channel HD"tvg-id="Extreme Sports Channel"tvg-logo="http://logo.tvmedia.io/images/logo/extremesportshd.png"group-title="EXTREME SPORTS",Extreme Sports Channel HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105542
-#EXTINF:-1 tvg-name="Extreme Sports Channel HD"tvg-id="Extreme Sports Channel"tvg-logo="http://logo.tvmedia.io/images/logo/extremesportshd.png"group-title="EXTREME SPORTS",Extreme Sports Channel HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105542
 #EXTINF:-1 tvg-name="Extreme Sports Channel HD"tvg-id="Extreme Sports Channel"tvg-logo="http://logo.tvmedia.io/images/logo/extremesportshd.png"group-title="EXTREME SPORTS",Extreme Sports Channel HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105542
 #EXTINF:-1 tvg-name="Extreme Sports Channel HD"tvg-id="Extreme Sports Channel"tvg-logo="http://logo.tvmedia.io/images/logo/extremesportshd.png"group-title="EXTREME SPORTS",Extreme Sports Channel HD
@@ -1202,8 +1126,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105546
 #EXTINF:-1 tvg-name="Fightbox HD"tvg-id="FightBox"tvg-logo="http://logo.tvmedia.io/images/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png"group-title="FIGHTBOX",Fightbox HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105546
 #EXTINF:-1 tvg-name="Fightbox HD"tvg-id="FightBox"tvg-logo="http://logo.tvmedia.io/images/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png"group-title="FIGHTBOX",Fightbox HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105546
-#EXTINF:-1 tvg-name="Fightbox HD"tvg-id="FightBox"tvg-logo="http://logo.tvmedia.io/images/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png"group-title="FIGHTBOX",Fightbox HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105546
 #EXTINF:-1 tvg-name="Fightbox HD"tvg-id="FightBox"tvg-logo="http://logo.tvmedia.io/images/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png"group-title="FIGHTBOX",Fightbox HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105546
@@ -1231,8 +1153,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105541
 http://bocian.io:8880/NL753811/552284900/105541
 #EXTINF:-1 tvg-name="Fightklub HD"tvg-id="fightklub.pl"tvg-logo="http://logo.tvmedia.io/images/logo/FightKlub%20HD.png"group-title="FIGHTKLUB",Fightklub HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105541
-#EXTINF:-1 tvg-name="Fightklub HD"tvg-id="fightklub.pl"tvg-logo="http://logo.tvmedia.io/images/logo/FightKlub%20HD.png"group-title="FIGHTKLUB",Fightklub HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105541
 #EXTINF:-1 tvg-name="Fightklub HD"tvg-id="fightklub.pl"tvg-logo="http://logo.tvmedia.io/images/logo/FightKlub%20HD.png"group-title="FIGHTKLUB",Fightklub HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105541
 #EXTINF:-1 tvg-name="Fightklub HD"tvg-id="fightklub.pl"tvg-logo="http://logo.tvmedia.io/images/logo/FightKlub%20HD.png"group-title="FIGHTKLUB",Fightklub HD
@@ -1266,8 +1186,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/155043
 #EXTINF:-1 tvg-name="FilMax HD"tvg-id="FILMAX"tvg-logo=""group-title="FILMAX",FilMax HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155043
 #EXTINF:-1 tvg-name="FilMax HD"tvg-id="FILMAX"tvg-logo=""group-title="FILMAX",FilMax HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155043
-#EXTINF:-1 tvg-name="FilMax HD"tvg-id="FILMAX"tvg-logo=""group-title="FILMAX",FilMax HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/155043
 #EXTINF:-1 tvg-name="FilMax HD"tvg-id="FILMAX"tvg-logo=""group-title="FILMAX",FilMax HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/155043
@@ -1285,8 +1203,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105374
 http://bocian.io:8880/NL753811/552284900/105374
 #EXTINF:-1 tvg-name="Filmbox Action"tvg-id="filmboxaction.pl"tvg-logo="http://logo.tvmedia.io/images/cff179fcdb23d2951807bc3040cda9c3.png"group-title="FILMBOX ACTION",Filmbox Action
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105374
-#EXTINF:-1 tvg-name="Filmbox Action"tvg-id="filmboxaction.pl"tvg-logo="http://logo.tvmedia.io/images/cff179fcdb23d2951807bc3040cda9c3.png"group-title="FILMBOX ACTION",Filmbox Action
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105374
 #EXTINF:-1 tvg-name="Filmbox Action"tvg-id="filmboxaction.pl"tvg-logo="http://logo.tvmedia.io/images/cff179fcdb23d2951807bc3040cda9c3.png"group-title="FILMBOX ACTION",Filmbox Action
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105374
 #EXTINF:-1 tvg-name="Filmbox Action"tvg-id="filmboxaction.pl"tvg-logo="http://logo.tvmedia.io/images/cff179fcdb23d2951807bc3040cda9c3.png"group-title="FILMBOX ACTION",Filmbox Action
@@ -1322,8 +1238,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105375
 #EXTINF:-1 tvg-name="Filmbox Arthouse"tvg-id="filmboxarthouse.pl"tvg-logo="http://logo.tvmedia.io/images/logo/filmboxarthouse.png"group-title="FILMBOX ARTHOUSE",Filmbox Arthouse
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105375
 #EXTINF:-1 tvg-name="Filmbox Arthouse"tvg-id="filmboxarthouse.pl"tvg-logo="http://logo.tvmedia.io/images/logo/filmboxarthouse.png"group-title="FILMBOX ARTHOUSE",Filmbox Arthouse
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105375
-#EXTINF:-1 tvg-name="Filmbox Arthouse"tvg-id="filmboxarthouse.pl"tvg-logo="http://logo.tvmedia.io/images/logo/filmboxarthouse.png"group-title="FILMBOX ARTHOUSE",Filmbox Arthouse
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105375
 #EXTINF:-1 tvg-name="Filmbox Arthouse"tvg-id="filmboxarthouse.pl"tvg-logo="http://logo.tvmedia.io/images/logo/filmboxarthouse.png"group-title="FILMBOX ARTHOUSE",Filmbox Arthouse
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105375
@@ -1349,8 +1263,6 @@ http://bocian.io:8880/jelon80/NDM2NzcxOTE1/105373
 http://bocian.io:8880/NL753811/552284900/105373
 #EXTINF:-1 tvg-name="Filmbox Extra HD"tvg-id="filmboxextra.pl"tvg-logo="http://logo.tvmedia.io/images/bf1b9303db9bce9f7d547ad418353b2a.png"group-title="FILMBOX EXTRA",Filmbox Extra HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105373
-#EXTINF:-1 tvg-name="Filmbox Extra HD"tvg-id="filmboxextra.pl"tvg-logo="http://logo.tvmedia.io/images/bf1b9303db9bce9f7d547ad418353b2a.png"group-title="FILMBOX EXTRA",Filmbox Extra HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105373
 #EXTINF:-1 tvg-name="Filmbox Extra HD"tvg-id="filmboxextra.pl"tvg-logo="http://logo.tvmedia.io/images/bf1b9303db9bce9f7d547ad418353b2a.png"group-title="FILMBOX EXTRA",Filmbox Extra HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105373
 #EXTINF:-1 tvg-name="Filmbox Extra HD"tvg-id="filmboxextra.pl"tvg-logo="http://logo.tvmedia.io/images/bf1b9303db9bce9f7d547ad418353b2a.png"group-title="FILMBOX EXTRA",Filmbox Extra HD
@@ -1382,8 +1294,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105377
 #EXTINF:-1 tvg-name="Filmbox Family"tvg-id="filmboxfamily.pl"tvg-logo="http://logo.tvmedia.io/images/aa1e8832a1b2c29d9950c4899033b08a.png"group-title="FILMBOX FAMILY",Filmbox Family
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105377
 #EXTINF:-1 tvg-name="Filmbox Family"tvg-id="filmboxfamily.pl"tvg-logo="http://logo.tvmedia.io/images/aa1e8832a1b2c29d9950c4899033b08a.png"group-title="FILMBOX FAMILY",Filmbox Family
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105377
-#EXTINF:-1 tvg-name="Filmbox Family"tvg-id="filmboxfamily.pl"tvg-logo="http://logo.tvmedia.io/images/aa1e8832a1b2c29d9950c4899033b08a.png"group-title="FILMBOX FAMILY",Filmbox Family
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105377
 #EXTINF:-1 tvg-name="Filmbox Family"tvg-id="filmboxfamily.pl"tvg-logo="http://logo.tvmedia.io/images/aa1e8832a1b2c29d9950c4899033b08a.png"group-title="FILMBOX FAMILY",Filmbox Family
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105377
@@ -1411,8 +1321,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105419
 http://bocian.io:8880/NL753811/552284900/105419
 #EXTINF:-1 tvg-name="Food Network HD"tvg-id="foodnetwork.pl"tvg-logo="http://logo.tvmedia.io/images/3e0f56568349f095c63e4484e9deacf0.png"group-title="FOOD NETWORK",Food Network HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105419
-#EXTINF:-1 tvg-name="Food Network HD"tvg-id="foodnetwork.pl"tvg-logo="http://logo.tvmedia.io/images/3e0f56568349f095c63e4484e9deacf0.png"group-title="FOOD NETWORK",Food Network HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105419
 #EXTINF:-1 tvg-name="Food Network HD"tvg-id="foodnetwork.pl"tvg-logo="http://logo.tvmedia.io/images/3e0f56568349f095c63e4484e9deacf0.png"group-title="FOOD NETWORK",Food Network HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105419
 #EXTINF:-1 tvg-name="Food Network HD"tvg-id="foodnetwork.pl"tvg-logo="http://logo.tvmedia.io/images/3e0f56568349f095c63e4484e9deacf0.png"group-title="FOOD NETWORK",Food Network HD
@@ -1450,8 +1358,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105378
 #EXTINF:-1 tvg-name="FX HD"tvg-id="fox.pl"tvg-logo="http://logo.tvmedia.io/images/logo/foxhd.png"group-title="FX",FX HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105378
 #EXTINF:-1 tvg-name="FX HD"tvg-id="fox.pl"tvg-logo="http://logo.tvmedia.io/images/logo/foxhd.png"group-title="FX",FX HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105378
-#EXTINF:-1 tvg-name="FX HD"tvg-id="fox.pl"tvg-logo="http://logo.tvmedia.io/images/logo/foxhd.png"group-title="FX",FX HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105378
 #EXTINF:-1 tvg-name="FX HD"tvg-id="fox.pl"tvg-logo="http://logo.tvmedia.io/images/logo/foxhd.png"group-title="FX",FX HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105378
@@ -1469,8 +1375,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105379
 http://bocian.io:8880/NL753811/552284900/105379
 #EXTINF:-1 tvg-name="FX Comedy HD"tvg-id="foxcomedy.pl"tvg-logo="http://logo.tvmedia.io/images/logo/foxcomedyhd.png"group-title="FX COMEDY",FX Comedy HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105379
-#EXTINF:-1 tvg-name="FX Comedy HD"tvg-id="foxcomedy.pl"tvg-logo="http://logo.tvmedia.io/images/logo/foxcomedyhd.png"group-title="FX COMEDY",FX Comedy HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105379
 #EXTINF:-1 tvg-name="FX Comedy HD"tvg-id="foxcomedy.pl"tvg-logo="http://logo.tvmedia.io/images/logo/foxcomedyhd.png"group-title="FX COMEDY",FX Comedy HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105379
 #EXTINF:-1 tvg-name="FX Comedy HD"tvg-id="foxcomedy.pl"tvg-logo="http://logo.tvmedia.io/images/logo/foxcomedyhd.png"group-title="FX COMEDY",FX Comedy HD
@@ -1493,8 +1397,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105368
 http://bocian.io:8880/NL753811/552284900/105368
 #EXTINF:-1 tvg-name="HBO HD"tvg-id="hbo.pl"tvg-logo="http://logo.tvmedia.io/images/f9adcc04d047cc512ebe96f95745912f.png"group-title="HBO",HBO HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105368
-#EXTINF:-1 tvg-name="HBO HD"tvg-id="hbo.pl"tvg-logo="http://logo.tvmedia.io/images/f9adcc04d047cc512ebe96f95745912f.png"group-title="HBO",HBO HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105368
 #EXTINF:-1 tvg-name="HBO HD"tvg-id="hbo.pl"tvg-logo="http://logo.tvmedia.io/images/f9adcc04d047cc512ebe96f95745912f.png"group-title="HBO",HBO HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105368
 #EXTINF:-1 tvg-name="HBO HD"tvg-id="hbo.pl"tvg-logo="http://logo.tvmedia.io/images/f9adcc04d047cc512ebe96f95745912f.png"group-title="HBO",HBO HD
@@ -1523,8 +1425,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105369
 http://bocian.io:8880/NL753811/552284900/105369
 #EXTINF:-1 tvg-name="HBO 2 HD"tvg-id="hbo2.pl"tvg-logo="http://logo.tvmedia.io/images/12713c6ff264a3ac58c707c7b2a4bbcf.png"group-title="HBO 2",HBO 2 HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105369
-#EXTINF:-1 tvg-name="HBO 2 HD"tvg-id="hbo2.pl"tvg-logo="http://logo.tvmedia.io/images/12713c6ff264a3ac58c707c7b2a4bbcf.png"group-title="HBO 2",HBO 2 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105369
 #EXTINF:-1 tvg-name="HBO 2 HD"tvg-id="hbo2.pl"tvg-logo="http://logo.tvmedia.io/images/12713c6ff264a3ac58c707c7b2a4bbcf.png"group-title="HBO 2",HBO 2 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105369
 #EXTINF:-1 tvg-name="HBO 2 HD"tvg-id="hbo2.pl"tvg-logo="http://logo.tvmedia.io/images/12713c6ff264a3ac58c707c7b2a4bbcf.png"group-title="HBO 2",HBO 2 HD
@@ -1558,8 +1458,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105370
 #EXTINF:-1 tvg-name="HBO 3 HD"tvg-id="hbo3.pl"tvg-logo="http://logo.tvmedia.io/images/cee71028915464dbf234547f65c22c0e.png"group-title="HBO 3",HBO 3 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105370
 #EXTINF:-1 tvg-name="HBO 3 HD"tvg-id="hbo3.pl"tvg-logo="http://logo.tvmedia.io/images/cee71028915464dbf234547f65c22c0e.png"group-title="HBO 3",HBO 3 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105370
-#EXTINF:-1 tvg-name="HBO 3 HD"tvg-id="hbo3.pl"tvg-logo="http://logo.tvmedia.io/images/cee71028915464dbf234547f65c22c0e.png"group-title="HBO 3",HBO 3 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105370
 #EXTINF:-1 tvg-name="HBO 3 HD"tvg-id="hbo3.pl"tvg-logo="http://logo.tvmedia.io/images/cee71028915464dbf234547f65c22c0e.png"group-title="HBO 3",HBO 3 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105370
@@ -1583,8 +1481,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105421
 http://bocian.io:8880/NL753811/552284900/105421
 #EXTINF:-1 tvg-name="History HD"tvg-id="history.pl"tvg-logo="http://logo.tvmedia.io/images/50d4859f871c253cdd38796675a47bb3.png"group-title="HISTORY",History HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105421
-#EXTINF:-1 tvg-name="History HD"tvg-id="history.pl"tvg-logo="http://logo.tvmedia.io/images/50d4859f871c253cdd38796675a47bb3.png"group-title="HISTORY",History HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105421
 #EXTINF:-1 tvg-name="History HD"tvg-id="history.pl"tvg-logo="http://logo.tvmedia.io/images/50d4859f871c253cdd38796675a47bb3.png"group-title="HISTORY",History HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105421
 #EXTINF:-1 tvg-name="History HD"tvg-id="history.pl"tvg-logo="http://logo.tvmedia.io/images/50d4859f871c253cdd38796675a47bb3.png"group-title="HISTORY",History HD
@@ -1622,8 +1518,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105422
 #EXTINF:-1 tvg-name="History 2 HD"tvg-id="history2.pl"tvg-logo="http://logo.tvmedia.io/images/57ba1b309c448eae56337ebb48f80e4f.png"group-title="HISTORY 2",History 2 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105422
 #EXTINF:-1 tvg-name="History 2 HD"tvg-id="history2.pl"tvg-logo="http://logo.tvmedia.io/images/57ba1b309c448eae56337ebb48f80e4f.png"group-title="HISTORY 2",History 2 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105422
-#EXTINF:-1 tvg-name="History 2 HD"tvg-id="history2.pl"tvg-logo="http://logo.tvmedia.io/images/57ba1b309c448eae56337ebb48f80e4f.png"group-title="HISTORY 2",History 2 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105422
 #EXTINF:-1 tvg-name="History 2 HD"tvg-id="history2.pl"tvg-logo="http://logo.tvmedia.io/images/57ba1b309c448eae56337ebb48f80e4f.png"group-title="HISTORY 2",History 2 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105422
@@ -1645,8 +1539,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/120417
 http://bocian.io:8880/NL753811/552284900/120417
 #EXTINF:-1 tvg-name="Home TV"tvg-id="HOME TV"tvg-logo="http://logo.tvmedia.io/images/25e20053ed7a0b71110207f5481bbe96.png"group-title="HOME TV",Home TV
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/120417
-#EXTINF:-1 tvg-name="Home TV"tvg-id="HOME TV"tvg-logo="http://logo.tvmedia.io/images/25e20053ed7a0b71110207f5481bbe96.png"group-title="HOME TV",Home TV
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/120417
 #EXTINF:-1 tvg-name="Home TV"tvg-id="HOME TV"tvg-logo="http://logo.tvmedia.io/images/25e20053ed7a0b71110207f5481bbe96.png"group-title="HOME TV",Home TV
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/120417
 #EXTINF:-1 tvg-name="Home TV"tvg-id="HOME TV"tvg-logo="http://logo.tvmedia.io/images/25e20053ed7a0b71110207f5481bbe96.png"group-title="HOME TV",Home TV
@@ -1676,8 +1568,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105414
 #EXTINF:-1 tvg-name="ID HD"tvg-id="investigationdiscovery.pl"tvg-logo="http://logo.tvmedia.io/images/logo/idhd.png"group-title="INVESTIGATION DISCOVERY",ID HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105414
 #EXTINF:-1 tvg-name="ID HD"tvg-id="investigationdiscovery.pl"tvg-logo="http://logo.tvmedia.io/images/logo/idhd.png"group-title="INVESTIGATION DISCOVERY",ID HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105414
-#EXTINF:-1 tvg-name="ID HD"tvg-id="investigationdiscovery.pl"tvg-logo="http://logo.tvmedia.io/images/logo/idhd.png"group-title="INVESTIGATION DISCOVERY",ID HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105414
 #EXTINF:-1 tvg-name="ID HD"tvg-id="investigationdiscovery.pl"tvg-logo="http://logo.tvmedia.io/images/logo/idhd.png"group-title="INVESTIGATION DISCOVERY",ID HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105414
@@ -1703,8 +1593,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105389
 http://bocian.io:8880/NL753811/552284900/105389
 #EXTINF:-1 tvg-name="Kino Polska HD"tvg-id="kinopolska.pl"tvg-logo="http://fabryka.stream:8880/images/bfeea42f9d27d8a5e4879b4e7a55cb21.png"group-title="KINO POLSKA",Kino Polska HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105389
-#EXTINF:-1 tvg-name="Kino Polska HD"tvg-id="kinopolska.pl"tvg-logo="http://fabryka.stream:8880/images/bfeea42f9d27d8a5e4879b4e7a55cb21.png"group-title="KINO POLSKA",Kino Polska HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105389
 #EXTINF:-1 tvg-name="Kino Polska HD"tvg-id="kinopolska.pl"tvg-logo="http://fabryka.stream:8880/images/bfeea42f9d27d8a5e4879b4e7a55cb21.png"group-title="KINO POLSKA",Kino Polska HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105389
 #EXTINF:-1 tvg-name="Kino Polska HD"tvg-id="kinopolska.pl"tvg-logo="http://fabryka.stream:8880/images/bfeea42f9d27d8a5e4879b4e7a55cb21.png"group-title="KINO POLSKA",Kino Polska HD
@@ -1740,8 +1628,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105507
 #EXTINF:-1 tvg-name="Kino Polska Muzyka"tvg-id="Kino Polska Muzyka"tvg-logo="http://logo.tvmedia.io/images/logo/kinopolskamuzyka.png"group-title="KINO POLSKA MUZYKA",Kino Polska Muzyka
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105507
 #EXTINF:-1 tvg-name="Kino Polska Muzyka"tvg-id="Kino Polska Muzyka"tvg-logo="http://logo.tvmedia.io/images/logo/kinopolskamuzyka.png"group-title="KINO POLSKA MUZYKA",Kino Polska Muzyka
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105507
-#EXTINF:-1 tvg-name="Kino Polska Muzyka"tvg-id="Kino Polska Muzyka"tvg-logo="http://logo.tvmedia.io/images/logo/kinopolskamuzyka.png"group-title="KINO POLSKA MUZYKA",Kino Polska Muzyka
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105507
 #EXTINF:-1 tvg-name="Kino Polska Muzyka"tvg-id="Kino Polska Muzyka"tvg-logo="http://logo.tvmedia.io/images/logo/kinopolskamuzyka.png"group-title="KINO POLSKA MUZYKA",Kino Polska Muzyka
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105507
@@ -1772,8 +1658,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105399
 #EXTINF:-1 tvg-name="Metro HD"tvg-id="metrotv.pl"tvg-logo="http://logo.tvmedia.io/images/b79d2096c66248cad58c309283bcd8d4.png"group-title="METRO",Metro HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105399
 #EXTINF:-1 tvg-name="Metro HD"tvg-id="metrotv.pl"tvg-logo="http://logo.tvmedia.io/images/b79d2096c66248cad58c309283bcd8d4.png"group-title="METRO",Metro HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105399
-#EXTINF:-1 tvg-name="Metro HD"tvg-id="metrotv.pl"tvg-logo="http://logo.tvmedia.io/images/b79d2096c66248cad58c309283bcd8d4.png"group-title="METRO",Metro HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105399
 #EXTINF:-1 tvg-name="Metro HD"tvg-id="metrotv.pl"tvg-logo="http://logo.tvmedia.io/images/b79d2096c66248cad58c309283bcd8d4.png"group-title="METRO",Metro HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105399
@@ -1795,8 +1679,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105510
 http://bocian.io:8880/NL753811/552284900/105510
 #EXTINF:-1 tvg-name="MTV Polska HD"tvg-id="MTV Polska"tvg-logo="http://logo.tvmedia.io/images/logo/mtvpolska.png"group-title="MTV",MTV Polska HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105510
-#EXTINF:-1 tvg-name="MTV Polska HD"tvg-id="MTV Polska"tvg-logo="http://logo.tvmedia.io/images/logo/mtvpolska.png"group-title="MTV",MTV Polska HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105510
 #EXTINF:-1 tvg-name="MTV Polska HD"tvg-id="MTV Polska"tvg-logo="http://logo.tvmedia.io/images/logo/mtvpolska.png"group-title="MTV",MTV Polska HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105510
 #EXTINF:-1 tvg-name="MTV Polska HD"tvg-id="MTV Polska"tvg-logo="http://logo.tvmedia.io/images/logo/mtvpolska.png"group-title="MTV",MTV Polska HD
@@ -1825,8 +1707,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105517
 http://bocian.io:8880/NL753811/552284900/105517
 #EXTINF:-1 tvg-name="MTV 00s"tvg-id="mtv00s.pl"tvg-logo=""group-title="MTV 00S",MTV 00s
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105517
-#EXTINF:-1 tvg-name="MTV 00s"tvg-id="mtv00s.pl"tvg-logo=""group-title="MTV 00S",MTV 00s
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105517
 #EXTINF:-1 tvg-name="MTV 00s"tvg-id="mtv00s.pl"tvg-logo=""group-title="MTV 00S",MTV 00s
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105517
 #EXTINF:-1 tvg-name="MTV 00s"tvg-id="mtv00s.pl"tvg-logo=""group-title="MTV 00S",MTV 00s
@@ -1862,8 +1742,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105511
 #EXTINF:-1 tvg-name="MTV 90s"tvg-id="mtv90s.pl"tvg-logo="http://logo.tvmedia.io/images/4687cfb021a02cebf31a249689ecc60e.png"group-title="MTV 90S",MTV 90s
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105511
 #EXTINF:-1 tvg-name="MTV 90s"tvg-id="mtv90s.pl"tvg-logo="http://logo.tvmedia.io/images/4687cfb021a02cebf31a249689ecc60e.png"group-title="MTV 90S",MTV 90s
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105511
-#EXTINF:-1 tvg-name="MTV 90s"tvg-id="mtv90s.pl"tvg-logo="http://logo.tvmedia.io/images/4687cfb021a02cebf31a249689ecc60e.png"group-title="MTV 90S",MTV 90s
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105511
 #EXTINF:-1 tvg-name="MTV 90s"tvg-id="mtv90s.pl"tvg-logo="http://logo.tvmedia.io/images/4687cfb021a02cebf31a249689ecc60e.png"group-title="MTV 90S",MTV 90s
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105511
@@ -1891,8 +1769,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105509
 http://bocian.io:8880/NL753811/552284900/105509
 #EXTINF:-1 tvg-name="MTV Live HD"tvg-id="MTV Live HD"tvg-logo="http://logo.tvmedia.io/images/0c3b449361ed5fe382319aba9504c1ce.png"group-title="MTV LIVE",MTV Live HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105509
-#EXTINF:-1 tvg-name="MTV Live HD"tvg-id="MTV Live HD"tvg-logo="http://logo.tvmedia.io/images/0c3b449361ed5fe382319aba9504c1ce.png"group-title="MTV LIVE",MTV Live HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105509
 #EXTINF:-1 tvg-name="MTV Live HD"tvg-id="MTV Live HD"tvg-logo="http://logo.tvmedia.io/images/0c3b449361ed5fe382319aba9504c1ce.png"group-title="MTV LIVE",MTV Live HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105509
 #EXTINF:-1 tvg-name="MTV Live HD"tvg-id="MTV Live HD"tvg-logo="http://logo.tvmedia.io/images/0c3b449361ed5fe382319aba9504c1ce.png"group-title="MTV LIVE",MTV Live HD
@@ -1928,8 +1804,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105423
 #EXTINF:-1 tvg-name="National Geographic HD"tvg-id="natgeo.pl"tvg-logo="http://logo.tvmedia.io/images/logo/natgeohd.png"group-title="NATIONAL GEOGRAPHIC",National Geographic HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105423
 #EXTINF:-1 tvg-name="National Geographic HD"tvg-id="natgeo.pl"tvg-logo="http://logo.tvmedia.io/images/logo/natgeohd.png"group-title="NATIONAL GEOGRAPHIC",National Geographic HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105423
-#EXTINF:-1 tvg-name="National Geographic HD"tvg-id="natgeo.pl"tvg-logo="http://logo.tvmedia.io/images/logo/natgeohd.png"group-title="NATIONAL GEOGRAPHIC",National Geographic HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105423
 #EXTINF:-1 tvg-name="National Geographic HD"tvg-id="natgeo.pl"tvg-logo="http://logo.tvmedia.io/images/logo/natgeohd.png"group-title="NATIONAL GEOGRAPHIC",National Geographic HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105423
@@ -1951,8 +1825,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105425
 http://bocian.io:8880/NL753811/552284900/105425
 #EXTINF:-1 tvg-name="Nat Geo People HD"tvg-id="natgeopeople.pl"tvg-logo="http://logo.tvmedia.io/images/logo/NatGeoPeople.png"group-title="NATIONAL GEOGRAPHIC PEOPLE",Nat Geo People HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105425
-#EXTINF:-1 tvg-name="Nat Geo People HD"tvg-id="natgeopeople.pl"tvg-logo="http://logo.tvmedia.io/images/logo/NatGeoPeople.png"group-title="NATIONAL GEOGRAPHIC PEOPLE",Nat Geo People HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105425
 #EXTINF:-1 tvg-name="Nat Geo People HD"tvg-id="natgeopeople.pl"tvg-logo="http://logo.tvmedia.io/images/logo/NatGeoPeople.png"group-title="NATIONAL GEOGRAPHIC PEOPLE",Nat Geo People HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105425
 #EXTINF:-1 tvg-name="Nat Geo People HD"tvg-id="natgeopeople.pl"tvg-logo="http://logo.tvmedia.io/images/logo/NatGeoPeople.png"group-title="NATIONAL GEOGRAPHIC PEOPLE",Nat Geo People HD
@@ -1988,8 +1860,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105424
 #EXTINF:-1 tvg-name="National Geographic Wild HD"tvg-id="natgeowild.pl"tvg-logo="http://logo.tvmedia.io/images/09f3e55d09d705c6b987fa46c2989d69.png"group-title="NATIONAL GEOGRAPHIC WILD",National Geographic Wild HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105424
 #EXTINF:-1 tvg-name="National Geographic Wild HD"tvg-id="natgeowild.pl"tvg-logo="http://logo.tvmedia.io/images/09f3e55d09d705c6b987fa46c2989d69.png"group-title="NATIONAL GEOGRAPHIC WILD",National Geographic Wild HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105424
-#EXTINF:-1 tvg-name="National Geographic Wild HD"tvg-id="natgeowild.pl"tvg-logo="http://logo.tvmedia.io/images/09f3e55d09d705c6b987fa46c2989d69.png"group-title="NATIONAL GEOGRAPHIC WILD",National Geographic Wild HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105424
 #EXTINF:-1 tvg-name="National Geographic Wild HD"tvg-id="natgeowild.pl"tvg-logo="http://logo.tvmedia.io/images/09f3e55d09d705c6b987fa46c2989d69.png"group-title="NATIONAL GEOGRAPHIC WILD",National Geographic Wild HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105424
@@ -2022,8 +1892,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105486
 #EXTINF:-1 tvg-name="Nick Jr Polska"tvg-id="Nick Jr."tvg-logo="http://logo.tvmedia.io/images/logo/nickjr.png"group-title="NICK JR",Nick Jr Polska
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105486
 #EXTINF:-1 tvg-name="Nick Jr Polska"tvg-id="Nick Jr."tvg-logo="http://logo.tvmedia.io/images/logo/nickjr.png"group-title="NICK JR",Nick Jr Polska
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105486
-#EXTINF:-1 tvg-name="Nick Jr Polska"tvg-id="Nick Jr."tvg-logo="http://logo.tvmedia.io/images/logo/nickjr.png"group-title="NICK JR",Nick Jr Polska
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105486
 #EXTINF:-1 tvg-name="Nick Jr Polska"tvg-id="Nick Jr."tvg-logo="http://logo.tvmedia.io/images/logo/nickjr.png"group-title="NICK JR",Nick Jr Polska
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105486
@@ -2043,8 +1911,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105487
 http://bocian.io:8880/NL753811/552284900/105487
 #EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon"tvg-logo="http://logo.tvmedia.io/images/logo/nickelodeon.png"group-title="NICKELODEON",Nickelodeon
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105487
-#EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon"tvg-logo="http://logo.tvmedia.io/images/logo/nickelodeon.png"group-title="NICKELODEON",Nickelodeon
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105487
 #EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon"tvg-logo="http://logo.tvmedia.io/images/logo/nickelodeon.png"group-title="NICKELODEON",Nickelodeon
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105487
 #EXTINF:-1 tvg-name="Nickelodeon"tvg-id="Nickelodeon"tvg-logo="http://logo.tvmedia.io/images/logo/nickelodeon.png"group-title="NICKELODEON",Nickelodeon
@@ -2069,8 +1935,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105448
 http://bocian.io:8880/NL753811/552284900/105448
 #EXTINF:-1 tvg-name="Novela TV"tvg-id="novela.pl"tvg-logo="http://logo.tvmedia.io/images/9f307ec416908b1a0c6c2693b67adb5e.png"group-title="NOVELA TV",Novela TV
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105448
-#EXTINF:-1 tvg-name="Novela TV"tvg-id="novela.pl"tvg-logo="http://logo.tvmedia.io/images/9f307ec416908b1a0c6c2693b67adb5e.png"group-title="NOVELA TV",Novela TV
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105448
 #EXTINF:-1 tvg-name="Novela TV"tvg-id="novela.pl"tvg-logo="http://logo.tvmedia.io/images/9f307ec416908b1a0c6c2693b67adb5e.png"group-title="NOVELA TV",Novela TV
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105448
 #EXTINF:-1 tvg-name="Novela TV"tvg-id="novela.pl"tvg-logo="http://logo.tvmedia.io/images/9f307ec416908b1a0c6c2693b67adb5e.png"group-title="NOVELA TV",Novela TV
@@ -2099,8 +1963,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/135978
 http://bocian.io:8880/NL753811/552284900/135978
 #EXTINF:-1 tvg-name="Novelas+"tvg-id="novelasplus.pl"tvg-logo=""group-title="NOVELAS+",Novelas+
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/135978
-#EXTINF:-1 tvg-name="Novelas+"tvg-id="novelasplus.pl"tvg-logo=""group-title="NOVELAS+",Novelas+
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/135978
 #EXTINF:-1 tvg-name="Novelas+"tvg-id="novelasplus.pl"tvg-logo=""group-title="NOVELAS+",Novelas+
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/135978
 #EXTINF:-1 tvg-name="Novelas+"tvg-id="novelasplus.pl"tvg-logo=""group-title="NOVELAS+",Novelas+
@@ -2140,8 +2002,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105455
 #EXTINF:-1 tvg-name="Nowa TV HD"tvg-id="NOWA TV"tvg-logo="http://logo.tvmedia.io/images/logo/nowatv.png"group-title="NOWA TV",Nowa TV HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105455
 #EXTINF:-1 tvg-name="Nowa TV HD"tvg-id="NOWA TV"tvg-logo="http://logo.tvmedia.io/images/logo/nowatv.png"group-title="NOWA TV",Nowa TV HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105455
-#EXTINF:-1 tvg-name="Nowa TV HD"tvg-id="NOWA TV"tvg-logo="http://logo.tvmedia.io/images/logo/nowatv.png"group-title="NOWA TV",Nowa TV HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105455
 #EXTINF:-1 tvg-name="Nowa TV HD"tvg-id="NOWA TV"tvg-logo="http://logo.tvmedia.io/images/logo/nowatv.png"group-title="NOWA TV",Nowa TV HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105455
@@ -2169,8 +2029,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105395
 http://bocian.io:8880/NL753811/552284900/105395
 #EXTINF:-1 tvg-name="Paramount Network HD"tvg-id="paramount.pl"tvg-logo="http://logo.tvmedia.io/images/e9828e94e6fa51ccf2f1b4d5bf23230c.png"group-title="PARAMOUNT NETWORK",Paramount Network HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105395
-#EXTINF:-1 tvg-name="Paramount Network HD"tvg-id="paramount.pl"tvg-logo="http://logo.tvmedia.io/images/e9828e94e6fa51ccf2f1b4d5bf23230c.png"group-title="PARAMOUNT NETWORK",Paramount Network HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105395
 #EXTINF:-1 tvg-name="Paramount Network HD"tvg-id="paramount.pl"tvg-logo="http://logo.tvmedia.io/images/e9828e94e6fa51ccf2f1b4d5bf23230c.png"group-title="PARAMOUNT NETWORK",Paramount Network HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105395
 #EXTINF:-1 tvg-name="Paramount Network HD"tvg-id="paramount.pl"tvg-logo="http://logo.tvmedia.io/images/e9828e94e6fa51ccf2f1b4d5bf23230c.png"group-title="PARAMOUNT NETWORK",Paramount Network HD
@@ -2204,8 +2062,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105426
 #EXTINF:-1 tvg-name="Planete+ HD"tvg-id="planete.pl"tvg-logo="http://logo.tvmedia.io/images/logo/planeteplushd.png"group-title="PLANETE+",Planete+ HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105426
 #EXTINF:-1 tvg-name="Planete+ HD"tvg-id="planete.pl"tvg-logo="http://logo.tvmedia.io/images/logo/planeteplushd.png"group-title="PLANETE+",Planete+ HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105426
-#EXTINF:-1 tvg-name="Planete+ HD"tvg-id="planete.pl"tvg-logo="http://logo.tvmedia.io/images/logo/planeteplushd.png"group-title="PLANETE+",Planete+ HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105426
 #EXTINF:-1 tvg-name="Planete+ HD"tvg-id="planete.pl"tvg-logo="http://logo.tvmedia.io/images/logo/planeteplushd.png"group-title="PLANETE+",Planete+ HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105426
@@ -2235,8 +2091,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105349
 http://bocian.io:8880/NL753811/552284900/105349
 #EXTINF:-1 tvg-name="Polsat HD"tvg-id="polsat.pl"tvg-logo="http://logo.tvmedia.io/images/c7079714540d46c9f5bb9f78f090ea39.png"group-title="POLSAT",Polsat HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105349
-#EXTINF:-1 tvg-name="Polsat HD"tvg-id="polsat.pl"tvg-logo="http://logo.tvmedia.io/images/c7079714540d46c9f5bb9f78f090ea39.png"group-title="POLSAT",Polsat HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105349
 #EXTINF:-1 tvg-name="Polsat HD"tvg-id="polsat.pl"tvg-logo="http://logo.tvmedia.io/images/c7079714540d46c9f5bb9f78f090ea39.png"group-title="POLSAT",Polsat HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105349
 #EXTINF:-1 tvg-name="Polsat HD"tvg-id="polsat.pl"tvg-logo="http://logo.tvmedia.io/images/c7079714540d46c9f5bb9f78f090ea39.png"group-title="POLSAT",Polsat HD
@@ -2276,8 +2130,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105350
 #EXTINF:-1 tvg-name="Polsat 2 HD"tvg-id="polsat2.pl"tvg-logo="http://logo.tvmedia.io/images/2ff9b139bd723859d0a79125cbd190e9.png"group-title="POLSAT 2",Polsat 2 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105350
 #EXTINF:-1 tvg-name="Polsat 2 HD"tvg-id="polsat2.pl"tvg-logo="http://logo.tvmedia.io/images/2ff9b139bd723859d0a79125cbd190e9.png"group-title="POLSAT 2",Polsat 2 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105350
-#EXTINF:-1 tvg-name="Polsat 2 HD"tvg-id="polsat2.pl"tvg-logo="http://logo.tvmedia.io/images/2ff9b139bd723859d0a79125cbd190e9.png"group-title="POLSAT 2",Polsat 2 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105350
 #EXTINF:-1 tvg-name="Polsat 2 HD"tvg-id="polsat2.pl"tvg-logo="http://logo.tvmedia.io/images/2ff9b139bd723859d0a79125cbd190e9.png"group-title="POLSAT 2",Polsat 2 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105350
@@ -2311,8 +2163,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105432
 http://bocian.io:8880/NL753811/552284900/105432
 #EXTINF:-1 tvg-name="Polsat Cafe HD"tvg-id="polsatcafe.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatcafe.png"group-title="POLSAT CAFE",Polsat Cafe HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105432
-#EXTINF:-1 tvg-name="Polsat Cafe HD"tvg-id="polsatcafe.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatcafe.png"group-title="POLSAT CAFE",Polsat Cafe HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105432
 #EXTINF:-1 tvg-name="Polsat Cafe HD"tvg-id="polsatcafe.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatcafe.png"group-title="POLSAT CAFE",Polsat Cafe HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105432
 #EXTINF:-1 tvg-name="Polsat Cafe HD"tvg-id="polsatcafe.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatcafe.png"group-title="POLSAT CAFE",Polsat Cafe HD
@@ -2352,8 +2202,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105386
 #EXTINF:-1 tvg-name="Polsat Comedy Central Extra HD"tvg-id="comedycentral.pl"tvg-logo="http://logo.tvmedia.io/images/aff4676b89d4f41d548c39056da92c51.png"group-title="POLSAT COMEDY CENTRAL EXTRA",Polsat Comedy Central Extra HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105386
 #EXTINF:-1 tvg-name="Polsat Comedy Central Extra HD"tvg-id="comedycentral.pl"tvg-logo="http://logo.tvmedia.io/images/aff4676b89d4f41d548c39056da92c51.png"group-title="POLSAT COMEDY CENTRAL EXTRA",Polsat Comedy Central Extra HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105386
-#EXTINF:-1 tvg-name="Polsat Comedy Central Extra HD"tvg-id="comedycentral.pl"tvg-logo="http://logo.tvmedia.io/images/aff4676b89d4f41d548c39056da92c51.png"group-title="POLSAT COMEDY CENTRAL EXTRA",Polsat Comedy Central Extra HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105386
 #EXTINF:-1 tvg-name="Polsat Comedy Central Extra HD"tvg-id="comedycentral.pl"tvg-logo="http://logo.tvmedia.io/images/aff4676b89d4f41d548c39056da92c51.png"group-title="POLSAT COMEDY CENTRAL EXTRA",Polsat Comedy Central Extra HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105386
@@ -2383,8 +2231,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105428
 http://bocian.io:8880/NL753811/552284900/105428
 #EXTINF:-1 tvg-name="Polsat Doku HD"tvg-id="polsatdoku.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatdoku.png"group-title="POLSAT DOKU",Polsat Doku HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105428
-#EXTINF:-1 tvg-name="Polsat Doku HD"tvg-id="polsatdoku.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatdoku.png"group-title="POLSAT DOKU",Polsat Doku HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105428
 #EXTINF:-1 tvg-name="Polsat Doku HD"tvg-id="polsatdoku.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatdoku.png"group-title="POLSAT DOKU",Polsat Doku HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105428
 #EXTINF:-1 tvg-name="Polsat Doku HD"tvg-id="polsatdoku.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatdoku.png"group-title="POLSAT DOKU",Polsat Doku HD
@@ -2420,8 +2266,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105392
 #EXTINF:-1 tvg-name="Polsat Film HD"tvg-id="polsatfilm.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatfilm.png"group-title="POLSAT FILM",Polsat Film HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105392
 #EXTINF:-1 tvg-name="Polsat Film HD"tvg-id="polsatfilm.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatfilm.png"group-title="POLSAT FILM",Polsat Film HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105392
-#EXTINF:-1 tvg-name="Polsat Film HD"tvg-id="polsatfilm.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatfilm.png"group-title="POLSAT FILM",Polsat Film HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105392
 #EXTINF:-1 tvg-name="Polsat Film HD"tvg-id="polsatfilm.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatfilm.png"group-title="POLSAT FILM",Polsat Film HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105392
@@ -2451,8 +2295,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105534
 http://bocian.io:8880/NL753811/552284900/105534
 #EXTINF:-1 tvg-name="Polsat Games HD"tvg-id="Polsat Games"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatgames.png"group-title="POLSAT GAMES",Polsat Games HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105534
-#EXTINF:-1 tvg-name="Polsat Games HD"tvg-id="Polsat Games"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatgames.png"group-title="POLSAT GAMES",Polsat Games HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105534
 #EXTINF:-1 tvg-name="Polsat Games HD"tvg-id="Polsat Games"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatgames.png"group-title="POLSAT GAMES",Polsat Games HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105534
 #EXTINF:-1 tvg-name="Polsat Games HD"tvg-id="Polsat Games"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatgames.png"group-title="POLSAT GAMES",Polsat Games HD
@@ -2490,8 +2332,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105497
 #EXTINF:-1 tvg-name="Polsat Jim Jam"tvg-id="Polsat JimJam"tvg-logo="http://logo.tvmedia.io/images/logo/jimjam.png"group-title="POLSAT JIM JAM",Polsat Jim Jam
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105497
 #EXTINF:-1 tvg-name="Polsat Jim Jam"tvg-id="Polsat JimJam"tvg-logo="http://logo.tvmedia.io/images/logo/jimjam.png"group-title="POLSAT JIM JAM",Polsat Jim Jam
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105497
-#EXTINF:-1 tvg-name="Polsat Jim Jam"tvg-id="Polsat JimJam"tvg-logo="http://logo.tvmedia.io/images/logo/jimjam.png"group-title="POLSAT JIM JAM",Polsat Jim Jam
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105497
 #EXTINF:-1 tvg-name="Polsat Jim Jam"tvg-id="Polsat JimJam"tvg-logo="http://logo.tvmedia.io/images/logo/jimjam.png"group-title="POLSAT JIM JAM",Polsat Jim Jam
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105497
@@ -2511,8 +2351,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105514
 http://bocian.io:8880/NL753811/552284900/105514
 #EXTINF:-1 tvg-name="Polsat Music HD"tvg-id="Polsat Music"tvg-logo="http://logo.tvmedia.io/images/logo/polsatmusichd.png"group-title="POLSAT MUSIC",Polsat Music HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105514
-#EXTINF:-1 tvg-name="Polsat Music HD"tvg-id="Polsat Music"tvg-logo="http://logo.tvmedia.io/images/logo/polsatmusichd.png"group-title="POLSAT MUSIC",Polsat Music HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105514
 #EXTINF:-1 tvg-name="Polsat Music HD"tvg-id="Polsat Music"tvg-logo="http://logo.tvmedia.io/images/logo/polsatmusichd.png"group-title="POLSAT MUSIC",Polsat Music HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105514
 #EXTINF:-1 tvg-name="Polsat Music HD"tvg-id="Polsat Music"tvg-logo="http://logo.tvmedia.io/images/logo/polsatmusichd.png"group-title="POLSAT MUSIC",Polsat Music HD
@@ -2545,8 +2383,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105465
 http://bocian.io:8880/NL753811/552284900/105465
 #EXTINF:-1 tvg-name="Polsat News HD"tvg-id="Polsat News"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews.png"group-title="POLSAT NEWS",Polsat News HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105465
-#EXTINF:-1 tvg-name="Polsat News HD"tvg-id="Polsat News"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews.png"group-title="POLSAT NEWS",Polsat News HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105465
 #EXTINF:-1 tvg-name="Polsat News HD"tvg-id="Polsat News"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews.png"group-title="POLSAT NEWS",Polsat News HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105465
 #EXTINF:-1 tvg-name="Polsat News HD"tvg-id="Polsat News"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews.png"group-title="POLSAT NEWS",Polsat News HD
@@ -2583,8 +2419,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105466
 http://bocian.io:8880/NL753811/552284900/105466
 #EXTINF:-1 tvg-name="Polsat News 2"tvg-id="POLSAT NEWS 2"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews2.png"group-title="POLSAT NEWS 2",Polsat News 2
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105466
-#EXTINF:-1 tvg-name="Polsat News 2"tvg-id="POLSAT NEWS 2"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews2.png"group-title="POLSAT NEWS 2",Polsat News 2
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105466
 #EXTINF:-1 tvg-name="Polsat News 2"tvg-id="POLSAT NEWS 2"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews2.png"group-title="POLSAT NEWS 2",Polsat News 2
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105466
 #EXTINF:-1 tvg-name="Polsat News 2"tvg-id="POLSAT NEWS 2"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews2.png"group-title="POLSAT NEWS 2",Polsat News 2
@@ -2634,8 +2468,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105435
 #EXTINF:-1 tvg-name="Polsat Play HD"tvg-id="polsatplay.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatplay.png"group-title="POLSAT PLAY",Polsat Play HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105435
 #EXTINF:-1 tvg-name="Polsat Play HD"tvg-id="polsatplay.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatplay.png"group-title="POLSAT PLAY",Polsat Play HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105435
-#EXTINF:-1 tvg-name="Polsat Play HD"tvg-id="polsatplay.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatplay.png"group-title="POLSAT PLAY",Polsat Play HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105435
 #EXTINF:-1 tvg-name="Polsat Play HD"tvg-id="polsatplay.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatplay.png"group-title="POLSAT PLAY",Polsat Play HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105435
@@ -2674,8 +2506,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105433
 #EXTINF:-1 tvg-name="Polsat Rodzina HD"tvg-id="polsatrodzina.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatrodzina.png"group-title="POLSAT RODZINA",Polsat Rodzina HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105433
 #EXTINF:-1 tvg-name="Polsat Rodzina HD"tvg-id="polsatrodzina.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatrodzina.png"group-title="POLSAT RODZINA",Polsat Rodzina HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105433
-#EXTINF:-1 tvg-name="Polsat Rodzina HD"tvg-id="polsatrodzina.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatrodzina.png"group-title="POLSAT RODZINA",Polsat Rodzina HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105433
 #EXTINF:-1 tvg-name="Polsat Rodzina HD"tvg-id="polsatrodzina.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatrodzina.png"group-title="POLSAT RODZINA",Polsat Rodzina HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105433
@@ -2709,8 +2539,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105434
 http://bocian.io:8880/NL753811/552284900/105434
 #EXTINF:-1 tvg-name="Polsat Seriale HD"tvg-id="polsatseriale.pl"tvg-logo="http://logo.tvmedia.io/images/9eef0fc8228085e5e9b5780619f2870e.png"group-title="POLSAT SERIALE",Polsat Seriale HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105434
-#EXTINF:-1 tvg-name="Polsat Seriale HD"tvg-id="polsatseriale.pl"tvg-logo="http://logo.tvmedia.io/images/9eef0fc8228085e5e9b5780619f2870e.png"group-title="POLSAT SERIALE",Polsat Seriale HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105434
 #EXTINF:-1 tvg-name="Polsat Seriale HD"tvg-id="polsatseriale.pl"tvg-logo="http://logo.tvmedia.io/images/9eef0fc8228085e5e9b5780619f2870e.png"group-title="POLSAT SERIALE",Polsat Seriale HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105434
 #EXTINF:-1 tvg-name="Polsat Seriale HD"tvg-id="polsatseriale.pl"tvg-logo="http://logo.tvmedia.io/images/9eef0fc8228085e5e9b5780619f2870e.png"group-title="POLSAT SERIALE",Polsat Seriale HD
@@ -2752,8 +2580,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105530
 #EXTINF:-1 tvg-name="Polsat Sport 1 HD"tvg-id="Polsat Sport"tvg-logo="http://logo.tvmedia.io/images/905d9e9cec50adf2156cec18f26857d4.png"group-title="POLSAT SPORT 1",Polsat Sport 1 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105530
 #EXTINF:-1 tvg-name="Polsat Sport 1 HD"tvg-id="Polsat Sport"tvg-logo="http://logo.tvmedia.io/images/905d9e9cec50adf2156cec18f26857d4.png"group-title="POLSAT SPORT 1",Polsat Sport 1 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105530
-#EXTINF:-1 tvg-name="Polsat Sport 1 HD"tvg-id="Polsat Sport"tvg-logo="http://logo.tvmedia.io/images/905d9e9cec50adf2156cec18f26857d4.png"group-title="POLSAT SPORT 1",Polsat Sport 1 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105530
 #EXTINF:-1 tvg-name="Polsat Sport 1 HD"tvg-id="Polsat Sport"tvg-logo="http://logo.tvmedia.io/images/905d9e9cec50adf2156cec18f26857d4.png"group-title="POLSAT SPORT 1",Polsat Sport 1 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105530
@@ -2779,8 +2605,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105533
 http://bocian.io:8880/NL753811/552284900/105533
 #EXTINF:-1 tvg-name="Polsat Sport 2 HD"tvg-id="Polsat Sport News"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportnews.png"group-title="POLSAT SPORT 2",Polsat Sport 2 HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105533
-#EXTINF:-1 tvg-name="Polsat Sport 2 HD"tvg-id="Polsat Sport News"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportnews.png"group-title="POLSAT SPORT 2",Polsat Sport 2 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105533
 #EXTINF:-1 tvg-name="Polsat Sport 2 HD"tvg-id="Polsat Sport News"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportnews.png"group-title="POLSAT SPORT 2",Polsat Sport 2 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105533
 #EXTINF:-1 tvg-name="Polsat Sport 2 HD"tvg-id="Polsat Sport News"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportnews.png"group-title="POLSAT SPORT 2",Polsat Sport 2 HD
@@ -2812,8 +2636,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105531
 #EXTINF:-1 tvg-name="Polsat Sport 3 HD"tvg-id="Polsat Sport Extra"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportextra.png"group-title="POLSAT SPORT 3",Polsat Sport 3 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105531
 #EXTINF:-1 tvg-name="Polsat Sport 3 HD"tvg-id="Polsat Sport Extra"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportextra.png"group-title="POLSAT SPORT 3",Polsat Sport 3 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105531
-#EXTINF:-1 tvg-name="Polsat Sport 3 HD"tvg-id="Polsat Sport Extra"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportextra.png"group-title="POLSAT SPORT 3",Polsat Sport 3 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105531
 #EXTINF:-1 tvg-name="Polsat Sport 3 HD"tvg-id="Polsat Sport Extra"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportextra.png"group-title="POLSAT SPORT 3",Polsat Sport 3 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105531
@@ -2842,8 +2664,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105539
 #EXTINF:-1 tvg-name="Polsat Sport Extra 1 HD"tvg-id="Polsat Sport Premium 5"tvg-logo="http://logo.tvmedia.io/images/dd022b750eb9dd37aacfce394a27929f.png"group-title="POLSAT SPORT EXTRA 1",Polsat Sport Extra 1 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105539
 #EXTINF:-1 tvg-name="Polsat Sport Extra 1 HD"tvg-id="Polsat Sport Premium 5"tvg-logo="http://logo.tvmedia.io/images/dd022b750eb9dd37aacfce394a27929f.png"group-title="POLSAT SPORT EXTRA 1",Polsat Sport Extra 1 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105539
-#EXTINF:-1 tvg-name="Polsat Sport Extra 1 HD"tvg-id="Polsat Sport Premium 5"tvg-logo="http://logo.tvmedia.io/images/dd022b750eb9dd37aacfce394a27929f.png"group-title="POLSAT SPORT EXTRA 1",Polsat Sport Extra 1 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105539
 #EXTINF:-1 tvg-name="Polsat Sport Extra 1 HD"tvg-id="Polsat Sport Premium 5"tvg-logo="http://logo.tvmedia.io/images/dd022b750eb9dd37aacfce394a27929f.png"group-title="POLSAT SPORT EXTRA 1",Polsat Sport Extra 1 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105539
@@ -2861,8 +2681,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105540
 http://bocian.io:8880/NL753811/552284900/105540
 #EXTINF:-1 tvg-name="Polsat Sport Extra 2 HD"tvg-id="Polsat Sport Premium 6"tvg-logo="http://logo.tvmedia.io/images/5e451965e5093807801a588b8f104f63.png"group-title="POLSAT SPORT EXTRA 2",Polsat Sport Extra 2 HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105540
-#EXTINF:-1 tvg-name="Polsat Sport Extra 2 HD"tvg-id="Polsat Sport Premium 6"tvg-logo="http://logo.tvmedia.io/images/5e451965e5093807801a588b8f104f63.png"group-title="POLSAT SPORT EXTRA 2",Polsat Sport Extra 2 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105540
 #EXTINF:-1 tvg-name="Polsat Sport Extra 2 HD"tvg-id="Polsat Sport Premium 6"tvg-logo="http://logo.tvmedia.io/images/5e451965e5093807801a588b8f104f63.png"group-title="POLSAT SPORT EXTRA 2",Polsat Sport Extra 2 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105540
 #EXTINF:-1 tvg-name="Polsat Sport Extra 2 HD"tvg-id="Polsat Sport Premium 6"tvg-logo="http://logo.tvmedia.io/images/5e451965e5093807801a588b8f104f63.png"group-title="POLSAT SPORT EXTRA 2",Polsat Sport Extra 2 HD
@@ -2886,8 +2704,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105537
 #EXTINF:-1 tvg-name="Polsat Sport Extra 3 HD"tvg-id="Polsat Sport Premium 3"tvg-logo="http://logo.tvmedia.io/images/af502221e35e7b23823fa933b39d3791.png"group-title="POLSAT SPORT EXTRA 3",Polsat Sport Extra 3 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105537
 #EXTINF:-1 tvg-name="Polsat Sport Extra 3 HD"tvg-id="Polsat Sport Premium 3"tvg-logo="http://logo.tvmedia.io/images/af502221e35e7b23823fa933b39d3791.png"group-title="POLSAT SPORT EXTRA 3",Polsat Sport Extra 3 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105537
-#EXTINF:-1 tvg-name="Polsat Sport Extra 3 HD"tvg-id="Polsat Sport Premium 3"tvg-logo="http://logo.tvmedia.io/images/af502221e35e7b23823fa933b39d3791.png"group-title="POLSAT SPORT EXTRA 3",Polsat Sport Extra 3 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105537
 #EXTINF:-1 tvg-name="Polsat Sport Extra 3 HD"tvg-id="Polsat Sport Premium 3"tvg-logo="http://logo.tvmedia.io/images/af502221e35e7b23823fa933b39d3791.png"group-title="POLSAT SPORT EXTRA 3",Polsat Sport Extra 3 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105537
@@ -2908,8 +2724,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105538
 #EXTINF:-1 tvg-name="Polsat Sport Extra 4 HD"tvg-id="Polsat Sport Premium 4"tvg-logo="http://logo.tvmedia.io/images/6cfef4132cd6259cdf6a37271a7afb4d.png"group-title="POLSAT SPORT EXTRA 4",Polsat Sport Extra 4 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105538
 #EXTINF:-1 tvg-name="Polsat Sport Extra 4 HD"tvg-id="Polsat Sport Premium 4"tvg-logo="http://logo.tvmedia.io/images/6cfef4132cd6259cdf6a37271a7afb4d.png"group-title="POLSAT SPORT EXTRA 4",Polsat Sport Extra 4 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105538
-#EXTINF:-1 tvg-name="Polsat Sport Extra 4 HD"tvg-id="Polsat Sport Premium 4"tvg-logo="http://logo.tvmedia.io/images/6cfef4132cd6259cdf6a37271a7afb4d.png"group-title="POLSAT SPORT EXTRA 4",Polsat Sport Extra 4 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105538
 #EXTINF:-1 tvg-name="Polsat Sport Extra 4 HD"tvg-id="Polsat Sport Premium 4"tvg-logo="http://logo.tvmedia.io/images/6cfef4132cd6259cdf6a37271a7afb4d.png"group-title="POLSAT SPORT EXTRA 4",Polsat Sport Extra 4 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105538
@@ -2927,8 +2741,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105532
 http://bocian.io:8880/NL753811/552284900/105532
 #EXTINF:-1 tvg-name="Polsat Sport Fight HD"tvg-id="Polsat Sport Fight"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportfight.png"group-title="POLSAT SPORT FIGHT",Polsat Sport Fight HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105532
-#EXTINF:-1 tvg-name="Polsat Sport Fight HD"tvg-id="Polsat Sport Fight"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportfight.png"group-title="POLSAT SPORT FIGHT",Polsat Sport Fight HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105532
 #EXTINF:-1 tvg-name="Polsat Sport Fight HD"tvg-id="Polsat Sport Fight"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportfight.png"group-title="POLSAT SPORT FIGHT",Polsat Sport Fight HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105532
 #EXTINF:-1 tvg-name="Polsat Sport Fight HD"tvg-id="Polsat Sport Fight"tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportfight.png"group-title="POLSAT SPORT FIGHT",Polsat Sport Fight HD
@@ -2962,8 +2774,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105535
 #EXTINF:-1 tvg-name="Polsat Sport Premium 1 HD"tvg-id="Polsat Sport Premium 1"tvg-logo="http://logo.tvmedia.io/images/e221f30d81d809132fda8bfe5a1b884e.png"group-title="POLSAT SPORT PREMIUM 1",Polsat Sport Premium 1 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105535
 #EXTINF:-1 tvg-name="Polsat Sport Premium 1 HD"tvg-id="Polsat Sport Premium 1"tvg-logo="http://logo.tvmedia.io/images/e221f30d81d809132fda8bfe5a1b884e.png"group-title="POLSAT SPORT PREMIUM 1",Polsat Sport Premium 1 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105535
-#EXTINF:-1 tvg-name="Polsat Sport Premium 1 HD"tvg-id="Polsat Sport Premium 1"tvg-logo="http://logo.tvmedia.io/images/e221f30d81d809132fda8bfe5a1b884e.png"group-title="POLSAT SPORT PREMIUM 1",Polsat Sport Premium 1 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105535
 #EXTINF:-1 tvg-name="Polsat Sport Premium 1 HD"tvg-id="Polsat Sport Premium 1"tvg-logo="http://logo.tvmedia.io/images/e221f30d81d809132fda8bfe5a1b884e.png"group-title="POLSAT SPORT PREMIUM 1",Polsat Sport Premium 1 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105535
@@ -2991,8 +2801,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105536
 http://bocian.io:8880/NL753811/552284900/105536
 #EXTINF:-1 tvg-name="Polsat Sport Premium 2 HD"tvg-id="Polsat Sport Premium 2"tvg-logo="http://logo.tvmedia.io/images/5eaf859784921ee6f80956b9b66a3a36.png"group-title="POLSAT SPORT PREMIUM 2",Polsat Sport Premium 2 HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105536
-#EXTINF:-1 tvg-name="Polsat Sport Premium 2 HD"tvg-id="Polsat Sport Premium 2"tvg-logo="http://logo.tvmedia.io/images/5eaf859784921ee6f80956b9b66a3a36.png"group-title="POLSAT SPORT PREMIUM 2",Polsat Sport Premium 2 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105536
 #EXTINF:-1 tvg-name="Polsat Sport Premium 2 HD"tvg-id="Polsat Sport Premium 2"tvg-logo="http://logo.tvmedia.io/images/5eaf859784921ee6f80956b9b66a3a36.png"group-title="POLSAT SPORT PREMIUM 2",Polsat Sport Premium 2 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105536
 #EXTINF:-1 tvg-name="Polsat Sport Premium 2 HD"tvg-id="Polsat Sport Premium 2"tvg-logo="http://logo.tvmedia.io/images/5eaf859784921ee6f80956b9b66a3a36.png"group-title="POLSAT SPORT PREMIUM 2",Polsat Sport Premium 2 HD
@@ -3030,8 +2838,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105430
 #EXTINF:-1 tvg-name="Polsat Viasat Explore HD"tvg-id="polsatviasatexpl.pl"tvg-logo="http://logo.tvmedia.io/images/128619136b16ade6483fed9c1254ffe4.png"group-title="POLSAT VIASAT EXPLORE",Polsat Viasat Explore HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105430
 #EXTINF:-1 tvg-name="Polsat Viasat Explore HD"tvg-id="polsatviasatexpl.pl"tvg-logo="http://logo.tvmedia.io/images/128619136b16ade6483fed9c1254ffe4.png"group-title="POLSAT VIASAT EXPLORE",Polsat Viasat Explore HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105430
-#EXTINF:-1 tvg-name="Polsat Viasat Explore HD"tvg-id="polsatviasatexpl.pl"tvg-logo="http://logo.tvmedia.io/images/128619136b16ade6483fed9c1254ffe4.png"group-title="POLSAT VIASAT EXPLORE",Polsat Viasat Explore HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105430
 #EXTINF:-1 tvg-name="Polsat Viasat Explore HD"tvg-id="polsatviasatexpl.pl"tvg-logo="http://logo.tvmedia.io/images/128619136b16ade6483fed9c1254ffe4.png"group-title="POLSAT VIASAT EXPLORE",Polsat Viasat Explore HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105430
@@ -3066,8 +2872,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105429
 #EXTINF:-1 tvg-name="Polsat Viasat History HD"tvg-id="polsatviasathist.pl"tvg-logo="http://logo.tvmedia.io/images/9d123fd69b8da6ff39bd573bd18ab632.png"group-title="POLSAT VIASAT HISTORY",Polsat Viasat History HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105429
 #EXTINF:-1 tvg-name="Polsat Viasat History HD"tvg-id="polsatviasathist.pl"tvg-logo="http://logo.tvmedia.io/images/9d123fd69b8da6ff39bd573bd18ab632.png"group-title="POLSAT VIASAT HISTORY",Polsat Viasat History HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105429
-#EXTINF:-1 tvg-name="Polsat Viasat History HD"tvg-id="polsatviasathist.pl"tvg-logo="http://logo.tvmedia.io/images/9d123fd69b8da6ff39bd573bd18ab632.png"group-title="POLSAT VIASAT HISTORY",Polsat Viasat History HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105429
 #EXTINF:-1 tvg-name="Polsat Viasat History HD"tvg-id="polsatviasathist.pl"tvg-logo="http://logo.tvmedia.io/images/9d123fd69b8da6ff39bd573bd18ab632.png"group-title="POLSAT VIASAT HISTORY",Polsat Viasat History HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105429
@@ -3099,8 +2903,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105431
 http://bocian.io:8880/NL753811/552284900/105431
 #EXTINF:-1 tvg-name="Polsat Viasat Nature HD"tvg-id="polsatviasatnature.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsatviasatnature.png"group-title="POLSAT VIASAT NATURE",Polsat Viasat Nature HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105431
-#EXTINF:-1 tvg-name="Polsat Viasat Nature HD"tvg-id="polsatviasatnature.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsatviasatnature.png"group-title="POLSAT VIASAT NATURE",Polsat Viasat Nature HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105431
 #EXTINF:-1 tvg-name="Polsat Viasat Nature HD"tvg-id="polsatviasatnature.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsatviasatnature.png"group-title="POLSAT VIASAT NATURE",Polsat Viasat Nature HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105431
 #EXTINF:-1 tvg-name="Polsat Viasat Nature HD"tvg-id="polsatviasatnature.pl"tvg-logo="http://logo.tvmedia.io/images/logo/polsatviasatnature.png"group-title="POLSAT VIASAT NATURE",Polsat Viasat Nature HD
@@ -3141,8 +2943,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105394
 http://bocian.io:8880/NL753811/552284900/105394
 #EXTINF:-1 tvg-name="Romance TV HD"tvg-id="romancetv.pl"tvg-logo="http://logo.tvmedia.io/images/27645951f8a7c8d54011f0ab86b64f5f.png"group-title="ROMANCE TV",Romance TV HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105394
-#EXTINF:-1 tvg-name="Romance TV HD"tvg-id="romancetv.pl"tvg-logo="http://logo.tvmedia.io/images/27645951f8a7c8d54011f0ab86b64f5f.png"group-title="ROMANCE TV",Romance TV HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105394
 #EXTINF:-1 tvg-name="Romance TV HD"tvg-id="romancetv.pl"tvg-logo="http://logo.tvmedia.io/images/27645951f8a7c8d54011f0ab86b64f5f.png"group-title="ROMANCE TV",Romance TV HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105394
 #EXTINF:-1 tvg-name="Romance TV HD"tvg-id="romancetv.pl"tvg-logo="http://logo.tvmedia.io/images/27645951f8a7c8d54011f0ab86b64f5f.png"group-title="ROMANCE TV",Romance TV HD
@@ -3204,8 +3004,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105351
 #EXTINF:-1 tvg-name="Super Polsat HD"tvg-id="superpolsat.pl"tvg-logo="http://logo.tvmedia.io/images/abdc327fd10084b3e6877cccbfd4f4e2.png"group-title="SUPER POLSAT",Super Polsat HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105351
 #EXTINF:-1 tvg-name="Super Polsat HD"tvg-id="superpolsat.pl"tvg-logo="http://logo.tvmedia.io/images/abdc327fd10084b3e6877cccbfd4f4e2.png"group-title="SUPER POLSAT",Super Polsat HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105351
-#EXTINF:-1 tvg-name="Super Polsat HD"tvg-id="superpolsat.pl"tvg-logo="http://logo.tvmedia.io/images/abdc327fd10084b3e6877cccbfd4f4e2.png"group-title="SUPER POLSAT",Super Polsat HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105351
 #EXTINF:-1 tvg-name="Super Polsat HD"tvg-id="superpolsat.pl"tvg-logo="http://logo.tvmedia.io/images/abdc327fd10084b3e6877cccbfd4f4e2.png"group-title="SUPER POLSAT",Super Polsat HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105351
@@ -3231,8 +3029,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105353
 http://bocian.io:8880/NL753811/552284900/105353
 #EXTINF:-1 tvg-name="TTV HD"tvg-id="ttv.pl"tvg-logo="http://logo.tvmedia.io/images/8976ea86fa5393676636d0d9bfe716ce.png"group-title="TTV",TTV HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105353
-#EXTINF:-1 tvg-name="TTV HD"tvg-id="ttv.pl"tvg-logo="http://logo.tvmedia.io/images/8976ea86fa5393676636d0d9bfe716ce.png"group-title="TTV",TTV HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105353
 #EXTINF:-1 tvg-name="TTV HD"tvg-id="ttv.pl"tvg-logo="http://logo.tvmedia.io/images/8976ea86fa5393676636d0d9bfe716ce.png"group-title="TTV",TTV HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105353
 #EXTINF:-1 tvg-name="TTV HD"tvg-id="ttv.pl"tvg-logo="http://logo.tvmedia.io/images/8976ea86fa5393676636d0d9bfe716ce.png"group-title="TTV",TTV HD
@@ -3272,8 +3068,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105352
 #EXTINF:-1 tvg-name="TVN HD"tvg-id="tvn.pl"tvg-logo="http://logo.tvmedia.io/images/2ea325ffb82521ee39ad2403eef6084a.png"group-title="TVN",TVN HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105352
 #EXTINF:-1 tvg-name="TVN HD"tvg-id="tvn.pl"tvg-logo="http://logo.tvmedia.io/images/2ea325ffb82521ee39ad2403eef6084a.png"group-title="TVN",TVN HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105352
-#EXTINF:-1 tvg-name="TVN HD"tvg-id="tvn.pl"tvg-logo="http://logo.tvmedia.io/images/2ea325ffb82521ee39ad2403eef6084a.png"group-title="TVN",TVN HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105352
 #EXTINF:-1 tvg-name="TVN HD"tvg-id="tvn.pl"tvg-logo="http://logo.tvmedia.io/images/2ea325ffb82521ee39ad2403eef6084a.png"group-title="TVN",TVN HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105352
@@ -3307,8 +3101,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105467
 http://bocian.io:8880/NL753811/552284900/105467
 #EXTINF:-1 tvg-name="TVN 24 HD"tvg-id="TVN 24"tvg-logo="http://logo.tvmedia.io/images/logo/tvn24hd.png"group-title="TVN 24",TVN 24 HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105467
-#EXTINF:-1 tvg-name="TVN 24 HD"tvg-id="TVN 24"tvg-logo="http://logo.tvmedia.io/images/logo/tvn24hd.png"group-title="TVN 24",TVN 24 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105467
 #EXTINF:-1 tvg-name="TVN 24 HD"tvg-id="TVN 24"tvg-logo="http://logo.tvmedia.io/images/logo/tvn24hd.png"group-title="TVN 24",TVN 24 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105467
 #EXTINF:-1 tvg-name="TVN 24 HD"tvg-id="TVN 24"tvg-logo="http://logo.tvmedia.io/images/logo/tvn24hd.png"group-title="TVN 24",TVN 24 HD
@@ -3348,8 +3140,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105468
 #EXTINF:-1 tvg-name="TVN 24 BiS HD"tvg-id="TVN 24 BiS"tvg-logo="http://logo.tvmedia.io/images/logo/tvn24biznesiswiat.png"group-title="TVN 24 BIS",TVN 24 BiS HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105468
 #EXTINF:-1 tvg-name="TVN 24 BiS HD"tvg-id="TVN 24 BiS"tvg-logo="http://logo.tvmedia.io/images/logo/tvn24biznesiswiat.png"group-title="TVN 24 BIS",TVN 24 BiS HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105468
-#EXTINF:-1 tvg-name="TVN 24 BiS HD"tvg-id="TVN 24 BiS"tvg-logo="http://logo.tvmedia.io/images/logo/tvn24biznesiswiat.png"group-title="TVN 24 BIS",TVN 24 BiS HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105468
 #EXTINF:-1 tvg-name="TVN 24 BiS HD"tvg-id="TVN 24 BiS"tvg-logo="http://logo.tvmedia.io/images/logo/tvn24biznesiswiat.png"group-title="TVN 24 BIS",TVN 24 BiS HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105468
@@ -3377,8 +3167,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105356
 http://bocian.io:8880/NL753811/552284900/105356
 #EXTINF:-1 tvg-name="TVN 7 HD"tvg-id="tvn7.pl"tvg-logo="http://logo.tvmedia.io/images/97bd0a95cd7e9dc1a65069be3ccb129d.png"group-title="TVN 7",TVN 7 HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105356
-#EXTINF:-1 tvg-name="TVN 7 HD"tvg-id="tvn7.pl"tvg-logo="http://logo.tvmedia.io/images/97bd0a95cd7e9dc1a65069be3ccb129d.png"group-title="TVN 7",TVN 7 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105356
 #EXTINF:-1 tvg-name="TVN 7 HD"tvg-id="tvn7.pl"tvg-logo="http://logo.tvmedia.io/images/97bd0a95cd7e9dc1a65069be3ccb129d.png"group-title="TVN 7",TVN 7 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105356
 #EXTINF:-1 tvg-name="TVN 7 HD"tvg-id="tvn7.pl"tvg-logo="http://logo.tvmedia.io/images/97bd0a95cd7e9dc1a65069be3ccb129d.png"group-title="TVN 7",TVN 7 HD
@@ -3418,8 +3206,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105393
 #EXTINF:-1 tvg-name="TVN Fabula HD"tvg-id="tvnfabula.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvnfabula.png"group-title="TVN FABULA",TVN Fabula HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105393
 #EXTINF:-1 tvg-name="TVN Fabula HD"tvg-id="tvnfabula.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvnfabula.png"group-title="TVN FABULA",TVN Fabula HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105393
-#EXTINF:-1 tvg-name="TVN Fabula HD"tvg-id="tvnfabula.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvnfabula.png"group-title="TVN FABULA",TVN Fabula HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105393
 #EXTINF:-1 tvg-name="TVN Fabula HD"tvg-id="tvnfabula.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvnfabula.png"group-title="TVN FABULA",TVN Fabula HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105393
@@ -3454,8 +3240,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170446
 #EXTINF:-1 tvg-name="TVN Kryminalnie"tvg-id="TVN Kryminalnie Online"tvg-logo="https://r-scale-f5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759884/images/55089509?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN KRYMINALNIE",TVN Kryminalnie
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170446
 #EXTINF:-1 tvg-name="TVN Kryminalnie"tvg-id="TVN Kryminalnie Online"tvg-logo="https://r-scale-f5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759884/images/55089509?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN KRYMINALNIE",TVN Kryminalnie
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170446
-#EXTINF:-1 tvg-name="TVN Kryminalnie"tvg-id="TVN Kryminalnie Online"tvg-logo="https://r-scale-f5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759884/images/55089509?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN KRYMINALNIE",TVN Kryminalnie
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/170446
 #EXTINF:-1 tvg-name="TVN Kryminalnie"tvg-id="TVN Kryminalnie Online"tvg-logo="https://r-scale-f5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759884/images/55089509?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN KRYMINALNIE",TVN Kryminalnie
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/170446
@@ -3473,8 +3257,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/170432
 http://bocian.io:8880/NL753811/552284900/170432
 #EXTINF:-1 tvg-name="TVN Kultowe Seriale"tvg-id="TVN Kultowe Seriale Online"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Player_%28TVN%29.svg/1200px-Player_%28TVN%29.svg.png"group-title="TVN KULTOWE SERIALE",TVN Kultowe Seriale
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170432
-#EXTINF:-1 tvg-name="TVN Kultowe Seriale"tvg-id="TVN Kultowe Seriale Online"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Player_%28TVN%29.svg/1200px-Player_%28TVN%29.svg.png"group-title="TVN KULTOWE SERIALE",TVN Kultowe Seriale
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170432
 #EXTINF:-1 tvg-name="TVN Kultowe Seriale"tvg-id="TVN Kultowe Seriale Online"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Player_%28TVN%29.svg/1200px-Player_%28TVN%29.svg.png"group-title="TVN KULTOWE SERIALE",TVN Kultowe Seriale
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170432
 #EXTINF:-1 tvg-name="TVN Kultowe Seriale"tvg-id="TVN Kultowe Seriale Online"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Player_%28TVN%29.svg/1200px-Player_%28TVN%29.svg.png"group-title="TVN KULTOWE SERIALE",TVN Kultowe Seriale
@@ -3498,8 +3280,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170431
 #EXTINF:-1 tvg-name="TVN Milionerzy"tvg-id="TVN Milionerzy Online"tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9083862/images/55311976?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN MILIONERZY",TVN Milionerzy
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170431
 #EXTINF:-1 tvg-name="TVN Milionerzy"tvg-id="TVN Milionerzy Online"tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9083862/images/55311976?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN MILIONERZY",TVN Milionerzy
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170431
-#EXTINF:-1 tvg-name="TVN Milionerzy"tvg-id="TVN Milionerzy Online"tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9083862/images/55311976?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN MILIONERZY",TVN Milionerzy
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/170431
 #EXTINF:-1 tvg-name="TVN Milionerzy"tvg-id="TVN Milionerzy Online"tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9083862/images/55311976?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN MILIONERZY",TVN Milionerzy
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/170431
@@ -3517,8 +3297,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/170433
 http://bocian.io:8880/NL753811/552284900/170433
 #EXTINF:-1 tvg-name="TVN Momenty Prawdy"tvg-id="TVN Momenty Prawdy Online"tvg-logo="https://r-scale-63.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759880/images/55090798?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN MOMENTY PRAWDY",TVN Momenty Prawdy
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170433
-#EXTINF:-1 tvg-name="TVN Momenty Prawdy"tvg-id="TVN Momenty Prawdy Online"tvg-logo="https://r-scale-63.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759880/images/55090798?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN MOMENTY PRAWDY",TVN Momenty Prawdy
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170433
 #EXTINF:-1 tvg-name="TVN Momenty Prawdy"tvg-id="TVN Momenty Prawdy Online"tvg-logo="https://r-scale-63.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759880/images/55090798?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN MOMENTY PRAWDY",TVN Momenty Prawdy
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170433
 #EXTINF:-1 tvg-name="TVN Momenty Prawdy"tvg-id="TVN Momenty Prawdy Online"tvg-logo="https://r-scale-63.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759880/images/55090798?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN MOMENTY PRAWDY",TVN Momenty Prawdy
@@ -3542,8 +3320,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170434
 #EXTINF:-1 tvg-name="TVN Moto"tvg-id="TVN Moto Online"tvg-logo="https://r-scale-6b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759883/images/55089488?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN MOTO",TVN Moto
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170434
 #EXTINF:-1 tvg-name="TVN Moto"tvg-id="TVN Moto Online"tvg-logo="https://r-scale-6b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759883/images/55089488?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN MOTO",TVN Moto
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170434
-#EXTINF:-1 tvg-name="TVN Moto"tvg-id="TVN Moto Online"tvg-logo="https://r-scale-6b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759883/images/55089488?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN MOTO",TVN Moto
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/170434
 #EXTINF:-1 tvg-name="TVN Moto"tvg-id="TVN Moto Online"tvg-logo="https://r-scale-6b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759883/images/55089488?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN MOTO",TVN Moto
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/170434
@@ -3561,8 +3337,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/170452
 http://bocian.io:8880/NL753811/552284900/170452
 #EXTINF:-1 tvg-name="TVN Pora na Show"tvg-id="TVN Pora na Show Online"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Player_%28TVN%29.svg/1200px-Player_%28TVN%29.svg.png"group-title="TVN PORA NA SHOW",TVN Pora na Show
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170452
-#EXTINF:-1 tvg-name="TVN Pora na Show"tvg-id="TVN Pora na Show Online"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Player_%28TVN%29.svg/1200px-Player_%28TVN%29.svg.png"group-title="TVN PORA NA SHOW",TVN Pora na Show
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170452
 #EXTINF:-1 tvg-name="TVN Pora na Show"tvg-id="TVN Pora na Show Online"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Player_%28TVN%29.svg/1200px-Player_%28TVN%29.svg.png"group-title="TVN PORA NA SHOW",TVN Pora na Show
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170452
 #EXTINF:-1 tvg-name="TVN Pora na Show"tvg-id="TVN Pora na Show Online"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Player_%28TVN%29.svg/1200px-Player_%28TVN%29.svg.png"group-title="TVN PORA NA SHOW",TVN Pora na Show
@@ -3586,8 +3360,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170435
 #EXTINF:-1 tvg-name="TVN Prawo i Zycie"tvg-id="TVN Prawo i Życie Online"tvg-logo="https://r-scale-98.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759879/images/55090885?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN PRAWO I ZYCIE",TVN Prawo i Zycie
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170435
 #EXTINF:-1 tvg-name="TVN Prawo i Zycie"tvg-id="TVN Prawo i Życie Online"tvg-logo="https://r-scale-98.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759879/images/55090885?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN PRAWO I ZYCIE",TVN Prawo i Zycie
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170435
-#EXTINF:-1 tvg-name="TVN Prawo i Zycie"tvg-id="TVN Prawo i Życie Online"tvg-logo="https://r-scale-98.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759879/images/55090885?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN PRAWO I ZYCIE",TVN Prawo i Zycie
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/170435
 #EXTINF:-1 tvg-name="TVN Prawo i Zycie"tvg-id="TVN Prawo i Życie Online"tvg-logo="https://r-scale-98.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759879/images/55090885?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN PRAWO I ZYCIE",TVN Prawo i Zycie
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/170435
@@ -3605,8 +3377,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/170436
 http://bocian.io:8880/NL753811/552284900/170436
 #EXTINF:-1 tvg-name="TVN Rajska Milosc"tvg-id="TVN Rajska Miłość Online"tvg-logo="https://r-scale-2d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759881/images/55090849?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN RAJSKA MILOSC",TVN Rajska Milosc
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170436
-#EXTINF:-1 tvg-name="TVN Rajska Milosc"tvg-id="TVN Rajska Miłość Online"tvg-logo="https://r-scale-2d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759881/images/55090849?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN RAJSKA MILOSC",TVN Rajska Milosc
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170436
 #EXTINF:-1 tvg-name="TVN Rajska Milosc"tvg-id="TVN Rajska Miłość Online"tvg-logo="https://r-scale-2d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759881/images/55090849?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN RAJSKA MILOSC",TVN Rajska Milosc
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170436
 #EXTINF:-1 tvg-name="TVN Rajska Milosc"tvg-id="TVN Rajska Miłość Online"tvg-logo="https://r-scale-2d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759881/images/55090849?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN RAJSKA MILOSC",TVN Rajska Milosc
@@ -3630,8 +3400,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170437
 #EXTINF:-1 tvg-name="TVN Rewolucje W Kuchni"tvg-id="TVN Rewolucje w Kuchni Online"tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759890/images/55090786?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN REWOLUCJE W KUCHNI",TVN Rewolucje W Kuchni
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170437
 #EXTINF:-1 tvg-name="TVN Rewolucje W Kuchni"tvg-id="TVN Rewolucje w Kuchni Online"tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759890/images/55090786?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN REWOLUCJE W KUCHNI",TVN Rewolucje W Kuchni
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170437
-#EXTINF:-1 tvg-name="TVN Rewolucje W Kuchni"tvg-id="TVN Rewolucje w Kuchni Online"tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759890/images/55090786?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN REWOLUCJE W KUCHNI",TVN Rewolucje W Kuchni
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/170437
 #EXTINF:-1 tvg-name="TVN Rewolucje W Kuchni"tvg-id="TVN Rewolucje w Kuchni Online"tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759890/images/55090786?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN REWOLUCJE W KUCHNI",TVN Rewolucje W Kuchni
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/170437
@@ -3652,8 +3420,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170438
 #EXTINF:-1 tvg-name="TVN Seriale O Kobietach"tvg-id="TVN Seriale o Kobietach Online"tvg-logo="https://r-scale-e7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759888/images/55089743?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN SERIALE O KOBIETACH",TVN Seriale O Kobietach
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170438
 #EXTINF:-1 tvg-name="TVN Seriale O Kobietach"tvg-id="TVN Seriale o Kobietach Online"tvg-logo="https://r-scale-e7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759888/images/55089743?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN SERIALE O KOBIETACH",TVN Seriale O Kobietach
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170438
-#EXTINF:-1 tvg-name="TVN Seriale O Kobietach"tvg-id="TVN Seriale o Kobietach Online"tvg-logo="https://r-scale-e7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759888/images/55089743?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN SERIALE O KOBIETACH",TVN Seriale O Kobietach
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/170438
 #EXTINF:-1 tvg-name="TVN Seriale O Kobietach"tvg-id="TVN Seriale o Kobietach Online"tvg-logo="https://r-scale-e7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759888/images/55089743?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN SERIALE O KOBIETACH",TVN Seriale O Kobietach
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/170438
@@ -3671,8 +3437,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105441
 http://bocian.io:8880/NL753811/552284900/105441
 #EXTINF:-1 tvg-name="TVN Style HD"tvg-id="tvnstyle.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvnstylehd.png"group-title="TVN STYLE",TVN Style HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105441
-#EXTINF:-1 tvg-name="TVN Style HD"tvg-id="tvnstyle.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvnstylehd.png"group-title="TVN STYLE",TVN Style HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105441
 #EXTINF:-1 tvg-name="TVN Style HD"tvg-id="tvnstyle.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvnstylehd.png"group-title="TVN STYLE",TVN Style HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105441
 #EXTINF:-1 tvg-name="TVN Style HD"tvg-id="tvnstyle.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvnstylehd.png"group-title="TVN STYLE",TVN Style HD
@@ -3712,8 +3476,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170439
 #EXTINF:-1 tvg-name="TVN Szkola Zycia"tvg-id="TVN Szkoła Życia Online"tvg-logo="https://r-scale-9c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759893/images/55089326?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN SZKOLA ZYCIA",TVN Szkola Zycia
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170439
 #EXTINF:-1 tvg-name="TVN Szkola Zycia"tvg-id="TVN Szkoła Życia Online"tvg-logo="https://r-scale-9c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759893/images/55089326?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN SZKOLA ZYCIA",TVN Szkola Zycia
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170439
-#EXTINF:-1 tvg-name="TVN Szkola Zycia"tvg-id="TVN Szkoła Życia Online"tvg-logo="https://r-scale-9c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759893/images/55089326?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN SZKOLA ZYCIA",TVN Szkola Zycia
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/170439
 #EXTINF:-1 tvg-name="TVN Szkola Zycia"tvg-id="TVN Szkoła Życia Online"tvg-logo="https://r-scale-9c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759893/images/55089326?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN SZKOLA ZYCIA",TVN Szkola Zycia
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/170439
@@ -3731,8 +3493,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/170440
 http://bocian.io:8880/NL753811/552284900/170440
 #EXTINF:-1 tvg-name="TVN Szpitalne Historie"tvg-id="TVN Szpitalne Historie Online"tvg-logo="https://r-scale-45.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759892/images/55080443?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN SZPITALNE HISTORIE",TVN Szpitalne Historie
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170440
-#EXTINF:-1 tvg-name="TVN Szpitalne Historie"tvg-id="TVN Szpitalne Historie Online"tvg-logo="https://r-scale-45.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759892/images/55080443?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN SZPITALNE HISTORIE",TVN Szpitalne Historie
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170440
 #EXTINF:-1 tvg-name="TVN Szpitalne Historie"tvg-id="TVN Szpitalne Historie Online"tvg-logo="https://r-scale-45.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759892/images/55080443?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN SZPITALNE HISTORIE",TVN Szpitalne Historie
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170440
 #EXTINF:-1 tvg-name="TVN Szpitalne Historie"tvg-id="TVN Szpitalne Historie Online"tvg-logo="https://r-scale-45.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759892/images/55080443?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN SZPITALNE HISTORIE",TVN Szpitalne Historie
@@ -3756,8 +3516,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170441
 #EXTINF:-1 tvg-name="TVN Talk Show"tvg-id="TVN Talk Show Online"tvg-logo="https://r-scale-49.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759886/images/55089641?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN TALK SHOW",TVN Talk Show
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170441
 #EXTINF:-1 tvg-name="TVN Talk Show"tvg-id="TVN Talk Show Online"tvg-logo="https://r-scale-49.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759886/images/55089641?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN TALK SHOW",TVN Talk Show
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170441
-#EXTINF:-1 tvg-name="TVN Talk Show"tvg-id="TVN Talk Show Online"tvg-logo="https://r-scale-49.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759886/images/55089641?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN TALK SHOW",TVN Talk Show
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/170441
 #EXTINF:-1 tvg-name="TVN Talk Show"tvg-id="TVN Talk Show Online"tvg-logo="https://r-scale-49.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759886/images/55089641?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN TALK SHOW",TVN Talk Show
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/170441
@@ -3778,8 +3536,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170442
 #EXTINF:-1 tvg-name="TVN Telenowele"tvg-id="TVN Telenowele Online"tvg-logo="https://r-scale-0c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759887/images/55089677?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN TELENOWELE",TVN Telenowele
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170442
 #EXTINF:-1 tvg-name="TVN Telenowele"tvg-id="TVN Telenowele Online"tvg-logo="https://r-scale-0c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759887/images/55089677?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN TELENOWELE",TVN Telenowele
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170442
-#EXTINF:-1 tvg-name="TVN Telenowele"tvg-id="TVN Telenowele Online"tvg-logo="https://r-scale-0c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759887/images/55089677?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN TELENOWELE",TVN Telenowele
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/170442
 #EXTINF:-1 tvg-name="TVN Telenowele"tvg-id="TVN Telenowele Online"tvg-logo="https://r-scale-0c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759887/images/55089677?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN TELENOWELE",TVN Telenowele
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/170442
@@ -3797,8 +3553,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105442
 http://bocian.io:8880/NL753811/552284900/105442
 #EXTINF:-1 tvg-name="TVN Turbo HD"tvg-id="tvnturbo.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvnturbohd.png"group-title="TVN TURBO",TVN Turbo HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105442
-#EXTINF:-1 tvg-name="TVN Turbo HD"tvg-id="tvnturbo.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvnturbohd.png"group-title="TVN TURBO",TVN Turbo HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105442
 #EXTINF:-1 tvg-name="TVN Turbo HD"tvg-id="tvnturbo.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvnturbohd.png"group-title="TVN TURBO",TVN Turbo HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105442
 #EXTINF:-1 tvg-name="TVN Turbo HD"tvg-id="tvnturbo.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvnturbohd.png"group-title="TVN TURBO",TVN Turbo HD
@@ -3834,8 +3588,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170443
 #EXTINF:-1 tvg-name="TVN Usterka"tvg-id="TVN Usterka Online"tvg-logo="https://r-scale-34.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759885/images/55089575?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN USTERKA",TVN Usterka
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170443
 #EXTINF:-1 tvg-name="TVN Usterka"tvg-id="TVN Usterka Online"tvg-logo="https://r-scale-34.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759885/images/55089575?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN USTERKA",TVN Usterka
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170443
-#EXTINF:-1 tvg-name="TVN Usterka"tvg-id="TVN Usterka Online"tvg-logo="https://r-scale-34.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759885/images/55089575?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN USTERKA",TVN Usterka
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/170443
 #EXTINF:-1 tvg-name="TVN Usterka"tvg-id="TVN Usterka Online"tvg-logo="https://r-scale-34.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759885/images/55089575?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN USTERKA",TVN Usterka
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/170443
@@ -3856,8 +3608,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170444
 #EXTINF:-1 tvg-name="TVN W Domu"tvg-id="TVN W Domu Online"tvg-logo="https://r-scale-fb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759889/images/55090765?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN W DOMU",TVN W Domu
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170444
 #EXTINF:-1 tvg-name="TVN W Domu"tvg-id="TVN W Domu Online"tvg-logo="https://r-scale-fb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759889/images/55090765?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN W DOMU",TVN W Domu
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170444
-#EXTINF:-1 tvg-name="TVN W Domu"tvg-id="TVN W Domu Online"tvg-logo="https://r-scale-fb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759889/images/55090765?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN W DOMU",TVN W Domu
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/170444
 #EXTINF:-1 tvg-name="TVN W Domu"tvg-id="TVN W Domu Online"tvg-logo="https://r-scale-fb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759889/images/55090765?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN W DOMU",TVN W Domu
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/170444
@@ -3875,8 +3625,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/170445
 http://bocian.io:8880/NL753811/552284900/170445
 #EXTINF:-1 tvg-name="TVN Zycie Jak W Bajce"tvg-id="TVN Życie Jak w Bajce Online"tvg-logo="https://r-scale-eb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759891/images/55090792?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN ZYCIE JAK W BAJCE",TVN Zycie Jak W Bajce
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/170445
-#EXTINF:-1 tvg-name="TVN Zycie Jak W Bajce"tvg-id="TVN Życie Jak w Bajce Online"tvg-logo="https://r-scale-eb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759891/images/55090792?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN ZYCIE JAK W BAJCE",TVN Zycie Jak W Bajce
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170445
 #EXTINF:-1 tvg-name="TVN Zycie Jak W Bajce"tvg-id="TVN Życie Jak w Bajce Online"tvg-logo="https://r-scale-eb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759891/images/55090792?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN ZYCIE JAK W BAJCE",TVN Zycie Jak W Bajce
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/170445
 #EXTINF:-1 tvg-name="TVN Zycie Jak W Bajce"tvg-id="TVN Życie Jak w Bajce Online"tvg-logo="https://r-scale-eb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759891/images/55090792?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1"group-title="TVN ZYCIE JAK W BAJCE",TVN Zycie Jak W Bajce
@@ -3907,8 +3655,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105348
 http://bocian.io:8880/NL753811/552284900/105348
 #EXTINF:-1 tvg-name="TVP HD"tvg-id="tvp.pl"tvg-logo="http://logo.tvmedia.io/images/4fc089dcef909e1f2b7c6ba23ed4d208.png"group-title="TVP",TVP HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105348
-#EXTINF:-1 tvg-name="TVP HD"tvg-id="tvp.pl"tvg-logo="http://logo.tvmedia.io/images/4fc089dcef909e1f2b7c6ba23ed4d208.png"group-title="TVP",TVP HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105348
 #EXTINF:-1 tvg-name="TVP HD"tvg-id="tvp.pl"tvg-logo="http://logo.tvmedia.io/images/4fc089dcef909e1f2b7c6ba23ed4d208.png"group-title="TVP",TVP HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105348
 #EXTINF:-1 tvg-name="TVP HD"tvg-id="tvp.pl"tvg-logo="http://logo.tvmedia.io/images/4fc089dcef909e1f2b7c6ba23ed4d208.png"group-title="TVP",TVP HD
@@ -3948,8 +3694,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105345
 #EXTINF:-1 tvg-name="TVP 1 HD"tvg-id="tvp1.pl"tvg-logo="http://logo.tvmedia.io/images/b7589e99b86a35a25306948e458cc5ef.png"group-title="TVP 1",TVP 1 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105345
 #EXTINF:-1 tvg-name="TVP 1 HD"tvg-id="tvp1.pl"tvg-logo="http://logo.tvmedia.io/images/b7589e99b86a35a25306948e458cc5ef.png"group-title="TVP 1",TVP 1 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105345
-#EXTINF:-1 tvg-name="TVP 1 HD"tvg-id="tvp1.pl"tvg-logo="http://logo.tvmedia.io/images/b7589e99b86a35a25306948e458cc5ef.png"group-title="TVP 1",TVP 1 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105345
 #EXTINF:-1 tvg-name="TVP 1 HD"tvg-id="tvp1.pl"tvg-logo="http://logo.tvmedia.io/images/b7589e99b86a35a25306948e458cc5ef.png"group-title="TVP 1",TVP 1 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105345
@@ -3983,8 +3727,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105346
 http://bocian.io:8880/NL753811/552284900/105346
 #EXTINF:-1 tvg-name="TVP 2 HD"tvg-id="tvp2.pl"tvg-logo="http://logo.tvmedia.io/images/973d02b39d8460242cfe79887635c963.png"group-title="TVP 2",TVP 2 HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105346
-#EXTINF:-1 tvg-name="TVP 2 HD"tvg-id="tvp2.pl"tvg-logo="http://logo.tvmedia.io/images/973d02b39d8460242cfe79887635c963.png"group-title="TVP 2",TVP 2 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105346
 #EXTINF:-1 tvg-name="TVP 2 HD"tvg-id="tvp2.pl"tvg-logo="http://logo.tvmedia.io/images/973d02b39d8460242cfe79887635c963.png"group-title="TVP 2",TVP 2 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105346
 #EXTINF:-1 tvg-name="TVP 2 HD"tvg-id="tvp2.pl"tvg-logo="http://logo.tvmedia.io/images/973d02b39d8460242cfe79887635c963.png"group-title="TVP 2",TVP 2 HD
@@ -4024,8 +3766,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105347
 #EXTINF:-1 tvg-name="TVP 3 HD"tvg-id="tvp3.pl"tvg-logo="http://logo.tvmedia.io/images/7e3420d2782f72c7b47bd3d4f4ba91de.png"group-title="TVP 3",TVP 3 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105347
 #EXTINF:-1 tvg-name="TVP 3 HD"tvg-id="tvp3.pl"tvg-logo="http://logo.tvmedia.io/images/7e3420d2782f72c7b47bd3d4f4ba91de.png"group-title="TVP 3",TVP 3 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105347
-#EXTINF:-1 tvg-name="TVP 3 HD"tvg-id="tvp3.pl"tvg-logo="http://logo.tvmedia.io/images/7e3420d2782f72c7b47bd3d4f4ba91de.png"group-title="TVP 3",TVP 3 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105347
 #EXTINF:-1 tvg-name="TVP 3 HD"tvg-id="tvp3.pl"tvg-logo="http://logo.tvmedia.io/images/7e3420d2782f72c7b47bd3d4f4ba91de.png"group-title="TVP 3",TVP 3 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105347
@@ -4062,8 +3802,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105469
 #EXTINF:-1 tvg-name="TVP 3 Bialystok"tvg-id="TVP 3 Białystok"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Bialystok.png"group-title="TVP 3 BIALYSTOK",TVP 3 Bialystok
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105469
 #EXTINF:-1 tvg-name="TVP 3 Bialystok"tvg-id="TVP 3 Białystok"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Bialystok.png"group-title="TVP 3 BIALYSTOK",TVP 3 Bialystok
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105469
-#EXTINF:-1 tvg-name="TVP 3 Bialystok"tvg-id="TVP 3 Białystok"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Bialystok.png"group-title="TVP 3 BIALYSTOK",TVP 3 Bialystok
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105469
 #EXTINF:-1 tvg-name="TVP 3 Bialystok"tvg-id="TVP 3 Białystok"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Bialystok.png"group-title="TVP 3 BIALYSTOK",TVP 3 Bialystok
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105469
@@ -4088,8 +3826,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105470
 #EXTINF:-1 tvg-name="TVP 3 Bydgoszcz"tvg-id="TVP 3 Bydgoszcz"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Bydgoszcz.png"group-title="TVP 3 BYDGOSZCZ",TVP 3 Bydgoszcz
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105470
 #EXTINF:-1 tvg-name="TVP 3 Bydgoszcz"tvg-id="TVP 3 Bydgoszcz"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Bydgoszcz.png"group-title="TVP 3 BYDGOSZCZ",TVP 3 Bydgoszcz
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105470
-#EXTINF:-1 tvg-name="TVP 3 Bydgoszcz"tvg-id="TVP 3 Bydgoszcz"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Bydgoszcz.png"group-title="TVP 3 BYDGOSZCZ",TVP 3 Bydgoszcz
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105470
 #EXTINF:-1 tvg-name="TVP 3 Bydgoszcz"tvg-id="TVP 3 Bydgoszcz"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Bydgoszcz.png"group-title="TVP 3 BYDGOSZCZ",TVP 3 Bydgoszcz
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105470
@@ -4111,8 +3847,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105471
 http://bocian.io:8880/NL753811/552284900/105471
 #EXTINF:-1 tvg-name="TVP 3 Gdansk"tvg-id="TVP 3 Gdańsk"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Gdansk.png"group-title="TVP 3 GDANSK",TVP 3 Gdansk
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105471
-#EXTINF:-1 tvg-name="TVP 3 Gdansk"tvg-id="TVP 3 Gdańsk"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Gdansk.png"group-title="TVP 3 GDANSK",TVP 3 Gdansk
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105471
 #EXTINF:-1 tvg-name="TVP 3 Gdansk"tvg-id="TVP 3 Gdańsk"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Gdansk.png"group-title="TVP 3 GDANSK",TVP 3 Gdansk
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105471
 #EXTINF:-1 tvg-name="TVP 3 Gdansk"tvg-id="TVP 3 Gdańsk"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Gdansk.png"group-title="TVP 3 GDANSK",TVP 3 Gdansk
@@ -4144,8 +3878,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105472
 #EXTINF:-1 tvg-name="TVP 3 Gorzów Wielkopolski"tvg-id="TVP 3 Gorzow Wielkopolski"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Gorzow%20Wielkopolski.png"group-title="TVP 3 GORZÓW WIELKOPOLSKI",TVP 3 Gorzów Wielkopolski
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105472
 #EXTINF:-1 tvg-name="TVP 3 Gorzów Wielkopolski"tvg-id="TVP 3 Gorzow Wielkopolski"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Gorzow%20Wielkopolski.png"group-title="TVP 3 GORZÓW WIELKOPOLSKI",TVP 3 Gorzów Wielkopolski
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105472
-#EXTINF:-1 tvg-name="TVP 3 Gorzów Wielkopolski"tvg-id="TVP 3 Gorzow Wielkopolski"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Gorzow%20Wielkopolski.png"group-title="TVP 3 GORZÓW WIELKOPOLSKI",TVP 3 Gorzów Wielkopolski
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105472
 #EXTINF:-1 tvg-name="TVP 3 Gorzów Wielkopolski"tvg-id="TVP 3 Gorzow Wielkopolski"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Gorzow%20Wielkopolski.png"group-title="TVP 3 GORZÓW WIELKOPOLSKI",TVP 3 Gorzów Wielkopolski
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105472
@@ -4163,8 +3895,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105473
 http://bocian.io:8880/NL753811/552284900/105473
 #EXTINF:-1 tvg-name="TVP 3 Katowice"tvg-id="TVP 3 Katowice"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Katowice.png"group-title="TVP 3 KATOWICE",TVP 3 Katowice
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105473
-#EXTINF:-1 tvg-name="TVP 3 Katowice"tvg-id="TVP 3 Katowice"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Katowice.png"group-title="TVP 3 KATOWICE",TVP 3 Katowice
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105473
 #EXTINF:-1 tvg-name="TVP 3 Katowice"tvg-id="TVP 3 Katowice"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Katowice.png"group-title="TVP 3 KATOWICE",TVP 3 Katowice
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105473
 #EXTINF:-1 tvg-name="TVP 3 Katowice"tvg-id="TVP 3 Katowice"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Katowice.png"group-title="TVP 3 KATOWICE",TVP 3 Katowice
@@ -4200,8 +3930,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105474
 #EXTINF:-1 tvg-name="TVP 3 Kielce"tvg-id="TVP 3 Kielce"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Kielce.png"group-title="TVP 3 KIELCE",TVP 3 Kielce
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105474
 #EXTINF:-1 tvg-name="TVP 3 Kielce"tvg-id="TVP 3 Kielce"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Kielce.png"group-title="TVP 3 KIELCE",TVP 3 Kielce
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105474
-#EXTINF:-1 tvg-name="TVP 3 Kielce"tvg-id="TVP 3 Kielce"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Kielce.png"group-title="TVP 3 KIELCE",TVP 3 Kielce
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105474
 #EXTINF:-1 tvg-name="TVP 3 Kielce"tvg-id="TVP 3 Kielce"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Kielce.png"group-title="TVP 3 KIELCE",TVP 3 Kielce
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105474
@@ -4230,8 +3958,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105475
 #EXTINF:-1 tvg-name="TVP 3 Kraków"tvg-id="TVP 3 Kraków"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Krakow.png"group-title="TVP 3 KRAKÓW",TVP 3 Kraków
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105475
 #EXTINF:-1 tvg-name="TVP 3 Kraków"tvg-id="TVP 3 Kraków"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Krakow.png"group-title="TVP 3 KRAKÓW",TVP 3 Kraków
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105475
-#EXTINF:-1 tvg-name="TVP 3 Kraków"tvg-id="TVP 3 Kraków"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Krakow.png"group-title="TVP 3 KRAKÓW",TVP 3 Kraków
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105475
 #EXTINF:-1 tvg-name="TVP 3 Kraków"tvg-id="TVP 3 Kraków"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Krakow.png"group-title="TVP 3 KRAKÓW",TVP 3 Kraków
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105475
@@ -4253,8 +3979,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105476
 http://bocian.io:8880/NL753811/552284900/105476
 #EXTINF:-1 tvg-name="TVP 3 Lublin"tvg-id="TVP 3 Lublin"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Lublin.png"group-title="TVP 3 LUBLIN",TVP 3 Lublin
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105476
-#EXTINF:-1 tvg-name="TVP 3 Lublin"tvg-id="TVP 3 Lublin"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Lublin.png"group-title="TVP 3 LUBLIN",TVP 3 Lublin
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105476
 #EXTINF:-1 tvg-name="TVP 3 Lublin"tvg-id="TVP 3 Lublin"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Lublin.png"group-title="TVP 3 LUBLIN",TVP 3 Lublin
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105476
 #EXTINF:-1 tvg-name="TVP 3 Lublin"tvg-id="TVP 3 Lublin"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Lublin.png"group-title="TVP 3 LUBLIN",TVP 3 Lublin
@@ -4282,8 +4006,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105477
 #EXTINF:-1 tvg-name="TVP 3 Lódz"tvg-id="TVP 3 Łódź"tvg-logo="http://logo.tvmedia.io/images/logo/TVPLodz.png"group-title="TVP 3 LÓDZ",TVP 3 Lódz
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105477
 #EXTINF:-1 tvg-name="TVP 3 Lódz"tvg-id="TVP 3 Łódź"tvg-logo="http://logo.tvmedia.io/images/logo/TVPLodz.png"group-title="TVP 3 LÓDZ",TVP 3 Lódz
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105477
-#EXTINF:-1 tvg-name="TVP 3 Lódz"tvg-id="TVP 3 Łódź"tvg-logo="http://logo.tvmedia.io/images/logo/TVPLodz.png"group-title="TVP 3 LÓDZ",TVP 3 Lódz
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105477
 #EXTINF:-1 tvg-name="TVP 3 Lódz"tvg-id="TVP 3 Łódź"tvg-logo="http://logo.tvmedia.io/images/logo/TVPLodz.png"group-title="TVP 3 LÓDZ",TVP 3 Lódz
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105477
@@ -4301,8 +4023,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105478
 http://bocian.io:8880/NL753811/552284900/105478
 #EXTINF:-1 tvg-name="TVP 3 Olsztyn"tvg-id="TVP 3 Olsztyn"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Olsztyn.png"group-title="TVP 3 OLSZTYN",TVP 3 Olsztyn
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105478
-#EXTINF:-1 tvg-name="TVP 3 Olsztyn"tvg-id="TVP 3 Olsztyn"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Olsztyn.png"group-title="TVP 3 OLSZTYN",TVP 3 Olsztyn
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105478
 #EXTINF:-1 tvg-name="TVP 3 Olsztyn"tvg-id="TVP 3 Olsztyn"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Olsztyn.png"group-title="TVP 3 OLSZTYN",TVP 3 Olsztyn
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105478
 #EXTINF:-1 tvg-name="TVP 3 Olsztyn"tvg-id="TVP 3 Olsztyn"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Olsztyn.png"group-title="TVP 3 OLSZTYN",TVP 3 Olsztyn
@@ -4330,8 +4050,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105479
 #EXTINF:-1 tvg-name="TVP 3 Opole"tvg-id="TVP 3 Opole"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Opole.png"group-title="TVP 3 OPOLE",TVP 3 Opole
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105479
 #EXTINF:-1 tvg-name="TVP 3 Opole"tvg-id="TVP 3 Opole"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Opole.png"group-title="TVP 3 OPOLE",TVP 3 Opole
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105479
-#EXTINF:-1 tvg-name="TVP 3 Opole"tvg-id="TVP 3 Opole"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Opole.png"group-title="TVP 3 OPOLE",TVP 3 Opole
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105479
 #EXTINF:-1 tvg-name="TVP 3 Opole"tvg-id="TVP 3 Opole"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Opole.png"group-title="TVP 3 OPOLE",TVP 3 Opole
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105479
@@ -4353,8 +4071,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105480
 http://bocian.io:8880/NL753811/552284900/105480
 #EXTINF:-1 tvg-name="TVP 3 Poznan"tvg-id="TVP 3 Poznań"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Poznan.png"group-title="TVP 3 POZNAN",TVP 3 Poznan
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105480
-#EXTINF:-1 tvg-name="TVP 3 Poznan"tvg-id="TVP 3 Poznań"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Poznan.png"group-title="TVP 3 POZNAN",TVP 3 Poznan
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105480
 #EXTINF:-1 tvg-name="TVP 3 Poznan"tvg-id="TVP 3 Poznań"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Poznan.png"group-title="TVP 3 POZNAN",TVP 3 Poznan
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105480
 #EXTINF:-1 tvg-name="TVP 3 Poznan"tvg-id="TVP 3 Poznań"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Poznan.png"group-title="TVP 3 POZNAN",TVP 3 Poznan
@@ -4386,8 +4102,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105481
 #EXTINF:-1 tvg-name="TVP 3 Rzeszów"tvg-id="TVP 3 Rzeszow"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Rzeszow.png"group-title="TVP 3 RZESZÓW",TVP 3 Rzeszów
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105481
 #EXTINF:-1 tvg-name="TVP 3 Rzeszów"tvg-id="TVP 3 Rzeszow"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Rzeszow.png"group-title="TVP 3 RZESZÓW",TVP 3 Rzeszów
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105481
-#EXTINF:-1 tvg-name="TVP 3 Rzeszów"tvg-id="TVP 3 Rzeszow"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Rzeszow.png"group-title="TVP 3 RZESZÓW",TVP 3 Rzeszów
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105481
 #EXTINF:-1 tvg-name="TVP 3 Rzeszów"tvg-id="TVP 3 Rzeszow"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Rzeszow.png"group-title="TVP 3 RZESZÓW",TVP 3 Rzeszów
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105481
@@ -4405,8 +4119,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105482
 http://bocian.io:8880/NL753811/552284900/105482
 #EXTINF:-1 tvg-name="TVP 3 Szczecin"tvg-id="TVP 3 Szczecin"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Szczecin.png"group-title="TVP 3 SZCZECIN",TVP 3 Szczecin
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105482
-#EXTINF:-1 tvg-name="TVP 3 Szczecin"tvg-id="TVP 3 Szczecin"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Szczecin.png"group-title="TVP 3 SZCZECIN",TVP 3 Szczecin
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105482
 #EXTINF:-1 tvg-name="TVP 3 Szczecin"tvg-id="TVP 3 Szczecin"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Szczecin.png"group-title="TVP 3 SZCZECIN",TVP 3 Szczecin
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105482
 #EXTINF:-1 tvg-name="TVP 3 Szczecin"tvg-id="TVP 3 Szczecin"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Szczecin.png"group-title="TVP 3 SZCZECIN",TVP 3 Szczecin
@@ -4434,8 +4146,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105483
 #EXTINF:-1 tvg-name="TVP 3 Warszawa"tvg-id="TVP 3 Warszawa"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Warszawa.png"group-title="TVP 3 WARSZAWA",TVP 3 Warszawa
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105483
 #EXTINF:-1 tvg-name="TVP 3 Warszawa"tvg-id="TVP 3 Warszawa"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Warszawa.png"group-title="TVP 3 WARSZAWA",TVP 3 Warszawa
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105483
-#EXTINF:-1 tvg-name="TVP 3 Warszawa"tvg-id="TVP 3 Warszawa"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Warszawa.png"group-title="TVP 3 WARSZAWA",TVP 3 Warszawa
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105483
 #EXTINF:-1 tvg-name="TVP 3 Warszawa"tvg-id="TVP 3 Warszawa"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Warszawa.png"group-title="TVP 3 WARSZAWA",TVP 3 Warszawa
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105483
@@ -4457,8 +4167,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105484
 http://bocian.io:8880/NL753811/552284900/105484
 #EXTINF:-1 tvg-name="TVP 3 Wroclaw"tvg-id="TVP 3 Wrocław"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Wroclaw.png"group-title="TVP 3 WROCLAW",TVP 3 Wroclaw
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105484
-#EXTINF:-1 tvg-name="TVP 3 Wroclaw"tvg-id="TVP 3 Wrocław"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Wroclaw.png"group-title="TVP 3 WROCLAW",TVP 3 Wroclaw
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105484
 #EXTINF:-1 tvg-name="TVP 3 Wroclaw"tvg-id="TVP 3 Wrocław"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Wroclaw.png"group-title="TVP 3 WROCLAW",TVP 3 Wroclaw
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105484
 #EXTINF:-1 tvg-name="TVP 3 Wroclaw"tvg-id="TVP 3 Wrocław"tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Wroclaw.png"group-title="TVP 3 WROCLAW",TVP 3 Wroclaw
@@ -4486,8 +4194,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/151571
 #EXTINF:-1 tvg-name="PL | TVP 4K (OFF AIR)"tvg-id="TVP 4K"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TVP_4K.svg/320px-TVP_4K.svg.png"group-title="TVP 4K (OFF AIR)",PL | TVP 4K (OFF AIR)
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/151571
 #EXTINF:-1 tvg-name="PL | TVP 4K (OFF AIR)"tvg-id="TVP 4K"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TVP_4K.svg/320px-TVP_4K.svg.png"group-title="TVP 4K (OFF AIR)",PL | TVP 4K (OFF AIR)
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/151571
-#EXTINF:-1 tvg-name="PL | TVP 4K (OFF AIR)"tvg-id="TVP 4K"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TVP_4K.svg/320px-TVP_4K.svg.png"group-title="TVP 4K (OFF AIR)",PL | TVP 4K (OFF AIR)
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/151571
 #EXTINF:-1 tvg-name="PL | TVP 4K (OFF AIR)"tvg-id="TVP 4K"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TVP_4K.svg/320px-TVP_4K.svg.png"group-title="TVP 4K (OFF AIR)",PL | TVP 4K (OFF AIR)
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/151571
@@ -4505,8 +4211,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105496
 http://bocian.io:8880/NL753811/552284900/105496
 #EXTINF:-1 tvg-name="TVP ABC"tvg-id="TVP ABC"tvg-logo="http://logo.tvmedia.io/images/logo/tvpabc.png"group-title="TVP ABC",TVP ABC
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105496
-#EXTINF:-1 tvg-name="TVP ABC"tvg-id="TVP ABC"tvg-logo="http://logo.tvmedia.io/images/logo/tvpabc.png"group-title="TVP ABC",TVP ABC
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105496
 #EXTINF:-1 tvg-name="TVP ABC"tvg-id="TVP ABC"tvg-logo="http://logo.tvmedia.io/images/logo/tvpabc.png"group-title="TVP ABC",TVP ABC
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105496
 #EXTINF:-1 tvg-name="TVP ABC"tvg-id="TVP ABC"tvg-logo="http://logo.tvmedia.io/images/logo/tvpabc.png"group-title="TVP ABC",TVP ABC
@@ -4534,8 +4238,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/155038
 #EXTINF:-1 tvg-name="TVP ABC 2"tvg-id="TVP ABC 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TVP_ABC_2_-_Logo_od_15_lutego_2022_roku.png"group-title="TVP ABC 2",TVP ABC 2
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155038
 #EXTINF:-1 tvg-name="TVP ABC 2"tvg-id="TVP ABC 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TVP_ABC_2_-_Logo_od_15_lutego_2022_roku.png"group-title="TVP ABC 2",TVP ABC 2
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155038
-#EXTINF:-1 tvg-name="TVP ABC 2"tvg-id="TVP ABC 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TVP_ABC_2_-_Logo_od_15_lutego_2022_roku.png"group-title="TVP ABC 2",TVP ABC 2
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/155038
 #EXTINF:-1 tvg-name="TVP ABC 2"tvg-id="TVP ABC 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TVP_ABC_2_-_Logo_od_15_lutego_2022_roku.png"group-title="TVP ABC 2",TVP ABC 2
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/155038
@@ -4553,8 +4255,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/134087
 http://bocian.io:8880/NL753811/552284900/134087
 #EXTINF:-1 tvg-name="TVP Dokument HD"tvg-id="tvpdokument.pl"tvg-logo="http://logo.tvmedia.io/images/fc3ea3367270e2cf8691e88311b66078.png"group-title="TVP DOKUMENT",TVP Dokument HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/134087
-#EXTINF:-1 tvg-name="TVP Dokument HD"tvg-id="tvpdokument.pl"tvg-logo="http://logo.tvmedia.io/images/fc3ea3367270e2cf8691e88311b66078.png"group-title="TVP DOKUMENT",TVP Dokument HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/134087
 #EXTINF:-1 tvg-name="TVP Dokument HD"tvg-id="tvpdokument.pl"tvg-logo="http://logo.tvmedia.io/images/fc3ea3367270e2cf8691e88311b66078.png"group-title="TVP DOKUMENT",TVP Dokument HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/134087
 #EXTINF:-1 tvg-name="TVP Dokument HD"tvg-id="tvpdokument.pl"tvg-logo="http://logo.tvmedia.io/images/fc3ea3367270e2cf8691e88311b66078.png"group-title="TVP DOKUMENT",TVP Dokument HD
@@ -4587,8 +4287,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105453
 http://bocian.io:8880/NL753811/552284900/105453
 #EXTINF:-1 tvg-name="TVP Historia"tvg-id="TVP Historia"tvg-logo="http://logo.tvmedia.io/images/logo/tvphistoria.png"group-title="TVP HISTORIA",TVP Historia
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105453
-#EXTINF:-1 tvg-name="TVP Historia"tvg-id="TVP Historia"tvg-logo="http://logo.tvmedia.io/images/logo/tvphistoria.png"group-title="TVP HISTORIA",TVP Historia
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105453
 #EXTINF:-1 tvg-name="TVP Historia"tvg-id="TVP Historia"tvg-logo="http://logo.tvmedia.io/images/logo/tvphistoria.png"group-title="TVP HISTORIA",TVP Historia
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105453
 #EXTINF:-1 tvg-name="TVP Historia"tvg-id="TVP Historia"tvg-logo="http://logo.tvmedia.io/images/logo/tvphistoria.png"group-title="TVP HISTORIA",TVP Historia
@@ -4626,8 +4324,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/155037
 #EXTINF:-1 tvg-name="TVP Historia 2"tvg-id="TVP Historia 2"tvg-logo="http://logo.tvmedia.io/images/c4fdeabe7e79c676a426dfe7c310aa86.jpg"group-title="TVP HISTORIA 2",TVP Historia 2
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155037
 #EXTINF:-1 tvg-name="TVP Historia 2"tvg-id="TVP Historia 2"tvg-logo="http://logo.tvmedia.io/images/c4fdeabe7e79c676a426dfe7c310aa86.jpg"group-title="TVP HISTORIA 2",TVP Historia 2
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155037
-#EXTINF:-1 tvg-name="TVP Historia 2"tvg-id="TVP Historia 2"tvg-logo="http://logo.tvmedia.io/images/c4fdeabe7e79c676a426dfe7c310aa86.jpg"group-title="TVP HISTORIA 2",TVP Historia 2
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/155037
 #EXTINF:-1 tvg-name="TVP Historia 2"tvg-id="TVP Historia 2"tvg-logo="http://logo.tvmedia.io/images/c4fdeabe7e79c676a426dfe7c310aa86.jpg"group-title="TVP HISTORIA 2",TVP Historia 2
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/155037
@@ -4645,8 +4341,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105462
 http://bocian.io:8880/NL753811/552284900/105462
 #EXTINF:-1 tvg-name="TVP Info HD"tvg-id="TVP Info"tvg-logo="http://logo.tvmedia.io/images/a68da3b7c1a1694599c63812d3dd3df2.png"group-title="TVP INFO",TVP Info HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105462
-#EXTINF:-1 tvg-name="TVP Info HD"tvg-id="TVP Info"tvg-logo="http://logo.tvmedia.io/images/a68da3b7c1a1694599c63812d3dd3df2.png"group-title="TVP INFO",TVP Info HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105462
 #EXTINF:-1 tvg-name="TVP Info HD"tvg-id="TVP Info"tvg-logo="http://logo.tvmedia.io/images/a68da3b7c1a1694599c63812d3dd3df2.png"group-title="TVP INFO",TVP Info HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105462
 #EXTINF:-1 tvg-name="TVP Info HD"tvg-id="TVP Info"tvg-logo="http://logo.tvmedia.io/images/a68da3b7c1a1694599c63812d3dd3df2.png"group-title="TVP INFO",TVP Info HD
@@ -4686,8 +4380,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/155036
 #EXTINF:-1 tvg-name="TVP Kobieta HD"tvg-id="TVP Kobieta"tvg-logo="https://e-cho.pl/wp-content/uploads/2021/03/TVP-Kobieta-logo-300x147.png"group-title="TVP KOBIETA",TVP Kobieta HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155036
 #EXTINF:-1 tvg-name="TVP Kobieta HD"tvg-id="TVP Kobieta"tvg-logo="https://e-cho.pl/wp-content/uploads/2021/03/TVP-Kobieta-logo-300x147.png"group-title="TVP KOBIETA",TVP Kobieta HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155036
-#EXTINF:-1 tvg-name="TVP Kobieta HD"tvg-id="TVP Kobieta"tvg-logo="https://e-cho.pl/wp-content/uploads/2021/03/TVP-Kobieta-logo-300x147.png"group-title="TVP KOBIETA",TVP Kobieta HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/155036
 #EXTINF:-1 tvg-name="TVP Kobieta HD"tvg-id="TVP Kobieta"tvg-logo="https://e-cho.pl/wp-content/uploads/2021/03/TVP-Kobieta-logo-300x147.png"group-title="TVP KOBIETA",TVP Kobieta HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/155036
@@ -4715,8 +4407,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105451
 http://bocian.io:8880/NL753811/552284900/105451
 #EXTINF:-1 tvg-name="TVP Kultura HD"tvg-id="TVP Kultura"tvg-logo="http://logo.tvmedia.io/images/logo/tvpkultura.png"group-title="TVP KULTURA",TVP Kultura HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105451
-#EXTINF:-1 tvg-name="TVP Kultura HD"tvg-id="TVP Kultura"tvg-logo="http://logo.tvmedia.io/images/logo/tvpkultura.png"group-title="TVP KULTURA",TVP Kultura HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105451
 #EXTINF:-1 tvg-name="TVP Kultura HD"tvg-id="TVP Kultura"tvg-logo="http://logo.tvmedia.io/images/logo/tvpkultura.png"group-title="TVP KULTURA",TVP Kultura HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105451
 #EXTINF:-1 tvg-name="TVP Kultura HD"tvg-id="TVP Kultura"tvg-logo="http://logo.tvmedia.io/images/logo/tvpkultura.png"group-title="TVP KULTURA",TVP Kultura HD
@@ -4752,8 +4442,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/155039
 #EXTINF:-1 tvg-name="TVP Nauka"tvg-id="TVP Nauka"tvg-logo="http://logo.tvmedia.io/images/1ab90f6803db1250be7a5ca62e6ca2ff.png"group-title="TVP NAUKA",TVP Nauka
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155039
 #EXTINF:-1 tvg-name="TVP Nauka"tvg-id="TVP Nauka"tvg-logo="http://logo.tvmedia.io/images/1ab90f6803db1250be7a5ca62e6ca2ff.png"group-title="TVP NAUKA",TVP Nauka
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155039
-#EXTINF:-1 tvg-name="TVP Nauka"tvg-id="TVP Nauka"tvg-logo="http://logo.tvmedia.io/images/1ab90f6803db1250be7a5ca62e6ca2ff.png"group-title="TVP NAUKA",TVP Nauka
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/155039
 #EXTINF:-1 tvg-name="TVP Nauka"tvg-id="TVP Nauka"tvg-logo="http://logo.tvmedia.io/images/1ab90f6803db1250be7a5ca62e6ca2ff.png"group-title="TVP NAUKA",TVP Nauka
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/155039
@@ -4775,8 +4463,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105450
 http://bocian.io:8880/NL753811/552284900/105450
 #EXTINF:-1 tvg-name="TVP Polonia"tvg-id="TVP Polonia"tvg-logo="http://logo.tvmedia.io/images/72d433544420288f327043443b9cd8dc.png"group-title="TVP POLONIA",TVP Polonia
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105450
-#EXTINF:-1 tvg-name="TVP Polonia"tvg-id="TVP Polonia"tvg-logo="http://logo.tvmedia.io/images/72d433544420288f327043443b9cd8dc.png"group-title="TVP POLONIA",TVP Polonia
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105450
 #EXTINF:-1 tvg-name="TVP Polonia"tvg-id="TVP Polonia"tvg-logo="http://logo.tvmedia.io/images/72d433544420288f327043443b9cd8dc.png"group-title="TVP POLONIA",TVP Polonia
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105450
 #EXTINF:-1 tvg-name="TVP Polonia"tvg-id="TVP Polonia"tvg-logo="http://logo.tvmedia.io/images/72d433544420288f327043443b9cd8dc.png"group-title="TVP POLONIA",TVP Polonia
@@ -4816,8 +4502,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105452
 #EXTINF:-1 tvg-name="TVP Rozrywka HD"tvg-id="TVP Rozrywka"tvg-logo="http://logo.tvmedia.io/images/logo/tvprozrywka.png"group-title="TVP ROZRYWKA",TVP Rozrywka HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105452
 #EXTINF:-1 tvg-name="TVP Rozrywka HD"tvg-id="TVP Rozrywka"tvg-logo="http://logo.tvmedia.io/images/logo/tvprozrywka.png"group-title="TVP ROZRYWKA",TVP Rozrywka HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105452
-#EXTINF:-1 tvg-name="TVP Rozrywka HD"tvg-id="TVP Rozrywka"tvg-logo="http://logo.tvmedia.io/images/logo/tvprozrywka.png"group-title="TVP ROZRYWKA",TVP Rozrywka HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105452
 #EXTINF:-1 tvg-name="TVP Rozrywka HD"tvg-id="TVP Rozrywka"tvg-logo="http://logo.tvmedia.io/images/logo/tvprozrywka.png"group-title="TVP ROZRYWKA",TVP Rozrywka HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/105452
@@ -4845,8 +4529,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105398
 http://bocian.io:8880/NL753811/552284900/105398
 #EXTINF:-1 tvg-name="TVP Seriale HD"tvg-id="tvpseriale.pl"tvg-logo="http://logo.tvmedia.io/images/4c1993ef3762fba502ff20578d5c7651.png"group-title="TVP SERIALE",TVP Seriale HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105398
-#EXTINF:-1 tvg-name="TVP Seriale HD"tvg-id="tvpseriale.pl"tvg-logo="http://logo.tvmedia.io/images/4c1993ef3762fba502ff20578d5c7651.png"group-title="TVP SERIALE",TVP Seriale HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105398
 #EXTINF:-1 tvg-name="TVP Seriale HD"tvg-id="tvpseriale.pl"tvg-logo="http://logo.tvmedia.io/images/4c1993ef3762fba502ff20578d5c7651.png"group-title="TVP SERIALE",TVP Seriale HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105398
 #EXTINF:-1 tvg-name="TVP Seriale HD"tvg-id="tvpseriale.pl"tvg-logo="http://logo.tvmedia.io/images/4c1993ef3762fba502ff20578d5c7651.png"group-title="TVP SERIALE",TVP Seriale HD
@@ -4879,8 +4561,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105548
 http://bocian.io:8880/NL753811/552284900/105548
 #EXTINF:-1 tvg-name="TVP Sport HD"tvg-id="TVP Sport"tvg-logo="http://logo.tvmedia.io/images/fcf96423f74a741a0fa5f80e4f021f52.png"group-title="TVP SPORT",TVP Sport HD
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105548
-#EXTINF:-1 tvg-name="TVP Sport HD"tvg-id="TVP Sport"tvg-logo="http://logo.tvmedia.io/images/fcf96423f74a741a0fa5f80e4f021f52.png"group-title="TVP SPORT",TVP Sport HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105548
 #EXTINF:-1 tvg-name="TVP Sport HD"tvg-id="TVP Sport"tvg-logo="http://logo.tvmedia.io/images/fcf96423f74a741a0fa5f80e4f021f52.png"group-title="TVP SPORT",TVP Sport HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105548
 #EXTINF:-1 tvg-name="TVP Sport HD"tvg-id="TVP Sport"tvg-logo="http://logo.tvmedia.io/images/fcf96423f74a741a0fa5f80e4f021f52.png"group-title="TVP SPORT",TVP Sport HD
@@ -4919,8 +4599,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105444
 http://bocian.io:8880/NL753811/552284900/105444
 #EXTINF:-1 tvg-name="TVS"tvg-id="tvs.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvs.png"group-title="TVS",TVS
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105444
-#EXTINF:-1 tvg-name="TVS"tvg-id="tvs.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvs.png"group-title="TVS",TVS
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105444
 #EXTINF:-1 tvg-name="TVS"tvg-id="tvs.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvs.png"group-title="TVS",TVS
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105444
 #EXTINF:-1 tvg-name="TVS"tvg-id="tvs.pl"tvg-logo="http://logo.tvmedia.io/images/logo/tvs.png"group-title="TVS",TVS
@@ -4965,8 +4643,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105397
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/155028
 #EXTINF:-1 tvg-name="Warner TV"tvg-id="Warner TV"tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_WarnerTV_422x278.png"group-title="WARNER TV",Warner TV
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155028
-#EXTINF:-1 tvg-name="Warner TV"tvg-id="Warner TV"tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_WarnerTV_422x278.png"group-title="WARNER TV",Warner TV
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/155028
 #EXTINF:-1 tvg-name="Warner TV HD"tvg-id="warnertv.pl"tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_WarnerTV_422x278.png"group-title="WARNER TV",Warner TV HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/105397
 #EXTINF:-1 tvg-name="Warner TV"tvg-id="Warner TV"tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_WarnerTV_422x278.png"group-title="WARNER TV",Warner TV
@@ -5002,8 +4678,6 @@ http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/151853
 #EXTINF:-1 tvg-name="Wydarzenia 24 HD"tvg-id="Wydarzenia 24"tvg-logo="http://logo.tvmedia.io/images/f9e7859024d3f269a3295e461ee99b81.png"group-title="WYDARZENIA 24",Wydarzenia 24 HD
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/151853
 #EXTINF:-1 tvg-name="Wydarzenia 24 HD"tvg-id="Wydarzenia 24"tvg-logo="http://logo.tvmedia.io/images/f9e7859024d3f269a3295e461ee99b81.png"group-title="WYDARZENIA 24",Wydarzenia 24 HD
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/151853
-#EXTINF:-1 tvg-name="Wydarzenia 24 HD"tvg-id="Wydarzenia 24"tvg-logo="http://logo.tvmedia.io/images/f9e7859024d3f269a3295e461ee99b81.png"group-title="WYDARZENIA 24",Wydarzenia 24 HD
 http://bocian.io:8880/sb9997/MTg5NzY0MjA5/151853
 #EXTINF:-1 tvg-name="Wydarzenia 24 HD"tvg-id="Wydarzenia 24"tvg-logo="http://logo.tvmedia.io/images/f9e7859024d3f269a3295e461ee99b81.png"group-title="WYDARZENIA 24",Wydarzenia 24 HD
 http://bocian.io:8880/sebastianroman/NzA2NTQzMzIx/151853
@@ -5035,8 +4709,6 @@ http://bocian.io:8880/manfred011/NjM4MDA4Njcz/105458
 http://bocian.io:8880/NL753811/552284900/105458
 #EXTINF:-1 tvg-name="Zoom TV"tvg-id="ZOOM TV"tvg-logo="http://logo.tvmedia.io/images/logo/zoomtv.png"group-title="ZOOM TV",Zoom TV
 http://bocian.io:8880/pgm0505/Mjg5NzQzOTAw/105458
-#EXTINF:-1 tvg-name="Zoom TV"tvg-id="ZOOM TV"tvg-logo="http://logo.tvmedia.io/images/logo/zoomtv.png"group-title="ZOOM TV",Zoom TV
-http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105458
 #EXTINF:-1 tvg-name="Zoom TV"tvg-id="ZOOM TV"tvg-logo="http://logo.tvmedia.io/images/logo/zoomtv.png"group-title="ZOOM TV",Zoom TV
 http://bocian.io:8880/pietro86/OTk1NTYzNzMy/105458
 #EXTINF:-1 tvg-name="Zoom TV"tvg-id="ZOOM TV"tvg-logo="http://logo.tvmedia.io/images/logo/zoomtv.png"group-title="ZOOM TV",Zoom TV
